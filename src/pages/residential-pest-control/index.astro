@@ -6,11 +6,16 @@ import Cta from '@/components/Cta.astro';
 import Reviews from '@/components/Reviews.astro';
 import { business } from '@/data/business';
 import { getService } from '@/data/services';
-import { flagshipPests } from '@/data/pests';
+import { residentialServices, residentialGroupsOrder } from '@/data/residential-services';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const s = getService('residential-pest-control')!;
 const url = `${business.url}/${s.slug}/`;
+
+const byGroup: Record<string, typeof residentialServices> = {};
+for (const rs of residentialServices) (byGroup[rs.group] ??= []).push(rs);
+const groups = residentialGroupsOrder.filter((g) => byGroup[g]);
+
 const faqs = [
   { q: 'How much does residential pest control cost in Wisconsin?', a: 'Cost depends on the pest, the size of the home, and whether exclusion work is needed. BugBoss gives a clear quote up front with no obligation and no long-term contract, so you know the price before any work begins.' },
   { q: 'Do you offer one-time treatments or only ongoing plans?', a: 'Both. Some problems are solved in a single visit; others — like fall invaders or seasonal rodents — are best handled with a recurring seasonal program. There is no contract requirement either way.' },
@@ -43,15 +48,32 @@ const pageNodes = [
 
       <h2>What’s included</h2>
       <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
-
-      <h2>Common home pests we handle</h2>
-      <div class="town-tags" style="display:flex;flex-wrap:wrap;gap:.3rem;">
-        {flagshipPests.map((p) => <a href={`/pest-library/${p.slug}/`} class="tag">{p.name}</a>)}
-      </div>
-      <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>
     </div>
   </section>
+
+  <section class="soft">
+    <div class="wrap">
+      <p class="eyebrow">Find your service</p>
+      <h2 class="mt0">Home pest services</h2>
+      <p class="lead" style="max-width:60ch">Every home problem has a focused service behind it — from a recurring general plan to rodent exclusion, bed bugs, stinging insects, and the fall invaders that rural Wisconsin homes fight every year. Pick the one that fits, or call and we’ll point you to it.</p>
+      {groups.map((g) => (
+        <>
+          <h3>{g}</h3>
+          <div class="grid cols-3">
+            {byGroup[g].map((rs) => (
+              <a class="card" href={`/residential-pest-control/${rs.slug}/`}>
+                <h3 style="font-size:1.05rem;margin:0 0 .3rem">{rs.name}</h3>
+                <p style="font-size:.9rem;color:var(--muted);margin:0">{rs.answer.slice(0, 120)}…</p>
+              </a>
+            ))}
+          </div>
+        </>
+      ))}
+      <p style="margin-top:1.4rem"><a href="/pest-library/" class="btn btn-ghost">Prefer to browse by pest? See the full Pest Library →</a></p>
+    </div>
+  </section>
+
   <Reviews limit={3} />
-  <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <section><div class="wrap narrow"><Faq items={faqs} /></div></section>
   <Cta title="Home pest problem? Let’s solve it." />
 </BaseLayout>

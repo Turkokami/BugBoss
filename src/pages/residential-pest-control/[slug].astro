@@ -1,0 +1,80 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import Reviews from '@/components/Reviews.astro';
+import { business } from '@/data/business';
+import { residentialServices, getResidentialService } from '@/data/residential-services';
+import { getPest } from '@/data/pests';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export function getStaticPaths() {
+  return residentialServices.map((s) => ({ params: { slug: s.slug } }));
+}
+
+const { slug } = Astro.params;
+const s = getResidentialService(slug!)!;
+const url = `${business.url}/residential-pest-control/${s.slug}/`;
+const hubUrl = `${business.url}/residential-pest-control/`;
+
+const pests = s.pests.map((ps) => getPest(ps)).filter(Boolean);
+
+const pageNodes = [
+  {
+    '@type': 'Service',
+    '@id': `${url}#service`,
+    name: s.name,
+    serviceType: `Residential ${s.name}`,
+    description: s.answer,
+    provider: { '@id': `${business.url}/#localbusiness` },
+    isRelatedTo: { '@id': `${business.url}/residential-pest-control/#service` },
+    url,
+  },
+  webPageNode({ url, name: s.name, description: s.answer, primaryEntityId: `${url}#service` }),
+  faqPageNode(url, s.faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Residential Pest Control', url: hubUrl },
+    { name: s.short, url },
+  ]),
+];
+---
+<BaseLayout title={`${s.name} in Northeast Wisconsin`} description={s.answer} path={`/residential-pest-control/${s.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href="/residential-pest-control/">Residential Pest Control</a> · {s.short}</p>
+      <h1>{s.name} in Northeast Wisconsin</h1>
+      <AnswerBox text={s.answer} />
+      <p class="lead">{s.summary}</p>
+
+      <h2>What’s included</h2>
+      <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
+
+      {pests.length > 0 && (
+        <>
+          <h2>Pests we handle under this service</h2>
+          <div class="town-tags" style="display:flex;flex-wrap:wrap;gap:.3rem;">
+            {pests.map((p) => <a href={`/pest-library/${p!.slug}/`} class="tag">{p!.name}</a>)}
+          </div>
+          <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>
+        </>
+      )}
+
+      <div class="callout">
+        <p class="mt0"><strong>Need {s.short.toLowerCase()} at your home?</strong> BugBoss handles this across rural Northeast Wisconsin — locally, with no long-term contract.</p>
+        <div class="cta-row">
+          <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
+          <a href="/residential-pest-control/" class="btn btn-ghost">All residential services →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <Reviews limit={3} />
+  <section class="soft"><div class="wrap narrow"><Faq items={s.faqs} heading={`${s.name}: Frequently Asked Questions`} /></div></section>
+  <Cta title="Home pest problem? Let’s solve it." />
+  <style>
+    .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
+    .eyebrow a { color: var(--green-600); text-decoration: none; }
+  </style>
+</BaseLayout>
