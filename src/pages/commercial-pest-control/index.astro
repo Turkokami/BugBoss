@@ -1,0 +1,78 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { getService } from '@/data/services';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const s = getService('commercial-pest-control')!;
+const url = `${business.url}/commercial-pest-control/`;
+
+const items = (await getCollection('commercial')).sort((a, b) => a.data.order - b.data.order);
+const groupsOrder = ['Food & Beverage', 'Manufacturing & Industrial', 'Retail & Hospitality', 'Institutional & Healthcare', 'Agricultural', 'Specialty'];
+const byCat: Record<string, typeof items> = {};
+for (const c of items) (byCat[c.data.category] ??= []).push(c);
+const cats = groupsOrder.filter((g) => byCat[g]);
+
+const faqs = [
+  { q: 'What industries does BugBoss provide commercial pest control for?', a: 'BugBoss serves restaurants and food service, food processing, manufacturing, warehousing and distribution, grocery, retail, hotels and lodging, schools, healthcare and senior living, multi-family housing, offices, agricultural operations, grain and feed facilities, dairy and cheese processing, veterinary clinics, and museums across Central and Northeast Wisconsin.' },
+  { q: 'Is BugBoss service inspection- and audit-ready?', a: 'Yes. Every commercial program includes documented service records, a pest sighting/trend log, device maps, and corrective-action notes — the documentation health inspectors and third-party auditors (SQF, BRC, AIB, and similar) expect to see, kept on-site and ready.' },
+  { q: 'Does BugBoss follow Integrated Pest Management (IPM)?', a: 'Yes. Commercial programs are built on IPM — inspection, monitoring, sanitation and exclusion first, with targeted treatment as needed — which is both more effective and required or preferred in schools, healthcare, and food facilities.' },
+  { q: 'Do you require a long-term contract for commercial service?', a: 'No. BugBoss builds a program that fits your facility and compliance needs without rigid long-term lock-in, and you work directly with the owner, Brian Zahringer, a certified Wisconsin Commercial Pesticide Applicator — not a rotating cast of route techs.' },
+  { q: 'Can you schedule service around our operating hours?', a: 'Yes. BugBoss schedules discreet visits around production runs, service hours, and shifts so pest management does not disrupt your operation, staff, or customers.' },
+];
+const pageNodes = [
+  webPageNode({ url, name: 'Commercial Pest Control by Industry', description: s.answer, primaryEntityId: `${business.url}/commercial-pest-control/#service` }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Commercial', url }]),
+];
+---
+<BaseLayout title="Commercial Pest Control by Industry — Northeast & Central Wisconsin" description={s.answer} path="/commercial-pest-control/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Commercial</p>
+      <h1>Commercial Pest Control, Built Industry by Industry</h1>
+      <AnswerBox text={s.answer} />
+      <figure class="band-photo">
+        <img src="/images/brian-commercial.jpg" width="1200" height="1600" loading="lazy" decoding="async"
+          alt="BugBoss treating the interior of a Northeast Wisconsin commercial building along the baseboards" />
+      </figure>
+      <p class="lead">{s.summary}</p>
+      <p>A restaurant, a food plant, a dairy, a machine shop, a school, and a nursing home do not have the same pests, the same regulators, or the same tolerance for a problem — so they should not get the same pest program. BugBoss builds each program around the facility and the rules it answers to, with the documentation an inspector or third-party auditor expects and discreet scheduling that works around your operation. You deal directly with the owner, <a href="/about/">Brian Zahringer</a>, a certified Wisconsin Commercial Pesticide Applicator (Cert #{business.owner.licenseNumber}).</p>
+
+      <h2>Compliance is the whole point out here</h2>
+      <p>Food safety and facility audits do not care that you are in a small Wisconsin town. FDA FSMA and the Wisconsin Food Code, USDA and DATCP oversight, HACCP plans, third-party schemes like <strong>SQF, BRC, and AIB</strong>, GMPs, OSHA, DPI and health-department inspections, and Joint Commission and CMS standards in healthcare all apply the same whether you are in the Fox Valley or a village at the end of a county road. What rural facilities usually lack is a local pest partner who can service them fast <em>and</em> deliver audit-ready documentation. That gap is exactly what BugBoss fills.</p>
+    </div>
+  </section>
+
+  <section class="soft">
+    <div class="wrap">
+      <p class="eyebrow">Find your industry</p>
+      <h2 class="mt0">Industry programs</h2>
+      {cats.map((cat) => (
+        <>
+          <h3>{cat}</h3>
+          <div class="grid cols-3">
+            {byCat[cat].map((c) => (
+              <a class="card" href={`/commercial-pest-control/${c.slug}/`}>
+                <h3 style="font-size:1.05rem;margin:0 0 .3rem">{c.data.industry}</h3>
+                <p style="font-size:.9rem;color:var(--muted);margin:0">{c.data.answer.slice(0, 110)}…</p>
+              </a>
+            ))}
+          </div>
+        </>
+      ))}
+      {items.length === 0 && <p>Industry pages are being published.</p>}
+    </div>
+  </section>
+
+  <section><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta title="Need a commercial program that passes audit?" sub="Documented, discreet, and built around your industry's rules. Talk directly to the owner." />
+  <style>
+    .band-photo { margin: 1.4rem auto; max-width: 420px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
+    .band-photo img { width: 100%; height: auto; display: block; }
+  </style>
+</BaseLayout>

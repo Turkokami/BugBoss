@@ -1,0 +1,49 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+const { Content } = await render(p);
+const url = `${business.url}/blog/${p.slug}/`;
+const pageNodes = [
+  {
+    '@type': 'BlogPosting',
+    '@id': `${url}#post`,
+    headline: p.data.title,
+    description: p.data.description,
+    datePublished: p.data.pubDate,
+    author: { '@id': `${business.url}/#brian` },
+    publisher: { '@id': `${business.url}/#organization` },
+    mainEntityOfPage: url,
+  },
+  webPageNode({ url, name: p.data.title, description: p.data.description }),
+  ...(p.data.faqs.length ? [faqPageNode(url, p.data.faqs)] : []),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Blog', url: business.url + '/blog/' },
+    { name: p.data.title, url },
+  ]),
+];
+---
+<BaseLayout title={p.data.title} description={p.data.description} path={`/blog/${p.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href="/blog/">Blog</a>{p.data.window ? ` · ${p.data.window}` : ''}</p>
+      <h1>{p.data.title}</h1>
+      <p class="lead">{p.data.description}</p>
+      <hr class="divider" />
+      <article class="prose"><Content /></article>
+    </div>
+  </section>
+  {p.data.faqs.length > 0 && <section class="soft"><div class="wrap narrow"><Faq items={p.data.faqs} /></div></section>}
+  <Cta />
+  <style>.eyebrow a{color:var(--green-600);text-decoration:none}</style>
+</BaseLayout>

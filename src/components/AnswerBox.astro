@@ -1,0 +1,9 @@
+---
+// AEO quick-answer box: a 40-60 word direct answer immediately under the H1.
+// This is the single biggest AI-answer-engine surface (audit H3 / category 5).
+interface Props { text: string; }
+const { text } = Astro.props;
+---
+<div class="answer-box" role="note">
+  <p class="mt0" style="margin-bottom:0">{text}</p>
+</div>

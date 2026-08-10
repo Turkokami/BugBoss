@@ -1,0 +1,50 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { pests, pestsByCategory } from '@/data/pests';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/pest-library/';
+const desc = 'The BugBoss Pest Library — straight answers on the pests and wildlife of Northeast Wisconsin: what they are, why they’re here, and how to deal with them.';
+const groups: { key: 'insect' | 'rodent' | 'wildlife'; label: string }[] = [
+  { key: 'insect', label: 'Insects & Bugs' },
+  { key: 'rodent', label: 'Rodents' },
+  { key: 'wildlife', label: 'Wildlife' },
+];
+const pageNodes = [
+  webPageNode({ url, name: 'Pest Library', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Pest Library', url }]),
+];
+---
+<BaseLayout title="Pest Library" description={desc} path="/pest-library/" pageNodes={pageNodes}>
+  <figure class="pl-banner">
+    <img src="/images/brand-banner.jpg" width="1500" height="938" fetchpriority="high" decoding="async"
+      alt="BugBoss The X-Terminator — The BugBoss is here, he's here for you! BugBossWI.com · 866-BUGBOSS" />
+  </figure>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Pest Library</p>
+      <h1>Know Your Pest</h1>
+      <p class="lead">{pests.length} pests and wildlife of Northeast Wisconsin — with a straight answer at the top of every page and detailed FAQs below. This is the most complete local pest reference in the rural corridor, and it’s growing.</p>
+      {groups.map((g) => (
+        <>
+          <h2>{g.label}</h2>
+          <div class="grid cols-3">
+            {pestsByCategory(g.key).map((p) => (
+              <a class="card" href={`/pest-library/${p.slug}/`}>
+                <h3 style="font-size:1.1rem;margin-top:0">{p.name}</h3>
+                <p style="font-size:.9rem;color:var(--muted);margin:0">Active: {p.season}</p>
+              </a>
+            ))}
+          </div>
+        </>
+      ))}
+    </div>
+  </section>
+  <Cta title="Not sure what you’re dealing with?" sub="Send Brian a photo and a description — he’ll tell you what it is and what it takes." />
+  <style>
+    .pl-banner { margin: 0; background: #0d0d0d; text-align: center; }
+    .pl-banner img { width: 100%; max-width: 1100px; height: auto; display: inline-block; }
+  </style>
+</BaseLayout>

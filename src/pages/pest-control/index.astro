@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/pest-control/';
+const items = (await getCollection('neighborhoods')).sort((a, b) => a.data.order - b.data.order);
+const byCity: Record<string, typeof items> = {};
+for (const n of items) (byCity[n.data.city] ??= []).push(n);
+const desc = 'Neighborhood-level pest control and wildlife removal for the Fox Valley and Green Bay edge — BugBoss serves the metro-area neighborhoods closest to our rural Northeast Wisconsin base.';
+const pageNodes = [
+  webPageNode({ url, name: 'Neighborhood Pest Control', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Neighborhoods', url }]),
+];
+---
+<BaseLayout title="Neighborhood Pest Control — Fox Valley & Green Bay" description={desc} path="/pest-control/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Metro edge</p>
+      <h1>Neighborhood Pest Control — Fox Valley &amp; Green Bay</h1>
+      <p class="lead">BugBoss serves the neighborhoods on the metro edge for specific pest and wildlife problems — the hyperlocal, problem-first jobs the volume companies overlook.</p>
+      {items.length === 0 ? <p>Neighborhood pages are being published.</p> : Object.entries(byCity).map(([city, list]) => (
+        <>
+          <h2>{city}</h2>
+          <div class="grid cols-3">
+            {list.map((n) => (
+              <a class="card" href={`/pest-control/${n.slug}/`}>
+                <h3 style="font-size:1.05rem;margin-top:0">{n.data.title}</h3>
+              </a>
+            ))}
+          </div>
+        </>
+      ))}
+    </div>
+  </section>
+  <Cta />
+</BaseLayout>

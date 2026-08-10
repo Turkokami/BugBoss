@@ -1,0 +1,39 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export async function getStaticPaths() {
+  const items = await getCollection('problems');
+  return items.map((p) => ({ params: { slug: p.slug }, props: { p } }));
+}
+const { p } = Astro.props;
+const { Content } = await render(p);
+const url = `${business.url}/pest-problems/${p.slug}/`;
+const pageNodes = [
+  webPageNode({ url, name: p.data.title, description: p.data.answer }),
+  faqPageNode(url, p.data.faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Common Problems', url: business.url + '/pest-problems/' },
+    { name: p.data.title, url },
+  ]),
+];
+---
+<BaseLayout title={p.data.title} description={p.data.answer} path={`/pest-problems/${p.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href="/pest-problems/">Common Problems</a> · {p.data.category}</p>
+      <h1>{p.data.title}</h1>
+      <AnswerBox text={p.data.answer} />
+      <article class="prose"><Content /></article>
+    </div>
+  </section>
+  {p.data.faqs.length > 0 && <section class="soft"><div class="wrap narrow"><Faq items={p.data.faqs} /></div></section>}
+  <Cta />
+  <style>.eyebrow a{color:var(--green-600);text-decoration:none}</style>
+</BaseLayout>

@@ -1,0 +1,173 @@
+/* ==========================================================================
+   BugBoss The X-Terminator — Design System
+   Mobile-first, system fonts (rural mobile connections — audit M4/M5).
+   Brand green + high-contrast "X-Terminator" action orange for CTAs.
+   ========================================================================== */
+
+:root {
+  /* Brand — BugBoss: NEON GREEN + BLACK + WHITE */
+  --neon: #55d400;        /* neon lime — brand accent + primary CTA */
+  --neon-bright: #79f21a; /* brighter neon for glows on black */
+  --neon-dark: #43a800;   /* neon hover */
+
+  --green-900: #0a2e10;
+  --green-800: #0f5c1c;   /* deep green — readable accents on white */
+  --green-700: #147a24;   /* brand green — links, secondary buttons */
+  --green-600: #178a29;   /* accent / eyebrow */
+  --green-500: #33c24a;   /* borders / hover */
+  --green-050: #edfbe6;   /* light neon-tinted wash */
+
+  --action: #55d400;      /* neon green — primary CTAs */
+  --action-dark: #43a800;
+
+  --ink: #0f140e;         /* near-black text */
+  --body: #2c352b;
+  --muted: #667065;
+  --line: #e0e6dd;
+  --bg: #ffffff;
+  --bg-soft: #f4f8f2;
+  --bg-dark: #0d0d0d;     /* BLACK dark sections */
+
+  --gold: #f2b705;        /* review stars */
+
+  --maxw: 1180px;
+  --radius: 14px;
+  --radius-lg: 22px;
+  --shadow: 0 2px 6px rgba(13, 13, 13, .06), 0 10px 30px rgba(13, 13, 13, .08);
+  --shadow-lg: 0 18px 50px rgba(13, 13, 13, .18);
+  --shadow-glow: 0 0 0 1.5px rgba(85, 212, 0, .55), 0 10px 34px rgba(85, 212, 0, .28);
+  --grad-neon: linear-gradient(120deg, #55d400 0%, #7bf01c 100%);
+  --grad-dark: linear-gradient(160deg, #14140f 0%, #0d0d0d 55%, #0c1f0a 100%);
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  color: var(--body);
+  background: var(--bg);
+  line-height: 1.62;
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 { color: var(--ink); line-height: 1.1; margin: 0 0 .5em; font-weight: 900; letter-spacing: -.025em; }
+h1 { font-size: clamp(2.2rem, 5.4vw, 3.6rem); }
+h2 { font-size: clamp(1.65rem, 3.6vw, 2.4rem); margin-top: 1.6em; }
+h3 { font-size: 1.25rem; margin-top: 1.4em; font-weight: 800; }
+/* Energetic H2 accent — a neon tick before section headers in prose/dark */
+.dark h1, .dark h2 { color: #fff; }
+.dark h2 .accent, h2 .accent { color: var(--green-700); }
+p { margin: 0 0 1.1em; }
+a { color: var(--green-700); text-decoration-thickness: 1.5px; text-underline-offset: 2px; }
+a:hover { color: var(--green-600); }
+img { max-width: 100%; height: auto; display: block; }
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 20px; }
+.narrow { max-width: 760px; }
+
+section { padding: clamp(2.75rem, 6vw, 5rem) 0; }
+.soft { background: var(--bg-soft); }
+.dark { background: var(--grad-dark); color: #d9ecdd; position: relative; }
+.dark h1, .dark h2, .dark h3 { color: #fff; }
+.dark a:not(.btn) { color: var(--neon-bright); }
+/* Neon accent hairline to break up stacked sections */
+.dark::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 4px; background: var(--grad-neon); }
+
+/* Buttons ---------------------------------------------------------------- */
+.btn {
+  display: inline-flex; align-items: center; gap: .5rem;
+  font-weight: 800; font-size: 1.02rem; letter-spacing: -.01em;
+  padding: .9rem 1.5rem; border-radius: 999px;
+  text-decoration: none; border: 2px solid transparent; cursor: pointer;
+  transition: transform .12s cubic-bezier(.2,.9,.3,1.2), background .15s ease, box-shadow .15s ease, color .15s ease;
+}
+.btn:hover { transform: translateY(-2px); }
+.btn:active { transform: translateY(0); }
+.btn-action { background: var(--grad-neon); color: #0b1f00; box-shadow: 0 8px 22px rgba(85, 212, 0, .42); }
+.btn-action:hover { box-shadow: 0 12px 30px rgba(85, 212, 0, .6); color: #0b1f00; }
+.btn-green { background: #111; color: var(--neon-bright); border-color: #111; }
+.btn-green:hover { background: #000; color: var(--neon-bright); box-shadow: 0 10px 26px rgba(0,0,0,.28); }
+.btn-ghost { background: transparent; color: var(--green-800); border-color: var(--green-500); }
+.btn-ghost:hover { background: var(--green-050); border-color: var(--green-700); }
+.btn-white { background: #fff; color: #0d0d0d; }
+.btn-white:hover { box-shadow: var(--shadow-lg); }
+
+/* Pills / eyebrow -------------------------------------------------------- */
+.eyebrow { display: inline-block; text-transform: uppercase; letter-spacing: .12em; font-size: .74rem; font-weight: 900; color: #0b1f00; background: var(--grad-neon); padding: .32rem .7rem; border-radius: 999px; margin: 0 0 .9rem; box-shadow: 0 4px 14px rgba(85,212,0,.3); }
+.eyebrow.center { display: block; width: fit-content; margin-left: auto; margin-right: auto; }
+.dark .eyebrow { color: #0b1f00; }
+
+/* Cards ------------------------------------------------------------------ */
+.grid { display: grid; gap: 1.1rem; }
+@media (min-width: 640px) { .grid.cols-2 { grid-template-columns: 1fr 1fr; } .grid.cols-3 { grid-template-columns: repeat(3, 1fr); } }
+@media (min-width: 900px) { .grid.cols-4 { grid-template-columns: repeat(4, 1fr); } }
+
+.card {
+  position: relative; background: var(--bg); border: 1.5px solid var(--line); border-radius: var(--radius-lg);
+  padding: 1.5rem 1.4rem; box-shadow: var(--shadow); text-decoration: none; color: inherit; display: block;
+  transition: transform .14s ease, border-color .14s ease, box-shadow .14s ease;
+  overflow: hidden;
+}
+a.card::before { content: ""; position: absolute; left: 0; top: 0; height: 4px; width: 100%; background: var(--grad-neon); transform: scaleX(0); transform-origin: left; transition: transform .18s ease; }
+a.card:hover { border-color: var(--green-500); transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+a.card:hover::before { transform: scaleX(1); }
+.card h3 { margin-top: 0; }
+
+/* Answer box (AEO) ------------------------------------------------------- */
+.answer-box {
+  position: relative; background: var(--green-050); border: 1.5px solid #cdeeb8; border-left: 6px solid var(--neon);
+  border-radius: 0 var(--radius) var(--radius) 0; padding: 1.25rem 1.5rem; margin: 0 0 1.8rem;
+  font-size: 1.1rem; line-height: 1.6; box-shadow: 0 6px 20px rgba(85,212,0,.1);
+}
+.answer-box::before { content: "QUICK ANSWER"; position: absolute; top: -.7rem; left: 1.2rem; background: var(--grad-neon); color: #0b1f00; font-size: .62rem; font-weight: 900; letter-spacing: .12em; padding: .2rem .55rem; border-radius: 999px; }
+.answer-box strong { color: var(--green-800); }
+
+/* Lists ------------------------------------------------------------------ */
+ul.check { list-style: none; padding: 0; margin: 1rem 0; }
+ul.check li { position: relative; padding-left: 1.9rem; margin: .55rem 0; }
+ul.check li::before { content: "✓"; position: absolute; left: 0; top: 0; color: var(--green-600); font-weight: 900; }
+
+/* FAQ -------------------------------------------------------------------- */
+.faq details { border-bottom: 1px solid var(--line); padding: .3rem 0; }
+.faq summary { cursor: pointer; font-weight: 700; color: var(--ink); padding: .9rem 0; list-style: none; font-size: 1.06rem; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; float: right; color: var(--green-600); font-weight: 800; }
+.faq details[open] summary::after { content: "–"; }
+.faq details p { color: var(--body); padding-bottom: .4rem; }
+
+/* Stars ------------------------------------------------------------------ */
+.stars { color: var(--gold); letter-spacing: 1px; }
+
+/* Utility ---------------------------------------------------------------- */
+.lead { font-size: 1.18rem; color: var(--body); }
+.center { text-align: center; }
+.mt0 { margin-top: 0; }
+.cta-row { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 1.4rem; }
+.tag { display: inline-block; background: var(--green-050); color: var(--green-800); font-weight: 700; font-size: .82rem; padding: .3rem .75rem; border-radius: 999px; margin: 0 .3rem .3rem 0; border: 1.5px solid #d4eec4; transition: background .12s ease, color .12s ease, border-color .12s ease; }
+a.tag:hover { background: var(--grad-neon); color: #0b1f00; border-color: transparent; }
+.divider { height: 1px; background: var(--line); border: 0; margin: 2.5rem 0; }
+
+/* Long-form prose (markdown content collection bodies) --------------------- */
+.prose { font-size: 1.06rem; }
+.prose > h2 { margin-top: 2.2em; padding-top: .3em; }
+.prose > h2:first-child { margin-top: 0; }
+.prose > h3 { margin-top: 1.7em; }
+.prose p { margin: 0 0 1.15em; }
+.prose ul, .prose ol { margin: 0 0 1.3em; padding-left: 0; list-style: none; }
+.prose ul li { position: relative; padding-left: 1.7rem; margin: .5rem 0; }
+.prose ul li::before { content: "▸"; position: absolute; left: 0; color: var(--green-600); font-weight: 700; }
+.prose ol { counter-reset: step; }
+.prose ol li { position: relative; padding-left: 2rem; margin: .5rem 0; counter-increment: step; }
+.prose ol li::before { content: counter(step); position: absolute; left: 0; top: .05em; width: 1.35rem; height: 1.35rem; background: var(--green-050); color: var(--green-800); border-radius: 50%; display: grid; place-items: center; font-size: .8rem; font-weight: 800; }
+.prose blockquote { margin: 1.5em 0; padding: .3em 0 .3em 1.2em; border-left: 4px solid var(--green-500); color: var(--body); font-style: italic; }
+.prose a { font-weight: 600; }
+.prose strong { color: var(--ink); }
+.prose table { width: 100%; border-collapse: collapse; margin: 1.5em 0; font-size: .97rem; }
+.prose th, .prose td { text-align: left; padding: .6rem .7rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+.prose th { background: var(--green-050); color: var(--green-800); font-weight: 700; }
+.prose hr { border: 0; height: 1px; background: var(--line); margin: 2.4em 0; }

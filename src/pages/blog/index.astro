@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/blog/';
+const desc = 'BugBoss blog — seasonal pest and wildlife guidance for Northeast Wisconsin, on a Wisconsin seasonal-trigger calendar.';
+const posts = (await getCollection('blog')).sort((a, b) => (a.data.pubDate < b.data.pubDate ? 1 : -1));
+const pageNodes = [
+  webPageNode({ url, name: 'Blog', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Blog', url }]),
+];
+---
+<BaseLayout title="Blog" description={desc} path="/blog/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Field notes</p>
+      <h1>BugBoss Blog</h1>
+      <p class="lead">Seasonal, Wisconsin-specific pest and wildlife guidance — timed to the pest calendar of Northeast Wisconsin.</p>
+      {posts.length === 0 ? (
+        <p>New posts are being published on the Wisconsin seasonal-trigger calendar. Check back soon.</p>
+      ) : (
+        <div class="grid cols-2" style="margin-top:1.5rem">
+          {posts.map((p) => (
+            <a class="card" href={`/blog/${p.slug}/`}>
+              {p.data.window && <span class="tag">{p.data.window}</span>}
+              <h3 style="margin:.4rem 0 .3rem">{p.data.title}</h3>
+              <p style="font-size:.95rem;color:var(--muted);margin:0">{p.data.description}</p>
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
+  </section>
+  <Cta />
+</BaseLayout>

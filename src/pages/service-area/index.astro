@@ -1,0 +1,59 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
+import { business } from '@/data/business';
+import { towns } from '@/data/towns';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/service-area/';
+const desc = 'BugBoss serves rural and small-town Northeast & Central Wisconsin from Clintonville — Waupaca, Shawano, Waushara, Outagamie, Oconto, and Langlade counties and beyond.';
+const tiers = [
+  { n: 1 as const, label: 'Our Home Territory (0–20 miles)', note: 'Deepest coverage, fastest response — this is home.' },
+  { n: 2 as const, label: 'The Surrounding Ring (20–35 miles)', note: 'Full service across the towns just beyond home base.' },
+  { n: 3 as const, label: 'The Fox Valley & Green Bay Edge (35–55 miles)', note: 'Serving the metro edge for pest and wildlife needs.' },
+  { n: 4 as const, label: 'Extended Rural Wisconsin (55–75 miles)', note: 'Reaching the underserved rural communities farther out.' },
+];
+const withPages = new Set(towns.filter((t) => t.cluster !== 'area').map((t) => t.slug));
+const faqs = [
+  { q: 'What counties does BugBoss serve?', a: 'BugBoss serves Waupaca, Shawano, Waushara, Outagamie, Oconto, and Langlade counties, plus parts of Brown, Winnebago, Portage, Marathon, Lincoln, and Green Lake counties — centered on rural and small-town Northeast and Central Wisconsin.' },
+  { q: 'Do you charge extra for rural or out-of-town service?', a: 'BugBoss is built for rural Wisconsin, so serving out-of-town properties is normal, not an exception. Any travel considerations for the farthest communities are discussed up front when you call — no surprises.' },
+  { q: 'My town isn’t listed — can you still help?', a: `Very likely yes. The list is not exhaustive, and BugBoss covers a wide rural radius from Clintonville. Call ${business.phoneVanity} and we’ll tell you right away whether we serve your area.` },
+];
+const pageNodes = [
+  webPageNode({ url, name: 'Service Area', description: desc }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Service Area', url }]),
+];
+---
+<BaseLayout title="Service Area — Rural Northeast & Central Wisconsin" description={desc} path="/service-area/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Where we work</p>
+      <h1>BugBoss Service Area</h1>
+      <p class="lead">Based in Clintonville, BugBoss serves the rural and small-town corridor the national companies skip — across six core counties and beyond. Towns with a link have a dedicated local page; the rest are fully served, just call.</p>
+      {tiers.map((tier) => {
+        const list = towns.filter((t) => t.tier === tier.n);
+        return (
+          <>
+            <h2>{tier.label}</h2>
+            <p style="margin-top:-.4rem;color:var(--muted)">{tier.note}</p>
+            <div class="town-tags" style="display:flex;flex-wrap:wrap;gap:.35rem;margin-bottom:1rem;">
+              {list.map((t) => (
+                withPages.has(t.slug)
+                  ? <a href={`/service-area/${t.slug}/`} class="tag tag-link">{t.name}</a>
+                  : <span class="tag">{t.name}</span>
+              ))}
+            </div>
+          </>
+        );
+      })}
+    </div>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta />
+  <style>
+    a.tag-link { text-decoration: none; }
+    a.tag-link:hover { background: var(--green-500); color: #fff; }
+  </style>
+</BaseLayout>

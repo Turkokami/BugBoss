@@ -1,0 +1,41 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
+import { business } from '@/data/business';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/no-contracts/';
+const desc = 'BugBoss does not lock you into long-term pest control contracts or charge cancellation fees. A direct answer to the biggest complaint about the national pest companies.';
+const faqs = [
+  { q: 'Does BugBoss require a contract?', a: 'No. BugBoss does not require long-term contracts and does not charge cancellation fees. You choose one-time service or a recurring seasonal program, and you can stop any time.' },
+  { q: 'Why do the national pest companies push contracts?', a: 'Long-term contracts guarantee the company revenue regardless of results. The most common public complaints about the national brands are contract lock-in, cancellation fees, no-shows, and unreachable support. BugBoss is built as the opposite of that.' },
+  { q: 'Can I still get recurring service without a contract?', a: 'Yes. Many customers choose a seasonal program because it works — fall invaders and rodents are predictable. You get the recurring benefit without being locked in.' },
+  { q: 'What if I want to cancel?', a: 'You simply stop. There is no cancellation fee and no penalty. BugBoss keeps your business by doing good work, not by trapping you in an agreement.' },
+];
+const pageNodes = [
+  webPageNode({ url, name: 'No Contracts', description: desc }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'No Contracts', url }]),
+];
+---
+<BaseLayout title="No Contracts, No Cancellation Fees" description={desc} path="/no-contracts/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Straight dealing</p>
+      <h1>No Long-Term Contracts. No Cancellation Fees.</h1>
+      <div class="answer-box"><p class="mt0" style="margin-bottom:0">BugBoss The X-Terminator does not lock customers into long-term contracts or charge cancellation fees. You choose one-time service or a recurring seasonal program, and you can stop whenever you want. We keep your business by solving the problem — not by trapping you in an agreement.</p></div>
+      <p>Look at the public one-star reviews of the big national pest companies and you’ll see the same four complaints over and over: contract lock-in, surprise cancellation fees, missed appointments, and support you can’t reach. That’s not a pest problem — it’s a business-model problem.</p>
+      <p>BugBoss is the opposite by design. You call, and you reach Brian. He shows up, does the work, and if you want him back next season, he comes back. No fine print, no auto-renewing agreement, no fee to leave.</p>
+      <h2>The BugBoss way</h2>
+      <ul class="check">
+        <li>One-time service or seasonal program — your choice</li>
+        <li>No long-term contract, ever</li>
+        <li>No cancellation fees or penalties</li>
+        <li>You reach the owner directly, not a call center</li>
+      </ul>
+    </div>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta title="Ready to work with someone straight?" />
+</BaseLayout>

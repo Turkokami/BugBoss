@@ -1,0 +1,59 @@
+---
+import '@/styles/global.css';
+import Header from '@/components/Header.astro';
+import Footer from '@/components/Footer.astro';
+import PhoneBar from '@/components/PhoneBar.astro';
+import { business } from '@/data/business';
+import { buildGraph } from '@/lib/schema';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Extra JSON-LD nodes (WebPage / FAQPage / BreadcrumbList / Service). */
+  pageNodes?: object[];
+  /** Path only, e.g. "/about/". Canonical is derived from business.url. */
+  path?: string;
+  noindex?: boolean;
+}
+
+const { title, description, pageNodes = [], path = '/', noindex = false } = Astro.props;
+const canonical = new URL(path, business.url).href;
+const graph = buildGraph(pageNodes);
+const fullTitle = title.includes('BugBoss') ? title : `${title} | ${business.shortName}`;
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={business.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="theme-color" content="#0d0d0d" />
+    <meta name="geo.region" content="US-WI" />
+    <meta name="geo.placename" content="Clintonville, Wisconsin" />
+
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script type="application/ld+json" set:html={JSON.stringify(graph)} />
+  </head>
+  <body>
+    <a href="#main" class="skip">Skip to content</a>
+    <Header />
+    <main id="main">
+      <slot />
+    </main>
+    <Footer />
+    <PhoneBar />
+    <style is:global>
+      .skip { position: absolute; left: -999px; }
+      .skip:focus { left: 12px; top: 12px; background: #fff; padding: .6rem 1rem; border-radius: 8px; z-index: 100; }
+    </style>
+  </body>
+</html>

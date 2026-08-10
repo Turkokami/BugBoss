@@ -1,0 +1,88 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { townsWithPages, getTown, hasResidentialSpoke, hasCommercialSpoke, hasWildlifeSpoke } from '@/data/towns';
+import { proximityLine, townHubFaqs, townServiceNode, genericLocal } from '@/lib/geo';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export function getStaticPaths() {
+  return townsWithPages.map((t) => ({ params: { town: t.slug } }));
+}
+
+const { town } = Astro.params;
+const t = getTown(town!)!;
+const L = t.local ?? genericLocal(t);
+const url = `${business.url}/service-area/${t.slug}/`;
+
+// Deep long-form body from the content collection, if one exists for this town.
+const deepEntries = await getCollection('towns', (e) => e.data.town === t.slug);
+const deep = deepEntries[0];
+let Body: any = null;
+if (deep) Body = (await render(deep)).Content;
+
+const answer = deep?.data.answer ??
+  `BugBoss The X-Terminator provides pest control and wildlife removal in ${t.name}, ${t.county}, Wisconsin. ${proximityLine(t)} We handle ${L.pestPressures.slice(0, 2).join(' and ')}, rodents, and wildlife like bats and raccoons — family-owned, licensed, and with no long-term contracts.`;
+const faqs = deep?.data.faqs?.length ? deep.data.faqs : townHubFaqs(t);
+
+const spokes = [
+  hasResidentialSpoke(t) && { href: `/service-area/${t.slug}/residential/`, label: `Residential Pest Control in ${t.name}` },
+  hasCommercialSpoke(t) && { href: `/service-area/${t.slug}/commercial/`, label: `Commercial Pest Control in ${t.name}` },
+  hasWildlifeSpoke(t) && { href: `/service-area/${t.slug}/wildlife/`, label: `Wildlife Removal in ${t.name}` },
+].filter(Boolean) as { href: string; label: string }[];
+
+const pageNodes = [
+  webPageNode({ url, name: `Pest Control in ${t.name}, WI`, description: answer, primaryEntityId: `${url}#service` }),
+  townServiceNode(t, url),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Service Area', url: business.url + '/service-area/' },
+    { name: t.name, url },
+  ]),
+];
+---
+<BaseLayout title={deep?.data.title ?? `Pest Control & Wildlife Removal in ${t.name}, WI`} description={answer} path={`/service-area/${t.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href="/service-area/">Service Area</a> · {t.county}</p>
+      <h1>Pest Control &amp; Wildlife Removal in {t.name}, WI</h1>
+      <AnswerBox text={answer} />
+
+      {spokes.length > 0 && (
+        <div class="grid cols-2" style="margin:1.4rem 0 .4rem">
+          {spokes.map((s) => <a class="card" href={s.href}><h3 style="margin:0;font-size:1rem">{s.label} →</h3></a>)}
+        </div>
+      )}
+
+      {Body ? (
+        <article class="prose"><Body /></article>
+      ) : (
+        <>
+          <p class="lead">{L.intro}</p>
+          <h2>Pest pressures around {t.name}</h2>
+          <p>Because {t.name} is defined by {L.housing}, the pest and wildlife problems here run to a specific list. The ones we’re called for most:</p>
+          <ul class="check">{L.pestPressures.map((p) => <li>{p[0].toUpperCase() + p.slice(1)}</li>)}</ul>
+          <p>Local reference points like {L.landmarks.join(', ')} shape where the pressure is heaviest — riverside and wooded lots, older structures, and open farmland each bring their own issues, and we treat accordingly rather than running a one-size-fits-all program.</p>
+        </>
+      )}
+
+      <div class="callout">
+        <p class="mt0"><strong>Pest or wildlife problem in {t.name}?</strong> You’ll reach Brian directly — local, licensed, and no contract required.</p>
+        <div class="cta-row">
+          <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
+          <a href="/contact/" class="btn btn-ghost">Request a Quote →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`Pest Control in ${t.name}: FAQs`} /></div></section>
+  <Cta title={`Serving ${t.name} and all of ${t.county}`} />
+  <style>
+    .eyebrow a { color: var(--green-600); text-decoration: none; }
+    .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
+  </style>
+</BaseLayout>

@@ -1,0 +1,56 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import Reviews from '@/components/Reviews.astro';
+import { business } from '@/data/business';
+import { getService } from '@/data/services';
+import { pestsByCategory } from '@/data/pests';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const s = getService('wildlife-removal')!;
+const url = `${business.url}/${s.slug}/`;
+const wildlife = pestsByCategory('wildlife');
+const faqs = [
+  { q: 'Does BugBoss remove bats legally in Wisconsin?', a: 'Yes. Bats are protected in Wisconsin, so BugBoss uses humane exclusion within DNR maternity-season timing (exclusion restricted roughly June 1–August 15). We never trap bats inside — we let them out and seal them out.' },
+  { q: 'What wildlife does BugBoss handle?', a: 'Bats, raccoons, squirrels, skunks, groundhogs, moles, voles, snakes, and woodpeckers, plus the exclusion and cleanup that go with them. Few rural competitors offer full wildlife service alongside pest control.' },
+  { q: 'What is the difference between removal and exclusion?', a: 'Removal takes the animal out; exclusion seals the building so it — and others — cannot get back in. Lasting results require both, which is why BugBoss focuses on finding and closing every entry point.' },
+  { q: 'Do you clean up after wildlife?', a: 'Yes. Droppings, damaged insulation, and contamination from bats, raccoons, and other wildlife are health hazards. Cleanup and decontamination are part of a complete BugBoss wildlife job.' },
+  { q: 'There is an animal in my attic right now — what do I do?', a: `Call ${business.phoneVanity}. Avoid cornering or handling the animal, especially bats and raccoons, which can carry rabies. We will assess the situation and the right timing for removal.` },
+  { q: 'How do you keep the animal from coming back?', a: 'By sealing every entry point with durable materials after removal, not just the obvious one. Thorough exclusion is what separates a permanent fix from a temporary one.' },
+];
+const pageNodes = [
+  webPageNode({ url, name: s.name, description: s.answer, primaryEntityId: `${business.url}/${s.slug}/#service` }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: s.name, url }]),
+];
+---
+<BaseLayout title={`${s.name} in Northeast Wisconsin`} description={s.answer} path={`/${s.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Wildlife Service</p>
+      <h1>Wildlife Removal &amp; Exclusion in Northeast Wisconsin</h1>
+      <AnswerBox text={s.answer} />
+      <figure class="band-photo">
+        <img src="/images/brian-alligator.jpg" width="750" height="1000" loading="lazy" decoding="async"
+          alt="Brian Zahringer of BugBoss holding a young alligator — BugBoss handles the wildlife work most rural pest companies won't" />
+      </figure>
+      <p class="lead">{s.summary}</p>
+      <h2>What’s included</h2>
+      <style>
+        .band-photo { margin: 1.4rem auto; max-width: 340px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
+        .band-photo img { width: 100%; height: auto; display: block; }
+      </style>
+      <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
+      <h2>Wildlife we handle</h2>
+      <div style="display:flex;flex-wrap:wrap;gap:.3rem;">
+        {wildlife.map((p) => <a href={`/pest-library/${p.slug}/`} class="tag">{p.name}</a>)}
+        <span class="tag">Groundhogs</span><span class="tag">Moles</span><span class="tag">Voles</span><span class="tag">Snakes</span><span class="tag">Woodpeckers</span>
+      </div>
+    </div>
+  </section>
+  <Reviews limit={3} />
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta title="Something in the attic, chimney, or barn?" sub="Humane, DNR-compliant wildlife removal and exclusion — with cleanup. Call Brian." />
+</BaseLayout>

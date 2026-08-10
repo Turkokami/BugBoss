@@ -1,0 +1,21 @@
+---
+import { business } from '@/data/business';
+interface Props { title?: string; sub?: string; }
+const {
+  title = 'Got a pest or wildlife problem? Talk to Brian.',
+  sub = 'Local, family-owned, licensed & insured. No long-term contracts — just the problem solved.',
+} = Astro.props;
+---
+<section class="dark cta">
+  <div class="wrap narrow center">
+    <h2>{title}</h2>
+    <p class="lead" style="color:#bfe0cb">{sub}</p>
+    <div class="cta-row" style="justify-content:center">
+      <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
+      <a href="/contact/" class="btn btn-white">Request a Quote</a>
+    </div>
+  </div>
+</section>
+<style>
+  .cta h2 { margin-top: 0; }
+</style>

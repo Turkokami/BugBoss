@@ -1,0 +1,48 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export async function getStaticPaths() {
+  const items = await getCollection('neighborhoods');
+  return items.map((n) => ({ params: { slug: n.slug }, props: { n } }));
+}
+const { n } = Astro.props;
+const { Content } = await render(n);
+const url = `${business.url}/pest-control/${n.slug}/`;
+const pageNodes = [
+  {
+    '@type': 'Service',
+    '@id': `${url}#service`,
+    name: n.data.title,
+    serviceType: 'Pest control and wildlife removal',
+    provider: { '@id': `${business.url}/#localbusiness` },
+    areaServed: { '@type': 'Place', name: `${n.data.city}, WI`, containedInPlace: { '@type': 'AdministrativeArea', name: n.data.county } },
+    url,
+  },
+  webPageNode({ url, name: n.data.title, description: n.data.answer, primaryEntityId: `${url}#service` }),
+  faqPageNode(url, n.data.faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Neighborhoods', url: business.url + '/pest-control/' },
+    { name: n.data.title, url },
+  ]),
+];
+---
+<BaseLayout title={n.data.title} description={n.data.answer} path={`/pest-control/${n.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href="/pest-control/">Neighborhoods</a> · {n.data.city}, {n.data.county}</p>
+      <h1>{n.data.title}</h1>
+      <AnswerBox text={n.data.answer} />
+      <article class="prose"><Content /></article>
+    </div>
+  </section>
+  {n.data.faqs.length > 0 && <section class="soft"><div class="wrap narrow"><Faq items={n.data.faqs} /></div></section>}
+  <Cta />
+  <style>.eyebrow a{color:var(--green-600);text-decoration:none}</style>
+</BaseLayout>

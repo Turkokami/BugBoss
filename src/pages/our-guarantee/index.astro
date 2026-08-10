@@ -1,0 +1,39 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
+import { business } from '@/data/business';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/our-guarantee/';
+const desc = 'The BugBoss guarantee: if covered pests come back between scheduled services, we come back too — at no extra charge. Clear, defined terms, no fine-print games.';
+const faqs = [
+  { q: 'What does the BugBoss guarantee cover?', a: 'For homes on a recurring seasonal program, if a covered pest returns between scheduled visits, BugBoss returns to re-treat at no additional charge. The specific covered pests and terms are spelled out clearly in your service agreement.' },
+  { q: 'Is the guarantee a lifetime warranty?', a: 'No — and we say so on purpose. "Lifetime" guarantees are rarely honored and often meaningless. BugBoss offers a defined, honest guarantee tied to your service program so you know exactly what is covered.' },
+  { q: 'Do I need a contract to get the guarantee?', a: 'The re-service guarantee applies to active recurring programs, but there is no long-term contract lock-in or cancellation fee. You stay because it works, not because you are trapped.' },
+];
+const pageNodes = [
+  webPageNode({ url, name: 'Our Guarantee', description: desc }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Our Guarantee', url }]),
+];
+---
+<BaseLayout title="Our Guarantee" description={desc} path="/our-guarantee/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Our promise</p>
+      <h1>The BugBoss Guarantee</h1>
+      <div class="answer-box"><p class="mt0" style="margin-bottom:0">If covered pests come back between your scheduled services, BugBoss comes back too — and re-treats at no extra charge. Clear terms, defined in writing, with no fine-print games and no "lifetime" promises we can’t keep.</p></div>
+      <h2>What you get</h2>
+      <ul class="check">
+        <li><strong>Re-service between visits.</strong> Covered pest returns? We return and re-treat at no additional cost.</li>
+        <li><strong>Defined, honest terms.</strong> Exactly which pests and conditions are covered, written plainly in your agreement.</li>
+        <li><strong>A licensed applicator standing behind the work.</strong> The owner does the work and honors the guarantee personally.</li>
+        <li><strong>No contract lock-in.</strong> The guarantee comes with your program, not with a trap.</li>
+      </ul>
+      <p>We deliberately don’t advertise a vague “lifetime warranty.” Overpromising and underdelivering is exactly the complaint people have about the national companies. A clear guarantee you can actually count on is worth more than a big word in fine print.</p>
+    </div>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta />
+</BaseLayout>

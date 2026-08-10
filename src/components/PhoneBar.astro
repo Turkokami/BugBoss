@@ -1,0 +1,15 @@
+---
+// Sticky mobile call bar — the whole business is a phone call. Rural mobile users.
+import { business } from '@/data/business';
+---
+<div class="phonebar">
+  <a href={`tel:${business.phoneTollFreeE164}`} class="pb-call">📞 Call BugBoss</a>
+  <a href="/contact/" class="pb-quote">Get a Quote</a>
+</div>
+<style>
+  .phonebar { position: fixed; bottom: 0; left: 0; right: 0; z-index: 60; display: flex; gap: .5rem; padding: .5rem; background: rgba(255,255,255,.96); backdrop-filter: blur(8px); border-top: 1px solid var(--line); }
+  .phonebar a { flex: 1; text-align: center; font-weight: 800; padding: .8rem; border-radius: 10px; text-decoration: none; }
+  .pb-call { background: var(--action); color: #0d0d0d; }
+  .pb-quote { background: var(--green-050); color: var(--green-800); border: 1px solid var(--green-500); }
+  @media (min-width: 960px) { .phonebar { display: none; } }
+</style>

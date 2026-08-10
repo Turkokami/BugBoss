@@ -1,0 +1,102 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
+import { business } from '@/data/business';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/about/';
+const desc = `The story of BugBoss The X-Terminator — founded in April 2021 by Brian and Amber Zahringer, a family-owned pest and wildlife company serving Central and Northeast Wisconsin from Clintonville.`;
+const faqs = [
+  { q: 'Who owns BugBoss The X-Terminator?', a: `BugBoss was founded in April 2021 by ${business.owner.name} and his wife, ${business.cofounder}. Brian is the face many people know as "The BugBoss" and the lead technician; it has been a family effort from the start, and it is locally owned and operated out of Clintonville, Wisconsin.` },
+  { q: 'How long has Brian been in pest control?', a: 'Brian worked in the pest control industry for about three years before starting BugBoss — in the field and in a management role — then founded the company in April 2021. He is a certified Wisconsin Commercial Pesticide Applicator.' },
+  { q: 'What makes BugBoss different?', a: 'BugBoss is built on relationships, not just service calls. You know the person at your door, you can ask questions and understand what is happening in your home, there is no long-term contract, and the company handles both pests and wildlife — with a focus on solving the problem, not just treating what you can see.' },
+  { q: 'What areas does BugBoss serve?', a: 'BugBoss serves homes, businesses, property managers, and commercial accounts throughout Central and Northeast Wisconsin, from its Clintonville base across the surrounding rural counties.' },
+];
+const pageNodes = [
+  webPageNode({ url, name: `Our Story — ${business.name}`, description: desc, primaryEntityId: `${business.url}/#brian` }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'About', url }]),
+];
+---
+<BaseLayout title={`Our Story — Meet the BugBoss`} description={desc} path="/about/" pageNodes={pageNodes}>
+  <section class="about-hero">
+    <div class="wrap about-grid">
+      <figure class="photo">
+        <img src="/images/brian-turtle.jpg" width="750" height="1000" fetchpriority="high" decoding="async"
+          alt="Brian Zahringer, owner of BugBoss The X-Terminator, in a branded shirt and cap holding a painted turtle in a rural Wisconsin field" />
+      </figure>
+      <div>
+        <p class="eyebrow">Our Story</p>
+        <h1>Meet the BugBoss</h1>
+        <p class="lead">BugBoss The X-Terminator is a locally owned and operated pest and wildlife control company founded in April 2021 by Brian Zahringer and his wife, Amber.</p>
+        <p>While Brian is the face many people recognize as “The BugBoss,” the company has been a team effort from the very beginning. Brian and Amber started BugBoss with a simple but meaningful goal: build a better life for their family while creating something that makes a real difference in their community. What began as a husband-and-wife business has grown into a trusted pest and wildlife company serving homes and businesses throughout Central and Northeast Wisconsin.</p>
+        <div class="cta-row">
+          <a href={business.social.tiktok} class="btn btn-ghost" rel="noopener">Watch on TikTok</a>
+          <a href={business.social.youtube} class="btn btn-ghost" rel="noopener">Watch on YouTube</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap narrow">
+      <article class="prose">
+        <h2>Where it all started</h2>
+        <p>Brian’s career in pest control began several years before BugBoss existed. He spent roughly three years in the industry before starting the company, gaining experience both in the field and in a management role — a combination that let him learn the business from more than one angle.</p>
+        <p>He wasn’t just learning how to eliminate pests. He was learning pest biology and behavior, treatment strategy, customer service, business operations, and — maybe most importantly — how much trust people place in the person they call when something has invaded their home or business. Over those years, Brian found that pest control was work he genuinely enjoyed and cared about doing well.</p>
+        <p>Eventually he and Amber started talking about what their future could look like if they took everything they’d learned and built something of their own. In April 2021, they took the chance, and <strong>BugBoss The X-Terminator</strong> was born.</p>
+        <p>The decision wasn’t simply about owning a business. It was about creating a better future for their family, building a company around their own values, and making something that could become a real part of the communities they serve. They wanted BugBoss to be different — they wanted customers to know the person standing at their door, to feel comfortable asking questions and understanding what was happening in their home, and to build relationships rather than just complete service calls. Most of all, they wanted to build a company people could trust.</p>
+
+        <h2>Experience built in the field</h2>
+        <p>Since entering the industry, Brian has built extensive hands-on experience solving pest and wildlife problems across Wisconsin — general household insects, ants, spiders, cockroaches, bed bugs, mosquitoes, ticks, mice and other rodents, bats, nuisance wildlife, structural exclusion, and plenty of problems that don’t fit neatly in a category. That work ranges from everyday residential pests to difficult infestations, commercial pest management, preventative programs, and the kind of situations that take real investigation to figure out <em>why</em> a problem is happening in the first place.</p>
+        <p>Brian believes good pest control starts with understanding the problem. Rather than just treating what can be seen, BugBoss looks at why the pest is there, where it’s coming from, how it’s getting into the structure, and what conditions are feeding the problem. Sometimes the answer is a professional treatment. Other times it’s <a href="/wildlife-removal/">exclusion work</a>, rodent monitoring and control, sanitation or habitat changes, structural repairs, or a combination of several strategies. The goal isn’t simply to treat pests — the goal is to solve problems.</p>
+
+        <h2>From two people and an idea to a growing company</h2>
+        <p>A lot has changed since April 2021. What started with Brian, Amber, and an idea for a better future has kept growing year after year. BugBoss now serves homeowners, businesses, property managers, and commercial accounts throughout Central and Northeast Wisconsin with a growing range of pest and wildlife services.</p>
+        <p>As the customer base grew, so did the company — new equipment, expanded services, better systems, and new people joining the BugBoss team. The small company Brian and Amber took a chance on has grown into the business they envisioned. Through all of it, one thing has stayed non-negotiable: BugBoss should never get so big that it forgets how it became successful in the first place. That growth has been built one customer at a time — through relationships, referrals, repeat customers, and people trusting BugBoss enough to recommend it to their friends, family, neighbors, and businesses. That trust means everything to us.</p>
+
+        <h2>Always learning, always improving</h2>
+        <p>Pest control never stops changing. New products come out, technology improves, regulations shift, pest pressures move, and research keeps sharpening how professionals protect homes and businesses. Brian takes being a professional seriously — staying current, holding the right credentials, and doing the work the right way rather than the fast way.</p>
+      </article>
+
+      <div class="creds">
+        <h3 class="mt0">Credentials &amp; trust</h3>
+        <ul class="check">
+          <li>Founded {business.foundingMonth} {business.foundingYear} by {business.owner.name} &amp; {business.cofounder} — family owned &amp; operated</li>
+          <li>Certified Wisconsin <strong>Commercial Pesticide Applicator</strong> (Cert #{business.owner.licenseNumber}) — categories {business.owner.applicatorCategories.join(' and ')}</li>
+          <li>Licensed &amp; insured business (WI Reg. #{business.businessLicense})</li>
+          <li>Rated {business.rating.value} from {business.rating.count}+ reviews · No long-term contracts</li>
+          <li>Pest <em>and</em> wildlife under one roof, including DNR-compliant bat exclusion</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="soft">
+    <div class="wrap">
+      <p class="eyebrow center">On the job &amp; around town</p>
+      <div class="gallery grid cols-4">
+        <figure><img src="/images/brian-headshot.jpg" width="1000" height="1333" loading="lazy" decoding="async" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in a branded BugBoss work shirt" /></figure>
+        <figure><img src="/images/brian-niban.jpg" width="563" height="1000" loading="lazy" decoding="async" alt="Brian holding a bottle of BugBoss-labeled Niban granular bait in the Clintonville office" /></figure>
+        <figure><img src="/images/brian-community-van.jpg" width="1400" height="1373" loading="lazy" decoding="async" alt="Brian beside the BugBoss wildlife-control van with boxes of donated snacks for a community drive" /></figure>
+        <figure><img src="/images/brian-alligator.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Brian at the 2025 PestWorld industry conference holding a young alligator" /></figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="soft" style="padding-top:0"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta title="Work with a company that knows your name" sub="Family-owned, licensed, and local. Call Brian and the BugBoss team." />
+
+  <style>
+    .about-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; }
+    .photo { margin: 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow-lg); border: 3px solid var(--neon); }
+    .photo img { width: 100%; height: auto; display: block; }
+    .creds { margin-top: 2rem; background: var(--bg-dark); color: #eafff0; border-radius: var(--radius-lg); padding: 1.6rem 1.7rem; box-shadow: var(--shadow-glow); }
+    .creds h3 { color: #fff; }
+    .creds ul.check li::before { color: var(--neon-bright); }
+    .gallery figure { margin: 0; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); aspect-ratio: 3 / 4; }
+    .gallery img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    @media (min-width: 820px) { .about-grid { grid-template-columns: 380px 1fr; align-items: center; } }
+  </style>
+</BaseLayout>

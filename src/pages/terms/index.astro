@@ -1,0 +1,14 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import { business } from '@/data/business';
+import { webPageNode } from '@/lib/schema';
+const url = business.url + '/terms/';
+---
+<BaseLayout title="Terms of Service" description="BugBoss The X-Terminator terms of service." path="/terms/" pageNodes={[webPageNode({ url, name: 'Terms of Service', description: 'Terms of service' })]} noindex={true}>
+  <section><div class="wrap narrow">
+    <h1>Terms of Service</h1>
+    <p>These terms govern your use of the BugBoss The X-Terminator website and services.</p>
+    <p><em>Placeholder — replace with your reviewed terms before launch, including service terms, the defined guarantee language (see Our Guarantee), and website use terms.</em></p>
+    <p>Questions? Contact us at <a href={`mailto:${business.email}`}>{business.email}</a>.</p>
+  </div></section>
+</BaseLayout>

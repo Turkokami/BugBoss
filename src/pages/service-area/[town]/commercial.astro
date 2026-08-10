@@ -1,0 +1,63 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { townsWithPages, getTown, hasCommercialSpoke } from '@/data/towns';
+import { townServiceNode } from '@/lib/geo';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export function getStaticPaths() {
+  return townsWithPages.filter(hasCommercialSpoke).map((t) => ({ params: { town: t.slug } }));
+}
+
+const { town } = Astro.params;
+const t = getTown(town!)!;
+const L = t.local!;
+const url = `${business.url}/service-area/${t.slug}/commercial/`;
+const answer = `BugBoss provides commercial pest control for ${t.name}, WI businesses — restaurants, retail, lodging, offices, agricultural operations, and more. We deliver documented, inspection-ready service with discreet scheduling and no long-term contract. Local to Clintonville and owner-operated.`;
+const faqs = [
+  { q: `What businesses does BugBoss service in ${t.name}?`, a: `In ${t.name}, BugBoss serves restaurants and food service, retail, lodging, offices, multi-family housing, warehouses, and agricultural operations — with documentation ready for health inspectors and auditors.` },
+  { q: `Can you service our ${t.name} business after hours?`, a: `Yes. BugBoss schedules discreet visits around your operating hours so pest service doesn’t disrupt staff or customers in ${t.name}.` },
+  { q: `Do you handle agricultural pest management near ${t.name}?`, a: `Yes. As a rural-based company, BugBoss handles farm operations, grain and feed facilities, and dairy settings around ${t.name} — a core strength, not an afterthought.` },
+  { q: `Is there a contract for commercial service in ${t.name}?`, a: `BugBoss builds a program that fits your ${t.name} facility without rigid long-term lock-in, and you deal directly with the owner rather than a national call center.` },
+];
+const pageNodes = [
+  webPageNode({ url, name: `Commercial Pest Control in ${t.name}, WI`, description: answer, primaryEntityId: `${url}#service` }),
+  townServiceNode(t, url),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Service Area', url: business.url + '/service-area/' },
+    { name: t.name, url: `${business.url}/service-area/${t.slug}/` },
+    { name: 'Commercial', url },
+  ]),
+];
+---
+<BaseLayout title={`Commercial Pest Control in ${t.name}, WI`} description={answer} path={`/service-area/${t.slug}/commercial/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Commercial</p>
+      <h1>Commercial Pest Control in {t.name}, WI</h1>
+      <AnswerBox text={answer} />
+      <p class="lead">{L.intro}</p>
+      <p>Commercial pest control in {t.name} means documented, discreet, industry-specific service — a restaurant, a shop, a lodging property, and an agricultural operation each have different pests and different compliance needs. BugBoss builds the program around your building and gives you the records you need when an inspector asks.</p>
+      <h2>What BugBoss delivers in {t.name}</h2>
+      <ul class="check">
+        <li>Industry-specific programs — food service, retail, lodging, ag, and more</li>
+        <li>Inspection-ready service documentation</li>
+        <li>Discreet visits scheduled around your hours</li>
+        <li>Rodent, insect, and stored-product pest management</li>
+        <li>One point of contact — the owner, not a call center</li>
+      </ul>
+      <div class="callout">
+        <p class="mt0"><strong>Need a commercial program in {t.name}?</strong></p>
+        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href="/commercial-pest-control/" class="btn btn-ghost">About commercial service →</a></div>
+      </div>
+    </div>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`Commercial Pest Control in ${t.name}: FAQs`} /></div></section>
+  <Cta />
+  <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
+</BaseLayout>

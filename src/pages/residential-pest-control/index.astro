@@ -1,0 +1,57 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import Reviews from '@/components/Reviews.astro';
+import { business } from '@/data/business';
+import { getService } from '@/data/services';
+import { flagshipPests } from '@/data/pests';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const s = getService('residential-pest-control')!;
+const url = `${business.url}/${s.slug}/`;
+const faqs = [
+  { q: 'How much does residential pest control cost in Wisconsin?', a: 'Cost depends on the pest, the size of the home, and whether exclusion work is needed. BugBoss gives a clear quote up front with no obligation and no long-term contract, so you know the price before any work begins.' },
+  { q: 'Do you offer one-time treatments or only ongoing plans?', a: 'Both. Some problems are solved in a single visit; others — like fall invaders or seasonal rodents — are best handled with a recurring seasonal program. There is no contract requirement either way.' },
+  { q: 'Are your treatments safe for kids and pets?', a: 'BugBoss uses targeted, professional products applied by a licensed applicator, and we advise on any re-entry timing for treated areas. We treat the specific pest rather than blanketing the home.' },
+  { q: 'What is the most common home pest problem in this area?', a: 'Fall invaders — cluster flies, boxelder bugs, and Asian lady beetles — plus mice pushing indoors as it cools. Rural homes surrounded by fields and woods see these every year, which is why exclusion matters.' },
+  { q: 'Do you seal entry points or just spray?', a: 'Both when it matters. For rodents and overwintering pests, sealing the entry points is the part that actually stops the problem from returning. Spraying alone treats what is inside; exclusion keeps the next wave out.' },
+  { q: 'How soon can you come out?', a: `BugBoss is local to Clintonville, so response across the surrounding rural corridor is fast — often same-day for the closest towns. Call ${business.phoneVanity} to check current availability.` },
+];
+const pageNodes = [
+  webPageNode({ url, name: s.name, description: s.answer, primaryEntityId: `${business.url}/${s.slug}/#service` }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: s.name, url }]),
+];
+---
+<BaseLayout title={`${s.name} in Northeast Wisconsin`} description={s.answer} path={`/${s.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Residential Service</p>
+      <h1>Residential Pest Control in Northeast Wisconsin</h1>
+      <AnswerBox text={s.answer} />
+      <figure class="band-photo">
+        <img src="/images/bugboss-illustration.jpg" width="667" height="1000" loading="lazy" decoding="async"
+          alt="Illustration of the BugBoss The X-Terminator technician treating a home for pests" />
+      </figure>
+      <p class="lead">{s.summary}</p>
+      <style>
+        .band-photo { margin: 1.4rem auto; max-width: 320px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
+        .band-photo img { width: 100%; height: auto; display: block; }
+      </style>
+
+      <h2>What’s included</h2>
+      <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
+
+      <h2>Common home pests we handle</h2>
+      <div class="town-tags" style="display:flex;flex-wrap:wrap;gap:.3rem;">
+        {flagshipPests.map((p) => <a href={`/pest-library/${p.slug}/`} class="tag">{p.name}</a>)}
+      </div>
+      <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>
+    </div>
+  </section>
+  <Reviews limit={3} />
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
+  <Cta title="Home pest problem? Let’s solve it." />
+</BaseLayout>

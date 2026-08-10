@@ -1,0 +1,39 @@
+---
+import { business } from '@/data/business';
+import { reviews } from '@/data/reviews';
+interface Props { limit?: number; }
+const { limit = 6 } = Astro.props;
+const shown = reviews.slice(0, limit);
+const stars = (n: number) => '★'.repeat(n) + '☆'.repeat(5 - n);
+---
+<section class="soft">
+  <div class="wrap">
+    <p class="eyebrow center">Reviews</p>
+    <div class="rating-head center">
+      <span class="big">{business.rating.value}</span>
+      <span class="stars" aria-hidden="true">★★★★★</span>
+      <p>Rated {business.rating.value} from {business.rating.count} reviews across Google, Facebook &amp; Yelp</p>
+    </div>
+    <div class="grid cols-3">
+      {shown.map((r) => (
+        <blockquote class="card">
+          <span class="stars" aria-label={`${r.stars} out of 5 stars`}>{stars(r.stars)}</span>
+          <p>“{r.text}”</p>
+          <cite>— {r.name}, {r.location}</cite>
+        </blockquote>
+      ))}
+    </div>
+    <p class="center" style="margin-top:1.6rem"><a href="/reviews/" class="btn btn-ghost">Read more reviews</a></p>
+  </div>
+</section>
+
+<style>
+  .rating-head { margin-bottom: 2rem; }
+  .rating-head .big { font-size: 3rem; font-weight: 900; color: var(--green-800); line-height: 1; }
+  .rating-head .stars { font-size: 1.4rem; margin-left: .4rem; }
+  .rating-head p { color: var(--muted); margin-top: .5rem; }
+  blockquote { margin: 0; }
+  blockquote .stars { font-size: 1.05rem; }
+  blockquote p { font-size: 1rem; margin: .6rem 0; }
+  blockquote cite { font-style: normal; font-weight: 700; color: var(--ink); font-size: .9rem; }
+</style>

@@ -1,0 +1,56 @@
+---
+import { business } from '@/data/business';
+const nav = [
+  { href: '/residential-pest-control/', label: 'Residential' },
+  { href: '/commercial-pest-control/', label: 'Commercial' },
+  { href: '/wildlife-removal/', label: 'Wildlife' },
+  { href: '/pest-library/', label: 'Pest Library' },
+  { href: '/guides/', label: 'Guides' },
+  { href: '/service-area/', label: 'Service Area' },
+  { href: '/about/', label: 'About' },
+];
+---
+<header class="site-header">
+  <div class="wrap bar">
+    <a href="/" class="brand" aria-label={business.name + ' home'}>
+      <img src="/images/logo.png" width="520" height="414" alt="BugBoss The X-Terminator logo" class="brand-logo" />
+    </a>
+    <nav class="desktop-nav" aria-label="Primary">
+      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    </nav>
+    <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action call-btn">Call {business.phoneTollFree}</a>
+    <details class="mobile-menu">
+      <summary aria-label="Menu"><span></span><span></span><span></span></summary>
+      <nav aria-label="Mobile">
+        {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+        <a href="/contact/" class="btn btn-green" style="margin-top:.6rem">Contact BugBoss</a>
+      </nav>
+    </details>
+  </div>
+</header>
+
+<style>
+  .site-header { position: sticky; top: 0; z-index: 50; background: rgba(255,255,255,.94); backdrop-filter: saturate(1.4) blur(8px); border-bottom: 1px solid var(--line); box-shadow: 0 2px 14px rgba(13,13,13,.05); }
+  .site-header::before { content: ""; display: block; height: 4px; background: var(--grad-neon); }
+  .bar { display: flex; align-items: center; gap: 1rem; min-height: 68px; }
+  .brand { display: flex; align-items: center; gap: .6rem; text-decoration: none; }
+  .brand-logo { height: 52px; width: auto; display: block; }
+  .desktop-nav { display: none; gap: 1.25rem; margin-left: auto; }
+  .desktop-nav a { position: relative; color: var(--ink); text-decoration: none; font-weight: 700; font-size: .95rem; padding: .2rem 0; }
+  .desktop-nav a::after { content: ""; position: absolute; left: 0; right: 0; bottom: -2px; height: 3px; background: var(--grad-neon); border-radius: 2px; transform: scaleX(0); transform-origin: left; transition: transform .16s ease; }
+  .desktop-nav a:hover { color: var(--green-800); }
+  .desktop-nav a:hover::after { transform: scaleX(1); }
+  .call-btn { display: none; white-space: nowrap; }
+  .mobile-menu { margin-left: auto; position: relative; }
+  .mobile-menu summary { list-style: none; display: grid; gap: 5px; padding: 10px; cursor: pointer; }
+  .mobile-menu summary::-webkit-details-marker { display: none; }
+  .mobile-menu summary span { width: 24px; height: 2.5px; background: var(--ink); border-radius: 2px; }
+  .mobile-menu nav { position: absolute; right: 0; top: 52px; background: #fff; border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: .6rem; display: flex; flex-direction: column; min-width: 220px; }
+  .mobile-menu nav a { padding: .7rem .8rem; text-decoration: none; color: var(--ink); font-weight: 600; border-radius: 8px; }
+  .mobile-menu nav a:hover { background: var(--bg-soft); }
+  @media (min-width: 960px) {
+    .desktop-nav { display: flex; }
+    .call-btn { display: inline-flex; margin-left: 1rem; }
+    .mobile-menu { display: none; }
+  }
+</style>

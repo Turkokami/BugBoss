@@ -1,0 +1,63 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { townsWithPages, getTown, hasResidentialSpoke } from '@/data/towns';
+import { townServiceNode } from '@/lib/geo';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+export function getStaticPaths() {
+  return townsWithPages.filter(hasResidentialSpoke).map((t) => ({ params: { town: t.slug } }));
+}
+
+const { town } = Astro.params;
+const t = getTown(town!)!;
+const L = t.local!;
+const url = `${business.url}/service-area/${t.slug}/residential/`;
+const answer = `BugBoss provides residential pest control for ${t.name}, WI homes — treating ${L.pestPressures.slice(0, 3).join(', ')} and more. We inspect, treat the source, and seal entry points on ${L.housing}, with no long-term contract. Local to Clintonville and family-owned.`;
+const faqs = [
+  { q: `How much does home pest control cost in ${t.name}?`, a: `It depends on the pest and the home, but BugBoss quotes ${t.name} homeowners up front with no obligation and no contract. ${L.housing.charAt(0).toUpperCase() + L.housing.slice(1)} each have their own needs, so we price the actual job.` },
+  { q: `What’s the most common home pest in ${t.name}?`, a: `Around ${t.name}, it’s ${L.pestPressures[0]} — followed closely by ${L.pestPressures[1]}. These track the local housing and landscape, which is why local knowledge beats a generic program.` },
+  { q: `Do you seal entry points or just spray in ${t.name}?`, a: `Both when needed. For rodents and fall invaders common to ${t.name}, sealing the entry points is what actually stops the problem returning — spraying alone only treats what’s already inside.` },
+  { q: `Is there a contract for home service in ${t.name}?`, a: `No. ${t.name} homeowners get one-time or seasonal service with no long-term contract and no cancellation fee.` },
+];
+const pageNodes = [
+  webPageNode({ url, name: `Residential Pest Control in ${t.name}, WI`, description: answer, primaryEntityId: `${url}#service` }),
+  townServiceNode(t, url),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Service Area', url: business.url + '/service-area/' },
+    { name: t.name, url: `${business.url}/service-area/${t.slug}/` },
+    { name: 'Residential', url },
+  ]),
+];
+---
+<BaseLayout title={`Residential Pest Control in ${t.name}, WI`} description={answer} path={`/service-area/${t.slug}/residential/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Residential</p>
+      <h1>Residential Pest Control in {t.name}, WI</h1>
+      <AnswerBox text={answer} />
+      <p class="lead">{L.intro}</p>
+      <p>Homes in {t.name} — {L.housing} — face a predictable seasonal pest calendar. BugBoss treats the specific problem and finds how it’s getting in, so you’re not calling about the same pest again next year. The heaviest local pressures we handle: {L.pestPressures.join(', ')}.</p>
+      <h2>How BugBoss handles it</h2>
+      <ul class="check">
+        <li>Full inspection of the home inside and out</li>
+        <li>Targeted treatment for the specific pest — not a blanket spray</li>
+        <li>Exclusion: sealing the entry points that let pests in</li>
+        <li>Seasonal options for {t.name}’s fall invaders and rodents</li>
+        <li>No long-term contract, no cancellation fee</li>
+      </ul>
+      <div class="callout">
+        <p class="mt0"><strong>Home pest problem in {t.name}?</strong> Call Brian directly.</p>
+        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href={`/service-area/${t.slug}/`} class="btn btn-ghost">All {t.name} services →</a></div>
+      </div>
+    </div>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`Home Pest Control in ${t.name}: FAQs`} /></div></section>
+  <Cta />
+  <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
+</BaseLayout>

@@ -1,0 +1,34 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/guides/';
+const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order);
+const desc = 'In-depth BugBoss guides to the pest and wildlife problems specific to rural Northeast & Central Wisconsin — cluster flies, bat exclusion law, farmhouse rodents, cabin pests, tick programs, and more.';
+const pageNodes = [
+  webPageNode({ url, name: 'Guides', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Guides', url }]),
+];
+---
+<BaseLayout title="Rural Wisconsin Pest & Wildlife Guides" description={desc} path="/guides/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Guides</p>
+      <h1>Rural Wisconsin Pest &amp; Wildlife Guides</h1>
+      <p class="lead">Deep, local references on the problems that actually define pest and wildlife work out here — written by the people who do it.</p>
+      <div class="grid cols-2">
+        {guides.map((g) => (
+          <a class="card" href={`/guides/${g.slug}/`}>
+            <span class="tag">{g.data.category}</span>
+            <h3 style="margin:.4rem 0 .3rem">{g.data.title}</h3>
+            <p style="font-size:.95rem;color:var(--muted);margin:0">{g.data.answer.slice(0, 140)}…</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+  <Cta />
+</BaseLayout>

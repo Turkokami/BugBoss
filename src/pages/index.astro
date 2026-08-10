@@ -1,0 +1,162 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Reviews from '@/components/Reviews.astro';
+import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
+import { business } from '@/data/business';
+import { services } from '@/data/services';
+import { flagshipPests } from '@/data/pests';
+import { towns } from '@/data/towns';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/';
+const tier1 = towns.filter((t) => t.tier === 1);
+const faqs = [
+  { q: 'What areas does BugBoss serve?', a: `BugBoss is based in Clintonville and serves rural and small-town Northeast and Central Wisconsin — Waupaca, Shawano, Waushara, Outagamie, Oconto, and Langlade counties — including Clintonville, Marion, Manawa, Iola, Tigerton, Shawano, New London, Waupaca, and dozens of surrounding communities.` },
+  { q: 'Does BugBoss require a long-term contract?', a: 'No. BugBoss does not lock customers into long-term contracts or charge cancellation fees. You get the problem solved and choose whether to continue with seasonal service — a direct answer to the biggest complaint people have about the national pest companies.' },
+  { q: 'Is BugBoss licensed and insured?', a: 'Yes. BugBoss The X-Terminator is a licensed and insured, family-owned Wisconsin pest control and wildlife company based in Clintonville, owned and operated by Brian Zahringer.' },
+  { q: 'Does BugBoss handle both pests and wildlife?', a: 'Yes. BugBoss covers residential and commercial pest control plus wildlife removal and exclusion — bats, raccoons, squirrels, skunks, and more — including Wisconsin DNR-compliant bat work. Few rural competitors offer both under one roof.' },
+  { q: 'How fast can BugBoss respond?', a: 'Because BugBoss is local to Clintonville rather than dispatching from the Fox Valley, response in the surrounding rural corridor is fast, often same-day for the towns closest to home base. Call 866-BUGBOSS to check current availability.' },
+];
+const pageNodes = [
+  webPageNode({ url, name: `${business.name} — ${business.tagline}`, description: business.tagline }),
+  faqPageNode(url, faqs),
+  breadcrumbNode(url, [{ name: 'Home', url }]),
+];
+---
+<BaseLayout
+  title={`${business.name} — Pest Control & Wildlife Removal in Northeast Wisconsin`}
+  description="Family-owned, licensed pest control and wildlife removal based in Clintonville, WI. Serving rural Northeast & Central Wisconsin. No long-term contracts — call BugBoss The X-Terminator."
+  path="/"
+  pageNodes={pageNodes}
+>
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <p class="eyebrow">Family-owned · Licensed &amp; Insured · Clintonville, WI</p>
+        <h1>Pest Control &amp; Wildlife Removal for <span class="hl">Rural Northeast Wisconsin</span></h1>
+        <p class="lead">BugBoss The X-Terminator is your local exterminator for pests and wildlife — from cluster flies and mice to bats and raccoons. No call center, no long-term contract. You talk to Brian, and the problem gets solved.</p>
+        <div class="cta-row">
+          <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
+          <a href="/contact/" class="btn btn-green">Request a Quote</a>
+        </div>
+        <p class="trust"><span class="stars">★★★★★</span> {business.rating.value}/5 from {business.rating.count}+ reviews · Serving 6 counties</p>
+      </div>
+      <figure class="hero-photo">
+        <img src="/images/hero-truck-spraying.jpg" width="1500" height="2000"
+          alt="BugBoss The X-Terminator technician treating a property at sunrise beside the green-and-white BugBoss pest and wildlife control truck"
+          fetchpriority="high" decoding="async" />
+      </figure>
+    </div>
+  </section>
+
+  <section class="soft why-band">
+    <div class="wrap">
+      <ul class="check why-grid">
+        <li>Local to Clintonville — not dispatched from the Fox Valley</li>
+        <li>Pests <em>and</em> wildlife under one roof</li>
+        <li>Wisconsin DNR-compliant bat exclusion</li>
+        <li>No long-term contracts, no cancellation fees</li>
+        <li>Owner-operated by a licensed applicator</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">What we do</p>
+      <h2 class="mt0">Three ways BugBoss protects your property</h2>
+      <div class="grid cols-3">
+        {services.map((s) => (
+          <a class="card" href={`/${s.slug}/`}>
+            <h3>{s.name}</h3>
+            <p>{s.answer}</p>
+            <span class="btn btn-ghost">Learn more →</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- LOCAL POSITIONING -->
+  <section class="soft">
+    <div class="wrap narrow">
+      <p class="eyebrow">Built for rural Wisconsin</p>
+      <h2 class="mt0">The national companies aren’t built for out here</h2>
+      <figure class="band-photo">
+        <img src="/images/truck-sunset.jpg" width="1500" height="1125" loading="lazy" decoding="async"
+          alt="The BugBoss pest and wildlife control truck parked at dusk beside a rural Wisconsin field with ladders on the rack" />
+      </figure>
+      <p>Farmhouses, cabins, pole barns, and older homes surrounded by fields and woods have a pest calendar all their own — carpenter ants in spring, wasps and mosquitoes in summer, cluster flies, boxelder bugs, lady beetles, and mice every fall, and overwintering pests in the walls all winter. Solving that takes exclusion work and local knowledge, not a quarterly spray from a truck that drove an hour to get here.</p>
+      <p>BugBoss lives and works in Clintonville. We know the buildings, the seasons, and the pests of this corner of Wisconsin — and we handle the wildlife the pest-only companies won’t touch.</p>
+      <div class="cta-row">
+        <a href="/no-contracts/" class="btn btn-ghost">Why we don’t do contracts</a>
+        <a href="/about/" class="btn btn-ghost">Meet Brian</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- PEST LIBRARY TEASER -->
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Pest Library</p>
+      <h2 class="mt0">Know your pest</h2>
+      <p class="lead">Straight answers on the pests and wildlife of Northeast Wisconsin — what they are, why they’re here, and how to deal with them.</p>
+      <div class="grid cols-4">
+        {flagshipPests.slice(0, 8).map((p) => (
+          <a class="card" href={`/pest-library/${p.slug}/`}>
+            <h3 style="font-size:1.05rem">{p.name}</h3>
+            <p style="font-size:.92rem;color:var(--muted);margin:0">{p.season}</p>
+          </a>
+        ))}
+      </div>
+      <p class="center" style="margin-top:1.4rem"><a href="/pest-library/" class="btn btn-green">Browse the full Pest Library</a></p>
+    </div>
+  </section>
+
+  <Reviews limit={6} />
+
+  <!-- SERVICE AREA TEASER -->
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Where we work</p>
+      <h2 class="mt0">Serving the towns the big companies skip</h2>
+      <p class="lead">Deep local coverage across rural Waupaca, Shawano, and the surrounding counties.</p>
+      <div class="town-tags">
+        {tier1.map((t) => <a href={`/service-area/${t.slug}/`} class="tag">{t.name}</a>)}
+      </div>
+      <p style="margin-top:1rem"><a href="/service-area/" class="btn btn-ghost">See all towns we serve →</a></p>
+    </div>
+  </section>
+
+  <section class="soft">
+    <div class="wrap narrow">
+      <Faq items={faqs} />
+    </div>
+  </section>
+
+  <Cta />
+
+  <style>
+    .hero { position: relative; padding: clamp(2.75rem, 6vw, 5.5rem) 0; background: radial-gradient(1200px 500px at 85% -10%, rgba(85,212,0,.16), transparent 60%), linear-gradient(180deg, var(--green-050), #fff); overflow: hidden; }
+    .hero h1 { font-size: clamp(2.4rem, 6vw, 4rem); }
+    .hero h1 .hl { background: var(--grad-neon); -webkit-background-clip: text; background-clip: text; color: transparent; }
+    .hero-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; position: relative; z-index: 1; }
+    .hero .trust { margin-top: 1.2rem; color: var(--muted); font-weight: 700; }
+    .hero .trust .stars { font-size: 1.05rem; }
+    .hero-photo { position: relative; margin: 0; border-radius: var(--radius-lg); overflow: hidden; aspect-ratio: 4 / 5; border: 3px solid var(--neon); box-shadow: var(--shadow-glow); }
+    .hero-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .why-band { padding: 1.6rem 0; }
+    .why-grid { display: grid; gap: .3rem 1.6rem; margin: 0; }
+    @media (min-width: 720px) { .why-grid { grid-template-columns: 1fr 1fr; } }
+    @media (min-width: 1040px) { .why-grid { grid-template-columns: repeat(3, 1fr); } }
+    .band-photo { margin: 1.4rem 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
+    .band-photo img { width: 100%; height: auto; display: block; }
+    .town-tags { display: flex; flex-wrap: wrap; gap: .3rem; }
+    a.tag { text-decoration: none; }
+    a.tag:hover { background: var(--green-500); color: #fff; }
+    @media (min-width: 900px) { .hero-grid { grid-template-columns: 1.4fr 1fr; align-items: center; } }
+  </style>
+</BaseLayout>

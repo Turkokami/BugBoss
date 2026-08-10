@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/pest-problems/';
+const items = (await getCollection('problems')).sort((a, b) => a.data.order - b.data.order);
+const byCat: Record<string, typeof items> = {};
+for (const p of items) (byCat[p.data.category] ??= []).push(p);
+const desc = 'Straight answers to the specific pest and wildlife problems rural Northeast Wisconsin homes and farms actually call about — mice in the pole barn, bats in the attic, cluster flies in the windows, and more.';
+const pageNodes = [
+  webPageNode({ url, name: 'Common Pest & Wildlife Problems', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Common Problems', url }]),
+];
+---
+<BaseLayout title="Common Pest & Wildlife Problems" description={desc} path="/pest-problems/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Got this problem?</p>
+      <h1>Common Pest &amp; Wildlife Problems</h1>
+      <p class="lead">The specific situations we get called about most across rural Northeast Wisconsin — with a straight answer and what it actually takes to fix each one.</p>
+      {items.length === 0 ? <p>Problem pages are being published.</p> : Object.entries(byCat).map(([cat, list]) => (
+        <>
+          <h2>{cat}</h2>
+          <div class="grid cols-2">
+            {list.map((p) => (
+              <a class="card" href={`/pest-problems/${p.slug}/`}>
+                <h3 style="font-size:1.05rem;margin-top:0">{p.data.title}</h3>
+                <p style="font-size:.9rem;color:var(--muted);margin:0">{p.data.answer.slice(0, 120)}…</p>
+              </a>
+            ))}
+          </div>
+        </>
+      ))}
+    </div>
+  </section>
+  <Cta />
+</BaseLayout>
