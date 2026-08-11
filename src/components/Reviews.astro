@@ -19,7 +19,7 @@ const stars = (n: number) => '★'.repeat(n) + '☆'.repeat(5 - n);
         <blockquote class="card">
           <span class="stars" aria-label={`${r.stars} out of 5 stars`}>{stars(r.stars)}</span>
           <p>“{r.text}”</p>
-          <cite>— {r.name}, {r.location}</cite>
+          <cite>— {r.name} · Verified {r.source} review</cite>
         </blockquote>
       ))}
     </div>

@@ -1,62 +1,61 @@
 // ---------------------------------------------------------------------------
-// REVIEWS — fixes audit C2 (empty testimonial section, worst conversion defect).
+// REVIEWS — real, verbatim 5-star Google Business Profile reviews for BugBoss
+// The X-Terminator (transcribed from the public GBP, 2026). The
+// AggregateRating (4.9 / 95) in business.ts is the real GBP figure.
 //
-// The AggregateRating (4.9 / 95) in business.ts is REAL GBP data. The quotes
-// below are PLACEHOLDERS written to match BugBoss's real positioning and MUST
-// be swapped for verbatim Google Business Profile reviews before launch —
-// only then should individual Review JSON-LD be emitted. Displaying them
-// unschemad (as we do now) is honest; marking up fabricated reviews is not.
+// Longer reviews are lightly trimmed to a representative excerpt (marked with
+// an ellipsis) and punctuation is tidied, but wording is not changed. Reviewer
+// names are the public display names shown on Google. No locations are shown
+// because Google does not publish reviewer towns — we do not invent them.
+//
+// NOTE on schema: we deliberately do NOT emit individual Review JSON-LD. Google
+// does not support self-hosted Review/AggregateRating markup for a business's
+// own LocalBusiness page for rich results, so displaying these unschemad is the
+// correct, guideline-safe choice.
 // ---------------------------------------------------------------------------
 
 export interface Review {
   name: string;
-  location: string;
   stars: number;
   text: string;
-  placeholder: boolean; // true until replaced with a verbatim GBP review
+  source: string; // where the review was left, e.g. 'Google'
 }
 
 export const reviews: Review[] = [
   {
-    name: 'Sample — replace with real GBP review',
-    location: 'Clintonville, WI',
+    name: 'Tiffani Pfefferle',
     stars: 5,
-    text: 'Having an X-Terminator right here in Clintonville works out great for our rural community. Brian knows exactly what we deal with out here and shows up fast.',
-    placeholder: true,
+    text: 'Called Brian to come take care of our mouse problem — we were finding multiple mice daily. Brian came out and after he left we no longer had any issues with mice! 10/10 recommend him for any bug/rodent services you need. Very affordable and great customer service.',
+    source: 'Google',
   },
   {
-    name: 'Sample — replace with real GBP review',
-    location: 'Marion, WI',
+    name: 'Donny Bee',
     stars: 5,
-    text: 'We had mice getting into the farmhouse every fall. Brian sealed up the entry points instead of just setting traps, and the problem actually stopped.',
-    placeholder: true,
+    text: "We had bees build a nest under our camper. Brian came right out and eliminated the bees, removing the nest — very quick response. Fair pricing. Definitely will be using again and recommending to the other campers.",
+    source: 'Google',
   },
   {
-    name: 'Sample — replace with real GBP review',
-    location: 'Manawa, WI',
+    name: 'Robert Jones',
     stars: 5,
-    text: 'Bats in the attic. He handled it the right way, waited for the legal window, sealed everything, and cleaned up. No contract, no runaround.',
-    placeholder: true,
+    text: "We've had BugBoss at our house for a few seasons now. Service has always been good — they'll drop by and chat if you're home, or just get it done if you're not. They've always been very respectful about dogs and kids, and making sure our fences get closed so everyone stays safe. Good communication, price is good, and I haven't seen a mosquito in my yard since 2022. I mean it, zero.",
+    source: 'Google',
   },
   {
-    name: 'Sample — replace with real GBP review',
-    location: 'Iola, WI',
+    name: 'Jody Kelly',
     stars: 5,
-    text: 'Cluster flies took over our lake cabin every year. First season with BugBoss and it was a completely different fall. Highly recommend for seasonal places.',
-    placeholder: true,
+    text: 'I highly recommend BugBoss for all your pest removal needs. BugBoss did a great job helping us mouse & bug proof our house. In no time the mice were gone from our house. Then we tried the mosquito abatement and we had a great summer enjoying our yard for the first time.',
+    source: 'Google',
   },
   {
-    name: 'Sample — replace with real GBP review',
-    location: 'Tigerton, WI',
+    name: 'Angela G',
     stars: 5,
-    text: 'Fast, honest, and local. You talk to the owner, not a call center in another state. That matters out here.',
-    placeholder: true,
+    text: 'Bug Boss showed up on a Saturday and had to crawl under our residence and locate a carcass after we got skirting on our house — and he did this in 45 minutes! 100% recommended! Very friendly, very personable, very timely.',
+    source: 'Google',
   },
   {
-    name: 'Sample — replace with real GBP review',
-    location: 'Shawano, WI',
+    name: 'Michele Herter',
     stars: 5,
-    text: 'Wasp nest on the eaves and a follow-up for boxelder bugs. Both done right the first time. No pressure to sign up for anything long-term.',
-    placeholder: true,
+    text: "I've been very happy with BugBoss and would highly recommend them to anyone looking for pest control services… Their prices are fair, their service is reliable, and I've always had great results. In all the time I've used them, I've never had to call for a respray — something I struggled with using other companies… It's hard to find a company these days that consistently shows up, does what they say they're going to do, and charges a fair price. BugBoss checks all those boxes.",
+    source: 'Google',
   },
 ];

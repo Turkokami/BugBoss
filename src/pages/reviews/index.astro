@@ -20,15 +20,12 @@ const pageNodes = [
       <h1>What Northeast Wisconsin says about BugBoss</h1>
       <p class="lead"><span class="stars">★★★★★</span> {business.rating.value} out of 5 from {business.rating.count} reviews across Google, Facebook, and Yelp.</p>
 
-      {/* NOTE: The quotes below are placeholders that match BugBoss's real positioning.
-          Replace each with a verbatim Google Business Profile review before launch,
-          then enable individual Review JSON-LD in src/lib/schema.ts. */}
       <div class="grid cols-2" style="margin-top:1.5rem">
         {reviews.map((r) => (
           <blockquote class="card">
             <span class="stars">{stars(r.stars)}</span>
             <p>“{r.text}”</p>
-            <cite>— {r.name}, {r.location}</cite>
+            <cite>— {r.name} · Verified {r.source} review</cite>
           </blockquote>
         ))}
       </div>
