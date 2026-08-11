@@ -1,6 +1,7 @@
 ---
 import { business, fullAddress } from '@/data/business';
 import { counties } from '@/data/towns';
+import { residentialServices } from '@/data/residential-services';
 ---
 <footer class="site-footer dark">
   <div class="wrap cols">
@@ -24,6 +25,9 @@ import { counties } from '@/data/towns';
     <div>
       <h4>Services</h4>
       <a href="/residential-pest-control/">Residential Pest Control</a>
+      {residentialServices.map((rs) => (
+        <a href={`/residential-pest-control/${rs.slug}/`}>· {rs.short}</a>
+      ))}
       <a href="/commercial-pest-control/">Commercial — by Industry</a>
       <a href="/commercial-pest-control/manufacturing/">· Manufacturing & Industrial</a>
       <a href="/commercial-pest-control/food-processing/">· Food Processing</a>
