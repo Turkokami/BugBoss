@@ -1,4 +1,5 @@
 ---
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
@@ -20,19 +21,28 @@ const hubUrl = `${business.url}/residential-pest-control/`;
 
 const pests = s.pests.map((ps) => getPest(ps)).filter(Boolean);
 
+// Deep long-form body (src/content/residential/<slug>.md), if present.
+const deepEntries = await getCollection('residential', (e) => e.data.service === s.slug);
+const deep = deepEntries[0];
+let Body: any = null;
+if (deep) Body = (await render(deep)).Content;
+
+const answer = deep?.data.answer ?? s.answer;
+const faqs = deep?.data.faqs?.length ? deep.data.faqs : s.faqs;
+
 const pageNodes = [
   {
     '@type': 'Service',
     '@id': `${url}#service`,
     name: s.name,
     serviceType: `Residential ${s.name}`,
-    description: s.answer,
+    description: answer,
     provider: { '@id': `${business.url}/#localbusiness` },
     isRelatedTo: { '@id': `${business.url}/residential-pest-control/#service` },
     url,
   },
-  webPageNode({ url, name: s.name, description: s.answer, primaryEntityId: `${url}#service` }),
-  faqPageNode(url, s.faqs),
+  webPageNode({ url, name: s.name, description: answer, primaryEntityId: `${url}#service` }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [
     { name: 'Home', url: business.url + '/' },
     { name: 'Residential Pest Control', url: hubUrl },
@@ -40,16 +50,18 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={`${s.name} in Northeast Wisconsin`} description={s.answer} path={`/residential-pest-control/${s.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={`${s.name} in Northeast Wisconsin`} description={answer} path={`/residential-pest-control/${s.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/residential-pest-control/">Residential Pest Control</a> · {s.short}</p>
       <h1>{s.name} in Northeast Wisconsin</h1>
-      <AnswerBox text={s.answer} />
+      <AnswerBox text={answer} />
       <p class="lead">{s.summary}</p>
 
       <h2>What’s included</h2>
       <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
+
+      {Body && <article class="prose"><Body /></article>}
 
       {pests.length > 0 && (
         <>
@@ -71,7 +83,7 @@ const pageNodes = [
     </div>
   </section>
   <Reviews limit={3} />
-  <section class="soft"><div class="wrap narrow"><Faq items={s.faqs} heading={`${s.name}: Frequently Asked Questions`} /></div></section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`${s.name}: Frequently Asked Questions`} /></div></section>
   <Cta title="Home pest problem? Let’s solve it." />
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }

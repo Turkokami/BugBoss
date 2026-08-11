@@ -85,4 +85,16 @@ const commercial = defineCollection({
   }),
 });
 
-export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial };
+// Deep long-form body for a residential service spoke
+// (matched to src/data/residential-services.ts by `service`).
+const residential = defineCollection({
+  type: 'content',
+  schema: z.object({
+    service: z.string(),
+    title: z.string(),
+    answer: z.string(),
+    faqs: faq.default([]),
+  }),
+});
+
+export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential };
