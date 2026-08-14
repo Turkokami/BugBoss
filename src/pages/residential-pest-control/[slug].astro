@@ -56,6 +56,11 @@ const pageNodes = [
       <p class="eyebrow"><a href="/residential-pest-control/">Residential Pest Control</a> · {s.short}</p>
       <h1>{s.name} in Northeast Wisconsin</h1>
       <AnswerBox text={answer} />
+      {s.photo && (
+        <figure class="band-photo">
+          <img src={s.photo.src} width="1125" height="1500" loading="lazy" decoding="async" alt={s.photo.alt} />
+        </figure>
+      )}
       <p class="lead">{s.summary}</p>
 
       <h2>What’s included</h2>
@@ -88,5 +93,7 @@ const pageNodes = [
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
     .eyebrow a { color: var(--green-600); text-decoration: none; }
+    .band-photo { margin: 1.4rem auto; max-width: 380px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
+    .band-photo img { width: 100%; height: auto; display: block; }
   </style>
 </BaseLayout>

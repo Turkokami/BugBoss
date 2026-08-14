@@ -118,6 +118,22 @@ const pageNodes = [
 
   <Reviews limit={6} />
 
+  <!-- IN THE FIELD TEASER -->
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">In the field</p>
+      <h2 class="mt0">Real jobs, real Wisconsin homes</h2>
+      <p class="lead">No stock photos — this is Brian and the BugBoss team on actual service calls across the area.</p>
+      <div class="field-row">
+        <a href="/gallery/"><img src="/images/field-owner-portrait.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in the field" /></a>
+        <a href="/gallery/"><img src="/images/field-hornet-nest.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="A bald-faced hornet nest on a home's soffit vent" /></a>
+        <a href="/gallery/"><img src="/images/field-shoe-covers.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss technician wearing shoe covers for an inside treatment" /></a>
+        <a href="/gallery/"><img src="/images/field-ac-exterior.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss treating the exterior of a home and yard edge" /></a>
+      </div>
+      <p class="center" style="margin-top:1.4rem"><a href="/gallery/" class="btn btn-green">See the full gallery</a></p>
+    </div>
+  </section>
+
   <!-- SERVICE AREA TEASER -->
   <section>
     <div class="wrap">
@@ -154,6 +170,11 @@ const pageNodes = [
     @media (min-width: 1040px) { .why-grid { grid-template-columns: repeat(3, 1fr); } }
     .band-photo { margin: 1.4rem 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
     .band-photo img { width: 100%; height: auto; display: block; }
+    .field-row { display: grid; gap: 1rem; grid-template-columns: 1fr 1fr; }
+    .field-row a { display: block; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
+    .field-row img { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; transition: transform .2s ease; }
+    .field-row a:hover img { transform: scale(1.04); }
+    @media (min-width: 720px) { .field-row { grid-template-columns: repeat(4, 1fr); } }
     .town-tags { display: flex; flex-wrap: wrap; gap: .3rem; }
     a.tag { text-decoration: none; }
     a.tag:hover { background: var(--green-500); color: #fff; }
