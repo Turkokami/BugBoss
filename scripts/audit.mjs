@@ -15,23 +15,45 @@ import { join, relative } from 'node:path';
 const DIST = 'dist';
 const failures = [];
 const counts = { pages: 0 };
+// Cross-page state for the link checks in §8.1: "links up to parent and
+// laterally to siblings; not orphaned".
+const existingPaths = new Set();
+const linkTargets = new Map(); // href -> Set of pages linking to it
+const inboundLinks = new Map(); // page -> count of other pages linking in
+const noindexPages = new Set();
 
-function walk(dir) {
+function walk(dir, ext = '.html') {
   const out = [];
   for (const entry of readdirSync(dir)) {
     const p = join(dir, entry);
-    if (statSync(p).isDirectory()) out.push(...walk(p));
-    else if (entry.endsWith('.html')) out.push(p);
+    if (statSync(p).isDirectory()) out.push(...walk(p, ext));
+    else if (!ext || entry.endsWith(ext)) out.push(p);
   }
   return out;
 }
 
 const fail = (page, check, detail) => failures.push({ page, check, detail });
 
-for (const file of walk(DIST)) {
+const files = walk(DIST);
+
+// First pass: every path this build actually produced — pages and assets alike,
+// so link targets resolve against reality rather than a hand-maintained route
+// list. Assets count: a dead stylesheet or favicon link is still a dead link.
+for (const f of walk(DIST, '')) existingPaths.add('/' + relative(DIST, f).replace(/index\.html$/, ''));
+
+for (const file of files) {
   const page = '/' + relative(DIST, file).replace(/index\.html$/, '');
   const html = readFileSync(file, 'utf8');
   counts.pages++;
+  if (/name="robots"[^>]*noindex/.test(html)) noindexPages.add(page);
+
+  // --- Internal links -------------------------------------------------------
+  for (const href of html.match(/href="\/[^"]*"/g) ?? []) {
+    const target = href.slice(6, -1).split(/[#?]/)[0];
+    if (!target.startsWith('/')) continue;
+    (linkTargets.get(target) ?? linkTargets.set(target, new Set()).get(target)).add(page);
+    if (target !== page) inboundLinks.set(target, (inboundLinks.get(target) ?? 0) + 1);
+  }
 
   // --- Structure -----------------------------------------------------------
   const h1s = html.match(/<h1[\s>]/g) ?? [];
@@ -128,6 +150,21 @@ for (const file of walk(DIST)) {
   if (/href="https?:\/\/[^"]*(staging|\.local|localhost|preview)[^"]*"/.test(html)) {
     fail(page, 'staging-link', 'non-production link in output');
   }
+}
+
+// --- Cross-page link checks -------------------------------------------------
+for (const [target, sources] of linkTargets) {
+  if (!existingPaths.has(target)) {
+    fail([...sources][0], 'dead-internal-link', `${target} (from ${sources.size} page(s))`);
+  }
+}
+// Orphan check: every indexable page should be reachable from somewhere else.
+// noindex utility pages are exempt — /thank-you/ is reached by form redirect
+// and is deliberately not linked from the navigation.
+for (const path of existingPaths) {
+  if (!path.endsWith('/')) continue;
+  if (noindexPages.has(path)) continue;
+  if (!inboundLinks.get(path)) fail(path, 'orphaned-page', 'no inbound internal links');
 }
 
 // --- Report ----------------------------------------------------------------

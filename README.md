@@ -27,12 +27,14 @@ src/
     business.ts     ← single source of truth for NAP, phones, socials, owner, rating
     towns.ts        ← the GEO MODEL: every town, its tier, cluster type, and local details
     services.ts     ← the 3 service hubs
-    pests.ts        ← the Pest Library (17 pests today; each with AEO answer + FAQs)
-    reviews.ts      ← testimonials (placeholders — see TODOs)
+    pests.ts        ← the Pest Library (55 pests; each with AEO answer + FAQs)
+    reviews.ts      ← testimonials (real verbatim GBP reviews)
+    expert-notes.ts ← per-pest first-person line for the named-expert block
   lib/
-    schema.ts       ← the 7-node JSON-LD @graph (Organization → LocalBusiness → Person → WebSite → Service → WebPage → FAQPage)
+    schema.ts       ← the JSON-LD @graph: WebSite, WebPage, ImageObject, LocalBusiness,
+                      Service/Article, FAQPage, BreadcrumbList, plus Organization + Person
     geo.ts          ← builds *differentiated* local copy + FAQs per town
-  components/        ← Header, Footer, PhoneBar, AnswerBox, Faq, Reviews, Cta
+  components/        ← Header, Footer, PhoneBar, AnswerBox, ExpertBlock, Faq, Reviews, Cta
   layouts/BaseLayout.astro  ← injects the entity graph on every page
   pages/             ← the actual routes (see below)
   styles/global.css  ← the design system
@@ -107,7 +109,7 @@ content lives in Astro content collections (`src/content/`):
 
 **Core & trust cluster** — Homepage, Residential / Commercial / Wildlife hubs, About Brian (Person entity), Reviews, Our Guarantee, No Contracts, Contact, Privacy, Terms, Blog index.
 
-**Pest Library** — index + 17 programmatic pest pages. Flagship rural pests (cluster flies, boxelder bugs, Asian lady beetles, mice, bats, wasps/hornets, carpenter ants, raccoons) are written to full depth with an 8-question FAQ each; the rest have solid entries to expand in Phase 3 (target: 55).
+**Pest Library** — index + **55 programmatic pest pages**, every one deep (3,400–4,800 words) with a 40–60 word AEO answer, 12–15 FAQs, a named-expert block, and full schema. Phase 3 target met.
 
 **Tier 1 geo layer (the moat)** — 20 town hub pages, each with *genuinely differentiated* local content (distance, direction, county, local pest pressures, housing stock, landmarks). Clintonville gets the full 4-page cluster (hub + residential + commercial + wildlife); Marion, Manawa, Iola, Tigerton, and Embarrass get hub + residential + wildlife; the remaining Tier 1 towns get a single deep hub page.
 
@@ -116,11 +118,11 @@ content lives in Astro content collections (`src/content/`):
 | Audit defect | Fix in this build |
 |---|---|
 | C1 — "Founded 2021" + "6 years" contradiction | One value: `foundingYear: 2021` in `business.ts`. The "6 years" claim is gone sitewide. |
-| C2 — empty testimonial section | `Reviews` component + real `AggregateRating` (4.9/95). *(Quotes are placeholders — see TODOs.)* |
+| C2 — empty testimonial section | `Reviews` component + real `AggregateRating` (4.9/95), with real verbatim GBP review quotes. |
 | C3 — dead "Learn More" links | Verified: **0 dead internal links** across all pages. |
 | C4 — nav injected into page body | Clean `Header` component, nav in the header only. |
 | C5 — inverted geo targeting | Tier model builds the rural moat first; metros are Tier 3 long-tail. |
-| H1 — 866-only phone | Local **715** line published alongside the 866 vanity number *(placeholder — see TODOs)*. |
+| H1 — 866-only phone | Resolved differently: 866-BUGBOSS is the single published number sitewide, byte-identical to GBP. No placeholder number remains. |
 | H2 — footer missing ZIP | ZIP **54929** in footer + schema on all 63 pages; NAP byte-consistent. |
 | H3 — no FAQ / answer boxes | `AnswerBox` (40–60 word answer under every H1) + `Faq` with **FAQPage schema** everywhere. |
 | H4 — no entity graph | Connected 7-node JSON-LD `@graph` on every page; `areaServed` covers 92 places. |
@@ -130,10 +132,23 @@ content lives in Astro content collections (`src/content/`):
 
 ## ⚠️ TODOs before launch (search the code for `TODO`)
 
-1. **Local 715 phone number** — `src/data/business.ts` (`phoneLocal`). Currently `715-000-0000`.
-2. **WI pesticide applicator license #** — `src/data/business.ts` (`owner.licenseNumber`).
-3. **Real Google reviews** — replace the placeholder quotes in `src/data/reviews.ts` with verbatim GBP reviews, then enable individual `Review` JSON-LD.
-4. **Contact form — LIVE, wired to Brian's GoHighLevel.** The `/contact/` page embeds Brian's
+Only two content items are still open. Both need real values from Brian —
+nothing in the code is blocking.
+
+1. **Exact office hours** — `src/data/business.ts` (`hours` and `hoursSpec`). Keep the
+   human-readable string and the machine-readable spec in sync; the spec drives
+   `openingHoursSpecification` in the LocalBusiness node.
+2. **Google Maps / Yelp profile URLs** — `src/data/business.ts`. Currently search-style
+   URLs rather than confirmed canonical profile links.
+
+Resolved since the original list: the 866 number is now the single published line
+sitewide (no 715 placeholder remains), the applicator license number is real
+(#103689), the review quotes are real verbatim GBP reviews, the contact form is
+live, and 9 real photos are wired in. A professional headshot of Brian would still
+be an upgrade on the current field photo — it is used by the `ExpertBlock`
+component on every Pest Library page and by the `#expertimage` schema node.
+
+**Contact form — LIVE, wired to Brian's GoHighLevel.** The `/contact/` page embeds Brian's
    existing GoHighLevel (LeadConnector) form (`link.bugbosswi.com/widget/form/SrYJFJnTgR63djgpcblC`),
    so submissions flow into his current lead tracking + AI follow-up exactly as on the old site —
    no separate inbox or activation needed. The form ID and domain live in `src/data/business.ts`
@@ -141,17 +156,53 @@ content lives in Astro content collections (`src/content/`):
    swap forms, paste a new form ID from GHL. A crawlable call/email fallback sits under the embed.
    *(A native FormSubmit form + `/thank-you/` page remain in the repo as a documented fallback if
    he ever wants to move off the iframe — see `formEndpoint`.)*
-5. **Photos** — 9 real BugBoss photos are wired in (`/public/images/`). Swap/add more anytime; the About page and service pages are set up to feature them. A professional headshot of Brian would still be a nice upgrade over the current field photo.
-6. **Legal entity name & exact hours** — confirm in `business.ts`.
-7. **Confirm Google Maps / Yelp profile URLs** in `business.ts`.
+
+## Smart Site Master Plan conformance
+
+The build is aligned to the *Smart Site Master Plan v1* (August 2026). Where the
+site follows it, and where it deliberately does not:
+
+**Conforming.** Part Five's keystone entity graph is built and every page imports
+its nodes by `@id` — WebSite, WebPage, ImageObject, LocalBusiness, Service or
+Article, FAQPage, and BreadcrumbList, plus Organization and a `#brian` Person
+node referenced as `author`/`reviewedBy`. The §4.1 on-page contract is in place on
+the Pest Library: AEO quick answer, named-expert block with credential and license
+number, Q&A body, local proof, one FAQ block, and a market-named CTA. Rules 1–10
+hold: data-driven templates, one constants file, one H1 and one FAQPage per page,
+alt text everywhere, one services hub per service line, and defined-term guarantee
+language linked to `/our-guarantee/`.
+
+**Deliberate deviations.**
+- **URL taxonomy.** The site uses `/service-area/{town}/`,
+  `/commercial-pest-control/{industry}/`, and `/pest-problems/{slug}/` rather than
+  §3.3's `/locations/`, `/commercial/`, and `/services/{service}/{problem}/`.
+  `/pest-library/{pest}/` already matches. Migrating is a 200-page URL change and a
+  301 map, and it is a decision to make deliberately before launch rather than
+  drift into — see the recommendation below.
+- **FAQ count.** §4.1 specifies six to eight questions; library and town pages carry
+  12–15. This follows the plan's own "content depth is the moat" guardrail (§1.2),
+  which explicitly overrides trimming to a template.
+- **Statement H2s.** §4.1 asks for question-formed H2s; the long-form pages mostly
+  use statement headings. Worth revisiting in a polish pass.
+
+### Acceptance gate
+
+`npm run build && npm run audit` runs the mechanically checkable half of §8.1
+against the built output — one H1, no footer or nav headings, valid JSON-LD, no
+duplicate nodes, no dangling `@id` references, required nodes present, one FAQPage
+matching the visible FAQ, schema NAP matching visible NAP character for character,
+image alt text, template-variable leaks, dead internal links, orphaned pages, and
+the staging-link and `about:blank` entries from the known-failure catalog. It exits
+non-zero, so it can gate a deploy. Currently passing on all 218 pages.
 
 ## Next phases (from the audit roadmap)
 
 - **Done:** Foundation + entity graph, Tier 1 moat (deep), Tier 2 Ring (deep), 8 specialty
-  guides, flagship pest library, seasonal blog, photos.
-- **Phase 2 remaining** — Tier 3 metro long-tail *neighborhood* pages (Appleton/Green Bay
-  districts — deliberately NOT full town pages, per the audit), Tier 4 test towns (Antigo first).
-- **Phase 3 remaining** — Pest Library → 55, 30 problem-specific micro pages, pest×city
+  guides, **Pest Library complete at 55 profiles**, seasonal blog, photos, Tier 3
+  neighborhood pages, Tier 4 test towns, full 16-industry commercial section.
+- **Phase 3 remaining** — 30 problem-specific micro pages (22 built), pest×city
   crossing pages, blog to 8–10 posts/month.
 - **Phase 4** — review velocity 95→300, TikTok/YouTube `VideoObject` schema, chamber/association links.
-- **Polish pass** — vary shared town boilerplate; deepen remaining pest pages; extend town bodies to 3,500+ words.
+- **Blue-ocean (Master Plan §7 Phase 5)** — a `/compliance/` cluster and a `/financing/`
+  page, neither of which exists yet and neither of which any local competitor builds.
+- **Polish pass** — vary shared town boilerplate; question-form the H2s; extend town bodies to 3,500+ words.
