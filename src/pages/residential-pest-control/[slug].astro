@@ -72,7 +72,7 @@ const pageNodes = [
       {pests.length > 0 && (
         <>
           <h2>Pests we handle under this service</h2>
-          <div class="town-tags" style="display:flex;flex-wrap:wrap;gap:.3rem;">
+          <div class="tag-grid">
             {pests.map((p) => <a href={`/pest-library/${p!.slug}/`} class="tag">{p!.name}</a>)}
           </div>
           <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>

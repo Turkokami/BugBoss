@@ -1,9 +1,33 @@
 ---
+// CLOSING CTA — Master Plan §4.1 block 6, the location-named call to action
+// that ends nearly every page on the site.
+//
+// It carries the quote form as well as the phone number, because a visitor who
+// has just read a 4,000-word pest page should be able to act without a second
+// navigation step. This component is used by 26 templates, so putting the form
+// here is what makes it site-wide from one change (Rule 1).
+//
+// The embed is the exact configuration confirmed working on /contact/ — same
+// component, no variations, no lazy-loading. Pages that already place a
+// QuoteForm of their own pass `form={false}`, because two GHL embeds on one URL
+// would collide on the iframe id that form_embed.js targets.
 import { business } from '@/data/business';
-interface Props { title?: string; sub?: string; }
+import QuoteForm from '@/components/QuoteForm.astro';
+
+interface Props {
+  title?: string;
+  sub?: string;
+  /** Set false on pages that already render their own QuoteForm. */
+  form?: boolean;
+  /** Heading above the embed. */
+  formHeading?: string;
+}
+
 const {
   title = 'Got a pest or wildlife problem? Talk to Brian.',
   sub = 'Local, family-owned, licensed & insured. No long-term contracts — just the problem solved.',
+  form = true,
+  formHeading = 'Request a free quote',
 } = Astro.props;
 ---
 <section class="dark cta">
@@ -12,10 +36,33 @@ const {
     <p class="lead" style="color:#bfe0cb">{sub}</p>
     <div class="cta-row" style="justify-content:center">
       <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
-      <a href="/contact/" class="btn btn-white">Request a Quote</a>
+      {!form && <a href="/contact/" class="btn btn-white">Request a Quote</a>}
     </div>
+    {form && (
+      <div class="cta-form">
+        <QuoteForm heading={formHeading} />
+      </div>
+    )}
   </div>
 </section>
 <style>
   .cta h2 { margin-top: 0; }
+  /* The embed is a white form, so it sits on its own light card inside the
+     dark band rather than floating on the dark background. */
+  .cta-form {
+    margin: 1.8rem auto 0;
+    max-width: 640px;
+    background: #fff;
+    border-radius: var(--radius-lg);
+    padding: 1.25rem;
+    text-align: left;
+    box-shadow: var(--shadow-lg);
+  }
+  /* The card is white but sits inside .dark, which paints headings, body text
+     and links for a dark background — so they have to be reset here or the
+     heading is white-on-white and invisible. :global because the heading and
+     note are rendered by QuoteForm and carry that component's scope id. */
+  .cta-form :global(h2) { color: var(--ink); }
+  .cta-form :global(p) { color: var(--muted); }
+  .cta-form :global(a:not(.btn)) { color: var(--green-700); }
 </style>

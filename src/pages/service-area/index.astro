@@ -38,7 +38,7 @@ const pageNodes = [
           <>
             <h2>{tier.label}</h2>
             <p style="margin-top:-.4rem;color:var(--muted)">{tier.note}</p>
-            <div class="town-tags" style="display:flex;flex-wrap:wrap;gap:.35rem;margin-bottom:1rem;">
+            <div class="tag-grid" style="margin-bottom:1rem">
               {list.map((t) => (
                 withPages.has(t.slug)
                   ? <a href={`/service-area/${t.slug}/`} class="tag tag-link">{t.name}</a>

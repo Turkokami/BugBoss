@@ -163,7 +163,7 @@ const pageNodes = [
       <p class="eyebrow">Where we work</p>
       <h2 class="mt0">Serving the towns the big companies skip</h2>
       <p class="lead">Deep local coverage across rural Waupaca, Shawano, and the surrounding counties.</p>
-      <div class="town-tags">
+      <div class="tag-grid">
         {tier1.map((t) => <a href={`/service-area/${t.slug}/`} class="tag">{t.name}</a>)}
       </div>
       <p style="margin-top:1rem"><a href="/service-area/" class="btn btn-ghost">See all towns we serve →</a></p>
@@ -176,7 +176,9 @@ const pageNodes = [
     </div>
   </section>
 
-  <Cta />
+  {/* form={false}: the homepage already places a QuoteForm high on the page,
+      and two GHL embeds on one URL would collide on the iframe id. */}
+  <Cta form={false} />
 
   <style>
     .hero { position: relative; padding: clamp(2.75rem, 6vw, 5.5rem) 0; background: radial-gradient(1200px 500px at 85% -10%, rgba(85,212,0,.16), transparent 60%), linear-gradient(180deg, var(--green-050), #fff); overflow: hidden; }
@@ -200,7 +202,6 @@ const pageNodes = [
     .field-row :global(img) { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; transition: transform .2s ease; }
     .field-row a:hover :global(img) { transform: scale(1.04); }
     @media (min-width: 720px) { .field-row { grid-template-columns: repeat(4, 1fr); } }
-    .town-tags { display: flex; flex-wrap: wrap; gap: .3rem; }
     a.tag { text-decoration: none; }
     a.tag:hover { background: var(--green-500); color: #fff; }
     @media (min-width: 900px) { .hero-grid { grid-template-columns: 1.4fr 1fr; align-items: center; } }
