@@ -67,6 +67,25 @@ const pageNodes = [
     </div>
   </section>
 
+  <!-- QUOTE FORM — identical configuration to /contact/, which is the version
+       confirmed working on mobile and desktop. No `compact` and no `lazy`: the
+       form now sits near the top of the page, so deferring it would be wrong,
+       and keeping the two embeds byte-identical means the working one stays the
+       reference. Same GHL form, so leads land in the same tracking. -->
+  <section class="soft">
+    <div class="wrap narrow">
+      <p class="eyebrow center">Get in touch</p>
+      <h2 class="mt0 center">Tell Brian what you’re dealing with</h2>
+      <p class="lead center form-intro">
+        Send the details and you’ll hear back from Brian himself — no call centre, no
+        long-term contract. Serving Clintonville and the rural corridor around it.
+      </p>
+      <div class="card form-card">
+        <QuoteForm heading="Request a free quote" />
+      </div>
+    </div>
+  </section>
+
   <!-- SERVICES -->
   <section>
     <div class="wrap">
@@ -148,24 +167,6 @@ const pageNodes = [
         {tier1.map((t) => <a href={`/service-area/${t.slug}/`} class="tag">{t.name}</a>)}
       </div>
       <p style="margin-top:1rem"><a href="/service-area/" class="btn btn-ghost">See all towns we serve →</a></p>
-    </div>
-  </section>
-
-  <!-- QUOTE FORM -->
-  <section class="soft">
-    <div class="wrap narrow">
-      <p class="eyebrow center">Get in touch</p>
-      <h2 class="mt0 center">Tell Brian what you’re dealing with</h2>
-      <p class="lead center form-intro">
-        Send the details and you’ll hear back from Brian himself — no call centre, no
-        long-term contract. Serving Clintonville and the rural corridor around it.
-      </p>
-      <div class="card form-card">
-        {/* Lazy: this sits well below the fold, so it must not compete with the
-            hero for bandwidth. The same GHL form as /contact/, so leads land in
-            the same tracking and follow-up. */}
-        <QuoteForm heading="Request a free quote" compact lazy />
-      </div>
     </div>
   </section>
 
