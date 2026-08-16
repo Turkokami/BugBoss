@@ -62,7 +62,7 @@ const pageNodes = [
   <style>
     .gallery { display: grid; gap: 1rem; grid-template-columns: 1fr 1fr; margin-top: 1.6rem; }
     .gallery figure { margin: 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); background: var(--bg-soft); }
-    .gallery img { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; }
+    .gallery :global(img) { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; }
     .gallery figcaption { padding: .6rem .8rem; font-size: .88rem; color: var(--muted); font-weight: 600; }
     @media (min-width: 720px) { .gallery { grid-template-columns: repeat(3, 1fr); } }
     @media (min-width: 1040px) { .gallery { grid-template-columns: repeat(4, 1fr); } }

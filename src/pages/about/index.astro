@@ -96,12 +96,12 @@ const pageNodes = [
   <style>
     .about-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; }
     .photo { margin: 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow-lg); border: 3px solid var(--neon); }
-    .photo img { width: 100%; height: auto; display: block; }
+    .photo :global(img) { width: 100%; height: auto; display: block; }
     .creds { margin-top: 2rem; background: var(--bg-dark); color: #eafff0; border-radius: var(--radius-lg); padding: 1.6rem 1.7rem; box-shadow: var(--shadow-glow); }
     .creds h3 { color: #fff; }
     .creds ul.check li::before { color: var(--neon-bright); }
     .gallery figure { margin: 0; border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow); aspect-ratio: 3 / 4; }
-    .gallery img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .gallery :global(img) { width: 100%; height: 100%; object-fit: cover; display: block; }
     @media (min-width: 820px) { .about-grid { grid-template-columns: 380px 1fr; align-items: center; } }
   </style>
 </BaseLayout>

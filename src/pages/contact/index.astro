@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import QuoteForm from '@/components/QuoteForm.astro';
 import { business, fullAddress } from '@/data/business';
 import { webPageNode, breadcrumbNode } from '@/lib/schema';
 
@@ -27,36 +28,14 @@ const pageNodes = [
       </div>
       <div>
         <div class="card">
-          <h2 class="mt0">Request a quote</h2>
-          {/* Brian's GoHighLevel (LeadConnector) lead form — feeds his existing lead
-              tracking + AI follow-up. Form ID/domain in src/data/business.ts.
-              form_embed.js (loaded below) auto-resizes the iframe height. */}
-          <iframe
-            src={`${business.ghlDomain}/widget/form/${business.ghlFormId}`}
-            id={`inline-${business.ghlFormId}`}
-            class="ghl-embed"
-            title="BugBoss quote request form"
-            loading="lazy"
-            data-layout="{'id':'INLINE'}"
-            data-trigger-type="alwaysShow"
-            data-activation-type="alwaysActivated"
-            data-deactivation-type="neverDeactivate"
-            data-form-name="BugBoss Contact Form"
-            data-height="640"
-            data-layout-iframe-id={`inline-${business.ghlFormId}`}
-            data-form-id={business.ghlFormId}>
-          </iframe>
-          <p class="form-note">Form not loading? Call <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> or email <a href={`mailto:${business.email}`}>{business.email}</a>.</p>
+          <QuoteForm />
         </div>
       </div>
     </div>
   </section>
-  <script is:inline src="https://link.bugbosswi.com/js/form_embed.js"></script>
   <style>
     .contact-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; }
     .contact-card p { margin: .4rem 0; }
-    .ghl-embed { width: 100%; min-height: 640px; border: none; border-radius: 12px; display: block; background: var(--bg-soft); }
-    .form-note { font-size: .85rem; color: var(--muted); margin: .6rem 0 0; }
     @media (min-width: 820px) { .contact-grid { grid-template-columns: 1fr 1fr; } }
   </style>
 </BaseLayout>

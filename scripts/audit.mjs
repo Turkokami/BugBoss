@@ -172,6 +172,27 @@ for (const file of files) {
   }
 }
 
+// --- Source lint --------------------------------------------------------------
+// Every <img> on the site is emitted by <Photo>, which means it carries Photo's
+// Astro scope id rather than the parent page's. A bare `img` selector inside a
+// page's scoped <style> therefore silently stops matching — and because the
+// global reset already sets max-width/height, the breakage is invisible on any
+// image whose natural aspect ratio happens to match. This caught a real
+// regression once; the check is here so it cannot happen again quietly.
+for (const file of walk('src', '.astro')) {
+  if (file.endsWith('Photo.astro')) continue;
+  const src = readFileSync(file, 'utf8');
+  const styles = src.match(/<style>[\s\S]*?<\/style>/g) ?? [];
+  for (const block of styles) {
+    for (const line of block.split('\n')) {
+      // A selector ending in a bare `img` that is not scope-pierced.
+      if (/(^|[\s>+~])img\s*[,{]/.test(line) && !/:global\(\s*img/.test(line)) {
+        fail(file, 'scoped-img-selector', line.trim().slice(0, 80));
+      }
+    }
+  }
+}
+
 // --- Cross-page link checks -------------------------------------------------
 for (const [target, sources] of linkTargets) {
   if (!existingPaths.has(target)) {

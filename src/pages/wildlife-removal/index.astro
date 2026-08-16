@@ -40,7 +40,7 @@ const pageNodes = [
       <h2>What’s included</h2>
       <style>
         .band-photo { margin: 1.4rem auto; max-width: 340px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
-        .band-photo img { width: 100%; height: auto; display: block; }
+        .band-photo :global(img) { width: 100%; height: auto; display: block; }
       </style>
       <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
       <h2>Wildlife we handle</h2>

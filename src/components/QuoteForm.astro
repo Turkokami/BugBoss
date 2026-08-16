@@ -1,0 +1,170 @@
+---
+// QUOTE FORM — the single place the GoHighLevel (LeadConnector) lead form is
+// embedded, so every lead lands in Brian's existing GHL tracking and AI
+// follow-up. Form ID and domain live in src/data/business.ts.
+//
+// This wrapper exists because a bare iframe embed has been observed collapsing
+// on the live site: the form_embed.js script resizes the iframe at runtime, and
+// when the form does not come back the box can end up with no usable height,
+// leaving a card with a heading and nothing in it.
+//
+// Three defences, in order:
+//   1. The shell reserves its own height, so the layout holds even if the
+//      iframe is collapsed, hidden, or removed by the third-party script.
+//   2. min-height carries !important so an inline height set by that script
+//      cannot shrink the frame below something usable.
+//   3. A watchdog checks the rendered height after a few seconds and, if the
+//      embed has not come up, swaps in a visible call/email fallback rather
+//      than leaving the visitor staring at an empty card.
+import { business } from '@/data/business';
+
+interface Props {
+  heading?: string;
+  /** Shorter frame for in-page placements like the homepage. */
+  compact?: boolean;
+  /** Skip the <script> tag when another QuoteForm on the page already loads it. */
+  skipScript?: boolean;
+  /** Defer loading until scrolled near — for placements well below the fold. */
+  lazy?: boolean;
+}
+
+const { heading = 'Request a quote', compact = false, skipScript = false, lazy = false } = Astro.props;
+const frameId = `inline-${business.ghlFormId}`;
+const minHeight = compact ? 560 : 640;
+---
+<div class="quote-form">
+  <h2 class="mt0">{heading}</h2>
+  <div class="ghl-shell" style={`--frame-min:${minHeight}px`}>
+    <iframe
+      src={`${business.ghlDomain}/widget/form/${business.ghlFormId}`}
+      id={frameId}
+      class="ghl-embed"
+      title="BugBoss quote request form"
+      data-layout="{'id':'INLINE'}"
+      data-trigger-type="alwaysShow"
+      data-activation-type="alwaysActivated"
+      data-deactivation-type="neverDeactivate"
+      data-form-name="BugBoss Contact Form"
+      data-height={String(minHeight)}
+      data-layout-iframe-id={frameId}
+      data-form-id={business.ghlFormId}
+      loading={lazy ? 'lazy' : undefined}>
+    </iframe>
+
+    {/* Shown only if the watchdog decides the embed did not come up. Kept in
+        the HTML rather than injected, so it is crawlable and works without JS. */}
+    <div class="embed-fallback" hidden>
+      <p class="ef-title">The quote form didn’t load.</p>
+      <p class="ef-body">
+        It may be blocked by a browser extension or ad blocker. Call or email and
+        Brian will get right back to you — it reaches him the same way.
+      </p>
+      <div class="cta-row">
+        <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
+        <a href={`mailto:${business.email}`} class="btn btn-ghost">Email us</a>
+      </div>
+    </div>
+  </div>
+  <p class="form-note">
+    Prefer to talk? Call <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a>
+    or email <a href={`mailto:${business.email}`}>{business.email}</a>.
+  </p>
+</div>
+
+{!skipScript && <script is:inline defer src="https://link.bugbosswi.com/js/form_embed.js"></script>}
+
+<script is:inline define:vars={{ frameId, ghlOrigin: business.ghlDomain }}>
+  // Watchdog: decide whether the embed actually came up, and if not, show the
+  // call/email fallback instead of an empty card.
+  //
+  // Height alone is not a good health signal. A blocked or blank iframe keeps
+  // whatever height the CSS gave it, so the box looks fine while showing
+  // nothing — which is what a visitor running an ad blocker sees. The reliable
+  // signal is that form_embed.js drives the embed over postMessage, so if no
+  // message ever arrives from the GHL origin, the form is not running.
+  //
+  // The clock only starts once the form is scrolled near, because a lazily
+  // loaded iframe far down the page has legitimately not loaded yet.
+  (function () {
+    var frame = document.getElementById(frameId);
+    if (!frame) return;
+    var shell = frame.closest('.ghl-shell');
+    if (!shell) return;
+
+    var heard = false;
+    window.addEventListener('message', function (e) {
+      if (e.origin !== ghlOrigin) return;
+      heard = true;
+      // If the form woke up late, after we gave up, put it back.
+      if (shell.classList.contains('embed-failed')) {
+        shell.classList.remove('embed-failed');
+        var fb = shell.querySelector('.embed-fallback');
+        if (fb) fb.hidden = true;
+      }
+    });
+
+    function reveal() {
+      if (shell.classList.contains('embed-failed')) return;
+      shell.classList.add('embed-failed');
+      var fb = shell.querySelector('.embed-fallback');
+      if (fb) fb.hidden = false;
+    }
+
+    function watch() {
+      var started = Date.now();
+      (function check() {
+        var gone = !frame.isConnected;
+        var hidden = !gone && getComputedStyle(frame).display === 'none';
+        var tall = frame.getBoundingClientRect().height >= 200;
+        if (!gone && !hidden && tall && heard) return; // working
+        if (!gone && Date.now() - started < 8000) return setTimeout(check, 1000);
+        reveal();
+      })();
+    }
+
+    function begin() {
+      if (document.readyState === 'complete') setTimeout(watch, 2000);
+      else window.addEventListener('load', function () { setTimeout(watch, 2000); });
+    }
+
+    if ('IntersectionObserver' in window) {
+      var io = new IntersectionObserver(function (entries) {
+        if (entries.some(function (e) { return e.isIntersecting; })) {
+          io.disconnect();
+          begin();
+        }
+      }, { rootMargin: '400px' });
+      io.observe(shell);
+    } else {
+      begin();
+    }
+  })();
+</script>
+
+<style>
+  /* The shell reserves the space, so a collapsed or removed iframe cannot
+     leave an empty card behind. */
+  .ghl-shell {
+    position: relative;
+    min-height: var(--frame-min, 640px);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--bg-soft);
+  }
+  .ghl-embed {
+    width: 100%;
+    /* !important so an inline height from form_embed.js cannot shrink it
+       below something usable. The script may still grow it past this. */
+    min-height: var(--frame-min, 640px) !important;
+    border: none;
+    display: block;
+    background: transparent;
+  }
+  .ghl-shell.embed-failed { min-height: 0; }
+  .ghl-shell.embed-failed .ghl-embed { display: none; }
+
+  .embed-fallback { padding: 1.5rem; }
+  .ef-title { margin: 0 0 .4rem; font-weight: 800; }
+  .ef-body { margin: 0 0 1rem; color: var(--muted); font-size: .95rem; }
+  .form-note { font-size: .85rem; color: var(--muted); margin: .6rem 0 0; }
+</style>

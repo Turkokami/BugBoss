@@ -1,5 +1,6 @@
 ---
 import Photo from '@/components/Photo.astro';
+import QuoteForm from '@/components/QuoteForm.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Reviews from '@/components/Reviews.astro';
 import Cta from '@/components/Cta.astro';
@@ -150,6 +151,24 @@ const pageNodes = [
     </div>
   </section>
 
+  <!-- QUOTE FORM -->
+  <section class="soft">
+    <div class="wrap narrow">
+      <p class="eyebrow center">Get in touch</p>
+      <h2 class="mt0 center">Tell Brian what you’re dealing with</h2>
+      <p class="lead center form-intro">
+        Send the details and you’ll hear back from Brian himself — no call centre, no
+        long-term contract. Serving Clintonville and the rural corridor around it.
+      </p>
+      <div class="card form-card">
+        {/* Lazy: this sits well below the fold, so it must not compete with the
+            hero for bandwidth. The same GHL form as /contact/, so leads land in
+            the same tracking and follow-up. */}
+        <QuoteForm heading="Request a free quote" compact lazy />
+      </div>
+    </div>
+  </section>
+
   <section class="soft">
     <div class="wrap narrow">
       <Faq items={faqs} />
@@ -166,17 +185,19 @@ const pageNodes = [
     .hero .trust { margin-top: 1.2rem; color: var(--muted); font-weight: 700; }
     .hero .trust .stars { font-size: 1.05rem; }
     .hero-photo { position: relative; margin: 0; border-radius: var(--radius-lg); overflow: hidden; aspect-ratio: 4 / 5; border: 3px solid var(--neon); box-shadow: var(--shadow-glow); }
-    .hero-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .hero-photo :global(img) { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .form-intro { max-width: 46rem; margin-left: auto; margin-right: auto; }
+    .form-card { margin-top: 1.4rem; }
     .why-band { padding: 1.6rem 0; }
     .why-grid { display: grid; gap: .3rem 1.6rem; margin: 0; }
     @media (min-width: 720px) { .why-grid { grid-template-columns: 1fr 1fr; } }
     @media (min-width: 1040px) { .why-grid { grid-template-columns: repeat(3, 1fr); } }
     .band-photo { margin: 1.4rem 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
-    .band-photo img { width: 100%; height: auto; display: block; }
+    .band-photo :global(img) { width: 100%; height: auto; display: block; }
     .field-row { display: grid; gap: 1rem; grid-template-columns: 1fr 1fr; }
     .field-row a { display: block; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
-    .field-row img { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; transition: transform .2s ease; }
-    .field-row a:hover img { transform: scale(1.04); }
+    .field-row :global(img) { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; transition: transform .2s ease; }
+    .field-row a:hover :global(img) { transform: scale(1.04); }
     @media (min-width: 720px) { .field-row { grid-template-columns: repeat(4, 1fr); } }
     .town-tags { display: flex; flex-wrap: wrap; gap: .3rem; }
     a.tag { text-decoration: none; }
