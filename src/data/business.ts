@@ -49,6 +49,13 @@ export const business = {
   // GBP lists a 24-hour attribute; emergency line is answered around the clock.
   hours: '24-hour emergency line; office Mon–Fri 8am–5pm',
 
+  // Machine-readable mirror of the line above, for openingHoursSpecification
+  // (Master Plan §5.1: LocalBusiness carries hours). Keep these two in sync —
+  // if the office hours change, change them in both places here and nowhere else.
+  hoursSpec: [
+    { days: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'], opens: '08:00', closes: '17:00' },
+  ],
+
   // --- Trust / reputation (GBP live data, July 2026 per audit) ---
   rating: { value: 4.9, count: 95 },
 
@@ -65,6 +72,12 @@ export const business = {
   },
 
   attributes: ['Family-owned & operated', 'Licensed & insured', 'No long-term contracts'],
+
+  // Rule 7: factual claims carry a review date. This is the date the Pest
+  // Library and guide content was last reviewed by the named expert; it feeds
+  // both the visible expert block and `dateModified` in the Article node.
+  contentReviewDate: '2026-08-16',
+  contentReviewDateDisplay: 'August 2026',
 
   // --- Web / social ---
   url: 'https://bugbosswi.com',

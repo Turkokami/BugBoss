@@ -1,0 +1,146 @@
+// ---------------------------------------------------------------------------
+// ACCEPTANCE GATE — Smart Site Master Plan §8.1, run against the built output.
+//
+//   npm run build && npm run audit
+//
+// Every check here is one of the plan's per-page checklist items that can be
+// verified mechanically from the HTML. Judgement items (does the Quick Answer
+// actually answer the query, is the local content genuinely local) still need a
+// human. Exits non-zero if any page fails, so it can gate a deploy.
+// ---------------------------------------------------------------------------
+
+import { readdirSync, readFileSync, statSync } from 'node:fs';
+import { join, relative } from 'node:path';
+
+const DIST = 'dist';
+const failures = [];
+const counts = { pages: 0 };
+
+function walk(dir) {
+  const out = [];
+  for (const entry of readdirSync(dir)) {
+    const p = join(dir, entry);
+    if (statSync(p).isDirectory()) out.push(...walk(p));
+    else if (entry.endsWith('.html')) out.push(p);
+  }
+  return out;
+}
+
+const fail = (page, check, detail) => failures.push({ page, check, detail });
+
+for (const file of walk(DIST)) {
+  const page = '/' + relative(DIST, file).replace(/index\.html$/, '');
+  const html = readFileSync(file, 'utf8');
+  counts.pages++;
+
+  // --- Structure -----------------------------------------------------------
+  const h1s = html.match(/<h1[\s>]/g) ?? [];
+  if (h1s.length !== 1) fail(page, 'one-h1', `found ${h1s.length}`);
+
+  // Rule 3: footer and nav widget labels are never heading elements.
+  const footer = html.match(/<footer[\s\S]*?<\/footer>/i)?.[0] ?? '';
+  const footerHeadings = footer.match(/<h[1-6][\s>]/g) ?? [];
+  if (footerHeadings.length) fail(page, 'footer-headings', `${footerHeadings.length} heading(s) in footer`);
+
+  // --- Markup / schema -----------------------------------------------------
+  const ld = html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/);
+  if (!ld) {
+    fail(page, 'schema-present', 'no JSON-LD block');
+  } else {
+    let graph;
+    try {
+      graph = JSON.parse(ld[1])['@graph'];
+    } catch (e) {
+      fail(page, 'schema-valid-json', e.message);
+    }
+    if (graph) {
+      const types = graph.flatMap((n) => (Array.isArray(n['@type']) ? n['@type'] : [n['@type']]));
+      const ids = graph.map((n) => n['@id']).filter(Boolean);
+
+      // No duplicate nodes.
+      const dupes = ids.filter((id, i) => ids.indexOf(id) !== i);
+      if (dupes.length) fail(page, 'no-duplicate-nodes', [...new Set(dupes)].join(', '));
+
+      // Exactly one FAQPage, and it matches the visible FAQ block.
+      const faqNodes = graph.filter((n) => n['@type'] === 'FAQPage');
+      if (faqNodes.length > 1) fail(page, 'one-faqpage', `${faqNodes.length} FAQPage nodes`);
+      // Count only the FAQ disclosures inside <main> — the header's mobile-menu
+      // toggle is also a <summary> and must not be mistaken for a question.
+      const main = html.match(/<main\b[\s\S]*?<\/main>/i)?.[0] ?? html;
+      const visibleQs = (main.match(/<summary[\s\S]*?<\/summary>/g) ?? []).length;
+      if (faqNodes.length === 1) {
+        const schemaQs = faqNodes[0].mainEntity?.length ?? 0;
+        if (visibleQs && schemaQs !== visibleQs) {
+          fail(page, 'faq-matches-visible', `schema ${schemaQs} vs visible ${visibleQs}`);
+        }
+      }
+
+      // The required backbone (§5.1). ImageObject/Article are page-type
+      // dependent, so only the always-on nodes are hard requirements.
+      // Breadcrumbs are an index-surface signal, so they are required only on
+      // indexable pages — the 404 and the noindex legal/utility pages are out.
+      const noindex = /name="robots"[^>]*noindex/.test(html);
+      const required = ['WebSite', 'LocalBusiness', 'ImageObject'];
+      if (page !== '/404.html') {
+        required.push('WebPage');
+        if (!noindex) required.push('BreadcrumbList');
+      }
+      for (const node of required) {
+        if (!types.includes(node)) fail(page, 'node-missing', node);
+      }
+
+      // Every @id reference resolves to a node declared in this graph.
+      const refs = [];
+      const collect = (v) => {
+        if (Array.isArray(v)) v.forEach(collect);
+        else if (v && typeof v === 'object') {
+          if (Object.keys(v).length === 1 && v['@id']) refs.push(v['@id']);
+          else Object.values(v).forEach(collect);
+        }
+      };
+      collect(graph);
+      for (const ref of [...new Set(refs)]) {
+        if (!ids.includes(ref)) fail(page, 'dangling-id-ref', ref);
+      }
+
+      // NAP in schema matches visible NAP character for character.
+      const lb = graph.find((n) => (n['@id'] ?? '').endsWith('#localbusiness'));
+      if (lb?.address) {
+        const nap = `${lb.address.streetAddress}, ${lb.address.addressLocality}, ${lb.address.addressRegion} ${lb.address.postalCode}`;
+        const text = html.replace(/<[^>]+>/g, ' ').replace(/&#8217;/g, '’').replace(/\s+/g, ' ');
+        if (!text.includes(nap)) fail(page, 'nap-matches-visible', nap);
+      }
+    }
+  }
+
+  // --- Content -------------------------------------------------------------
+  // Every image has descriptive alt text (Rule 4).
+  for (const img of html.match(/<img\b[^>]*>/g) ?? []) {
+    if (!/\salt="[^"]+"/.test(img)) fail(page, 'img-alt', img.slice(0, 90));
+  }
+
+  // Rule 6: no unresolved template variables left in the output.
+  const leak = html.match(/\{\{[^}]{1,40}\}\}|\$\{[a-zA-Z][^}]{0,40}\}|\bundefined\b(?=[<\s.,])/);
+  if (leak) fail(page, 'template-leak', leak[0]);
+
+  // Known-failure catalog: staging links, about:blank, preview URLs.
+  if (/about:blank/.test(html)) fail(page, 'about-blank-link', 'about:blank present');
+  if (/href="https?:\/\/[^"]*(staging|\.local|localhost|preview)[^"]*"/.test(html)) {
+    fail(page, 'staging-link', 'non-production link in output');
+  }
+}
+
+// --- Report ----------------------------------------------------------------
+const byCheck = failures.reduce((acc, f) => ((acc[f.check] ??= []).push(f), acc), {});
+console.log(`\nAcceptance gate — ${counts.pages} pages checked\n`);
+if (!failures.length) {
+  console.log('  PASS — all mechanical checks clean.\n');
+  process.exit(0);
+}
+for (const [check, items] of Object.entries(byCheck).sort((a, b) => b[1].length - a[1].length)) {
+  console.log(`  FAIL ${check} (${items.length})`);
+  for (const i of items.slice(0, 6)) console.log(`       ${i.page}  ${i.detail}`);
+  if (items.length > 6) console.log(`       … and ${items.length - 6} more`);
+}
+console.log(`\n  ${failures.length} failure(s) across ${new Set(failures.map((f) => f.page)).size} page(s).\n`);
+process.exit(1);

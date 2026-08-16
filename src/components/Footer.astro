@@ -22,8 +22,10 @@ import { residentialServices } from '@/data/residential-services';
         <a href={business.social.youtube} rel="noopener">YouTube</a>
       </div>
     </div>
-    <div>
-      <h4>Services</h4>
+    {/* Rule 3: footer/nav widget labels are never heading elements — they are
+        labelled landmarks instead, so the page heading hierarchy stays clean. */}
+    <nav aria-label="Services">
+      <p class="col-label">Services</p>
       <a href="/residential-pest-control/">Residential Pest Control</a>
       {residentialServices.map((rs) => (
         <a href={`/residential-pest-control/${rs.slug}/`}>· {rs.short}</a>
@@ -38,22 +40,22 @@ import { residentialServices } from '@/data/residential-services';
       <a href="/pest-problems/">Common Problems</a>
       <a href="/guides/">Guides</a>
       <a href="/blog/">Blog</a>
-    </div>
-    <div>
-      <h4>Company</h4>
+    </nav>
+    <nav aria-label="Company">
+      <p class="col-label">Company</p>
       <a href="/about/">Our Story</a>
       <a href="/gallery/">Gallery</a>
       <a href="/reviews/">Reviews</a>
       <a href="/our-guarantee/">Our Guarantee</a>
       <a href="/no-contracts/">No Contracts</a>
       <a href="/contact/">Contact</a>
-    </div>
-    <div>
-      <h4>Service Area</h4>
+    </nav>
+    <nav aria-label="Service area">
+      <p class="col-label">Service Area</p>
       <a href="/service-area/">All Towns We Serve</a>
       <a href="/pest-control/">Fox Valley & Green Bay Neighborhoods</a>
       <p class="counties">Serving {counties.slice(0, 6).join(', ')} and rural Northeast &amp; Central Wisconsin.</p>
-    </div>
+    </nav>
   </div>
   <div class="wrap legal">
     <span>© {business.foundingYear}–2026 {business.legalName}. Family-owned in {business.address.city}, WI. Licensed &amp; insured.</span>
@@ -64,7 +66,7 @@ import { residentialServices } from '@/data/residential-services';
 <style>
   .site-footer { padding: 3rem 0 6.5rem; }
   .cols { display: grid; gap: 2rem; grid-template-columns: 1fr; }
-  .cols h4 { color: #fff; font-size: .8rem; text-transform: uppercase; letter-spacing: .12em; margin-bottom: .8rem; }
+  .cols .col-label { color: #fff; font-size: .8rem; font-weight: 900; text-transform: uppercase; letter-spacing: .12em; margin: 0 0 .8rem; }
   .cols a { display: block; color: #bfe0cb; text-decoration: none; padding: .2rem 0; font-size: .96rem; }
   .cols a:hover { color: #fff; }
   .f-brand { font-size: 1.3rem; margin-bottom: .4rem; }

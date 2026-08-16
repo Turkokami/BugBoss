@@ -1,0 +1,69 @@
+---
+// NAMED-EXPERT E-E-A-T BLOCK — Master Plan §4.1 block 2.
+//
+// A real credentialed person, written in first person, with the credential and
+// license number displayed, linked to the Person entity page. The same named
+// voice sits on every page that carries this block; the matching `#brian`
+// Person node is referenced from the page's Article node as author/reviewedBy.
+//
+// `note` is the one line that changes per page — it is where Brian says
+// something specific about *this* pest or *this* market, so the block never
+// reads as a boilerplate stamp.
+import { business } from '@/data/business';
+
+interface Props {
+  /** First-person sentence specific to this page. */
+  note: string;
+  /** Show the "Reviewed …" line (Rule 7). Default true. */
+  showReviewed?: boolean;
+}
+const { note, showReviewed = true } = Astro.props;
+const { owner } = business;
+---
+<aside class="expert" aria-label={`About the author, ${owner.name}`}>
+  <div class="expert-head">
+    <img
+      src="/images/brian-headshot.jpg"
+      alt={`${owner.name}, ${owner.role} at ${business.name}`}
+      width="72"
+      height="72"
+      loading="lazy"
+      decoding="async"
+    />
+    <div>
+      <p class="mt0 name"><a href="/about/">{owner.name}</a> — {owner.role}</p>
+      <p class="mt0 cred">
+        Wisconsin {owner.applicatorType} Pesticide Applicator, Cert #{owner.licenseNumber}
+        · {owner.applicatorCategories.join(' · ')}
+      </p>
+    </div>
+  </div>
+  <p class="note">“{note}”</p>
+  {showReviewed && (
+    <p class="reviewed">
+      Reviewed by {owner.name}, WI {owner.applicatorType} Applicator #{owner.licenseNumber}
+      — {business.contentReviewDateDisplay}.
+    </p>
+  )}
+</aside>
+<style>
+  .expert {
+    border: 1px solid var(--line);
+    border-left: 4px solid var(--neon);
+    border-radius: var(--radius);
+    padding: 1.1rem 1.25rem;
+    margin: 2rem 0;
+    background: var(--bg-soft);
+  }
+  .expert-head { display: flex; gap: .9rem; align-items: center; }
+  .expert-head img { border-radius: 50%; object-fit: cover; flex: 0 0 auto; }
+  .name { font-weight: 700; }
+  .name a { color: var(--ink); text-decoration: none; }
+  .name a:hover { color: var(--green-700); }
+  .cred { font-size: .85rem; color: var(--muted); line-height: 1.45; }
+  .note { margin: .9rem 0 0; font-style: italic; }
+  .reviewed { margin: .7rem 0 0; font-size: .8rem; color: var(--muted); }
+  @media (max-width: 480px) {
+    .expert-head { flex-direction: column; align-items: flex-start; }
+  }
+</style>

@@ -7,7 +7,7 @@
 // own WebPage node, plus optional FAQPage and BreadcrumbList.
 // ---------------------------------------------------------------------------
 
-import { business, fullAddress, sameAs } from '@/data/business';
+import { business, cityState, sameAs } from '@/data/business';
 import { services } from '@/data/services';
 import { areaServedNames, counties } from '@/data/towns';
 
@@ -16,7 +16,32 @@ const ID = {
   local: `${business.url}/#localbusiness`,
   person: `${business.url}/#brian`,
   website: `${business.url}/#website`,
+  logo: `${business.url}/#logo`,
+  primaryImage: `${business.url}/#primaryimage`,
+  expertImage: `${business.url}/#expertimage`,
 };
+
+// Master Plan §5.1 node 3: images are ImageObject nodes referenced by @id,
+// never inlined as bare URL strings on the entities that use them.
+function imageNode(id: string, path: string, caption: string, w: number, h: number) {
+  return {
+    '@type': 'ImageObject',
+    '@id': id,
+    url: `${business.url}${path}`,
+    contentUrl: `${business.url}${path}`,
+    caption,
+    width: w,
+    height: h,
+  };
+}
+
+function imageNodes() {
+  return [
+    imageNode(ID.logo, '/images/logo.png', business.name, 512, 512),
+    imageNode(ID.primaryImage, '/images/hero-truck-spraying.jpg', `${business.name} service truck treating a property in ${cityState}`, 1600, 900),
+    imageNode(ID.expertImage, '/images/brian-headshot.jpg', `${business.owner.name}, ${business.owner.role} at ${business.name}`, 800, 800),
+  ];
+}
 
 const postalAddress = {
   '@type': 'PostalAddress',
@@ -43,7 +68,8 @@ function organizationNode() {
     telephone: business.phoneTollFreeE164,
     foundingDate: String(business.foundingYear),
     founder: { '@id': ID.person },
-    logo: `${business.url}/images/logo.png`,
+    logo: { '@id': ID.logo },
+    image: { '@id': ID.logo },
     sameAs,
   };
 }
@@ -58,9 +84,16 @@ function localBusinessNode() {
     email: business.email,
     telephone: business.phoneTollFreeE164,
     priceRange: '$$',
-    image: `${business.url}/images/hero-truck-spraying.jpg`,
+    image: { '@id': ID.primaryImage },
+    logo: { '@id': ID.logo },
     address: postalAddress,
     geo: { '@type': 'GeoCoordinates', latitude: business.geo.lat, longitude: business.geo.lng },
+    openingHoursSpecification: business.hoursSpec.map((h) => ({
+      '@type': 'OpeningHoursSpecification',
+      dayOfWeek: h.days,
+      opens: h.opens,
+      closes: h.closes,
+    })),
     founder: { '@id': ID.person },
     employee: { '@id': ID.person },
     areaServed,
@@ -79,7 +112,8 @@ function personNode() {
     '@id': ID.person,
     name: business.owner.name,
     jobTitle: business.owner.role,
-    image: `${business.url}/images/brian-headshot.jpg`,
+    image: { '@id': ID.expertImage },
+    url: `${business.url}/about/`,
     worksFor: { '@id': ID.org },
     knowsAbout: ['Pest control', 'Wildlife removal', 'Bat exclusion', 'Rodent exclusion', 'Integrated pest management'],
     hasCredential: {
@@ -110,6 +144,8 @@ function serviceNodes() {
     serviceType: s.name,
     description: s.answer,
     provider: { '@id': ID.local },
+    // §5.1: the named expert is referenced from Service and Article nodes.
+    reviewedBy: { '@id': ID.person },
     areaServed: areaServed,
     url: `${business.url}/${s.slug}/`,
   }));
@@ -117,7 +153,14 @@ function serviceNodes() {
 
 // The sitewide core — present on every page.
 export function coreNodes() {
-  return [organizationNode(), localBusinessNode(), personNode(), websiteNode(), ...serviceNodes()];
+  return [
+    organizationNode(),
+    localBusinessNode(),
+    personNode(),
+    websiteNode(),
+    ...imageNodes(),
+    ...serviceNodes(),
+  ];
 }
 
 // Per-page WebPage node.
@@ -133,6 +176,37 @@ export function webPageNode(opts: { url: string; name: string; description: stri
     inLanguage: 'en-US',
   };
   return node;
+}
+
+// §5.1 node 5, library/blog variant: an Article attributed to the named expert.
+// `reviewedBy` is the E-E-A-T signal — it tells an answer engine a credentialed
+// applicator stands behind the page, which is what the on-page expert block says
+// in prose. `dateModified` doubles as the review date required by Rule 7.
+export function articleNode(opts: {
+  url: string;
+  headline: string;
+  description: string;
+  section?: string;
+  datePublished?: string;
+  dateModified?: string;
+  imageId?: string;
+}) {
+  return {
+    '@type': 'Article',
+    '@id': `${opts.url}#article`,
+    headline: opts.headline,
+    description: opts.description,
+    mainEntityOfPage: { '@id': `${opts.url}#webpage` },
+    isPartOf: { '@id': ID.website },
+    ...(opts.section ? { articleSection: opts.section } : {}),
+    author: { '@id': ID.person },
+    reviewedBy: { '@id': ID.person },
+    publisher: { '@id': ID.org },
+    image: { '@id': opts.imageId ?? ID.primaryImage },
+    ...(opts.datePublished ? { datePublished: opts.datePublished } : {}),
+    ...(opts.dateModified ? { dateModified: opts.dateModified } : {}),
+    inLanguage: 'en-US',
+  };
 }
 
 export interface FaqItem {

@@ -2,11 +2,13 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
+import ExpertBlock from '@/components/ExpertBlock.astro';
 import Faq from '@/components/Faq.astro';
 import Cta from '@/components/Cta.astro';
-import { business } from '@/data/business';
+import { business, cityState } from '@/data/business';
 import { pests, getPest, type PestCategory } from '@/data/pests';
-import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
+import { expertNote } from '@/data/expert-notes';
+import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
 
 export function getStaticPaths() {
   return pests.map((p) => ({ params: { slug: p.slug } }));
@@ -30,8 +32,22 @@ const catService: Record<PestCategory, { label: string; href: string }> = {
   wildlife: { label: 'Wildlife Removal & Exclusion', href: '/wildlife-removal/' },
 };
 const svc = catService[pest.category];
+const note = expertNote(pest.slug);
+const catLabel: Record<PestCategory, string> = {
+  insect: 'Insects',
+  rodent: 'Rodents',
+  wildlife: 'Wildlife',
+};
 const pageNodes = [
   webPageNode({ url, name: `${pest.name} — Pest Library`, description: answer }),
+  // §5.1: library pages carry an Article node authored + reviewed by the expert.
+  articleNode({
+    url,
+    headline: `${pest.name} in Northeast Wisconsin`,
+    description: answer,
+    section: catLabel[pest.category],
+    dateModified: business.contentReviewDate,
+  }),
   faqPageNode(url, faqs),
   breadcrumbNode(url, [
     { name: 'Home', url: business.url + '/' },
@@ -46,6 +62,7 @@ const pageNodes = [
       <p class="eyebrow"><a href="/pest-library/">Pest Library</a> · {pest.season}</p>
       <h1>{pest.name} in Northeast Wisconsin</h1>
       <AnswerBox text={answer} />
+      {note && <ExpertBlock note={note} />}
 
       {Body ? (
         <article class="prose"><Body /></article>
@@ -67,7 +84,10 @@ const pageNodes = [
     </div>
   </section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`${pest.name}: Frequently Asked Questions`} /></div></section>
-  <Cta />
+  <Cta
+    title={`${pest.name} problem in ${cityState} or the surrounding rural corridor?`}
+    sub={`Brian handles ${pest.name.toLowerCase()} across Waupaca, Shawano, Outagamie, Waushara and Oconto counties — licensed, insured, and no long-term contract.`}
+  />
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
     .eyebrow a { color: var(--green-600); text-decoration: none; }
