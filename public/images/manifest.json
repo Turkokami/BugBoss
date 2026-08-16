@@ -1,0 +1,249 @@
+{
+  "brand-banner.webp": {
+    "width": 1500,
+    "height": 938,
+    "widths": [
+      200,
+      400,
+      800,
+      1200,
+      1500
+    ]
+  },
+  "brian-alligator.webp": {
+    "width": 750,
+    "height": 1000,
+    "widths": [
+      200,
+      400,
+      750
+    ]
+  },
+  "brian-carshow.webp": {
+    "width": 750,
+    "height": 1000,
+    "widths": [
+      200,
+      400,
+      750
+    ]
+  },
+  "brian-commercial.webp": {
+    "width": 1200,
+    "height": 1600,
+    "widths": [
+      200,
+      400,
+      800,
+      1200
+    ]
+  },
+  "brian-community-van.webp": {
+    "width": 1400,
+    "height": 1373,
+    "widths": [
+      200,
+      400,
+      800,
+      1200,
+      1400
+    ]
+  },
+  "brian-headshot.webp": {
+    "width": 1000,
+    "height": 1333,
+    "widths": [
+      200,
+      400,
+      800,
+      1000
+    ]
+  },
+  "brian-niban.webp": {
+    "width": 563,
+    "height": 1000,
+    "widths": [
+      200,
+      400,
+      563
+    ]
+  },
+  "brian-suited-up.webp": {
+    "width": 506,
+    "height": 900,
+    "widths": [
+      200,
+      400,
+      506
+    ]
+  },
+  "brian-turtle.webp": {
+    "width": 750,
+    "height": 1000,
+    "widths": [
+      200,
+      400,
+      750
+    ]
+  },
+  "bugboss-illustration.webp": {
+    "width": 667,
+    "height": 1000,
+    "widths": [
+      200,
+      400,
+      667
+    ]
+  },
+  "field-ac-exterior.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-bee-suit.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-exterior-foundation.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-hornet-nest.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-interior-baseboard.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-interior-bench.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-interior-sign.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-owner-bug.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-owner-holding.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-owner-portrait.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-shoe-covers.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "field-vegetation.webp": {
+    "width": 1125,
+    "height": 1500,
+    "widths": [
+      200,
+      400,
+      800,
+      1125
+    ]
+  },
+  "hero-truck-spraying.webp": {
+    "width": 1500,
+    "height": 2000,
+    "widths": [
+      200,
+      400,
+      800,
+      1200,
+      1500
+    ]
+  },
+  "logo.webp": {
+    "width": 520,
+    "height": 414,
+    "widths": [
+      200,
+      400,
+      520
+    ]
+  },
+  "truck-sunset.webp": {
+    "width": 1500,
+    "height": 1125,
+    "widths": [
+      200,
+      400,
+      800,
+      1200,
+      1500
+    ]
+  }
+}

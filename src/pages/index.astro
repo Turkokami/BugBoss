@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Reviews from '@/components/Reviews.astro';
 import Cta from '@/components/Cta.astro';
@@ -44,9 +45,11 @@ const pageNodes = [
         <p class="trust"><span class="stars">★★★★★</span> {business.rating.value}/5 from {business.rating.count}+ reviews · Serving 6 counties</p>
       </div>
       <figure class="hero-photo">
-        <img src="/images/hero-truck-spraying.jpg" width="1500" height="2000"
+        {/* The LCP element. Eager + high priority, and `sizes` matches the
+            1fr of the 1.4fr/1fr desktop grid so phones fetch the 400w file. */}
+        <Photo src="/images/hero-truck-spraying.webp"
           alt="BugBoss The X-Terminator technician treating a property at sunrise beside the green-and-white BugBoss pest and wildlife control truck"
-          fetchpriority="high" decoding="async" />
+          sizes="(min-width: 900px) 42vw, 100vw" priority />
       </figure>
     </div>
   </section>
@@ -86,7 +89,7 @@ const pageNodes = [
       <p class="eyebrow">Built for rural Wisconsin</p>
       <h2 class="mt0">The national companies aren’t built for out here</h2>
       <figure class="band-photo">
-        <img src="/images/truck-sunset.jpg" width="1500" height="1125" loading="lazy" decoding="async"
+        <Photo src="/images/truck-sunset.webp" sizes="(min-width: 1180px) 1140px, 100vw"
           alt="The BugBoss pest and wildlife control truck parked at dusk beside a rural Wisconsin field with ladders on the rack" />
       </figure>
       <p>Farmhouses, cabins, pole barns, and older homes surrounded by fields and woods have a pest calendar all their own — carpenter ants in spring, wasps and mosquitoes in summer, cluster flies, boxelder bugs, lady beetles, and mice every fall, and overwintering pests in the walls all winter. Solving that takes exclusion work and local knowledge, not a quarterly spray from a truck that drove an hour to get here.</p>
@@ -125,10 +128,10 @@ const pageNodes = [
       <h2 class="mt0">Real jobs, real Wisconsin homes</h2>
       <p class="lead">No stock photos — this is Brian and the BugBoss team on actual service calls across the area.</p>
       <div class="field-row">
-        <a href="/gallery/"><img src="/images/field-owner-portrait.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in the field" /></a>
-        <a href="/gallery/"><img src="/images/field-hornet-nest.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="A bald-faced hornet nest on a home's soffit vent" /></a>
-        <a href="/gallery/"><img src="/images/field-shoe-covers.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss technician wearing shoe covers for an inside treatment" /></a>
-        <a href="/gallery/"><img src="/images/field-ac-exterior.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss treating the exterior of a home and yard edge" /></a>
+        <a href="/gallery/"><Photo src="/images/field-owner-portrait.webp" sizes="(min-width: 720px) 25vw, 50vw" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in the field" /></a>
+        <a href="/gallery/"><Photo src="/images/field-hornet-nest.webp" sizes="(min-width: 720px) 25vw, 50vw" alt="A bald-faced hornet nest on a home's soffit vent" /></a>
+        <a href="/gallery/"><Photo src="/images/field-shoe-covers.webp" sizes="(min-width: 720px) 25vw, 50vw" alt="BugBoss technician wearing shoe covers for an inside treatment" /></a>
+        <a href="/gallery/"><Photo src="/images/field-ac-exterior.webp" sizes="(min-width: 720px) 25vw, 50vw" alt="BugBoss treating the exterior of a home and yard edge" /></a>
       </div>
       <p class="center" style="margin-top:1.4rem"><a href="/gallery/" class="btn btn-green">See the full gallery</a></p>
     </div>

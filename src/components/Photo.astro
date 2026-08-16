@@ -1,0 +1,79 @@
+---
+// PHOTO — the single place responsive image markup is written.
+//
+// Master Plan Rule 1 (a template fix is a one-line change, not a 300-page
+// migration) and Standard 04 (WebP, lazy-loaded, CWV green). Every <img> for a
+// photograph goes through here so srcset, sizes, dimensions, lazy-loading and
+// decoding are decided once rather than per page.
+//
+// Widths come from public/images/manifest.json, written by
+// scripts/images-to-webp.mjs — so adding a photo means running that script,
+// not editing markup. The intrinsic width/height are always emitted to reserve
+// layout space and keep CLS at zero.
+import manifest from '../../public/images/manifest.json';
+
+interface Props {
+  /** Canonical path, e.g. "/images/hero-truck-spraying.webp". */
+  src: string;
+  alt: string;
+  /**
+   * The `sizes` attribute — how wide this image renders at each breakpoint.
+   * Getting this roughly right is what lets the browser pick a small file;
+   * the default assumes a full-width-on-mobile, half-width-on-desktop block.
+   */
+  sizes?: string;
+  /**
+   * This page's LCP element: eager AND fetchpriority="high". At most one per
+   * page — a second high-priority image just splits the bandwidth so neither
+   * arrives sooner.
+   */
+  priority?: boolean;
+  /**
+   * Above the fold but not the LCP element — the header logo, say. Eager, so
+   * it is not deferred, but without the priority hint that would compete with
+   * the real LCP image.
+   */
+  eager?: boolean;
+  class?: string;
+  style?: string;
+}
+
+const {
+  src,
+  alt,
+  sizes = '(min-width: 900px) 50vw, 100vw',
+  priority = false,
+  eager = false,
+  class: className,
+  style,
+} = Astro.props;
+
+const key = src.replace('/images/', '');
+const entry = (manifest as Record<string, { width: number; height: number; widths: number[] }>)[key];
+
+if (!entry) {
+  throw new Error(
+    `Photo: "${src}" is not in public/images/manifest.json. ` +
+      `Add the source image and re-run "node scripts/images-to-webp.mjs --replace".`,
+  );
+}
+
+const base = key.replace(/\.webp$/, '');
+// The largest width is the canonical file; the rest are the -{w} variants.
+const srcset = entry.widths
+  .map((w) => (w === entry.width ? `${src} ${w}w` : `/images/${base}-${w}.webp ${w}w`))
+  .join(', ');
+---
+<img
+  src={src}
+  srcset={srcset}
+  sizes={sizes}
+  width={entry.width}
+  height={entry.height}
+  alt={alt}
+  loading={priority || eager ? 'eager' : 'lazy'}
+  fetchpriority={priority ? 'high' : undefined}
+  decoding="async"
+  class={className}
+  style={style}
+/>

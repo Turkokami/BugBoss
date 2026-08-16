@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
@@ -37,8 +38,7 @@ const pageNodes = [
       <h1>Commercial Pest Control, Built Industry by Industry</h1>
       <AnswerBox text={s.answer} />
       <figure class="band-photo">
-        <img src="/images/brian-commercial.jpg" width="1200" height="1600" loading="lazy" decoding="async"
-          alt="BugBoss treating the interior of a Northeast Wisconsin commercial building along the baseboards" />
+        <Photo src="/images/brian-commercial.webp" sizes="(min-width: 460px) 420px, 100vw" alt="BugBoss treating the interior of a Northeast Wisconsin commercial building along the baseboards" />
       </figure>
       <p class="lead">{s.summary}</p>
       <p>A restaurant, a food plant, a dairy, a machine shop, a school, and a nursing home do not have the same pests, the same regulators, or the same tolerance for a problem — so they should not get the same pest program. BugBoss builds each program around the facility and the rules it answers to, with the documentation an inspector or third-party auditor expects and discreet scheduling that works around your operation. You deal directly with the owner, <a href="/about/">Brian Zahringer</a>, a certified Wisconsin Commercial Pesticide Applicator (Cert #{business.owner.licenseNumber}).</p>

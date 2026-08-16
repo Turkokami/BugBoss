@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
@@ -58,7 +59,7 @@ const pageNodes = [
       <AnswerBox text={answer} />
       {s.photo && (
         <figure class="band-photo">
-          <img src={s.photo.src} width="1125" height="1500" loading="lazy" decoding="async" alt={s.photo.alt} />
+          <Photo src={s.photo.src} sizes="(min-width: 420px) 380px, 100vw" alt={s.photo.alt} />
         </figure>
       )}
       <p class="lead">{s.summary}</p>

@@ -37,7 +37,7 @@ export const residentialServices: ResidentialService[] = [
       'No long-term contract, no cancellation fee',
     ],
     pests: ['ants', 'spiders', 'crickets', 'silverfish', 'centipedes', 'earwigs', 'flies', 'gnats'],
-    photo: { src: '/images/field-interior-baseboard.jpg', alt: 'BugBoss treating interior baseboards during a residential pest control visit in Northeast Wisconsin' },
+    photo: { src: '/images/field-interior-baseboard.webp', alt: 'BugBoss treating interior baseboards during a residential pest control visit in Northeast Wisconsin' },
     faqs: [
       { q: 'What does general pest control cover?', a: 'It covers the common household insects — ants, spiders, crickets, silverfish, centipedes, earwigs, and nuisance flies — with an interior treatment and an exterior barrier. Specialty problems like bed bugs, rodents, and stinging insects have their own dedicated service.' },
       { q: 'How often should I have my home treated?', a: 'Many rural homes do best on a recurring seasonal schedule because pressure from surrounding fields and woods is constant. That said, some problems are solved in a single visit — BugBoss will recommend the lightest plan that actually keeps the pests out.' },
@@ -86,7 +86,7 @@ export const residentialServices: ResidentialService[] = [
       'No long-term contract required',
     ],
     pests: ['ants', 'carpenter-ants'],
-    photo: { src: '/images/field-interior-bench.jpg', alt: 'BugBoss treating along an interior wall for ants during a home service call' },
+    photo: { src: '/images/field-interior-bench.webp', alt: 'BugBoss treating along an interior wall for ants during a home service call' },
     faqs: [
       { q: 'How do I know if I have carpenter ants or regular ants?', a: 'Carpenter ants are large (up to about half an inch) and dark, and seeing them indoors in winter — when other ants are dormant — points to an indoor nest. Coarse sawdust-like frass and springtime winged swarmers are further signs.' },
       { q: 'Why does spraying ant trails not work?', a: 'It kills the foragers you see but not the colony, so the nest keeps producing more. Effective control targets the nest, often with baits the ants carry back to the queen.' },
@@ -134,7 +134,7 @@ export const residentialServices: ResidentialService[] = [
       'Confirmation the colony is gone before the job is done',
     ],
     pests: ['wasps-hornets'],
-    photo: { src: '/images/field-hornet-nest.jpg', alt: 'A bald-faced hornet nest built on the vented soffit of a Northeast Wisconsin home' },
+    photo: { src: '/images/field-hornet-nest.webp', alt: 'A bald-faced hornet nest built on the vented soffit of a Northeast Wisconsin home' },
     faqs: [
       { q: 'When are wasps and hornets most dangerous?', a: 'Late summer, roughly August into September. The colony is at its largest, food sources are dwindling, and the insects are most defensive and likely to sting — which is why late summer is peak call season.' },
       { q: 'Is it safe to remove a wasp nest myself?', a: 'Professional treatment is safest, especially for yellow jackets and hornets, nests near entrances, or nests high on the structure. DIY sprays often agitate the colony without eliminating it and can lead to multiple stings.' },
@@ -159,7 +159,7 @@ export const residentialServices: ResidentialService[] = [
       'Timed to your schedule, including seasonal cabins',
     ],
     pests: ['cluster-flies', 'boxelder-bugs', 'asian-lady-beetles', 'brown-marmorated-stink-bugs', 'western-conifer-seed-bugs'],
-    photo: { src: '/images/field-exterior-foundation.jpg', alt: 'BugBoss treating the exterior walls and foundation of a home against fall invaders in Northeast Wisconsin' },
+    photo: { src: '/images/field-exterior-foundation.webp', alt: 'BugBoss treating the exterior walls and foundation of a home against fall invaders in Northeast Wisconsin' },
     faqs: [
       { q: 'When is the best time to treat fall invaders?', a: 'Early fall, before they enter the structure. A late-summer to early-September exterior treatment on the south and west walls, combined with sealing entry points, stops the bulk of them from getting inside for the winter.' },
       { q: 'Why do they come back every spring?', a: 'The insects that entered your walls in fall never left — they are overwintering in the voids. Warm late-winter and early-spring days wake them, and they move toward the light at your windows.' },
@@ -184,7 +184,7 @@ export const residentialServices: ResidentialService[] = [
       'Timed treatments ahead of outdoor events and gatherings',
     ],
     pests: ['mosquitoes', 'ticks', 'fleas'],
-    photo: { src: '/images/field-ac-exterior.jpg', alt: 'BugBoss treating the exterior around a home, AC unit, and yard edge for mosquitoes and ticks' },
+    photo: { src: '/images/field-ac-exterior.webp', alt: 'BugBoss treating the exterior around a home, AC unit, and yard edge for mosquitoes and ticks' },
     faqs: [
       { q: 'Can a yard treatment reduce Lyme disease risk?', a: 'Reducing the tick population in the areas people use lowers the chance of encounters and bites. It is one layer of protection alongside repellents, tick checks, and landscaping, and it focuses on the edge habitats where deer ticks concentrate.' },
       { q: 'Do mosquito treatments last all summer?', a: 'A single treatment reduces adults for a period of weeks; seasonal programs with repeat visits maintain lower populations across the whole mosquito season. Lakeside and riverside properties benefit most from an ongoing program.' },

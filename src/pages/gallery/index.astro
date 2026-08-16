@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
@@ -9,18 +10,18 @@ const desc = 'Real photos of BugBoss The X-Terminator on the job across Northeas
 
 // Real field photos (owner Brian Zahringer and BugBoss work across Northeast Wisconsin).
 const photos = [
-  { src: '/images/field-owner-portrait.jpg', alt: 'Brian Zahringer, owner of BugBoss The X-Terminator, in the field in Northeast Wisconsin', cap: 'Brian Zahringer, the BugBoss himself' },
-  { src: '/images/field-hornet-nest.jpg', alt: "A bald-faced hornet nest built on the vented soffit of a Northeast Wisconsin home", cap: 'A bald-faced hornet nest on a home soffit' },
-  { src: '/images/field-shoe-covers.jpg', alt: "BugBoss technician wearing shoe covers while treating inside a customer's home", cap: 'Shoe covers on for every inside treatment' },
-  { src: '/images/field-interior-baseboard.jpg', alt: 'BugBoss treating interior baseboards during a residential pest control visit', cap: 'Treating interior baseboards' },
-  { src: '/images/field-exterior-foundation.jpg', alt: 'BugBoss treating the exterior walls and foundation of a home in Northeast Wisconsin', cap: 'Exterior foundation and perimeter treatment' },
-  { src: '/images/field-ac-exterior.jpg', alt: 'BugBoss treating the exterior around a home and AC unit for mosquitoes and ticks', cap: 'Treating the yard edge and around the AC' },
-  { src: '/images/field-bee-suit.jpg', alt: 'BugBoss owner suited up in a bee veil for a stinging-insect job', cap: 'Suited up for a stinging-insect job' },
-  { src: '/images/field-vegetation.jpg', alt: 'BugBoss treating shrubs and yard-edge vegetation where ticks and mosquitoes shelter', cap: 'Treating yard-edge shrubs and brush' },
-  { src: '/images/field-interior-bench.jpg', alt: 'BugBoss treating along an interior wall during a home service call', cap: 'Working an entryway wall' },
-  { src: '/images/field-owner-holding.jpg', alt: 'Brian showing a captured pest during a BugBoss service call', cap: 'Showing a customer what we found' },
-  { src: '/images/field-interior-sign.jpg', alt: 'BugBoss interior perimeter treatment inside a Northeast Wisconsin home', cap: 'Interior perimeter treatment' },
-  { src: '/images/field-owner-bug.jpg', alt: 'Brian Zahringer inspecting a small insect up close', cap: 'A closer look at the catch of the day' },
+  { src: '/images/field-owner-portrait.webp', alt: 'Brian Zahringer, owner of BugBoss The X-Terminator, in the field in Northeast Wisconsin', cap: 'Brian Zahringer, the BugBoss himself' },
+  { src: '/images/field-hornet-nest.webp', alt: "A bald-faced hornet nest built on the vented soffit of a Northeast Wisconsin home", cap: 'A bald-faced hornet nest on a home soffit' },
+  { src: '/images/field-shoe-covers.webp', alt: "BugBoss technician wearing shoe covers while treating inside a customer's home", cap: 'Shoe covers on for every inside treatment' },
+  { src: '/images/field-interior-baseboard.webp', alt: 'BugBoss treating interior baseboards during a residential pest control visit', cap: 'Treating interior baseboards' },
+  { src: '/images/field-exterior-foundation.webp', alt: 'BugBoss treating the exterior walls and foundation of a home in Northeast Wisconsin', cap: 'Exterior foundation and perimeter treatment' },
+  { src: '/images/field-ac-exterior.webp', alt: 'BugBoss treating the exterior around a home and AC unit for mosquitoes and ticks', cap: 'Treating the yard edge and around the AC' },
+  { src: '/images/field-bee-suit.webp', alt: 'BugBoss owner suited up in a bee veil for a stinging-insect job', cap: 'Suited up for a stinging-insect job' },
+  { src: '/images/field-vegetation.webp', alt: 'BugBoss treating shrubs and yard-edge vegetation where ticks and mosquitoes shelter', cap: 'Treating yard-edge shrubs and brush' },
+  { src: '/images/field-interior-bench.webp', alt: 'BugBoss treating along an interior wall during a home service call', cap: 'Working an entryway wall' },
+  { src: '/images/field-owner-holding.webp', alt: 'Brian showing a captured pest during a BugBoss service call', cap: 'Showing a customer what we found' },
+  { src: '/images/field-interior-sign.webp', alt: 'BugBoss interior perimeter treatment inside a Northeast Wisconsin home', cap: 'Interior perimeter treatment' },
+  { src: '/images/field-owner-bug.webp', alt: 'Brian Zahringer inspecting a small insect up close', cap: 'A closer look at the catch of the day' },
 ];
 
 const galleryNode = {
@@ -50,7 +51,7 @@ const pageNodes = [
       <div class="gallery">
         {photos.map((p) => (
           <figure>
-            <img src={p.src} width="1125" height="1500" loading="lazy" decoding="async" alt={p.alt} />
+            <Photo src={p.src} sizes="(min-width: 1040px) 25vw, (min-width: 720px) 33vw, 50vw" alt={p.alt} />
             <figcaption>{p.cap}</figcaption>
           </figure>
         ))}

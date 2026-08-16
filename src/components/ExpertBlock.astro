@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 // NAMED-EXPERT E-E-A-T BLOCK — Master Plan §4.1 block 2.
 //
 // A real credentialed person, written in first person, with the credential and
@@ -22,13 +23,11 @@ const { owner } = business;
 ---
 <aside class="expert" aria-label={`About the author, ${owner.name}`}>
   <div class="expert-head">
-    <img
-      src="/images/brian-headshot.jpg"
+    <Photo
+      src="/images/brian-headshot.webp"
       alt={`${owner.name}, ${owner.role} at ${business.name}`}
-      width="72"
-      height="72"
-      loading="lazy"
-      decoding="async"
+      sizes="72px"
+      class="avatar"
     />
     <div>
       <p class="mt0 name"><a href="/about/">{owner.name}</a> — {owner.role}</p>
@@ -56,7 +55,7 @@ const { owner } = business;
     background: var(--bg-soft);
   }
   .expert-head { display: flex; gap: .9rem; align-items: center; }
-  .expert-head img { border-radius: 50%; object-fit: cover; flex: 0 0 auto; }
+  .expert-head :global(.avatar) { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; flex: 0 0 auto; }
   .name { font-weight: 700; }
   .name a { color: var(--ink); text-decoration: none; }
   .name a:hover { color: var(--green-700); }

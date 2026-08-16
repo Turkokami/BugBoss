@@ -35,11 +35,14 @@ function imageNode(id: string, path: string, caption: string, w: number, h: numb
   };
 }
 
+// Dimensions are the real intrinsic sizes of the canonical files, taken from
+// public/images/manifest.json — a schema image whose declared size does not
+// match the file is a validation defect.
 function imageNodes() {
   return [
-    imageNode(ID.logo, '/images/logo.png', business.name, 512, 512),
-    imageNode(ID.primaryImage, '/images/hero-truck-spraying.jpg', `${business.name} service truck treating a property in ${cityState}`, 1600, 900),
-    imageNode(ID.expertImage, '/images/brian-headshot.jpg', `${business.owner.name}, ${business.owner.role} at ${business.name}`, 800, 800),
+    imageNode(ID.logo, '/images/logo.webp', business.name, 520, 414),
+    imageNode(ID.primaryImage, '/images/hero-truck-spraying.webp', `${business.name} service truck treating a property in ${cityState}`, 1500, 2000),
+    imageNode(ID.expertImage, '/images/brian-headshot.webp', `${business.owner.name}, ${business.owner.role} at ${business.name}`, 1000, 1333),
   ];
 }
 

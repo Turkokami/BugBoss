@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
 import Faq from '@/components/Faq.astro';
@@ -23,8 +24,7 @@ const pageNodes = [
   <section class="about-hero">
     <div class="wrap about-grid">
       <figure class="photo">
-        <img src="/images/brian-turtle.jpg" width="750" height="1000" fetchpriority="high" decoding="async"
-          alt="Brian Zahringer, owner of BugBoss The X-Terminator, in a branded shirt and cap holding a painted turtle in a rural Wisconsin field" />
+        <Photo src="/images/brian-turtle.webp" sizes="(min-width: 900px) 34vw, 100vw" priority alt="Brian Zahringer, owner of BugBoss The X-Terminator, in a branded shirt and cap holding a painted turtle in a rural Wisconsin field" />
       </figure>
       <div>
         <p class="eyebrow">Our Story</p>
@@ -77,14 +77,14 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow center">On the job &amp; around town</p>
       <div class="gallery grid cols-4">
-        <figure><img src="/images/brian-headshot.jpg" width="1000" height="1333" loading="lazy" decoding="async" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in a branded BugBoss work shirt" /></figure>
-        <figure><img src="/images/field-shoe-covers.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss technician wearing shoe covers while treating inside a customer's home" /></figure>
-        <figure><img src="/images/field-hornet-nest.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="A bald-faced hornet nest built on the vented soffit of a Northeast Wisconsin home" /></figure>
-        <figure><img src="/images/field-exterior-foundation.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss treating the exterior walls and foundation of a home in Northeast Wisconsin" /></figure>
-        <figure><img src="/images/brian-niban.jpg" width="563" height="1000" loading="lazy" decoding="async" alt="Brian holding a bottle of BugBoss-labeled Niban granular bait in the Clintonville office" /></figure>
-        <figure><img src="/images/field-bee-suit.jpg" width="1125" height="1500" loading="lazy" decoding="async" alt="BugBoss owner suited up in a bee veil for a stinging-insect job" /></figure>
-        <figure><img src="/images/brian-community-van.jpg" width="1400" height="1373" loading="lazy" decoding="async" alt="Brian beside the BugBoss wildlife-control van with boxes of donated snacks for a community drive" /></figure>
-        <figure><img src="/images/brian-alligator.jpg" width="750" height="1000" loading="lazy" decoding="async" alt="Brian at the 2025 PestWorld industry conference holding a young alligator" /></figure>
+        <figure><Photo src="/images/brian-headshot.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in a branded BugBoss work shirt" /></figure>
+        <figure><Photo src="/images/field-shoe-covers.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="BugBoss technician wearing shoe covers while treating inside a customer's home" /></figure>
+        <figure><Photo src="/images/field-hornet-nest.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="A bald-faced hornet nest built on the vented soffit of a Northeast Wisconsin home" /></figure>
+        <figure><Photo src="/images/field-exterior-foundation.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="BugBoss treating the exterior walls and foundation of a home in Northeast Wisconsin" /></figure>
+        <figure><Photo src="/images/brian-niban.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="Brian holding a bottle of BugBoss-labeled Niban granular bait in the Clintonville office" /></figure>
+        <figure><Photo src="/images/field-bee-suit.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="BugBoss owner suited up in a bee veil for a stinging-insect job" /></figure>
+        <figure><Photo src="/images/brian-community-van.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="Brian beside the BugBoss wildlife-control van with boxes of donated snacks for a community drive" /></figure>
+        <figure><Photo src="/images/brian-alligator.webp" sizes="(min-width: 720px) 33vw, 50vw" alt="Brian at the 2025 PestWorld industry conference holding a young alligator" /></figure>
       </div>
       <p class="center" style="margin-top:1.4rem"><a href="/gallery/" class="btn btn-ghost">See more from the field →</a></p>
     </div>

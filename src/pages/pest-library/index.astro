@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
@@ -19,7 +20,7 @@ const pageNodes = [
 ---
 <BaseLayout title="Pest Library" description={desc} path="/pest-library/" pageNodes={pageNodes}>
   <figure class="pl-banner">
-    <img src="/images/brand-banner.jpg" width="1500" height="938" fetchpriority="high" decoding="async"
+    <Photo src="/images/brand-banner.webp" sizes="(min-width: 1180px) 1140px, 100vw" priority
       alt="BugBoss The X-Terminator — The BugBoss is here, he's here for you! BugBossWI.com · 866-BUGBOSS" />
   </figure>
   <section>

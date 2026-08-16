@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
@@ -33,8 +34,7 @@ const pageNodes = [
       <h1>Wildlife Removal &amp; Exclusion in Northeast Wisconsin</h1>
       <AnswerBox text={s.answer} />
       <figure class="band-photo">
-        <img src="/images/brian-alligator.jpg" width="750" height="1000" loading="lazy" decoding="async"
-          alt="Brian Zahringer of BugBoss holding a young alligator — BugBoss handles the wildlife work most rural pest companies won't" />
+        <Photo src="/images/brian-alligator.webp" sizes="(min-width: 380px) 340px, 100vw" alt="Brian Zahringer of BugBoss holding a young alligator — BugBoss handles the wildlife work most rural pest companies won't" />
       </figure>
       <p class="lead">{s.summary}</p>
       <h2>What’s included</h2>

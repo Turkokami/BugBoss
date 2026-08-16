@@ -135,11 +135,31 @@ for (const file of files) {
     }
   }
 
-  // --- Content -------------------------------------------------------------
-  // Every image has descriptive alt text (Rule 4).
-  for (const img of html.match(/<img\b[^>]*>/g) ?? []) {
+  // --- Content & performance -----------------------------------------------
+  const imgs = html.match(/<img\b[^>]*>/g) ?? [];
+  for (const img of imgs) {
+    // Rule 4: every image has descriptive alt text.
     if (!/\salt="[^"]+"/.test(img)) fail(page, 'img-alt', img.slice(0, 90));
+
+    // Standard 04: images are WebP and lazy-loaded, with intrinsic dimensions
+    // so nothing reflows once they arrive.
+    const src = img.match(/\ssrc="([^"]+)"/)?.[1] ?? '';
+    if (/\.(jpe?g|png|gif)(\?|$)/i.test(src)) fail(page, 'img-not-webp', src);
+    if (!/\swidth="\d+"/.test(img) || !/\sheight="\d+"/.test(img)) {
+      fail(page, 'img-no-dimensions', src);
+    }
+    // Eager loading is correct above the fold — the LCP image and the header
+    // logo. Below-the-fold images must be lazy, so anything eager that is not
+    // one of those two is flagged.
+    const eager = !/\sloading="lazy"/.test(img);
+    const aboveFold = /\sfetchpriority="high"/.test(img) || /\sclass="[^"]*brand-logo/.test(img);
+    if (eager && !aboveFold) fail(page, 'img-eager-below-fold', src);
+    if (!/\ssrcset="/.test(img)) fail(page, 'img-no-srcset', src);
   }
+  // At most one high-priority image per page — more than one and they compete
+  // for bandwidth and none of them wins.
+  const priority = imgs.filter((i) => /fetchpriority="high"/.test(i)).length;
+  if (priority > 1) fail(page, 'multiple-lcp-candidates', `${priority} fetchpriority=high images`);
 
   // Rule 6: no unresolved template variables left in the output.
   const leak = html.match(/\{\{[^}]{1,40}\}\}|\$\{[a-zA-Z][^}]{0,40}\}|\bundefined\b(?=[<\s.,])/);

@@ -1,4 +1,5 @@
 ---
+import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
@@ -37,8 +38,7 @@ const pageNodes = [
       <h1>Residential Pest Control in Northeast Wisconsin</h1>
       <AnswerBox text={s.answer} />
       <figure class="band-photo">
-        <img src="/images/field-shoe-covers.jpg" width="1125" height="1500" loading="lazy" decoding="async"
-          alt="BugBoss technician wearing shoe covers while treating inside a customer's home in Northeast Wisconsin" />
+        <Photo src="/images/field-shoe-covers.webp" sizes="(min-width: 360px) 320px, 100vw" alt="BugBoss technician wearing shoe covers while treating inside a customer's home in Northeast Wisconsin" />
       </figure>
       <p class="lead">{s.summary}</p>
       <style>
