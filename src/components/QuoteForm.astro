@@ -19,7 +19,10 @@
 import { business } from '@/data/business';
 
 interface Props {
-  heading?: string;
+  /** Heading above the embed. Pass null to omit it — useful where the
+      surrounding section already provides one and the GHL form renders its
+      own title inside the iframe. */
+  heading?: string | null;
   /** Shorter frame for in-page placements like the homepage. */
   compact?: boolean;
   /** Skip the <script> tag when another QuoteForm on the page already loads it. */
@@ -33,7 +36,7 @@ const frameId = `inline-${business.ghlFormId}`;
 const minHeight = compact ? 560 : 640;
 ---
 <div class="quote-form">
-  <h2 class="mt0">{heading}</h2>
+  {heading && <h2 class="mt0">{heading}</h2>}
   <div class="ghl-shell" style={`--frame-min:${minHeight}px`}>
     <iframe
       src={`${business.ghlDomain}/widget/form/${business.ghlFormId}`}

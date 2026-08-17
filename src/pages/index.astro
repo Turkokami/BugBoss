@@ -81,7 +81,10 @@ const pageNodes = [
         long-term contract. Serving Clintonville and the rural corridor around it.
       </p>
       <div class="card form-card">
-        <QuoteForm heading="Request a free quote" />
+        {/* No heading prop: the section already has an h2 above, and the GHL
+            form renders its own "Request A Free Estimate" title inside the
+            iframe. A third heading between them just reads as a stutter. */}
+        <QuoteForm heading={null} />
       </div>
     </div>
   </section>

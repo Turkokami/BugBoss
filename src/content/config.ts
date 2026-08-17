@@ -97,4 +97,23 @@ const residential = defineCollection({
   }),
 });
 
-export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential };
+// Compliance / code / tenant-law pages (Master Plan §3.4 page type 5, T8).
+// These state a rule plainly rather than selling a service, so they carry a
+// source citation and a review date (Rule 7) as required frontmatter — not
+// optional, because an out-of-date legal page is worse than none.
+const compliance = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    short: z.string(),          // nav/card label
+    audience: z.string(),       // who the rule applies to, for the card
+    answer: z.string(),
+    order: z.number().default(100),
+    source: z.string(),         // authority the rule comes from
+    sourceUrl: z.string().optional(),
+    reviewed: z.string(),       // display date of last review
+    faqs: faq.default([]),
+  }),
+});
+
+export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance };

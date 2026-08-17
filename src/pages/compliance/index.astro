@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/compliance/';
+const pages = (await getCollection('compliance')).sort((a, b) => a.data.order - b.data.order);
+const answer =
+  'Wisconsin pest control comes with rules: what a landlord owes a tenant, what a restaurant has to show an inspector, and what licence the person spraying your home is required to hold. These pages state each rule plainly, say who it applies to, and cite the agency that administers it.';
+const desc =
+  'Plain-English guides to the Wisconsin rules around pest control — landlord and tenant responsibility, bed bugs in rentals, applicator licensing, and food-service requirements. Sourced and dated.';
+const pageNodes = [
+  webPageNode({ url, name: 'Wisconsin Pest Control Compliance', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Compliance', url }]),
+];
+---
+<BaseLayout title="Wisconsin Pest Control Rules & Compliance" description={desc} path="/compliance/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Compliance</p>
+      <h1>Wisconsin Pest Control Rules &amp; Compliance</h1>
+      <AnswerBox text={answer} />
+      <p class="lead">
+        Most pest control sites will not touch this, because it is easier to sell a
+        service than to explain an obligation. We think the opposite: knowing where
+        you actually stand is the useful part, and it is usually the reason someone
+        is searching in the first place.
+      </p>
+      <div class="grid cols-2">
+        {pages.map((c) => (
+          <a class="card" href={`/compliance/${c.slug}/`}>
+            <span class="tag">{c.data.audience}</span>
+            <h3 style="margin:.4rem 0 .3rem">{c.data.short}</h3>
+            <p style="font-size:.95rem;color:var(--muted);margin:0">{c.data.answer.slice(0, 150)}…</p>
+          </a>
+        ))}
+      </div>
+      <p class="note">
+        Every page here names the agency the rule comes from and the date it was last
+        reviewed. It is general information rather than legal advice — for a dispute
+        or a citation, check the current text and talk to a lawyer.
+      </p>
+    </div>
+  </section>
+  <Cta />
+  <style>
+    .note { margin-top: 1.8rem; font-size: .9rem; color: var(--muted); }
+  </style>
+</BaseLayout>
