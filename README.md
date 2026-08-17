@@ -232,9 +232,11 @@ cause poor LCP and CLS; it does not prove the 2.5s target is met.
 - **Done:** Foundation + entity graph, Tier 1 moat (deep), Tier 2 Ring (deep), 8 specialty
   guides, **Pest Library complete at 55 profiles**, seasonal blog, photos, Tier 3
   neighborhood pages, Tier 4 test towns, full 16-industry commercial section.
-- **Phase 3 remaining** — 30 problem-specific micro pages (22 built), pest×city
-  crossing pages, blog to 8–10 posts/month.
+- **Phase 3 remaining** — pest×city crossing pages, blog to 8–10 posts/month.
+  (Problem pages complete at 32, past the 30 target.)
 - **Phase 4** — review velocity 95→300, TikTok/YouTube `VideoObject` schema, chamber/association links.
-- **Blue-ocean (Master Plan §7 Phase 5)** — a `/compliance/` cluster and a `/financing/`
-  page, neither of which exists yet and neither of which any local competitor builds.
+- **Blue-ocean (Master Plan §7 Phase 5)** — `/compliance/` is built (hub + 4 pages on
+  the T8 contract, each with a required source citation and review date). `/financing/`
+  still depends on whether Brian offers it. Case studies (T9) remain the largest gap
+  and need his job history.
 - **Polish pass** — vary shared town boilerplate; question-form the H2s; extend town bodies to 3,500+ words.
