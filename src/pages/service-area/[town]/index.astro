@@ -6,6 +6,7 @@ import Faq from '@/components/Faq.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
 import { townsWithPages, getTown, hasResidentialSpoke, hasCommercialSpoke, hasWildlifeSpoke } from '@/data/towns';
+import { getPest } from '@/data/pests';
 import { proximityLine, townHubFaqs, townServiceNode, genericLocal } from '@/lib/geo';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
@@ -20,6 +21,12 @@ const url = `${business.url}/service-area/${t.slug}/`;
 
 // Deep long-form body from the content collection, if one exists for this town.
 const deepEntries = await getCollection('towns', (e) => e.data.town === t.slug);
+// Pest × city crossing pages that exist for this town (capacity-gated, so most
+// towns have none). Linking them here is what keeps them out of orphan status.
+const crossings = (await getCollection('townpests', (e) => e.data.town === t.slug))
+  .map((e) => ({ pest: getPest(e.data.pest)!, title: e.data.title }))
+  .filter((c) => c.pest)
+  .sort((a, b) => a.pest.name.localeCompare(b.pest.name));
 const deep = deepEntries[0];
 let Body: any = null;
 if (deep) Body = (await render(deep)).Content;
@@ -67,6 +74,21 @@ const pageNodes = [
           <p>Because {t.name} is defined by {L.housing}, the pest and wildlife problems here run to a specific list. The ones we’re called for most:</p>
           <ul class="check">{L.pestPressures.map((p) => <li>{p[0].toUpperCase() + p.slice(1)}</li>)}</ul>
           <p>Local reference points like {L.landmarks.join(', ')} shape where the pressure is heaviest — riverside and wooded lots, older structures, and open farmland each bring their own issues, and we treat accordingly rather than running a one-size-fits-all program.</p>
+        </>
+      )}
+
+      {crossings.length > 0 && (
+        <>
+          <h2>Common {t.name} pest problems, in detail</h2>
+          <p>The pests that drive the most calls here, written up for {t.name} specifically rather than in general.</p>
+          <div class="grid cols-2">
+            {crossings.map((c) => (
+              <a class="card" href={`/service-area/${t.slug}/${c.pest.slug}/`}>
+                <h3 style="margin:0 0 .3rem;font-size:1.05rem">{c.pest.name} in {t.name}</h3>
+                <p style="font-size:.92rem;color:var(--muted);margin:0">{c.pest.season}</p>
+              </a>
+            ))}
+          </div>
         </>
       )}
 

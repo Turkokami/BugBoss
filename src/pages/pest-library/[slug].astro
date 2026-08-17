@@ -7,6 +7,7 @@ import Faq from '@/components/Faq.astro';
 import Cta from '@/components/Cta.astro';
 import { business, cityState } from '@/data/business';
 import { pests, getPest, type PestCategory } from '@/data/pests';
+import { getTown } from '@/data/towns';
 import { expertNote } from '@/data/expert-notes';
 import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
 
@@ -19,6 +20,12 @@ const pest = getPest(slug!)!;
 const url = `${business.url}/pest-library/${pest.slug}/`;
 
 const deepEntries = await getCollection('pests', (e) => e.data.pest === pest.slug);
+// Towns with a dedicated page for this pest — the other half of the crossing
+// link, so the lattice is reachable from the pest side as well as the geo side.
+const crossings = (await getCollection('townpests', (e) => e.data.pest === pest.slug))
+  .map((e) => ({ town: getTown(e.data.town)! }))
+  .filter((c) => c.town)
+  .sort((a, b) => a.town.name.localeCompare(b.town.name));
 const deep = deepEntries[0];
 let Body: any = null;
 if (deep) Body = (await render(deep)).Content;
@@ -74,6 +81,18 @@ const pageNodes = [
         </>
       )}
 
+      {crossings.length > 0 && (
+        <p class="towns-line">
+          <strong>{pest.name} where you are:</strong>{' '}
+          {crossings.map((c, i) => (
+            <>
+              {i > 0 && ' · '}
+              <a href={`/service-area/${c.town.slug}/${pest.slug}/`}>{c.town.name}</a>
+            </>
+          ))}
+        </p>
+      )}
+
       <div class="callout">
         <p class="mt0"><strong>Have {pest.name.toLowerCase()}?</strong> BugBoss handles this across rural Northeast Wisconsin — locally, with no long-term contract.</p>
         <div class="cta-row">
@@ -91,5 +110,6 @@ const pageNodes = [
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
     .eyebrow a { color: var(--green-600); text-decoration: none; }
+    .towns-line { margin-top: 1.6rem; padding: .9rem 1.1rem; background: var(--bg-soft); border-radius: var(--radius); font-size: .95rem; }
   </style>
 </BaseLayout>

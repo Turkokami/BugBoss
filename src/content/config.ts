@@ -116,4 +116,21 @@ const compliance = defineCollection({
   }),
 });
 
-export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance };
+// Pest × city crossing pages (Master Plan §3.3 `/locations/{city}/{service}/`,
+// Phase 3). Deliberately NOT generated as a full lattice: Rule 5 gates geo
+// pages on having genuinely unique content to write, and Rule 6 forbids
+// template-assembled body copy. So a page exists only where the pest is a real
+// named pressure for that town and there was something specific to say — the
+// file existing IS the capacity gate. Filename is `{town}--{pest}`.
+const townpests = defineCollection({
+  type: 'content',
+  schema: z.object({
+    town: z.string(),           // town slug, must exist in towns.ts
+    pest: z.string(),           // pest slug, must exist in pests.ts
+    title: z.string(),
+    answer: z.string(),
+    faqs: faq.default([]),
+  }),
+});
+
+export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance, townpests };

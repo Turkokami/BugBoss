@@ -211,6 +211,24 @@ Loading rules the gate enforces: exactly one `fetchpriority="high"` image per
 page (the LCP element), the header logo eager but *not* high-priority so it does
 not compete with it, and everything else lazy.
 
+### Pest × city crossing pages
+
+`/service-area/{town}/{pest}/`, driven by the `townpests` collection. Deliberately
+**not** a generated lattice: `getStaticPaths` reads the collection, so a page exists
+only where someone wrote genuinely local content for that pairing. Rule 5 gates geo
+pages on having something unique to say and Rule 6 forbids template-assembled prose —
+crossing 55 pests with 61 towns would violate both and produce thousands of thin
+pages, which the plan says is worse than none.
+
+Six built so far (1,100–1,600 words each, against a 300-word floor), chosen where the
+pest is a named local pressure in `towns.ts`: Clintonville cluster flies, Marion mice,
+Tigerton mice, Iola bats, Embarrass bats, Manawa mosquitoes. Cross-page duplicate
+sentence check: 2, both the required Rule 7 source citation.
+
+Each is linked from both parents — the town hub and the pest profile — so the lattice
+is reachable from either direction and the orphan check passes. Add more by writing a
+`src/content/townpests/{town}--{pest}.md` file; nothing else needs changing.
+
 ### Acceptance gate
 
 `npm run build && npm run audit` runs the mechanically checkable half of §8.1
@@ -232,8 +250,8 @@ cause poor LCP and CLS; it does not prove the 2.5s target is met.
 - **Done:** Foundation + entity graph, Tier 1 moat (deep), Tier 2 Ring (deep), 8 specialty
   guides, **Pest Library complete at 55 profiles**, seasonal blog, photos, Tier 3
   neighborhood pages, Tier 4 test towns, full 16-industry commercial section.
-- **Phase 3 remaining** — pest×city crossing pages, blog to 8–10 posts/month.
-  (Problem pages complete at 32, past the 30 target.)
+- **Phase 3 remaining** — blog to 8–10 posts/month. (Problem pages complete at 32,
+  past the 30 target. Pest×city crossing pages started — see below.)
 - **Phase 4** — review velocity 95→300, TikTok/YouTube `VideoObject` schema, chamber/association links.
 - **Blue-ocean (Master Plan §7 Phase 5)** — `/compliance/` is built (hub + 4 pages on
   the T8 contract, each with a required source citation and review date). `/financing/`

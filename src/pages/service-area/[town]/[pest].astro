@@ -1,0 +1,94 @@
+---
+// PEST × CITY CROSSING PAGE — Master Plan §3.3 city × service matrix, Phase 3.
+//
+// Capacity-gated by design. getStaticPaths reads the `townpests` content
+// collection rather than crossing every pest with every town, so a page exists
+// only where somebody actually wrote genuinely local content for that pairing.
+// Rule 5 gates geo pages on having something unique to say, and Rule 6 forbids
+// template-assembled prose — a full programmatic lattice would violate both and
+// produce hundreds of thin pages, which the plan says is worse than none.
+//
+// The static sibling routes in this folder (residential/commercial/wildlife)
+// take precedence over this dynamic one, but they are excluded explicitly so a
+// mistaken content file can never shadow them.
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import ExpertBlock from '@/components/ExpertBlock.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { getTown } from '@/data/towns';
+import { getPest } from '@/data/pests';
+import { expertNote } from '@/data/expert-notes';
+import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
+import { townServiceNode } from '@/lib/geo';
+
+export async function getStaticPaths() {
+  // Declared inside: Astro hoists getStaticPaths, so it cannot see consts
+  // defined in the component scope.
+  const reserved = new Set(['residential', 'commercial', 'wildlife']);
+  const entries = await getCollection('townpests');
+  return entries
+    .filter((e) => !reserved.has(e.data.pest))
+    .map((e) => ({ params: { town: e.data.town, pest: e.data.pest }, props: { e } }));
+}
+
+const { e } = Astro.props;
+const { Content } = await render(e);
+const t = getTown(e.data.town)!;
+const p = getPest(e.data.pest)!;
+const url = `${business.url}/service-area/${t.slug}/${p.slug}/`;
+const note = expertNote(p.slug);
+
+const pageNodes = [
+  webPageNode({ url, name: e.data.title, description: e.data.answer, primaryEntityId: `${url}#service` }),
+  townServiceNode(t, url),
+  articleNode({
+    url,
+    headline: e.data.title,
+    description: e.data.answer,
+    section: t.name,
+    dateModified: business.contentReviewDate,
+  }),
+  faqPageNode(url, e.data.faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Service Area', url: business.url + '/service-area/' },
+    { name: t.name, url: `${business.url}/service-area/${t.slug}/` },
+    { name: p.name, url },
+  ]),
+];
+---
+<BaseLayout title={e.data.title} description={e.data.answer} path={`/service-area/${t.slug}/${p.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · {p.name}</p>
+      <h1>{e.data.title}</h1>
+      <AnswerBox text={e.data.answer} />
+      {note && <ExpertBlock note={note} />}
+      <article class="prose"><Content /></article>
+
+      <div class="callout">
+        <p class="mt0">
+          <strong>More on this:</strong> the full <a href={`/pest-library/${p.slug}/`}>{p.name.toLowerCase()} profile</a>
+          covers identification, biology and treatment in depth, and
+          <a href={`/service-area/${t.slug}/`}>{t.name} pest control</a> covers everything else we handle in town.
+        </p>
+      </div>
+    </div>
+  </section>
+  {e.data.faqs.length > 0 && (
+    <section class="soft"><div class="wrap narrow">
+      <Faq items={e.data.faqs} heading={`${p.name} in ${t.name}: Common Questions`} />
+    </div></section>
+  )}
+  <Cta
+    title={`${p.name} problem in ${t.name}?`}
+    sub={`Brian is ${t.local?.distanceMi === 0 ? 'right here in town' : `about ${t.local?.distanceMi} miles away in Clintonville`} — licensed, insured, and no long-term contract.`}
+  />
+  <style>
+    .eyebrow a { color: var(--green-600); text-decoration: none; }
+    .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.2rem 1.4rem; margin: 2rem 0 0; }
+  </style>
+</BaseLayout>
