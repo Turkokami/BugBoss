@@ -2,12 +2,14 @@
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
 import Faq from '@/components/Faq.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
 import { business } from '@/data/business';
 import { towns } from '@/data/towns';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/service-area/';
-const desc = 'BugBoss serves rural and small-town Northeast & Central Wisconsin from Clintonville — Waupaca, Shawano, Waushara, Outagamie, Oconto, and Langlade counties and beyond.';
+const desc = `BugBoss serves a ${business.serviceRadiusMiles}-mile radius from Clintonville, WI — ${business.serviceCounties.length} Wisconsin counties including Waupaca, Shawano, Outagamie, Waushara, Oconto and Langlade, plus the Fox Valley and Green Bay edge.`;
+const answer = `BugBoss works within about ${business.serviceRadiusMiles} miles of Clintonville, WI, which touches ${business.serviceCounties.length} Wisconsin counties. The deepest coverage is the rural corridor closest to home — Waupaca, Shawano and Outagamie — with full service out to the Fox Valley, Green Bay, Stevens Point and Wisconsin Rapids edges.`;
 const tiers = [
   { n: 1 as const, label: 'Our Home Territory (0–20 miles)', note: 'Deepest coverage, fastest response — this is home.' },
   { n: 2 as const, label: 'The Surrounding Ring (20–35 miles)', note: 'Full service across the towns just beyond home base.' },
@@ -16,7 +18,8 @@ const tiers = [
 ];
 const withPages = new Set(towns.filter((t) => t.cluster !== 'area').map((t) => t.slug));
 const faqs = [
-  { q: 'What counties does BugBoss serve?', a: 'BugBoss serves Waupaca, Shawano, Waushara, Outagamie, Oconto, and Langlade counties, plus parts of Brown, Winnebago, Portage, Marathon, Lincoln, and Green Lake counties — centered on rural and small-town Northeast and Central Wisconsin.' },
+  { q: 'What counties does BugBoss serve?', a: `Any part of ${business.serviceCounties.length} Wisconsin counties falls inside our ${business.serviceRadiusMiles}-mile radius from Clintonville: ${business.serviceCounties.map((c) => c.replace(' County', '')).join(', ')}. The heaviest coverage is the rural corridor closest to home — Waupaca, Shawano and Outagamie — and the outer counties are reached at their nearer edges rather than end to end.` },
+  { q: 'Is that 60 miles of driving?', a: `No, and the distinction matters. It is a 60-mile straight-line radius measured from downtown Clintonville, so actual travel distance to somewhere near the edge is longer than 60 miles of road. A county is included if any part of it falls inside that circle, which means the far corners of the outer counties are genuinely marginal. If you are out near the boundary, call ${business.phoneVanity} and we will tell you straight away rather than guessing.` },
   { q: 'Do you charge extra for rural or out-of-town service?', a: 'BugBoss is built for rural Wisconsin, so serving out-of-town properties is normal, not an exception. Any travel considerations for the farthest communities are discussed up front when you call — no surprises.' },
   { q: 'My town isn’t listed — can you still help?', a: `Very likely yes. The list is not exhaustive, and BugBoss covers a wide rural radius from Clintonville. Call ${business.phoneVanity} and we’ll tell you right away whether we serve your area.` },
 ];
@@ -31,7 +34,21 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow">Where we work</p>
       <h1>BugBoss Service Area</h1>
-      <p class="lead">Based in Clintonville, BugBoss serves the rural and small-town corridor the national companies skip — across six core counties and beyond. Towns with a link have a dedicated local page; the rest are fully served, just call.</p>
+      <AnswerBox text={answer} />
+      <p class="lead">Based in Clintonville, BugBoss serves the rural and small-town corridor the national companies skip — and reaches the metro edge from there. Towns with a link have a dedicated local page; the rest are fully served, just call.</p>
+
+      <div class="radius-box">
+        <p class="mt0"><strong>{business.serviceCounties.length} counties within about {business.serviceRadiusMiles} miles of Clintonville</strong></p>
+        <div class="tag-grid">
+          {business.serviceCounties.map((c) => <span class="tag">{c.replace(' County', '')}</span>)}
+        </div>
+        <p class="radius-note">
+          Measured as a {business.serviceRadiusMiles}-mile straight-line radius from downtown
+          Clintonville, so real driving distance to the outer edge is longer. A county is listed
+          if any part of it falls inside that circle — the far corners of the outer counties are
+          marginal, so if you are near the boundary, call and we will give you a straight answer.
+        </p>
+      </div>
       {tiers.map((tier) => {
         const list = towns.filter((t) => t.tier === tier.n);
         return (

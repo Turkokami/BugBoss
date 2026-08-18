@@ -1,6 +1,6 @@
 ---
 import { business, fullAddress } from '@/data/business';
-import { counties } from '@/data/towns';
+
 import { residentialServices } from '@/data/residential-services';
 ---
 <footer class="site-footer dark">
@@ -55,7 +55,7 @@ import { residentialServices } from '@/data/residential-services';
       <p class="col-label">Service Area</p>
       <a href="/service-area/">All Towns We Serve</a>
       <a href="/pest-control/">Fox Valley & Green Bay Neighborhoods</a>
-      <p class="counties">Serving {counties.slice(0, 6).join(', ')} and rural Northeast &amp; Central Wisconsin.</p>
+      <p class="counties">Serving a {business.serviceRadiusMiles}-mile radius from Clintonville — {business.serviceCounties.length} Wisconsin counties, including {business.coreCounties.slice(0, 4).map((c) => c.replace(" County", "")).join(", ")} and the surrounding rural corridor.</p>
     </nav>
   </div>
   <div class="wrap legal">

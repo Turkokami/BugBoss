@@ -9,7 +9,7 @@
 
 import { business, cityState, sameAs } from '@/data/business';
 import { services } from '@/data/services';
-import { areaServedNames, counties } from '@/data/towns';
+import { areaServedNames } from '@/data/towns';
 
 const ID = {
   org: `${business.url}/#organization`,
@@ -55,10 +55,29 @@ const postalAddress = {
   addressCountry: business.address.country,
 };
 
+// Counties come from business.serviceCounties (the confirmed 60-mile radius),
+// not from whichever towns happen to have pages — the two are different things,
+// and areaServed should state where BugBoss actually works.
 const areaServed = [
-  ...counties.map((c) => ({ '@type': 'AdministrativeArea', name: c, address: { '@type': 'PostalAddress', addressRegion: 'WI' } })),
+  ...business.serviceCounties.map((c) => ({
+    '@type': 'AdministrativeArea',
+    name: c,
+    address: { '@type': 'PostalAddress', addressRegion: 'WI' },
+  })),
   ...areaServedNames.map((name) => ({ '@type': 'City', name: `${name}, WI` })),
 ];
+
+// The service radius as a geometry, which is more precise for an answer engine
+// than a county list and matches how the coverage was actually defined.
+const serviceGeo = {
+  '@type': 'GeoCircle',
+  geoMidpoint: {
+    '@type': 'GeoCoordinates',
+    latitude: business.geo.lat,
+    longitude: business.geo.lng,
+  },
+  geoRadius: String(Math.round(business.serviceRadiusMiles * 1609.34)),
+};
 
 function organizationNode() {
   return {
@@ -100,6 +119,7 @@ function localBusinessNode() {
     founder: { '@id': ID.person },
     employee: { '@id': ID.person },
     areaServed,
+    serviceArea: serviceGeo,
     aggregateRating: {
       '@type': 'AggregateRating',
       ratingValue: business.rating.value,

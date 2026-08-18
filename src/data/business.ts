@@ -11,7 +11,10 @@ export const business = {
   shortName: 'BugBoss',
   legalName: 'BugBoss The X-Terminator', // Registered name; DBA "The BugBoss".
   dba: 'The BugBoss',
-  businessLicense: '535382', // WI business registration
+  // NOTE: a WI business registration #535382 was previously published here.
+  // Brian did not recognise it when asked (Aug 2026), so it is unverified and
+  // has been removed rather than left on 239 pages. An unverifiable credential
+  // is worse than no credential. Restore only if it can be confirmed.
   tagline: 'Pest Control & Wildlife Removal in Northeast Wisconsin',
   foundingYear: 2021, // Founded April 2021 by Brian & Amber Zahringer.
   foundingMonth: 'April',
@@ -45,8 +48,8 @@ export const business = {
   },
   geo: { lat: 44.6216, lng: -88.7626 },
 
-  // Human-readable hours. TODO: confirm exact hours with Brian.
-  // GBP lists a 24-hour attribute; emergency line is answered around the clock.
+  // Confirmed by Brian, August 2026. Must stay byte-identical to the Google
+  // Business Profile — if it changes there, change it here and nowhere else.
   hours: '24-hour emergency line; office Mon–Fri 8am–5pm',
 
   // Machine-readable mirror of the line above, for openingHoursSpecification
@@ -58,6 +61,10 @@ export const business = {
 
   // --- Trust / reputation (GBP live data, July 2026 per audit) ---
   rating: { value: 4.9, count: 95 },
+  // Opens the Google review box directly rather than the profile — one tap
+  // fewer, which matters when review velocity is the weakest dimension on the
+  // scorecard and the only one the build itself cannot improve.
+  reviewUrl: 'https://g.page/r/CfLwJA8GPIIxEBE/review',
 
   // --- Owner / named expert (E-E-A-T) ---
   owner: {
@@ -73,6 +80,46 @@ export const business = {
 
   attributes: ['Family-owned & operated', 'Licensed & insured', 'No long-term contracts'],
 
+  // --- Service area -------------------------------------------------------
+  // Confirmed by Brian, August 2026: a 60-mile STRAIGHT-LINE radius from
+  // downtown Clintonville (44.620 N, 88.762 W). Straight-line, not drive time —
+  // actual travel distance to the outer edge is longer, so the copy says
+  // "about 60 miles" rather than implying a surveyed boundary.
+  //
+  // A county is listed if any part of it falls inside the radius, which means
+  // the far corners of the outer counties are marginal. This is the marketing
+  // service area, not a GIS boundary; treat edge communities as "call and ask".
+  serviceRadiusMiles: 60,
+  serviceCounties: [
+    'Waupaca County', 'Shawano County', 'Outagamie County', 'Menominee County',
+    'Oconto County', 'Brown County', 'Marathon County', 'Portage County',
+    'Waushara County', 'Winnebago County', 'Calumet County', 'Fond du Lac County',
+    'Green Lake County', 'Marquette County', 'Wood County', 'Adams County',
+    'Langlade County',
+  ],
+  // The counties the rural-corridor strategy actually targets with content.
+  // Serving 17 counties and writing deep content for 6 is not a contradiction:
+  // the audit's whole thesis is to avoid competing head-on in the Fox Valley
+  // and Green Bay metros while still covering them.
+  coreCounties: [
+    'Waupaca County', 'Shawano County', 'Outagamie County',
+    'Waushara County', 'Oconto County', 'Langlade County',
+  ],
+
+  // --- Insurance (certificate on file, Aug 2026) --------------------------
+  // Published because commercial prospects — food processing, healthcare,
+  // schools, property management — routinely ask before they will book.
+  // Policy numbers and the agency contact are deliberately NOT here; a
+  // certificate is issued on request instead.
+  insurance: {
+    generalLiabilityCarrier: 'West Bend Insurance Company',
+    workersCompCarrier: 'SFM Mutual Insurance Company',
+    eachOccurrence: '$1,000,000',
+    generalAggregate: '$2,000,000',
+    productsCompletedOps: '$2,000,000',
+    certificateAvailable: true,
+  },
+
   // Rule 7: factual claims carry a review date. This is the date the Pest
   // Library and guide content was last reviewed by the named expert; it feeds
   // both the visible expert block and `dateModified` in the Article node.
@@ -86,9 +133,9 @@ export const business = {
     tiktok: 'https://www.tiktok.com/@bugbossbrian',
     instagram: 'https://www.instagram.com/bugboss_the_x_terminator/',
     youtube: 'https://www.youtube.com/channel/UCFMDVz_npS6z-aPUxQLJA1Q',
-    // TODO: confirm exact Google Maps + Yelp profile URLs
-    googleMaps: 'https://www.google.com/maps/search/BugBoss+The+X-Terminator+Clintonville+WI',
-    yelp: 'https://www.yelp.com/biz/bugboss-the-x-terminator-clintonville',
+    // Confirmed by Brian, August 2026.
+    googleMaps: 'https://g.page/r/CfLwJA8GPIIxEBE',
+    yelp: 'https://www.yelp.com/biz/bugboss-the-x-terminator-clintonville-2',
   },
 } as const;
 

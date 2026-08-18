@@ -65,7 +65,10 @@ const pageNodes = [
         <ul class="check">
           <li>Founded {business.foundingMonth} {business.foundingYear} by {business.owner.name} &amp; {business.cofounder} — family owned &amp; operated</li>
           <li>Certified Wisconsin <strong>Commercial Pesticide Applicator</strong> (Cert #{business.owner.licenseNumber}) — categories {business.owner.applicatorCategories.join(' and ')}</li>
-          <li>Licensed &amp; insured business (WI Reg. #{business.businessLicense})</li>
+          <li>Licensed &amp; insured — general liability
+            carried through {business.insurance.generalLiabilityCarrier} at {business.insurance.eachOccurrence} per
+            occurrence / {business.insurance.generalAggregate} aggregate, with workers' compensation through
+            {business.insurance.workersCompCarrier}. Certificate of insurance on request.</li>
           <li>Rated {business.rating.value} from {business.rating.count}+ reviews · No long-term contracts</li>
           <li>Pest <em>and</em> wildlife under one roof, including DNR-compliant bat exclusion</li>
         </ul>

@@ -66,12 +66,23 @@ const pageNodes = [
         </>
       ))}
       {items.length === 0 && <p>Industry pages are being published.</p>}
+      <div class="coi">
+        <p class="mt0"><strong>Need a certificate of insurance before we start?</strong>
+          Say so when you call and we will have one issued. BugBoss carries general liability through
+          {business.insurance.generalLiabilityCarrier} at {business.insurance.eachOccurrence} per occurrence and
+          {business.insurance.generalAggregate} aggregate, plus workers' compensation through
+          {business.insurance.workersCompCarrier} — and Brian is a licensed Wisconsin
+          {business.owner.applicatorType} Applicator, Cert #{business.owner.licenseNumber}.
+          Food processing, healthcare, schools and property management clients ask for this routinely;
+          it is never a problem.</p>
+      </div>
     </div>
   </section>
 
   <section><div class="wrap narrow"><Faq items={faqs} /></div></section>
   <Cta title="Need a commercial program that passes audit?" sub="Documented, discreet, and built around your industry's rules. Talk directly to the owner." />
   <style>
+    .coi { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.2rem 1.4rem; margin: 2rem 0 0; font-size: .96rem; }
     .band-photo { margin: 1.4rem auto; max-width: 420px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
     .band-photo :global(img) { width: 100%; height: auto; display: block; }
   </style>

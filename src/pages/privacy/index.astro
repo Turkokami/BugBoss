@@ -1,14 +1,105 @@
 ---
+// PRIVACY POLICY — drafted August 2026 from what the site actually does, not
+// from a template: no analytics, no advertising pixels, no cookies set by our
+// own code. The only third party is the GoHighLevel form embed on /contact/.
+//
+// ⚠️ Brian: this is an honest description of current behaviour, but it has NOT
+// been reviewed by a lawyer. Have someone check it before launch, and update it
+// if analytics or advertising tracking is ever added.
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import { business } from '@/data/business';
-import { webPageNode } from '@/lib/schema';
+import Cta from '@/components/Cta.astro';
+import { business, fullAddress } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
 const url = business.url + '/privacy/';
+const desc = `How ${business.name} handles information collected through this website — what is collected, who processes it, and how to have it removed.`;
+const pageNodes = [
+  webPageNode({ url, name: 'Privacy Policy', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Privacy Policy', url }]),
+];
 ---
-<BaseLayout title="Privacy Policy" description="BugBoss The X-Terminator privacy policy." path="/privacy/" pageNodes={[webPageNode({ url, name: 'Privacy Policy', description: 'Privacy policy' })]} noindex={true}>
-  <section><div class="wrap narrow">
-    <h1>Privacy Policy</h1>
-    <p>BugBoss The X-Terminator respects your privacy. This page describes how we handle information collected through this website.</p>
-    <p><em>Placeholder — replace with your reviewed privacy policy before launch. Include how contact-form data is collected, stored, and used, any analytics or advertising cookies in use, and contact details for privacy requests.</em></p>
-    <p>Questions? Contact us at <a href={`mailto:${business.email}`}>{business.email}</a>.</p>
-  </div></section>
+<BaseLayout title="Privacy Policy" description={desc} path="/privacy/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Legal</p>
+      <h1>Privacy Policy</h1>
+      <p class="lead">Last updated {business.contentReviewDateDisplay}.</p>
+
+      <p>
+        {business.name} is a family-owned pest control and wildlife business in
+        {business.address.city}, Wisconsin. This page describes what happens to information
+        you give us through this website. It is written to describe what the site actually
+        does rather than to cover every eventuality.
+      </p>
+
+      <h2>What we collect</h2>
+      <p>Only what you send us. There is no account to create and nothing to sign up for.</p>
+      <ul class="check">
+        <li><strong>Quote form submissions.</strong> The name, phone number, email address, property address and description of the problem that you type into the request form.</li>
+        <li><strong>Direct contact.</strong> Anything you tell us if you call {business.phoneVanity} or email {business.email}.</li>
+      </ul>
+
+      <h2>What we do not collect</h2>
+      <p>
+        This site runs <strong>no analytics, no advertising pixels, and no tracking cookies of
+        our own</strong>. We do not build a profile of your visit, we do not sell or rent
+        information to anyone, and we do not share it with third parties for marketing.
+      </p>
+
+      <h2>The one third party</h2>
+      <p>
+        The quote form on this site is provided by <strong>GoHighLevel (LeadConnector)</strong>,
+        which is the system we use to track enquiries and follow up with customers. When you
+        submit the form, your details go to that system. The embedded form may set its own
+        cookies and collect technical information under GoHighLevel's own privacy terms, which
+        we do not control. If you would rather not use it, call or email instead — it reaches
+        us exactly the same way.
+      </p>
+
+      <h2>Text messages</h2>
+      <p>
+        The quote form asks separately whether you consent to receive text messages. That
+        consent is optional and you can decline and still request a quote. If you opt in, you
+        can stop at any time by replying STOP. Message and data rates may apply.
+      </p>
+
+      <h2>How we use it</h2>
+      <p>
+        To quote your job, schedule it, do the work, and follow up about it. If you have asked
+        us to, we may contact you about seasonal service. That is the extent of it.
+      </p>
+
+      <h2>How long we keep it</h2>
+      <p>
+        Enquiry and customer records are kept while they are useful for servicing your property
+        and for ordinary business and tax records. If you want your information removed, ask and
+        we will remove what we are not required to keep.
+      </p>
+
+      <h2>Your choices</h2>
+      <p>
+        You can ask what we hold about you, ask us to correct it, ask us to delete it, or ask us
+        to stop contacting you. Email <a href={`mailto:${business.email}`}>{business.email}</a> or
+        call <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> and say so —
+        there is no process to go through.
+      </p>
+
+      <h2>Children</h2>
+      <p>This site is not directed at children and we do not knowingly collect information from them.</p>
+
+      <h2>Changes</h2>
+      <p>
+        If this changes — for example if we add analytics — we will update this page and the date
+        at the top.
+      </p>
+
+      <h2>Contact</h2>
+      <p>
+        {business.name}<br />
+        {fullAddress}<br />
+        <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> · <a href={`mailto:${business.email}`}>{business.email}</a>
+      </p>
+    </div>
+  </section>
+  <Cta />
 </BaseLayout>

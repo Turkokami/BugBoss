@@ -1,14 +1,109 @@
 ---
+// TERMS OF SERVICE — drafted August 2026. Deliberately short and specific to
+// how BugBoss actually works: no contracts, quotes before work, guarantee
+// defined on its own page (Rule 8).
+//
+// ⚠️ Brian: NOT reviewed by a lawyer. Have someone check it before launch —
+// particularly the liability and payment sections.
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import { business } from '@/data/business';
-import { webPageNode } from '@/lib/schema';
+import Cta from '@/components/Cta.astro';
+import { business, fullAddress } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
 const url = business.url + '/terms/';
+const desc = `Terms for using the ${business.name} website and for the pest control and wildlife services we provide in Wisconsin.`;
+const pageNodes = [
+  webPageNode({ url, name: 'Terms of Service', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Terms of Service', url }]),
+];
 ---
-<BaseLayout title="Terms of Service" description="BugBoss The X-Terminator terms of service." path="/terms/" pageNodes={[webPageNode({ url, name: 'Terms of Service', description: 'Terms of service' })]} noindex={true}>
-  <section><div class="wrap narrow">
-    <h1>Terms of Service</h1>
-    <p>These terms govern your use of the BugBoss The X-Terminator website and services.</p>
-    <p><em>Placeholder — replace with your reviewed terms before launch, including service terms, the defined guarantee language (see Our Guarantee), and website use terms.</em></p>
-    <p>Questions? Contact us at <a href={`mailto:${business.email}`}>{business.email}</a>.</p>
-  </div></section>
+<BaseLayout title="Terms of Service" description={desc} path="/terms/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow">Legal</p>
+      <h1>Terms of Service</h1>
+      <p class="lead">Last updated {business.contentReviewDateDisplay}.</p>
+
+      <h2>Using this website</h2>
+      <p>
+        The information here — the Pest Library, the guides, the compliance pages — is provided
+        to be genuinely useful, and we have taken care to get it right. It is general
+        information about pests, wildlife and Wisconsin rules, not a substitute for an
+        inspection of your property, and not legal advice. Conditions vary building to building,
+        which is rather the point of having someone come and look.
+      </p>
+
+      <h2>Quotes and scheduling</h2>
+      <p>
+        We quote before we work. Quotes are based on what we can see at the time and on what you
+        tell us; if the job turns out to be materially different once we are into it — a larger
+        infestation, structural damage nobody knew about, access that is not what was described —
+        we will tell you before doing extra work rather than after.
+      </p>
+      <p>
+        Some work depends on conditions outside anyone's control. Bat exclusion in Wisconsin is
+        legally timed around the maternity season and cannot simply be scheduled for a convenient
+        week. Exterior treatments depend on weather. We will explain when that applies.
+      </p>
+
+      <h2>Access and preparation</h2>
+      <p>
+        Effective treatment usually needs access to the areas involved, and some jobs — bed bugs
+        especially — need real preparation before we arrive. Where preparation is required we
+        give you the list in advance and in writing. A treatment that fails because the property
+        was not prepared or could not be accessed may need to be repeated at additional cost.
+      </p>
+
+      <h2>The guarantee</h2>
+      <p>
+        Our guarantee is defined in one place, with its covered pests and its exclusions written
+        out: see <a href="/our-guarantee/">Our Guarantee</a>. Every use of the word
+        “guaranteed” on this site refers to those terms and nothing broader. We do not offer a
+        “lifetime” warranty and we explain why on that page.
+      </p>
+
+      <h2>No long-term contract</h2>
+      <p>
+        Quarterly service continues until you tell us to stop. There is no lock-in period and no
+        cancellation fee — see <a href="/no-contracts/">No Contracts</a>.
+      </p>
+
+      <h2>Payment</h2>
+      <p>
+        Payment is due as agreed when the work is quoted. For commercial accounts we invoice on
+        agreed terms.
+      </p>
+
+      <h2>Licensing and insurance</h2>
+      <p>
+        Work is performed by a licensed Wisconsin {business.owner.applicatorType} Pesticide
+        Applicator, certification #{business.owner.licenseNumber}. The business carries general
+        liability and workers' compensation insurance; a certificate is available on request. See
+        <a href="/compliance/pesticide-applicator-licensing/">how to verify a Wisconsin applicator</a>
+        if you would like to check independently, which we encourage.
+      </p>
+
+      <h2>Limits</h2>
+      <p>
+        Pest and wildlife work reduces and controls populations; no honest operator promises a
+        permanent guarantee that nothing will ever return, because re-invasion from surrounding
+        land is outside anyone's control. Our responsibility is limited to performing the agreed
+        work competently and to honouring the guarantee on its stated terms.
+      </p>
+
+      <h2>Governing law</h2>
+      <p>These terms are governed by the laws of the State of Wisconsin.</p>
+
+      <h2>Changes</h2>
+      <p>If these terms change we will update this page and the date at the top.</p>
+
+      <h2>Contact</h2>
+      <p>
+        {business.name}<br />
+        {fullAddress}<br />
+        <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> · <a href={`mailto:${business.email}`}>{business.email}</a>
+      </p>
+    </div>
+  </section>
+  <Cta />
 </BaseLayout>
