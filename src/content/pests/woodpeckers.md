@@ -170,3 +170,7 @@ Call when a woodpecker is **repeatedly working the same area** — that persiste
 Don't reach for a lethal fix — it's federally illegal and it doesn't address the cause — and don't count on a plastic owl to solve it. The productive move is an inspection that tells you *why* the bird is there, followed by legal deterrence, treatment of any insect problem, and proper repair.
 
 Most bird-deterrent outfits can't treat the wood-boring insects that drive persistent woodpecker damage, and most pest-only companies won't touch the bird side at all. BugBoss does both, from our storefront at 600 S. Main St. in [Clintonville](/service-area/clintonville/), serving [Shawano](/service-area/shawano/), [Waupaca](/service-area/waupaca/), [Antigo](/service-area/antigo/), and the rural towns and farms around them. Call **866-BUGBOSS**, or [request a quote](/contact/). No long-term contract, no cancellation fee, and you work directly with Brian.
+
+---
+
+*Source: federal migratory bird protections and Wisconsin Department of Natural Resources wildlife regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. Rules change; confirm current requirements before acting.*

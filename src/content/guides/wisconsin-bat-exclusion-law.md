@@ -171,3 +171,7 @@ Every bat job runs the same disciplined way. We start with a full inspection and
 Because we're a local company that does **both pest control and wildlife**, you get one accountable outfit for the whole problem — eviction, cleanup, and the exclusion that keeps them out — instead of a pest franchise that won't touch bats and a separate wildlife trapper who won't do the sealing. You also deal directly with the owner, Brian, on **no contract**.
 
 If you've got bats in an attic, a barn, or a cabin anywhere around Clintonville, don't seal anything yet. Call BugBoss at **866-BUGBOSS**, or [request an inspection](/contact/). We'll tell you exactly what the law allows, when we can act, and what it takes to get them out for good. For more on the animal itself, see our [bats pest-library page](/pest-library/bats/), and for the other critters that share these attics, our guide to [farmhouse and pole-barn rodent exclusion](/guides/farmhouse-rodent-exclusion/).
+
+---
+
+*Source: Wisconsin Department of Natural Resources bat protection and exclusion-timing guidance. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. Rules change; confirm current requirements before scheduling exclusion work.*
