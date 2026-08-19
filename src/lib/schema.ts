@@ -106,6 +106,8 @@ function localBusinessNode() {
     email: business.email,
     telephone: business.phoneTollFreeE164,
     priceRange: '$$',
+    paymentAccepted: business.paymentMethods.join(', '),
+    currenciesAccepted: 'USD',
     image: { '@id': ID.primaryImage },
     logo: { '@id': ID.logo },
     address: postalAddress,

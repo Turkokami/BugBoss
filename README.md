@@ -255,6 +255,11 @@ cause poor LCP and CLS; it does not prove the 2.5s target is met.
 - **Phase 4** — review velocity 95→300, TikTok/YouTube `VideoObject` schema, chamber/association links.
 - **Blue-ocean (Master Plan §7 Phase 5)** — `/compliance/` is built (hub + 4 pages on
   the T8 contract, each with a required source citation and review date). `/financing/`
-  still depends on whether Brian offers it. Case studies (T9) remain the largest gap
-  and need his job history.
+  is **not being built**: Brian does not offer financing today (`offersFinancing: false`),
+  though he would consider it later. Case studies (T9) remain the largest gap and need
+  his job history.
+- **Pricing is deliberately not published** (`publishPricing: false`). Brian's call, August
+  2026 — every job is quoted after looking at the property. Do not add starting prices or
+  ranges to service pages without asking him again; the silence is a decision, not a gap.
+  The contact page answers "how much does it cost" honestly instead.
 - **Polish pass** — vary shared town boilerplate; question-form the H2s; extend town bodies to 3,500+ words.

@@ -106,6 +106,17 @@ export const business = {
     'Waushara County', 'Oconto County', 'Langlade County',
   ],
 
+  // --- Pricing & payment (confirmed by Brian, August 2026) ---------------
+  // Deliberate decision: NO prices published online. Every job is quoted after
+  // looking at the property. Do not add starting prices or ranges to service
+  // pages without asking him again — the silence is a choice, not a gap.
+  publishPricing: false,
+  // Financing is not offered today. He would consider it later, so the
+  // /financing/ page in the Master Plan's blue-ocean list stays unbuilt rather
+  // than being built and left empty.
+  offersFinancing: false,
+  paymentMethods: ['Cash', 'Card', 'Check', 'Venmo', 'Cash App', 'PayPal', 'Apple Pay'],
+
   // --- Insurance (certificate on file, Aug 2026) --------------------------
   // Published because commercial prospects — food processing, healthcare,
   // schools, property management — routinely ask before they will book.
