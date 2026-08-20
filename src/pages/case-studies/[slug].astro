@@ -1,0 +1,82 @@
+---
+// T9 CASE STUDY. Per Master Plan §4.2 this is the highest-trust, most
+// citation-friendly asset type in the system — because it contains a specific,
+// attributable claim rather than a general capability statement.
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import ExpertBlock from '@/components/ExpertBlock.astro';
+import Faq from '@/components/Faq.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { getPest } from '@/data/pests';
+import { expertNote } from '@/data/expert-notes';
+import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
+
+export async function getStaticPaths() {
+  const items = await getCollection('caseStudies');
+  return items.map((c) => ({ params: { slug: c.slug }, props: { c } }));
+}
+const { c } = Astro.props;
+const { Content } = await render(c);
+const pest = getPest(c.data.pest);
+const url = `${business.url}/case-studies/${c.slug}/`;
+const note = expertNote(c.data.pest);
+const pageNodes = [
+  webPageNode({ url, name: c.data.title, description: c.data.answer }),
+  articleNode({
+    url,
+    headline: c.data.title,
+    description: c.data.answer,
+    section: 'Case study',
+    dateModified: business.contentReviewDate,
+  }),
+  faqPageNode(url, c.data.faqs),
+  breadcrumbNode(url, [
+    { name: 'Home', url: business.url + '/' },
+    { name: 'Case Studies', url: business.url + '/case-studies/' },
+    { name: c.data.pestLabel, url },
+  ]),
+];
+---
+<BaseLayout title={c.data.title} description={c.data.answer} path={`/case-studies/${c.slug}/`} pageNodes={pageNodes}>
+  <section>
+    <div class="wrap narrow">
+      <p class="eyebrow"><a href="/case-studies/">Case Studies</a> · {c.data.pestLabel}</p>
+      <h1>{c.data.title}</h1>
+      <AnswerBox text={c.data.answer} />
+
+      <dl class="facts">
+        <div><dt>Pest</dt><dd>{c.data.pestLabel}</dd></div>
+        <div><dt>Property</dt><dd>{c.data.propertyType}</dd></div>
+        {c.data.town && <div><dt>Location</dt><dd>{c.data.town}</dd></div>}
+        <div><dt>Outcome</dt><dd>{c.data.outcome}</dd></div>
+      </dl>
+
+      {note && <ExpertBlock note={note} />}
+      <article class="prose"><Content /></article>
+
+      {pest && (
+        <div class="callout">
+          <p class="mt0"><strong>More on this pest:</strong> the full
+            <a href={`/pest-library/${pest.slug}/`}> {pest.name.toLowerCase()} profile</a> covers
+            identification, biology and how these jobs are normally approached.</p>
+        </div>
+      )}
+    </div>
+  </section>
+  {c.data.faqs.length > 0 && (
+    <section class="soft"><div class="wrap narrow"><Faq items={c.data.faqs} /></div></section>
+  )}
+  <Cta title={`Dealing with something similar?`} />
+  <style>
+    .eyebrow a { color: var(--green-600); text-decoration: none; }
+    .facts { display: grid; gap: 0; margin: 1.6rem 0 0; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
+    .facts > div { display: grid; grid-template-columns: 8rem 1fr; gap: 1rem; padding: .75rem 1.1rem; border-bottom: 1px solid var(--line); }
+    .facts > div:last-child { border-bottom: 0; }
+    .facts dt { font-weight: 800; font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+    .facts dd { margin: 0; }
+    .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.2rem 1.4rem; margin: 2rem 0 0; }
+    @media (max-width: 520px) { .facts > div { grid-template-columns: 1fr; gap: .1rem; } }
+  </style>
+</BaseLayout>

@@ -43,7 +43,7 @@ Wisconsin makes more cheese than any other state, and a lot of it comes out of p
 
 That is the first thing to understand about pest control in a dairy or cheese plant. This is not the same job as keeping ants out of an office or spraying the perimeter of a restaurant. A processing plant answers to the **Grade "A" Pasteurized Milk Ordinance**, to the **Wisconsin Department of Agriculture, Trade and Consumer Protection (DATCP)**, to the **FDA**, and — for almost anyone shipping to a major buyer — to a third-party audit scheme like **SQF** or **BRCGS**. Every one of those expects a documented pest management program, and every one of them can cost you a permit, an audit score, or a customer if the program isn't real. This page lays out how pest control actually works in a Wisconsin dairy and cheese plant, what the rules require, and how BugBoss builds a program that holds up when an inspector or auditor walks in.
 
-If you are looking for on-farm pest management — barns, milkhouse, feed rooms, and the fly and rodent pressure that comes with a live herd — that is a different job with different rules, and we cover it in depth in our [dairy farm and agricultural pest management guide](/guides/dairy-farm-pest-control/) and on our [farm and agricultural page](/commercial-pest-control/agricultural-farm/). This page is about the processing side: the plant, its compliance, and the pests that threaten both.
+If you are looking for on-farm pest management — barns, milkhouse, feed rooms, and the fly and rodent pressure that comes with a live herd — that is a different job with different rules, and we cover it in depth in our [dairy farm and agricultural pest management guide](/guides/dairy-farm-pest-control/) and on our farm and agricultural page. This page is about the processing side: the plant, its compliance, and the pests that threaten both.
 
 ## The regulatory reality: PMO, DATCP, FDA, and the audit on top
 
@@ -87,7 +87,7 @@ A rural plant ringed by fields gets [cluster flies](/pest-library/cluster-flies/
 
 ### Stored-product pests and birds
 
-Plants that hold ingredients — powders, sugar, stabilizers, packaging, dry storage — can pick up **stored-product insects** like [moths](/pest-library/moths/) and beetles in the dry-goods room, which is its own monitoring-and-sanitation problem (covered in depth on our [grain, feed and seed page](/commercial-pest-control/grain-feed-seed/)). And [nuisance birds](/pest-library/nuisance-birds/) — sparrows and pigeons around docks and roof lines — foul the exterior, nest in the wrong places, and create a sanitation and audit issue at receiving. Both get folded into the program where they apply.
+Plants that hold ingredients — powders, sugar, stabilizers, packaging, dry storage — can pick up **stored-product insects** like [moths](/pest-library/moths/) and beetles in the dry-goods room, which is its own monitoring-and-sanitation problem (covered in depth on our grain, feed and seed page). And [nuisance birds](/pest-library/nuisance-birds/) — sparrows and pigeons around docks and roof lines — foul the exterior, nest in the wrong places, and create a sanitation and audit issue at receiving. Both get folded into the program where they apply.
 
 ## Listeria: where pest control and food safety are the same job
 

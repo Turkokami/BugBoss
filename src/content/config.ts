@@ -133,4 +133,28 @@ const townpests = defineCollection({
   }),
 });
 
-export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance, townpests };
+// Case studies (Master Plan §4.2 T9) — "the highest-trust, most citation-friendly
+// asset type in the system, and the one most often missing." Structured as
+// pest x property type x place x method x outcome, which is what makes one
+// simultaneously a geo page, a service page and a proof asset.
+//
+// `town` is optional and currently unset on all four: these came from Brian's
+// written answers, which gave the pest, the property and the outcome but not
+// the location. Adding the real town to each is a one-line change and would
+// materially strengthen them — do not invent one.
+const caseStudies = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    pest: z.string(),          // pest slug, for cross-linking to the library
+    pestLabel: z.string(),
+    propertyType: z.string(),
+    town: z.string().optional(),
+    outcome: z.string(),       // one-line result, shown on the card
+    answer: z.string(),
+    order: z.number().default(100),
+    faqs: faq.default([]),
+  }),
+});
+
+export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance, townpests, caseStudies };

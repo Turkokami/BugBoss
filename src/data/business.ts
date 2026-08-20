@@ -116,6 +116,7 @@ export const business = {
   // than being built and left empty.
   offersFinancing: false,
   paymentMethods: ['Cash', 'Card', 'Check', 'Venmo', 'Cash App', 'PayPal', 'Apple Pay'],
+  commercialTerms: 'Net 30',
 
   // --- Insurance (certificate on file, Aug 2026) --------------------------
   // Published because commercial prospects — food processing, healthcare,

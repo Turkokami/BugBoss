@@ -9,7 +9,7 @@ const url = business.url + '/contact/';
 const desc = `Contact BugBoss The X-Terminator in Clintonville, WI. Call ${business.phoneVanity} or ${business.phoneTollFree}, or request a quote online.`;
 const faqs = [
   { q: 'How much does pest control cost?', a: `It depends on the property and the pest, so BugBoss quotes each job rather than publishing a price list that would be wrong for half the people reading it. A farmhouse with a rodent problem and a village home with cluster flies are different jobs. Call ${business.phoneVanity} or send the form and you get a straight number for your situation, with no obligation and no long-term contract.` },
-  { q: 'What payment methods do you take?', a: `${business.paymentMethods.slice(0, -1).join(', ')} and ${business.paymentMethods.slice(-1)}. Commercial accounts can be invoiced on agreed terms.` },
+  { q: 'What payment methods do you take?', a: `${business.paymentMethods.slice(0, -1).join(', ')} and ${business.paymentMethods.slice(-1)}. Commercial accounts are invoiced ${business.commercialTerms}.` },
   { q: 'How fast will I hear back?', a: `Quickly — you are contacting a local family business, not a call centre. Clintonville and the closest towns often get same-day attention, and the emergency line is answered around the clock. Office hours are ${business.hours.split(';')[1].trim()}.` },
   { q: 'Do you charge for a quote?', a: 'No. Tell us what you are dealing with and we will tell you what it takes to fix it. If the honest answer is that you do not need us — that it is a repair, or something you can handle yourself — that is what you will hear.' },
 ];

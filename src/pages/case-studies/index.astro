@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Cta from '@/components/Cta.astro';
+import { business } from '@/data/business';
+import { webPageNode, breadcrumbNode } from '@/lib/schema';
+
+const url = business.url + '/case-studies/';
+const items = (await getCollection('caseStudies')).sort((a, b) => a.data.order - b.data.order);
+const answer =
+  'Real BugBoss jobs, written up properly: what the pest was, what kind of building it was in, what was actually done, and how it ended. These are the jobs other companies turned down or had already failed at — a 150-bat colony, an eight-plex with years of bed bugs, an attic-sized yellowjacket nest, and baby raccoons in a wall.';
+const desc = 'Real pest and wildlife jobs completed by BugBoss The X-Terminator in Northeast Wisconsin — the problem, the method, and the outcome.';
+const pageNodes = [
+  webPageNode({ url, name: 'Case Studies', description: desc }),
+  breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Case Studies', url }]),
+];
+---
+<BaseLayout title="Case Studies — Real BugBoss Jobs" description={desc} path="/case-studies/" pageNodes={pageNodes}>
+  <section>
+    <div class="wrap">
+      <p class="eyebrow">Proof</p>
+      <h1>Case Studies</h1>
+      <AnswerBox text={answer} />
+      <p class="lead">
+        A gallery shows you photos. A case study tells you what the problem actually was and
+        what fixing it involved — which is the part worth knowing before you hire anybody.
+      </p>
+      <div class="grid cols-2">
+        {items.map((c) => (
+          <a class="card" href={`/case-studies/${c.slug}/`}>
+            <span class="tag">{c.data.pestLabel}</span>
+            <h3 style="margin:.5rem 0 .3rem">{c.data.title}</h3>
+            <p style="font-size:.93rem;color:var(--muted);margin:0 0 .5rem">{c.data.propertyType}</p>
+            <p style="font-size:.95rem;margin:0"><strong>Outcome:</strong> {c.data.outcome}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+  <Cta />
+</BaseLayout>

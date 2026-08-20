@@ -20,6 +20,7 @@ const counts = { pages: 0 };
 const existingPaths = new Set();
 const linkTargets = new Map(); // href -> Set of pages linking to it
 const inboundLinks = new Map(); // page -> count of other pages linking in
+const outboundLinks = new Map(); // page -> Set of pages it links to
 const noindexPages = new Set();
 
 function walk(dir, ext = '.html') {
@@ -52,6 +53,7 @@ for (const file of files) {
     const target = href.slice(6, -1).split(/[#?]/)[0];
     if (!target.startsWith('/')) continue;
     (linkTargets.get(target) ?? linkTargets.set(target, new Set()).get(target)).add(page);
+    (outboundLinks.get(page) ?? outboundLinks.set(page, new Set()).get(page)).add(target);
     if (target !== page) inboundLinks.set(target, (inboundLinks.get(target) ?? 0) + 1);
   }
 
@@ -202,10 +204,29 @@ for (const [target, sources] of linkTargets) {
 // Orphan check: every indexable page should be reachable from somewhere else.
 // noindex utility pages are exempt — /thank-you/ is reached by form redirect
 // and is deliberately not linked from the navigation.
+//
+// Counting raw inbound links is not enough: a new cluster whose pages link to
+// each other and to their own hub satisfies that test while being unreachable
+// from the rest of the site. So reachability is computed properly, by walking
+// out from the home page.
+const reachable = new Set(['/']);
+const queue = ['/'];
+while (queue.length) {
+  const here = queue.shift();
+  for (const target of outboundLinks.get(here) ?? []) {
+    if (!reachable.has(target) && existingPaths.has(target)) {
+      reachable.add(target);
+      queue.push(target);
+    }
+  }
+}
 for (const path of existingPaths) {
   if (!path.endsWith('/')) continue;
   if (noindexPages.has(path)) continue;
   if (!inboundLinks.get(path)) fail(path, 'orphaned-page', 'no inbound internal links');
+  else if (!reachable.has(path)) {
+    fail(path, 'unreachable-from-home', 'linked, but not reachable by following links from /');
+  }
 }
 
 // --- Report ----------------------------------------------------------------

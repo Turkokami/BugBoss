@@ -22,6 +22,7 @@ const url = `${business.url}/pest-library/${pest.slug}/`;
 const deepEntries = await getCollection('pests', (e) => e.data.pest === pest.slug);
 // Towns with a dedicated page for this pest — the other half of the crossing
 // link, so the lattice is reachable from the pest side as well as the geo side.
+const studies = (await getCollection('caseStudies', (e) => e.data.pest === pest.slug));
 const crossings = (await getCollection('townpests', (e) => e.data.pest === pest.slug))
   .map((e) => ({ town: getTown(e.data.town)! }))
   .filter((c) => c.town)
@@ -81,6 +82,17 @@ const pageNodes = [
         </>
       )}
 
+      {studies.length > 0 && (
+        <div class="study-line">
+          {studies.map((st) => (
+            <p class="mt0">
+              <strong>Real job:</strong> <a href={`/case-studies/${st.slug}/`}>{st.data.title}</a>
+              — {st.data.outcome.toLowerCase()}.
+            </p>
+          ))}
+        </div>
+      )}
+
       {crossings.length > 0 && (
         <p class="towns-line">
           <strong>{pest.name} where you are:</strong>{' '}
@@ -110,6 +122,8 @@ const pageNodes = [
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
     .eyebrow a { color: var(--green-600); text-decoration: none; }
+    .study-line { margin-top: 1.6rem; padding: 1rem 1.2rem; background: var(--green-050); border-radius: var(--radius); font-size: .95rem; }
+    .study-line p + p { margin-top: .5rem; }
     .towns-line { margin-top: 1.6rem; padding: .9rem 1.1rem; background: var(--bg-soft); border-radius: var(--radius); font-size: .95rem; }
   </style>
 </BaseLayout>
