@@ -31,7 +31,7 @@ faqs:
     a: "Yes — we remove shrews, seal the ground-level gaps they use, and address the insect prey drawing them in, since a shrew problem is really those two underlying issues. And there is never a contract or cancellation fee. Shrew work overlaps with our rodent exclusion and general pest control, so it is usually a defined job rather than a route. You deal directly with the owner, Brian, and pay for the work you need."
 ---
 
-## What we are dealing with, and how to identify it
+## What are shrews, and how do you identify them?
 
 Shrews are one of the more misunderstood animals we get called about, mostly because they are small and mouse-shaped and get lumped in with rodents — which they are not. A shrew is an **insectivore**, more closely related to a mole than to a [mouse](/pest-library/mice/), and everything about how it behaves and how you deal with it flows from that. Where a mouse comes indoors seeking your food and your warmth, a shrew comes in **hunting** — following insects, spiders, worms, and other small prey — and that single difference is the key to controlling it. Around Clintonville shrews turn up in damp basements, crawlspaces, garages, and outbuildings, usually one at a time, and more often startle a homeowner than do any real harm.
 
@@ -39,7 +39,7 @@ Telling a shrew from the small rodents is straightforward once you know what to 
 
 The common shrew here, and the one that matters most, is the **northern short-tailed shrew** — a relatively large, stocky, dark, short-tailed shrew found across the region's woods, fields, wetlands, and yards. It is the one most likely to come indoors, and it is the one with the venomous bite. Smaller species like the masked shrew live in the surrounding fields and woods but rarely become a household concern. For control, they all behave the same way: tiny insectivores following prey through low gaps.
 
-## Wisconsin biology and lifecycle
+## How do shrews live and breed in Wisconsin?
 
 The defining fact about a shrew is its **metabolism**, which runs at an extraordinary pace. A shrew's heart rate and energy burn are so high that it must eat almost constantly — many shrews consume their own body weight or more in prey every day — and it can **starve to death within a few hours** of being unable to feed. This drives everything: shrews are active around the clock in short bursts of frantic hunting and rest, they do not hibernate, and they cannot afford to wander far from food. It is also why finding dead shrews indoors is so common — one that gets into a basement or garage and cannot quickly find enough insects simply does not survive the outing.
 
@@ -69,19 +69,19 @@ Outdoors, shrews concentrate in **leaf litter, mulch beds, ground cover, tall gr
 
 They enter through the same **ground-level openings** that admit [mice](/pest-library/mice/): foundation cracks, gaps at the sill plate, utility and pipe penetrations, gaps under doors, and openings around basement windows. Because a shrew comes in low and following prey, the fix is the same low-gap sealing we do for rodents, combined with knocking down the insects that made the space worth hunting in the first place.
 
-## Signs of an infestation
+## How do you know you have shrews?
 
 Shrew sign is subtle, and the most common sign is the animal itself — often dead. **A tiny, dark, pointed-snouted animal**, alive and moving frantically or, more often, found dead on a basement, garage, or outbuilding floor, is the usual first sign. Because shrews starve so fast indoors, discovering a dead one is genuinely common and is a meaningful clue: it tells you there is a ground-level entry point and, often, an insect population that drew it.
 
 Other signs are minor. **Small droppings**, often found near where insects gather, may turn up, though they are easy to miss. You will not see the gnaw damage, greasy rub marks, and large droppings of a rodent, because shrews are not rodents and do not gnaw or travel fixed greasy runways the way mice and rats do. You may notice a faint **musky odor** from their scent glands, and pets may catch or show interest in shrews near the foundation, window wells, and damp corners. The best "sign" to act on, honestly, is the combination the shrew points to: **low entry gaps plus an indoor insect population** — the two underlying conditions that let a shrew in and gave it a reason to stay. Reading a shrew as a symptom of those two things is more useful than treating it as an infestation in its own right.
 
-## Health and structural risk
+## Are shrews dangerous?
 
 Shrews are a low-risk animal overall, and it helps to be clear about that so the response is proportionate. On the **structural** side, there is essentially nothing to worry about: shrews are not gnawers like rodents, so they do not chew wiring, enlarge holes, or shred insulation the way mice and [squirrels](/pest-library/squirrels/) do. A shrew will not damage your house.
 
 On the **health** side, the concerns are minor and mostly about the bite. The **northern short-tailed shrew's venomous bite** is the standout feature, but in a person it is painful rather than dangerous — local pain, swelling, and irritation, out of proportion to the animal's size, but not medically serious. The venom evolved to subdue insects, worms, and other small prey, not to defend against something the size of a person, so a bite is a defensive reaction to being cornered or grabbed rather than anything a shrew seeks out. The practical takeaway is simple: do not handle a shrew or corner it barehanded, and keep curious children and pets from trying to. Shrews are not significant disease vectors the way house mice and especially [deer mice](/pest-library/deer-mice/) are — they do not carry the hantavirus concern that makes deer-mouse cleanup a careful business — though, like any small mammal, they can carry some parasites, and a pet that catches one can pick those up. Their **musky odor** is a nuisance, and a dead shrew left in place will smell. In short, a shrew is more startling than hazardous; the reason to deal with it is comfort and the two underlying conditions it points to, not damage or serious disease.
 
-## Why DIY usually fails
+## Why doesn't DIY work on shrews?
 
 The instinct with a shrew is to treat it like a mouse — set a trap, maybe put out bait — and it usually falls short, because a shrew is not a mouse and the two things that brought it in are left untouched. **Bait aimed at rodents does not work well on a shrew**, which is after prey, not grain or seed — it wants insects, not the food a mouse bait is built around. So the standard rodent bait approach often does nothing.
 
@@ -89,7 +89,7 @@ More fundamentally, **a shrew indoors is a symptom, and trapping treats only the
 
 There is also the matter of the **bite**. A cornered short-tailed shrew will bite, and the venom makes that bite painful, so trying to grab or corner one barehanded is a mistake. And because shrews die so fast indoors, a DIY effort often just means finding dead shrews repeatedly while the gaps and the insects go unaddressed. The effective approach is the one that closes the two doors — the physical gaps and the prey supply — rather than removing shrews one at a time.
 
-## The BugBoss process for shrews
+## How does BugBoss handle shrews?
 
 We handle shrews as what they usually are — a symptom of two fixable conditions — so the job addresses both, not just the animal. First we **inspect** to confirm it is a shrew (the pointed snout and insectivore signs, not a rodent), to find the **ground-level entry points** it is using — foundation cracks, sill-plate gaps, utility penetrations, door gaps, window wells — and to assess the **insect prey** situation and the damp, cover-rich conditions drawing both the bugs and the shrew. Reading those two underlying issues is what makes the fix last.
 
@@ -97,7 +97,7 @@ Second, we **remove** any shrews present with appropriate, targeted methods, han
 
 Third, we do the two things that actually keep shrews out: **seal the low entry gaps** the same way we do for rodent exclusion — with materials at the right places and the right locations — and **reduce the insect prey** that made the basement, garage, or outbuilding a hunting ground, through general pest control aimed at the spiders, ground beetles, and other invertebrates a shrew is hunting. We also advise on the moisture and cover — damp corners, mulch and litter against the foundation, window wells — that support both the insects and the shrews. Because this overlaps heavily with rodent exclusion and general insect control, it fits naturally alongside our [residential pest control](/residential-pest-control/) and the sealing work described in our [farmhouse rodent exclusion guide](/guides/farmhouse-rodent-exclusion/). There is no contract, and the owner, Brian, handles the job directly.
 
-## Prevention and exclusion
+## How do you keep shrews out?
 
 Preventing shrews means closing the low gaps and taking away the prey and the damp cover that draw them. On the **building**, seal the ground-level openings a shrew slips through — foundation cracks, gaps at the sill plate, utility and pipe penetrations, gaps under doors, and openings around basement windows — using the same approach and materials as rodent exclusion. Cover or screen **window wells**, which are a frequent trap that funnels shrews (and the insects they hunt) into basements. Because shrews enter low and small, the same methodical sealing of ground-level gaps that keeps mice out keeps shrews out.
 
@@ -105,7 +105,7 @@ Cut the **prey supply and the cover** that make a space worth hunting. Reduce th
 
 The reframe worth keeping in mind: with a shrew, you are not really defending against the shrew, you are removing its reason to come in. Seal the low gaps, dry out and de-bug the basement or garage, and clear the damp cover at the foundation, and the space stops being a hunting ground and a shrew has neither a door nor a dinner.
 
-## When to call BugBoss
+## When should you call BugBoss about shrews?
 
 Call when you are **finding shrews** — alive or, more often, dead — in the basement, garage, or an outbuilding, especially if it is happening more than once, because that pattern signals open ground-level gaps and an insect population worth addressing. Call if you are **not sure what you are dealing with** — shrew, mouse, or vole — since the fix differs and the pointed-snouted insectivore needs a different approach from a rodent. And call if a shrew has bitten a person or a pet, or if the musky odor and the startle factor have simply worn out their welcome.
 

@@ -41,7 +41,7 @@ The bug itself is *Halyomorpha halys*, and the name describes it well. "Marmorat
 
 The name also warns you about the other trait. Handle one roughly or crush it and it releases a strong defensive odor most people describe as cilantro or coriander, sharp and a little skunky. That chemical is the whole reason not to go at them with a shoe or a tissue indoors. It stains, it lingers, and it accomplishes nothing about the far larger number tucked out of sight. If you are not certain what you are looking at, identification is the first thing the [team at BugBoss](/residential-pest-control/) sorts out, because the response to a fall invader is completely different from the response to, say, a stored-product pest or a bug that is actually breeding in the house.
 
-## Wisconsin biology and lifecycle
+## How do brown marmorated stink bugs live and breed in Wisconsin?
 
 Here is the part that reframes the whole problem: the brown marmorated stink bug does not belong here at all. It is an invasive species native to China, Japan, Korea, and Taiwan. It turned up in the United States in eastern Pennsylvania in the late 1990s, almost certainly a stowaway in shipping, and spread outward from there. It was first confirmed in **Wisconsin around 2010, in the Madison area**, and in the years since it has become well established across the southern half of the state and has been pushing steadily north. That northward march is exactly why more homeowners around Clintonville, Marion, and Waupaca are noticing it now when they had never seen it a decade ago. It is not that your house changed. The bug's range moved to you.
 
@@ -71,17 +71,17 @@ Not every building gets stink bugs equally, and the pattern tells you a lot abou
 
 **Village homes** in Clintonville proper get them too, usually in smaller numbers, since they sit on smaller lots. Tighter mid-century construction offers fewer open voids, but soffit gaps, old window frames, dryer and utility penetrations, and torn screens still let bugs in. And **light-colored or masonry walls** anywhere that bake in the afternoon sun act as magnets regardless of a home's age, because it is the warmth of the wall, not the address, that the bugs are answering.
 
-## Signs of an infestation
+## How do you know you have brown marmorated stink bugs?
 
 The signs follow the season. In fall, look for the shield-shaped bugs gathering on the sunny south and west exterior walls in the afternoon, sometimes alongside boxelder bugs and lady beetles doing the same thing. Indoors, the clearest sign of an established population is live bugs appearing at windows and on ceilings on warm days in late fall, winter, and early spring, when nothing should be active. You may notice the odor before you notice the bug — a sudden sharp cilantro smell in a room often means one got crushed underfoot or vacuumed up. Where large groups gather and die over the years, you can find accumulations of dead bugs in attics, window tracks, and wall voids, and occasionally staining on light surfaces where they cluster. If you are finding a handful every warm day, there are far more you are not seeing, tucked into the structure.
 
-## Health and structural risk
+## Are brown marmorated stink bugs dangerous?
 
 The honest answer is that brown marmorated stink bugs are a nuisance pest indoors, not a health or structural threat, and it is worth saying plainly. They **do not bite or sting** people or pets — their mouthparts are built for plant sap, not skin. They **do not transmit disease**. They **do not chew** wood, insulation, or wiring, and they **do not breed indoors**, so they cause no structural damage to your home whatsoever. Their notorious destructiveness is agricultural: outdoors, in orchards and fields, they can do real harm to fruit and crops. Inside your walls they simply wait out the winter.
 
 What they cost you is comfort. The numbers can be genuinely unsettling in a heavy year, the odor when one is crushed is unpleasant and hard to air out, and repeated vacuuming through the winter gets old. There is one indirect concern worth knowing: as with cluster flies, large accumulations of dead insects in an attic or wall void can feed scavenging pests like carpet beetles, which then may move on to fabrics and stored goods. So while the stink bugs themselves are harmless, letting a heavy population build in the structure year after year is not entirely consequence-free. It is a manageable nuisance that becomes a persistent one if it is ignored.
 
-## Why DIY usually fails
+## Why doesn't DIY work on brown marmorated stink bugs?
 
 Almost everyone starts the same way: they wait until the bugs are inside at the windows, then reach for a can of spray or a shoe. It does not solve anything, and the reasons come down to timing and location. By the time bugs are on the windowsill in winter, they are already deep in the wall voids and attic. The ones in view are a small fraction of the population, and killing them changes nothing about the dozens or hundreds still hidden. Crushing them indoors also releases that defensive odor and can stain surfaces, and spraying pesticide inside the living space puts chemical where you breathe and sleep to no real benefit. Vacuuming is cleaner and just as effective for the bugs you can actually see.
 
@@ -89,7 +89,7 @@ The second common mistake is treating too late. People call in October or Novemb
 
 Exclusion is the other half, and it is genuinely hard to do well on the houses we have here. The soffit and fascia gaps, the roofline junctions, and the balloon-framed walls of older farmhouses that run open from sill to attic are the entry points, and finding and sealing them takes knowing where to look and being willing to work at the roofline. A homeowner caulking the obvious cracks around the windows misses the routes that matter most. It is not a weekend job on a two-story farmhouse.
 
-## The BugBoss process for stink bugs
+## How does BugBoss handle brown marmorated stink bugs?
 
 We run stink bug work on the calendar the insect follows, not the calendar of when the phone rings. The core of it is an **exterior treatment applied in the right window** — ideally late August into September — to the south- and west-facing walls, the soffits, the eaves, the roofline, and the areas around windows and vents where the bugs gather and enter. Applied at the right time, this treats the bugs as they land on the walls, before they get into the voids, and knocks down the bulk of the invading population.
 
@@ -97,15 +97,15 @@ Alongside the treatment we do **exclusion**: finding and sealing the entry point
 
 We also **identify correctly first**. Because the brown marmorated stink bug is still relatively new here, we confirm whether you are dealing with it, a native stink bug, a boxelder bug, or a [western conifer seed bug](/pest-library/western-conifer-seed-bugs/) — they get lumped together constantly, and while the fall-invader treatment is similar, knowing what you have tells us how heavy the pressure is likely to be. And we **stand behind the work** with follow-up. Because these bugs re-invade from the surrounding landscape every fall, many area homeowners choose a recurring early-fall visit — not because we require it (we never lock anyone into a contract), but because annual maintenance is simply the most cost-effective way to keep a rural home ahead of a pest the countryside regenerates every year. The same timing that beats the stink bugs also beats the [cluster flies](/pest-library/cluster-flies/), [boxelder bugs](/pest-library/boxelder-bugs/), and [Asian lady beetles](/pest-library/asian-lady-beetles/), so one visit handles the whole complex.
 
-## Prevention and exclusion
+## How do you keep brown marmorated stink bugs out?
 
-The prevention story for stink bugs is the exclusion story, because you cannot realiztically touch the outdoor breeding source — it is spread across the fields, gardens, and tree lines for a wide radius around you. Every opening you close before fall is one the bugs cannot use. The high-value targets are the roofline and upper structure: seal and screen gable, ridge, and soffit vents; close the gaps where soffit meets fascia and where the roof meets the walls; and repair any lifted or damaged flashing. Around the walls, caulk gaps around window and door frames, seal where utility lines and pipes penetrate the siding, repair torn screens, and add sweeps to exterior doors. On older homes, pay attention to the places where different materials meet and where decades of settling have opened seams.
+The prevention story for stink bugs is the exclusion story, because you cannot realistically touch the outdoor breeding source — it is spread across the fields, gardens, and tree lines for a wide radius around you. Every opening you close before fall is one the bugs cannot use. The high-value targets are the roofline and upper structure: seal and screen gable, ridge, and soffit vents; close the gaps where soffit meets fascia and where the roof meets the walls; and repair any lifted or damaged flashing. Around the walls, caulk gaps around window and door frames, seal where utility lines and pipes penetrate the siding, repair torn screens, and add sweeps to exterior doors. On older homes, pay attention to the places where different materials meet and where decades of settling have opened seams.
 
-Do this work in **summer, before the late-August gathering begins**, so the building is buttoned up before the bugs arrive. Light-colored siding and shaded walls draw fewer bugs than dark, sun-baked ones, though that is rarely a practical thing to change. The realiztic goal is not zero bugs — the landscape guarantees a population — but keeping that population out of the wall voids and living space, which exclusion plus a well-timed exterior treatment reliably does.
+Do this work in **summer, before the late-August gathering begins**, so the building is buttoned up before the bugs arrive. Light-colored siding and shaded walls draw fewer bugs than dark, sun-baked ones, though that is rarely a practical thing to change. The realistic goal is not zero bugs — the landscape guarantees a population — but keeping that population out of the wall voids and living space, which exclusion plus a well-timed exterior treatment reliably does.
 
 It is also worth managing the secondary problem. Where stink bugs and other fall invaders have overwintered in a wall or attic for years, dead insects accumulate, and those carcasses feed scavengers like [carpet beetles](/pest-library/carpet-beetles/) that can then move on to fabrics and stored goods. Cleaning out heavy accumulations as part of the exclusion work removes that food source and heads off a fabric-pest problem before it starts. On cabins that have gone years without attention, that cleanup is often as valuable as the treatment itself.
 
-## When to call BugBoss
+## When should you call BugBoss about brown marmorated stink bugs?
 
 Call in **late summer or early fall** if you have had stink bugs before — that is the moment treatment pays off, and getting on the calendar in August or September beats calling in November when the bugs are already in the walls. Call if you are seeing shield-shaped brown bugs gathering on your exterior walls in the fall, or live bugs turning up at your windows on warm winter and early-spring days. And call if you are not sure what you have, because the fall-invader crowd all get confused for one another and each one behaves a little differently. You can also read more about the specific problem of [stink bugs indoors](/pest-problems/brown-marmorated-stink-bugs-indoors/).
 

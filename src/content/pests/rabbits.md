@@ -107,7 +107,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 **Windbreak and shelterbelt plantings**, which matter a great deal on farms here and are often left unprotected because of the number of trees involved.
 
-## Signs
+## How do you know you have rabbits?
 
 - Stems and twigs clipped cleanly at a 45-degree angle
 - Bark gnawed from young trunks up to snow height, with visible tooth grooves
@@ -119,7 +119,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 - Tracks in snow with the large hind feet landing ahead of the front pair
 - Shrubs reduced to stubs at a uniform height
 
-## Risk
+## Are rabbits dangerous?
 
 **Health risk is low but real enough to be worth knowing.** Wild rabbits can carry **tularemia**, a bacterial disease transmissible to people through handling an infected animal or via ticks and biting flies. Wear gloves if you handle a dead rabbit, and steer clear of any animal that appears ill or oddly approachable. Rabbits also host **ticks**, which is the more practical concern given Lyme disease here — see [ticks](/pest-library/ticks/).
 
@@ -127,7 +127,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 **They also den under things**, and a rabbit living under a deck or shed is a sign that the void is open — which matters, because [skunks](/pest-library/skunks/), [groundhogs](/pest-library/groundhogs/), and [foxes](/pest-library/foxes/) will use the same space, and those are more consequential tenants.
 
-## Why DIY usually fails
+## Why doesn't DIY work on rabbits?
 
 **Relying on repellents.** They wash off, they degrade, they need constant reapplication in the worst weather of the year, and a hungry rabbit in February eats treated bark anyway.
 
@@ -147,7 +147,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 **Trapping as the strategy.** Removal creates a vacancy that fills from the surrounding population, and relocation is regulated, generally poor for the animal, and ineffective.
 
-## The BugBoss process
+## How does BugBoss handle rabbits?
 
 **1. Confirm the animal.** Rabbit, deer, vole, or porcupine — the cut angle and the damage height settle it quickly, and the fencing spec depends entirely on the answer.
 
@@ -163,7 +163,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 **7. Set the autumn routine.** Guards on before first snow, off in spring, cover cleared in the same pass. Rabbits are a predictable annual problem, and treating them as a scheduled autumn task works far better than reacting each March.
 
-## Prevention
+## How do you keep rabbits out?
 
 - **Hardware cloth cylinders on young trunks**, staked clear of the bark, tall enough to clear the snow with margin. The highest-value item here.
 - **Install in autumn, remove in spring.** Both halves matter.
@@ -176,7 +176,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 - **Protect new plantings from day one.** They are the most vulnerable and the most expensive to lose.
 - **Treat repellents as marginal.** Occasionally useful, never the plan.
 
-## When to call BugBoss
+## When should you call BugBoss about rabbits?
 
 Call in **autumn**, before the snow, if you have young trees, a new orchard, a shelterbelt planting, or valuable shrubs — that is the call that actually saves them, and it is the one people rarely think to make until they have lost something. Call in **spring** if you have found girdling and want to know what is salvageable and how to prevent a repeat. Call if **rabbits are living under a deck, shed, or porch**, since that void is worth closing against more consequential animals too.
 

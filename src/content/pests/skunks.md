@@ -29,11 +29,11 @@ faqs:
     a: "Not truly. In Northeast Wisconsin's cold, skunks enter a state of reduced activity called torpor and hole up in a protected den — often under a deck, shed, or outbuilding, sometimes several females together — living off fat reserves and emerging on milder days. Males roam more, especially as breeding approaches in late winter. So a warm winter den under your structure is common, and it sets up the spring litter."
   - q: "Does BugBoss handle skunks under barns, sheds, and outbuildings?"
     a: "Yes. On rural properties around Clintonville, the crawl spaces under sheds, pole barns, granaries, and old outbuildings are prime skunk dens, and outbuilding wildlife removal and exclusion is core work for us. We remove the animals, trench in a dig-proof barrier or screen the skirt, and clean up the den — the same approach we use under a house deck."
-  - q: "Should I call a pest company or a wildlife specializt for a skunk?"
+  - q: "Should I call a pest company or a wildlife specialist for a skunk?"
     a: "Both — which is the point of BugBoss. Most pest-only companies around here won't touch wildlife, and most trappers won't do the exclusion and cleanup that actually keeps skunks from coming back. We do pest control and wildlife removal under one roof, so a skunk job means humane removal, a dig-proof seal on the den, and cleanup handled together, by the owner you reach directly."
 ---
 
-## What you're dealing with
+## What are skunks, and what makes them a problem here?
 
 A skunk under the deck is one of those problems that stays quiet right up until it doesn't. The **striped skunk** (*Mephitis mephitis*) is a cat-sized member of the weasel family, black with the familiar white stripe, and it is built for exactly the life it lives in rural Northeast Wisconsin: a slow, nearsighted, ground-dwelling digger that forages at night, dens in sheltered cavities, and carries a chemical defense potent enough that most predators — and most homeowners — learn to leave it alone. It is not aggressive and it would rather waddle away than confront you. The trouble is what happens when it can't: a cornered or startled skunk sprays, and a skunk denned under your deck or shed is a rabies concern, a flea-and-tick reservoir, and, in spring, almost always a mother with a hidden litter.
 
@@ -55,7 +55,7 @@ They are **omnivores and opportunists**, and their diet is the other half of the
 
 A word on the spray, because it's the thing everyone asks about. A skunk's scent glands sit at the base of the tail and hold enough of the sulfur-based compounds — **thiols** — for several accurate shots out to around ten to fifteen feet. A skunk telegraphs before it fires: it stamps its front feet, raises its tail, and, in the spotted skunk's case, may even do a handstand. Striped skunks give you that warning, but they're nearsighted and easily startled, so a sudden movement, a loose dog, or a homeowner poking under a deck can trigger a spray with no time to back off. At close range the spray isn't just foul — it can cause intense, temporary eye irritation, which is a real hazard for a dog that sticks its face into a den.
 
-## The season in Northeast Wisconsin
+## When are skunks active in Northeast Wisconsin?
 
 **Late winter** stirs things up. As breeding approaches in February and March, males roam widely and skunk activity — and road-kill — climbs. This is when a skunk that wintered under your shed becomes active again, and when females are settling on maternity dens.
 
@@ -81,7 +81,7 @@ Skunks announce themselves in a few unmistakable ways. The **odor** is first —
 
 You may also find **droppings** near the den (dark, containing insect parts, seeds, and hair), see the animal itself at dusk or after dark waddling along a fence line or crossing the yard, or — in early summer — spot a line of kits trailing the mother. Tracks show five toes with visible claw marks on the front feet. And on a still spring evening you may hear faint scuffling or squealing from young under the deck. If your dog suddenly won't leave a corner of the deck alone, take the hint before it gets sprayed.
 
-## Health and structural risk
+## Are skunks dangerous?
 
 The headline risk with skunks is **rabies**. In Wisconsin, skunks are one of the primary terrestrial reservoirs of the virus, alongside [bats](/pest-library/bats/), and a bite or scratch from an infected skunk is a genuine medical exposure that requires prompt attention. This is the reason you never corner, handle, or try to catch a skunk yourself, and the reason a skunk behaving abnormally has to be treated as a possible rabies case. A skunk calmly foraging at dusk is behaving normally. A skunk out staggering in daylight, moving in circles, drooling, unusually bold or aggressive, or seemingly unafraid is not, and that is the animal to keep every person and pet well away from while you call for help. The rabies concern is also why Wisconsin restricts relocation of skunks (more on that below): moving a potentially infected animal to a new area is exactly what the rules are written to prevent.
 
@@ -91,7 +91,7 @@ The spray itself is a minor health matter but a real one at close range — the 
 
 Structurally, skunks do less damage than a raccoon, but the digging isn't nothing. Repeated **excavation under decks, stoops, sheds, and slabs** undermines footings and edges, erodes the soil that supports a concrete pad, and enlarges gaps that then let in water, rodents, and the next animal. A skunk den under a structure also tends to become a den under a structure for years running — once the void is open and scented, it invites the next tenant. And the grub digging can shred a lawn to the point of needing reseeding.
 
-## Why DIY usually fails
+## Why doesn't DIY work on skunks?
 
 Homeowners reach for the same handful of skunk fixes, and they fail for consistent reasons — often loudly.
 
@@ -121,7 +121,7 @@ This is core [wildlife removal](/wildlife-removal/) work for us, and because we'
 
 The reason we insist on all four steps comes down to how skunk problems recur. Take the animal but leave the void open and scented, and the next skunk — or a [groundhog](/pest-library/groundhogs/) or [raccoon](/pest-library/raccoons/) — moves into the same ready-made den, often the same season. Seal the void but skip the removal, and you trap an animal that digs, sprays, and dies underneath. Do the removal and the seal but ignore the grubs, and you've solved the den while leaving the exact food source that drew the skunk in the first place. A skunk job that actually holds is the one where the animal is out, the den is closed with steel it can't dig through, the parasites and odor are cleaned up, and the food draw is addressed. Skip any of those and you tend to pay twice.
 
-## Prevention and exclusion
+## How do you keep skunks out?
 
 Keeping skunks out comes down to closing the ground-level cavities and cutting the food.
 
@@ -131,7 +131,7 @@ Then cut the **food**, which is what turns a passing skunk into a resident one. 
 
 The same buried-barrier exclusion that skunk-proofs a deck also shuts out [groundhogs](/pest-library/groundhogs/) and denning [raccoons](/pest-library/raccoons/), so the work tends to close the whole ground-level wildlife problem at once. Note one legal wrinkle: if [bats](/pest-library/bats/) turn up in the same project, they're protected in Wisconsin and can't be excluded during the summer maternity season — that portion follows the DNR timeline even while the skunk work proceeds. We coordinate the two so nothing gets sealed at the wrong time.
 
-## When to call BugBoss
+## When should you call BugBoss about skunks?
 
 Call as soon as you suspect a skunk — a persistent musky odor around a deck or shed, a dug-out den hole with soil fanned out, cone-shaped divots appearing in the lawn overnight, or the sight of a skunk (or a line of kits) crossing the yard at dusk. Call **before** you try to seal anything, especially in spring, because a den closed with young inside becomes a far worse problem than the skunk. And treat any skunk out staggering in daylight, circling, drooling, or acting unafraid as a possible rabies case — keep your family and pets well back and let us handle it.
 

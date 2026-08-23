@@ -60,7 +60,7 @@ Call in **late spring**, when the fresh sawdust appears and the hovering starts.
 
 Call if **woodpeckers have started on the same area** — that means larvae in the wood and it gets worse quickly.
 
-Call if you have a **barn, shed or pole building** with years of accumulated holes and you want a realiztic plan rather than a losing fight with a spray can.
+Call if you have a **barn, shed or pole building** with years of accumulated holes and you want a realistic plan rather than a losing fight with a spray can.
 
 Brian works carpenter bees across the rural corridor — Clintonville, Marion, Tigerton, Manawa, Iola, Embarrass, Waupaca, New London and the farms and outbuildings between them, where bare barn wood and weathered cedar decks make this one of the more common structural insect calls of early summer.
 

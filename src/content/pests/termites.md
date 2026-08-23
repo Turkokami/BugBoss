@@ -14,7 +14,7 @@ faqs:
   - q: "How much damage can termites do, and how fast?"
     a: "Subterranean termites work slowly but continuously, and because they eat the wood from the inside out they can hollow structural members while leaving a paper-thin intact surface. A mature colony can consume a meaningful volume of wood over a period of years rather than months, which is why the damage is usually discovered long after it started. The real risk factor is time and concealment, not speed. A colony working a sill plate or a floor joist behind finished wall covering can go undetected for several seasons, and by the time a floor feels soft the repair is a carpentry job."
   - q: "Does BugBoss treat termites?"
-    a: "We inspect for them, and identification is the first and most important step — most of these calls resolve as carpenter ants, which is core BugBoss work. Where a genuine subterranean termite infestation is confirmed, treatment means either a soil-applied termiticide barrier around the structure or an in-ground baiting system, both of which are specializt jobs requiring specific product and equipment. Brian will tell you honestly what you have, what the treatment actually involves, and if the right answer is a termite specializt he will say so rather than sell you something that does not fit the problem."
+    a: "We inspect for them, and identification is the first and most important step — most of these calls resolve as carpenter ants, which is core BugBoss work. Where a genuine subterranean termite infestation is confirmed, treatment means either a soil-applied termiticide barrier around the structure or an in-ground baiting system, both of which are specialist jobs requiring specific product and equipment. Brian will tell you honestly what you have, what the treatment actually involves, and if the right answer is a termite specialist he will say so rather than sell you something that does not fit the problem."
   - q: "Can termites get into a house with a concrete slab or basement?"
     a: "Yes. Concrete is not a termite barrier — it cracks, it has expansion joints, and it is penetrated by plumbing and conduit. Subterranean termites routinely enter through hairline cracks in a slab, through the gap where a slab meets a foundation wall, around pipe penetrations, and up the inside of hollow block. In a basement they will build tubes up the interior foundation face to reach the sill plate and joists. The concrete changes the route they use, not whether they can get in."
   - q: "What attracts termites to a property?"
@@ -24,7 +24,7 @@ faqs:
   - q: "Are flying ants in spring a sign of a problem inside the house?"
     a: "It depends entirely on where they emerged. Swarmers appearing indoors, especially repeatedly and at the same spot, generally mean a colony inside or in contact with the structure — that is a real finding worth acting on. Swarmers on the outside of the house, or a single flight that appears once on a warm spring day and does not repeat, often just means a colony in a nearby stump, log, or landscape timber sent out reproductives that drifted to your walls. Location and repetition are what separate a nuisance from an infestation."
   - q: "Can I treat termites myself?"
-    a: "Realiztically, no. Subterranean termite control depends on establishing a continuous treated zone in the soil around and beneath a structure, or on a monitored baiting system that the colony has to find and share. Both require the right product, the right equipment, correct application volumes, and an understanding of the building's construction. Retail sprays kill the individual insects you can see and leave the colony in the soil completely untouched. Spot-treating a mud tube is like mopping up a leak without turning off the water."
+    a: "Realistically, no. Subterranean termite control depends on establishing a continuous treated zone in the soil around and beneath a structure, or on a monitored baiting system that the colony has to find and share. Both require the right product, the right equipment, correct application volumes, and an understanding of the building's construction. Retail sprays kill the individual insects you can see and leave the colony in the soil completely untouched. Spot-treating a mud tube is like mopping up a leak without turning off the water."
   - q: "What is the difference between termite damage and carpenter ant damage?"
     a: "Open the wood up and it is unmistakable. Termite galleries run with the grain and are packed with soil, mud, and faecal material — they look dirty. Carpenter ants do not eat wood, they excavate it to nest, so their galleries are smooth, clean, and almost sanded-looking, and they push the debris out as coarse frass that piles up below the entry. Finding a neat cone of sawdust-like material under a windowsill or beam is a carpenter ant signature. Finding mud inside the wood is a termite signature."
   - q: "Do termites die off in a Wisconsin winter?"
@@ -81,7 +81,7 @@ The colony is caste-structured. **Workers** — blind, pale, and by far the most
 
 Because the colony lives in the soil and only visits the structure, killing the termites you can see accomplishes almost nothing. The visible workers are a tiny fraction of the population, and they are replaced continuously. This is the reason every legitimate termite treatment targets the soil or the colony as a whole rather than the insects in the wood.
 
-## The season here
+## When are termites active in Northeast Wisconsin?
 
 **March through June** is swarm season, and swarming is how most infestations get discovered. Eastern subterranean termites typically swarm on a warm day, very often after rain, and usually during daylight — a detail that helps distinguish them from some other species. The flight is brief. The alates emerge, fly poorly and briefly, drop their wings, and the overwhelming majority die within hours.
 
@@ -93,7 +93,7 @@ Indoors, a swarm is unmistakable and alarming: dozens or hundreds of dark winged
 
 **Winter** pushes activity deeper into the soil. A colony feeding on a heated structure keeps working — the building itself supplies warmth — but surface activity and swarming stop entirely. Wisconsin's winter is a real constraint on how widely termites establish here. It does not evict a colony that is already in place.
 
-## Where they come from around here
+## Where do termites come from around here?
 
 Where genuine Wisconsin termite pockets exist, they overwhelmingly trace back to introduced material rather than natural spread. Colonies move slowly on their own — a swarm flight covers very little ground. What moves them long distances is people: infested lumber, railroad ties, landscape timbers, firewood, and, historically, wooden construction debris buried on site.
 
@@ -109,7 +109,7 @@ That history matters when you are assessing your own property. The risk factors 
 
 Add a moisture problem to any of those and you have made the site as attractive as this climate allows. Chronic dampness — a downspout discharging at the foundation, ground sloping toward the house, a leaking hose bib, a slab plumbing leak — is the second half of the equation. It is also, not coincidentally, exactly the condition that invites carpenter ants, which is another reason the two get confused.
 
-## Signs of an infestation
+## How do you know you have termites?
 
 Ranked roughly by how conclusive they are:
 
@@ -125,7 +125,7 @@ Ranked roughly by how conclusive they are:
 
 What you will almost never see is the termites themselves. Workers avoid light and stay inside tubes and galleries. Anyone who tells you they saw termites crawling openly across a basement floor most likely saw ants.
 
-## Health and structural risk
+## Are termites dangerous?
 
 Termites present **no health risk at all**. They do not bite, sting, transmit disease, contaminate food, or trigger the allergic responses some other pests do. Nobody has ever been made ill by a termite.
 
@@ -135,7 +135,7 @@ The other honest point: this is slow damage. A colony does not eat a house in a 
 
 Set against that, understand the real regional risk calculus. In Northeast Wisconsin, the wood-destroying insect that damages far more structures every year is the carpenter ant, working in wood that a moisture problem softened first. If you are budgeting attention for wood-destroying insects around Clintonville, that is where it belongs.
 
-## Why DIY usually fails
+## Why doesn't DIY work on termites?
 
 **Because the colony is not in the wood.** Every retail approach targets the insects you can see. The population lives in the soil, often well away from the structure, and replaces foragers continuously. Killing visible workers changes nothing about the colony's size or its access.
 
@@ -145,7 +145,7 @@ Set against that, understand the real regional risk calculus. In Northeast Wisco
 
 **And most often, because the diagnosis was wrong to begin with.** The most common DIY termite failure in this part of Wisconsin is a homeowner treating for termites for two seasons while a carpenter ant colony expands unchecked in a wet sill plate. The money is spent, the frass keeps appearing, and the actual damage keeps accumulating.
 
-## The BugBoss process
+## How does BugBoss handle termites?
 
 **1. Identify before anything else.** Brian starts with the evidence — the insect, the wings, the frass, the galleries, the tubes. Nothing else is worth doing until it is settled which insect you have, and this step resolves the majority of these calls on the spot.
 
@@ -153,13 +153,13 @@ Set against that, understand the real regional risk calculus. In Northeast Wisco
 
 **3. Find the moisture.** Whichever insect is involved, water is usually the enabling condition. Grading, downspouts, hose bibs, crawlspace vapor barriers, plumbing leaks, ventilation. This gets documented as part of the finding, because a treatment that ignores the moisture is a treatment with an expiry date.
 
-**4. Tell you plainly what you have.** If it is carpenter ants, we say so and we treat them, and that is core BugBoss work — colony location, direct treatment, and correcting the wet wood that let them in. If it is genuinely subterranean termites, we say that too, we explain exactly what a soil barrier or baiting program involves, and where a specializt is the right call we will point you to one rather than sell you something ill-fitting.
+**4. Tell you plainly what you have.** If it is carpenter ants, we say so and we treat them, and that is core BugBoss work — colony location, direct treatment, and correcting the wet wood that let them in. If it is genuinely subterranean termites, we say that too, we explain exactly what a soil barrier or baiting program involves, and where a specialist is the right call we will point you to one rather than sell you something ill-fitting.
 
 **5. Fix the conditions.** Wood-to-soil contact removed, firewood moved off the wall, mulch pulled back, grading and drainage corrected, damaged wood identified for repair. This is the part that determines whether you are dealing with this again.
 
 **6. Re-inspect.** Wood-destroying insect situations get a follow-up. Slow-developing problems need a second look, not a one-visit assumption.
 
-## Prevention
+## How do you keep termites out?
 
 Everything here is cheap relative to the alternative, and every item also reduces carpenter ant risk — which, locally, is the better reason to do it.
 
@@ -171,7 +171,7 @@ Everything here is cheap relative to the alternative, and every item also reduce
 - **Look at the foundation once a year**, in autumn when vegetation has died back. Walk the perimeter, look for tubes, probe anything soft, and check the sill plate in the basement or crawlspace.
 - **Be careful what you bring in.** Reclaimed timbers, old railroad ties, and salvage lumber are how Wisconsin's termite pockets got here in the first place.
 
-## When to call BugBoss
+## When should you call BugBoss about termites?
 
 Call when you find **mud tubes** on a foundation, pier, or joist — that is the one sign that warrants a same-week look. Call when a **swarm happens indoors**, especially if it has happened in the same place before. Call when you find **frass**, soft wood, or galleries and you want to know which insect made them. And call before you spend money on a treatment for an insect nobody has actually identified.
 

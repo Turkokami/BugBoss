@@ -71,11 +71,11 @@ The properties that get overrun are the ones with the food source and the warm w
 
 **Older farmhouses** get the worst of it for the same reasons they get cluster flies: big two-story sun-collecting walls, decades of settlement gaps, and balloon-framed cavities that let a bug entering at a soffit end up dormant behind a first-floor wall. **Seasonal cabins** around Iola and the Chain O' Lakes make ideal quiet overwintering sites, so an owner opening up in spring often finds bugs at every window. And **light-colored siding** anywhere is a stronger draw, because the bugs orient to the warmth the wall radiates — a pale, sun-baked south wall can be covered while a shaded north wall a few feet away has almost none.
 
-## Signs of an infestation
+## How do you know you have boxelder bugs?
 
 The signs follow the season. In late summer and fall, the clearest sign is the bugs themselves massed on the sunny south and west walls, often with the bright red nymphs mixed among the black-and-red adults. Reddish or rust-colored fecal spotting on siding, especially light-colored siding, and on curtains, blinds, and walls near where they gather is a common and telling sign — those stains are hard to remove and are one of the real nuisances of a heavy population. Indoors, bugs appearing at windows and in living spaces on warm winter and early-spring days point to an established overwintering population in the walls. And if you have a large female boxelder tree on or near the property, especially one throwing heavy seed, treat that as a standing risk factor even before you see bugs on the house.
 
-## Health and structural risk
+## Are boxelder bugs dangerous?
 
 Boxelder bugs are, like cluster flies, essentially a nuisance pest, and it is worth being straight about that. They do not bite people or pets — their mouthparts are made for piercing plant seeds, not skin. They do not sting, do not transmit disease, do not infest or contaminate food, and do not breed indoors. They do not chew or bore, so they cause no structural damage to wood, wiring, or insulation.
 
@@ -83,7 +83,7 @@ The genuine downsides are staining and sheer numbers. Their reddish fecal spots 
 
 One thing worth knowing: a heavy boxelder bug population on a wall in fall is also a fair indicator that the same wall is letting in the rest of the fall-invader complex. The bugs are big and visible, so they are often the first thing a homeowner notices, but the gaps they are using are the same ones the cluster flies and lady beetles are quietly slipping through. In that sense the boxelder bugs are a useful early warning — if they are massing on your siding in September, that is the signal to treat and seal before the whole group is dug into the walls for winter.
 
-## Why DIY usually fails
+## Why doesn't DIY work on boxelder bugs?
 
 The typical homeowner approach fails for the same reasons it does with all the fall invaders: wrong timing, wrong location, and hidden numbers. People wait until bugs appear inside on a warm winter day and then spray them, but by then the insects are already deep in the wall voids, the ones in view are a fraction of the total, and spraying the interior puts pesticide in your living space for very little gain. Vacuuming handles the visible bugs more cleanly and does just as much.
 
@@ -91,7 +91,7 @@ The window that actually matters — the fall gathering on the exterior walls �
 
 Exclusion is the durable half of the answer, and it is the part homeowners most often underestimate. Sealing the actual entry points on an older farmhouse — the soffit and fascia gaps, the seams where materials meet, the gaps around window frames, the openings where a balloon-framed wall runs open into the attic — takes knowing where the bugs really get in and being willing to work the roofline and upper structure, not just the obvious ground-floor cracks. A partial seal leaves the routes that matter open. It is the same building-envelope work that underlies rodent and cluster fly exclusion, and it is not a quick caulk-gun afternoon on a two-story house.
 
-## The BugBoss process for boxelder bugs
+## How does BugBoss handle boxelder bugs?
 
 We work boxelder bugs on the insect's schedule. The heart of it is a **well-timed early-fall exterior treatment** — applied during the September-into-October gathering window — to the south- and west-facing walls, soffits, eaves, foundation line, and the areas around windows and vents where the bugs concentrate before they enter. Hitting the walls while the bugs are massed on the outside, before they slip into the voids, knocks down the bulk of the invading population.
 
@@ -99,13 +99,13 @@ Paired with that, we do **exclusion**: finding and sealing the entry points that
 
 We also **treat the whole fall-invader complex together**. Boxelder bugs rarely arrive alone — in this region they show up alongside cluster flies and Asian lady beetles, and sometimes brown marmorated stink bugs, all exploiting the same warm walls and the same gaps at the same time. One properly timed exterior treatment and one round of exclusion address all of them, which is far more sensible than chasing each species separately. And because boxelder bugs re-invade from nearby seed trees every fall, many homeowners choose a recurring early-fall visit as the simplest way to stay ahead — never under a [contract](/no-contracts/), always by choice each season. We follow up to confirm the result and stand behind the work.
 
-## Prevention and exclusion
+## How do you keep boxelder bugs out?
 
 Prevention is mostly exclusion plus a bit of landscape awareness. On the building, seal in summer before the fall gathering: caulk gaps around window and door frames, seal where siding meets the foundation and where utility lines penetrate the walls, close soffit and fascia gaps, repair cracks in foundation and siding, and fix torn screens and worn door sweeps. Every gap closed before September is one the bugs cannot use.
 
-On the landscape side, the one lever you have is the seed trees. If a large female boxelder sits right against the house and throws heavy seed every year, removing or replacing it can meaningfully cut the local population — but weigh that against the fact that the bugs fly in from neighbors' trees and from maples and ash, so tree removal is rarely a complete fix on its own and often is not worth taking down a healthy tree. Male boxelders, which do not produce the seeds, are far less of a draw. For most homes, the realiztic and effective plan is not to fight the trees but to seal the building and treat the walls at the right time, accepting that the goal is keeping the bugs out of the walls and living space rather than eliminating them from the landscape.
+On the landscape side, the one lever you have is the seed trees. If a large female boxelder sits right against the house and throws heavy seed every year, removing or replacing it can meaningfully cut the local population — but weigh that against the fact that the bugs fly in from neighbors' trees and from maples and ash, so tree removal is rarely a complete fix on its own and often is not worth taking down a healthy tree. Male boxelders, which do not produce the seeds, are far less of a draw. For most homes, the realistic and effective plan is not to fight the trees but to seal the building and treat the walls at the right time, accepting that the goal is keeping the bugs out of the walls and living space rather than eliminating them from the landscape.
 
-## When to call BugBoss
+## When should you call BugBoss about boxelder bugs?
 
 Call in late summer or early fall, before the bugs move indoors — getting on the calendar in September, when they are gathering on the walls, is when treatment pays off. Call if you are seeing masses of black-and-red bugs on your sunny walls in the fall, reddish staining on siding or curtains, or live bugs at your windows on warm winter days. And call if you have a big seed-bearing boxelder near the house and want to get ahead of the problem before it starts.
 

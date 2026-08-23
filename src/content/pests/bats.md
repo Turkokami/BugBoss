@@ -73,7 +73,7 @@ The common thread is the roofline. Bats need only about a half-inch gap, they ar
 
 A lone bat blundering around the living room is dramatic but does not by itself mean a colony — although it can be the first hint of one. The clearer signs of an established colony are outdoors and in the attic. The definitive test is to **watch the roofline at dusk** on a warm evening: a colony reveals itself as bats emerge one after another from a specific gap to go feed. Around entry points you will often see **dark staining**, where body oils and guano accumulate and discolor the siding or soffit. In the attic and on the ground below an entry, you will find **guano** — small, dark, pellet-like droppings that pile up, distinguishable from mouse droppings because they crumble to a powder and often glint with insect fragments. A strong **ammonia odor** from accumulated guano and urine is common with a well-established colony, and you may hear faint **scratching or squeaking** in the walls and attic around dusk and dawn as the bats settle and leave. BugBoss confirms the colony, gauges its size, and locates every exit as the first step of any job.
 
-## Health and structural risk
+## Are bats dangerous?
 
 There are two health concerns with bats, and both are real but manageable. The first is **rabies**. Bats can carry rabies, and while the odds that any given bat is infected are low, the consequences are severe, so exposure is taken seriously. A bat found in a room where someone was sleeping, or where a child, pet, or impaired person could have been bitten unaware, should be safely contained without crushing its head, retained for testing, and reported to health authorities, with medical advice sought. Never handle a bat barehanded.
 
@@ -85,7 +85,7 @@ Bat work is the wildlife job where do-it-yourself goes wrong most often and most
 
 Third, the **thoroughness and safety**. Bats need only about a half-inch gap, and a building — especially an older farmhouse or barn — may have several entry points scattered across a roofline that is genuinely dangerous to work on. Seal the one obvious gap and the bats simply use another, or claw at the netting until they find a way. Finding every exit, installing devices correctly, working safely at height, sealing with durable materials, and then cleaning up guano with the right precautions for rabies and histoplasmosis is a skill set, not a weekend project. This is the kind of specialized exclusion covered in our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) and our [attic wildlife removal guide](/guides/attic-wildlife-removal/), and it is exactly the work that goes badly when it is improvised.
 
-## The BugBoss process for bats
+## How does BugBoss handle bats?
 
 Every bat job runs the same disciplined, DNR-compliant sequence. We start with a thorough **inspection**, watching the roofline at dusk to confirm the colony and its size and mapping every entry point across the whole structure — not just the one you noticed. That complete accounting of exits is what makes the difference between a lasting fix and bats simply switching to another gap.
 
@@ -93,7 +93,7 @@ Next, on the legal timeline, we install **one-way exclusion devices** over the a
 
 Throughout, we work strictly within the **June 1 to July 31 maternity restriction**: if you call during that window, we inspect and confirm now and schedule the exclusion for the moment the legal window opens in August, unless a genuine living-space health situation qualifies for the DNR exemption. It is [wildlife work](/wildlife-removal/) done by the book, with no [contract](/no-contracts/) and the owner directly accountable.
 
-## Prevention and exclusion
+## How do you keep bats out?
 
 Prevention for bats is exclusion done thoroughly and then maintained, because bats are loyal to their roosts and will keep testing a building they have used. Once a colony has been excluded and the entries sealed, the preventive work is keeping the building tight: periodically checking the roofline, soffits, fascia, gable and ridge vents, and chimney flashing for new gaps as the structure ages and settles, and closing anything that opens up before it becomes an invitation. Screening gable and ridge vents and maintaining chimney caps closes off the routes bats favor. On older farmhouses and barns, where the roofline offers many potential gaps, an annual look is worthwhile.
 
@@ -101,7 +101,7 @@ It is worth saying clearly that prevention does not mean driving bats off your p
 
 One caution on timing your own prevention: the roofline inspection and any sealing of gaps that could become entries must still respect the maternity restriction if a colony is present. If you are only checking a building you know is bat-free, a summer look is fine. But if there is any chance bats are using the structure, do not seal anything between June 1 and July 31 — confirm first, and if a colony is active, wait for the legal window. When in doubt, that confirmation is exactly what an inspection is for, and it costs far less than the mistake of sealing pups inside.
 
-## When to call BugBoss
+## When should you call BugBoss about bats?
 
 Call as soon as you suspect a colony — bats emerging from the roofline at dusk, guano and staining at an entry point, an ammonia odor, or scratching in the walls at dusk and dawn. Call even during the June-to-July maternity window, because that is exactly when we inspect, confirm, and get you scheduled for a lawful August exclusion, so no time is lost. And call right away if a bat is found flying inside your home, especially if anyone was asleep in the room, so the rabies-exposure question can be handled correctly.
 

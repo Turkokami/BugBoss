@@ -39,7 +39,7 @@ Let's clear the misunderstanding first, because it colors everything: earwigs do
 
 The useful way to think about an earwig in your house is as an **outdoor insect that wandered in**. Earwigs live in the damp band of mulch and soil right against your foundation, and they come inside at ground level when the weather pushes them to — a hot, dry spell that dries out their habitat, or the fall drop in temperature that sends them looking for winter shelter. They don't breed indoors, they don't damage the house, and there's usually nothing inside for them to eat. They're a nuisance invader tied to foundation moisture, which is exactly why the fix lives outside, around the base of the house, not in a can of spray under the sink.
 
-## Identification
+## How do you identify earwigs?
 
 European earwigs are easy to identify once you've seen the forceps. The body is about **half an inch to five-eighths of an inch long**, slender and flattened, and colored a shiny dark reddish-brown. The standout feature is the pair of **forceps (pincers) at the rear** — curved and stout in males, straighter and thinner in females. That difference is the reliable way to sex them, and the male's more dramatic curved pincers are what people picture when they think "earwig."
 
@@ -47,7 +47,7 @@ They have short leathery front wings and functional hind wings folded underneath
 
 Don't mistake anything else for them; the rear forceps are unique among common household insects, so an earwig is one of the few bugs that's essentially impossible to confuse once you know the mark. The one thing people do get wrong is assuming the pincers mean danger — a reasonable-looking assumption that the biology simply doesn't support. Nymphs look like smaller, paler versions of the adults, with smaller forceps that grow with each molt, so a range of sizes around the foundation usually just means you're seeing different age classes of the same local population.
 
-## Wisconsin biology and lifecycle
+## How do earwigs live and breed in Wisconsin?
 
 The European earwig's life cycle is unusual among insects for one reason that matters to homeowners: **the mother cares for her young**, and the whole cycle is anchored in damp soil. Understanding it explains both when you see them and why they cluster where they do.
 
@@ -59,7 +59,7 @@ That water dependence is the key to their pest behavior. When the damp habitat t
 
 There's one more route indoors worth knowing about, because it catches people off guard: earwigs frequently get **carried inside** in things brought from the yard or garden. A potted plant that's been sitting outdoors, a flat of vegetables or cut flowers, a bundle of firewood, a cardboard box stored in a damp garage — all can harbor earwigs that then wander loose in the house. So a few earwigs turning up indoors doesn't always mean they marched in under the door; sometimes you brought them in without knowing it, which is worth keeping in mind when you're hunting for how they got there.
 
-## The season here
+## When are earwigs active in Northeast Wisconsin?
 
 Earwig pressure in Northeast Wisconsin follows a fairly predictable arc, and it's driven by the interplay of moisture and temperature.
 
@@ -69,7 +69,7 @@ Earwig pressure in Northeast Wisconsin follows a fairly predictable arc, and it'
 
 The pattern to take from this: earwig years and earwig weeks are set by moisture. A moist spring builds the population; a dry summer spell drives it against your house; and the two together are what turn a background insect into a foundation nuisance.
 
-## Local moisture and habitat drivers
+## What conditions bring earwigs to a property here?
 
 Here's where the Clintonville area's landscaping and building patterns come in, because earwigs are drawn to the exact features common on older Northeast and Central Wisconsin properties.
 
@@ -79,7 +79,7 @@ Here's where the Clintonville area's landscaping and building patterns come in, 
 
 The building stock does the rest. Older farmhouses and village homes have **block and fieldstone foundations** with plenty of low gaps, **exterior doors with worn or missing sweeps**, and **window wells** that collect leaves and moisture — all ground-level entry routes. Because the earwig harborage (the mulch and soil) sits right against these entries, the trip from "living in the mulch" to "in the basement" is a few inches. That tight coupling of harborage and entry is what makes earwigs a foundation pest specifically, and it's why the treatment focuses on that band around the base of the house.
 
-## Signs you have them
+## How do you know you have earwigs?
 
 Earwigs are a fairly obvious pest — the main sign is the insect itself — but there are a few patterns worth recognizing:
 
@@ -90,7 +90,7 @@ Earwigs are a fairly obvious pest — the main sign is the insect itself — but
 
 Because earwigs don't breed or feed indoors, seeing them inside is really a report about conditions outside — a damp, harborage-rich foundation with easy ground-level entry.
 
-## Nuisance and risk
+## Are earwigs dangerous?
 
 The honest assessment: earwigs are **almost entirely a nuisance pest**, and a fairly benign one at that. Indoors they pose no risk to people or pets. They don't bite in any meaningful way, they don't sting, they carry no venom, they don't transmit disease, and they don't get into or contaminate stored food. The pinch from a large one's forceps is harmless and rarely even breaks the skin. And they cause **no structural damage** — they don't chew wood, wiring, insulation, fabric, or paper, and they don't nest in walls. An earwig indoors is a bug that took a wrong turn out of the mulch; it isn't harming your home or your health while it's there.
 
@@ -100,7 +100,7 @@ It's worth adding a note of fairness to the earwig's reputation, because the gar
 
 So the case for control is comfort and volume, not danger. A handful of earwigs is a minor annoyance; a heavy population coming in by the dozens on hot nights, or clustering in a damp basement, is unpleasant enough that most people want it stopped. The good news is that because earwigs are so tightly tied to outdoor moisture and harborage, changing those conditions is a very effective and durable way to bring the numbers down — arguably more so than with pests that breed and live inside.
 
-## Why DIY usually fails
+## Why doesn't DIY work on earwigs?
 
 Homeowners typically go after the earwigs they see indoors with a spray, and it disappoints them for a predictable reason: the earwigs inside are a tiny fraction of a population living in the mulch, leaf litter, and soil around the entire foundation. Killing the ones in the bathroom does nothing about the reservoir outside, which keeps sending in replacements every time the weather drives them toward the house.
 
@@ -108,7 +108,7 @@ Indoor sprays also miss the point that earwigs don't establish inside — so the
 
 And the biggest DIY gap is the same as with most damp-loving pests: it ignores the **moisture and harborage** that are the whole reason the earwigs are massed against the house. Thick mulch against the foundation, poor drainage, and heavy shade will keep producing earwigs no matter how much you spray. Effective control means treating the exterior harborage band properly, cutting the moisture and debris that draw them, and sealing the ground-level entries — a combination that a can of indoor spray was never going to accomplish.
 
-## The BugBoss process
+## How does BugBoss handle earwigs?
 
 We treat earwigs as a foundation-and-moisture problem, which is what they are. The process:
 
@@ -122,7 +122,7 @@ We treat earwigs as a foundation-and-moisture problem, which is what they are. T
 
 **Follow up as needed.** Earwig numbers swing with the weather, so if a dry spell drives a fresh push, we re-treat the perimeter. We'd rather be straight that earwig control is about managing a weather-driven outdoor population than promise the weather won't ever push them at the house again.
 
-## Prevention and exclusion
+## How do you keep earwigs out?
 
 Preventing earwigs is a matter of drying and clearing the foundation band and closing the doors. The practical steps:
 
@@ -136,7 +136,7 @@ Preventing earwigs is a matter of drying and clearing the foundation band and cl
 
 Do those things and you break the tight link between the damp foundation harborage and the inside of the house — the earwig population outside shrinks for lack of moisture, and the ones that remain can't get in.
 
-## When to call BugBoss
+## When should you call BugBoss about earwigs?
 
 Call when earwigs are coming in indoors in numbers, when you're finding them clustered against the foundation and in damp interior spaces, or when a garden earwig population has gotten heavy enough to damage plantings. A few strays after a hot night are a minor thing you can often handle with the prevention steps above; a persistent, dozens-at-a-time problem points to a mulched, damp, poorly drained foundation with open entry points, and that's worth treating properly.
 

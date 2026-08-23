@@ -59,7 +59,7 @@ The fastest way to identify a small fly is by **where it congregates**, because 
 
 Getting this right is not a technicality — it's the whole job. Each fly breeds in a different source, so the identification tells you exactly where to hunt. Misidentify the fly and you'll clean and treat the wrong place and get nowhere.
 
-## Wisconsin biology and lifecycle
+## How do gnats and small flies live and breed in Wisconsin?
 
 All three are true flies with a complete egg-larva-pupa-adult life cycle, and all three breed fast in the warm, stable conditions of a heated home — but the specifics differ in ways that shape the fix.
 
@@ -71,7 +71,7 @@ All three are true flies with a complete egg-larva-pupa-adult life cycle, and al
 
 The common thread across all three is that they're **indoor breeders** with fast cycles and specific, findable sources. That's good news: unlike an outdoor invader, an indoor breeder can be eliminated by shutting off its breeding site.
 
-## The season here
+## When are gnats and small flies active in Northeast Wisconsin?
 
 Small flies are largely a **year-round indoor** problem, since they breed in the controlled climate of a heated home, but each has a seasonal rhythm in Northeast Wisconsin worth knowing.
 
@@ -83,7 +83,7 @@ Small flies are largely a **year-round indoor** problem, since they breed in the
 
 So while all three run year-round, fungus gnats lean fall/winter, fruit flies lean late summer/fall, and drain flies show up whenever a drain's film has been left to build — which in seasonal and low-use plumbing tends to be after a period of disuse.
 
-## Local moisture and habitat drivers
+## What conditions bring gnats and small flies to a property here?
 
 Small flies are an indoor breeding problem, but Northeast Wisconsin's homes and habits shape where the sources show up.
 
@@ -95,7 +95,7 @@ Small flies are an indoor breeding problem, but Northeast Wisconsin's homes and 
 
 The unifying theme is that these are **source-and-moisture** problems: damp soil, fermenting material, and wet drain film. Find the damp, organic source, and you've found the flies.
 
-## Signs you have them
+## How do you know you have gnats and small flies?
 
 The signs are largely the flies themselves, located by their breeding source:
 
@@ -106,7 +106,7 @@ The signs are largely the flies themselves, located by their breeding source:
 
 A useful diagnostic trick for drain flies: tape a clear cup or a piece of tape (sticky side down) over a suspect drain overnight; if adults are emerging from that drain, you'll catch them and confirm the source.
 
-## Nuisance and risk
+## Are gnats and small flies dangerous?
 
 The three differ in how much they matter beyond nuisance.
 
@@ -118,7 +118,7 @@ The three differ in how much they matter beyond nuisance.
 
 None of the three are dangerous in the way a stinging or disease-vectoring pest is, but fruit flies and drain flies carry enough of a sanitation concern — particularly around food — that they're worth eliminating rather than living with.
 
-## Why DIY usually fails
+## Why doesn't DIY work on gnats and small flies?
 
 Small flies defeat a lot of DIY effort for one overriding reason: people treat the **adults** and ignore the **breeding source**, or they treat the wrong source because they've misidentified the fly.
 
@@ -128,7 +128,7 @@ Swatting, spraying, and hanging traps kills or catches some adults, but the larv
 
 And even with the right fly identified, DIY often **misses hidden sources**. Fruit flies breeding in the film of a recycling bin, a spill behind the stove, or a garbage disposal; drain flies in a basement floor drain, a rarely used guest bath, or a cracked drain line under the slab; fungus gnats in every pot in the house rather than the one you noticed. Miss one and the problem continues. The reason professional source-hunting works is that it's systematic — identify the fly, then find and eliminate **every** source of that type, including the ones that aren't obvious.
 
-## The BugBoss process
+## How does BugBoss handle gnats and small flies?
 
 We work small flies as a source-elimination problem, because that's the only thing that actually resolves them. The process:
 
@@ -142,7 +142,7 @@ We work small flies as a source-elimination problem, because that's the only thi
 
 **Follow up.** Because small flies breed fast and hidden sources are easy to miss, we re-check to confirm the flies are actually gone and no source was overlooked. We'd rather find the last hidden drain or spill than declare victory and have the problem rebound in a week.
 
-## Prevention and exclusion
+## How do you keep gnats and small flies out?
 
 Preventing small flies is about denying each type its breeding source. Because the three differ, so do the measures:
 
@@ -154,7 +154,7 @@ Preventing small flies is about denying each type its breeding source. Because t
 
 **General:** Keep the home's damp organic buildup in check, fix leaks and moisture problems, and — for the outdoor biting gnats and midges that are a separate issue — maintain screens and door seals. But for the three indoor breeders, prevention is overwhelmingly about **eliminating the wet, organic sources** they need.
 
-## When to call BugBoss
+## When should you call BugBoss about gnats and small flies?
 
 Call when small flies persist despite your cleaning and source-removal efforts, when you can't figure out which fly you have or where it's coming from, or when the problem is in a setting where it really matters — a kitchen, a food-handling business, or a home where a hidden source like a floor drain or a cracked line is likely. The most common reason people can't beat small flies on their own is a **hidden or misidentified source**, and that's exactly what a systematic inspection resolves.
 

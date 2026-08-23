@@ -81,11 +81,11 @@ Here is the mechanism that makes wildlife such a persistent source: the animal d
 
 The clearest signs are **bites and live fleas.** Itchy welts clustered on the ankles and lower legs, small dark insects jumping on flooring or on your socks, and fleas visible on a pet's belly or hindquarters all confirm an active population. **Flea dirt** — pepper-like black specks in a pet's coat, in bedding, or on light flooring that smear reddish on a damp towel — is strong evidence even before you see a flea. A **pet scratching, chewing, and losing hair**, especially at the tail base, points to fleas and possibly to flea allergy dermatitis. A sudden **swarm on entering** a closed-up room, vacant rental, or seasonal cabin is the pupal-emergence signature and a telltale sign of an established, waiting population. And fleas appearing in a **pet-free home**, particularly after wildlife has been active in or under the building, points straight at a wildlife source. Reading these signs tells us the scale of the problem and, importantly, whether we should be looking for an animal.
 
-## Health risk
+## Are fleas dangerous?
 
 Fleas are more than an itch. The bites themselves cause irritation and small itchy welts, but the bigger concerns are these. **Flea allergy dermatitis** is the most common skin disease in dogs and cats in flea country: an allergic reaction to proteins in flea saliva that produces intense itching, hair loss, raw skin, and secondary infection, and it can be triggered by just a few bites, so an allergic pet suffers badly even from a light infestation. **Tapeworm** transmission is a real risk — a pet (or occasionally a person, usually a child) that swallows an infected flea while grooming can acquire the common flea tapeworm. Fleas are also vectors of bacterial disease: they can carry the organisms behind **murine typhus** and **cat-scratch disease** (*Bartonella*), among others. And heavy infestations on **young, small, or debilitated animals** can cause enough cumulative blood loss to produce anemia, which in kittens and puppies can be life-threatening. None of this is cause for alarm at the sight of a single flea, but it is the reason fleas are treated as a health issue and not merely a nuisance — for pets and people both.
 
-## Why DIY usually fails
+## Why doesn't DIY work on fleas?
 
 People throw a lot at fleas — foggers, sprays, carpet powders, spot-treatments — and most of it fails for the same reason: it targets the adults and ignores the biology.
 
@@ -105,7 +105,7 @@ We then **treat the environment to break the life cycle.** That means treating w
 
 We **coordinate the pet side** with your veterinarian, because an untreated animal is a source that undoes environmental work; the two have to happen together. And where wildlife is the driver, we bring the [wildlife removal](/wildlife-removal/) side to bear — removing the animal humanely, cleaning up the den, and sealing the entry so it can't return and reseed. Being able to do both the pest treatment and the wildlife removal as one coordinated job is the decisive advantage on a rural flea problem; most pest-only companies can't address the wildlife source, which is why their flea treatments so often come back. You deal directly with Brian, there's [no long-term contract](/no-contracts/), and the job is scaled to the actual source and severity.
 
-## Prevention and exclusion
+## How do you keep fleas out?
 
 Preventing fleas comes down to keeping hosts flea-free and keeping the wildlife hosts out of your structure.
 
@@ -113,7 +113,7 @@ Preventing fleas comes down to keeping hosts flea-free and keeping the wildlife 
 
 **On the wildlife side — the crucial half in rural Wisconsin — prevention is exclusion.** Keeping raccoons, opossums, squirrels, and feral cats from denning in and under the building is what stops the premises from being seeded in the first place. That means sealing and screening the routes into attics, soffits, and wall voids; closing off the space under porches, decks, and sheds with proper barriers; capping chimneys; and tightening outbuildings. It also means not inadvertently feeding wildlife — securing garbage, bringing in pet food, and cleaning up spilled birdseed and fallen fruit that draw animals to the property. An aging farmhouse or a cabin with an open soffit line and an accessible crawlspace is an open invitation; closing those gaps is flea prevention as much as it is wildlife prevention. Our [attic wildlife removal guide](/guides/attic-wildlife-removal/) details the exclusion work, and the [raccoon](/pest-library/raccoons/), [opossum](/pest-library/opossums/), and [squirrel](/pest-library/squirrels/) pages cover the specific animals.
 
-## When to call BugBoss
+## When should you call BugBoss about fleas?
 
 Call when you're seeing fleas or getting bitten, when a pet is scratching heavily or losing hair, or when fleas turn up after wildlife has been active in or under the building — especially the classic case of fleas appearing right after a raccoon or squirrel was in the attic. Call, too, if you're moving into or reopening a property and get swarmed on arrival: a vacant rental or a seasonal cabin that ambushes you with fleas the moment you walk in is dormant pupae responding to your presence, and it means an established population was waiting. And if you have fleas with no pet in the house, treat that as a strong signal to look for a wildlife source, and call a company that can handle both.
 

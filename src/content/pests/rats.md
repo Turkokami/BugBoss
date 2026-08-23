@@ -33,7 +33,7 @@ faqs:
     a: "The principles are the same — remove the population, cut off food and harborage, seal the structure, monitor — but a farm and a restaurant or warehouse have different feed sources, building types, and documentation needs. BugBoss handles both. Agricultural rat work is a rural specialty of ours, and we run commercial rodent programs as documented plans on the commercial side for businesses that need them."
 ---
 
-## What we are dealing with, and how to identify it
+## What are rats, and how do you identify them?
 
 Rats are a farm and outbuilding problem across rural Northeast Wisconsin, and the animal behind nearly every case is the **Norway rat** — a big, heavy-bodied, burrowing rodent that lives wherever there is feed and shelter. The first thing to get right is that a rat is not just a large mouse. A Norway rat runs six to nine inches in the body, with a thick, scaly tail shorter than the body, a blunt nose, small ears, and small eyes; an adult is a substantial, robust animal that a farmer recognizes instantly. That size difference drives everything about how they behave and how they are controlled — bigger gaps, bigger burrows, bigger appetite, and a far bigger contamination footprint than a [mouse](/pest-library/mice/).
 
@@ -71,19 +71,19 @@ Rats are a landscape animal, and the dairy-and-grain country around Clintonville
 
 On the **dairy operations** that define this part of the state, rats find close to ideal conditions: warm, occupied barns kept above freezing all winter, a constant supply of feed and total mixed ration, spilled grain and silage, and water always available. Manure handling and bedding areas add both cover and warmth. A rat colony on a dairy does not have a lean season — it lives year-round in the middle of everything it needs, which is why dairy barns and their attached feed storage are among the hardest-pressed buildings we work on, and why the control has to be built into the layout of the operation rather than bolted on around the edges. Rats also **move between buildings and farmsteads** along fencerows, ditches, and cover, so a colony pushed out of one building will relocate to the next available shelter and feed rather than leave the area — one more reason the whole property, not a single building, is the unit of control.
 
-## Signs of an infestation
+## How do you know you have rats?
 
 Rats leave heavy, unmistakable sign once a colony is established. **Burrows** are the clearest — two-to-four-inch openings along foundations, under slabs and feed bunks, beneath woodpiles and equipment — often with worn paths and fresh soil. **Droppings**, large and capsule-shaped, accumulate in feed areas, along runways, and near harborage. **Gnaw damage** shows on feed bags, wood, wiring, and soft equipment, and gnawed holes are large. **Rub marks** — greasy dark smears — trace their travel routes along walls, beams, and pipes. **Runways**, smooth, worn, packed paths through vegetation, dust, and along walls, connect burrows to feed.
 
 You may hear **gnawing and scrabbling** in walls and ceilings, though rats are quieter than squirrels. **Contaminated and fouled feed** — grain or livestock feed spoiled with droppings and urine — is both a sign and a direct cost. A **musky, ammonia odor** builds where a colony is concentrated. Nervous, sheltering behavior in **pets and livestock**, and a farm dog or cat suddenly focused on a spot, can tip you off. And **seeing a rat in daylight** is a meaningful sign in itself — Norway rats are mostly nocturnal, so daytime sightings often indicate a large population that has outgrown its nighttime range.
 
-## Health and structural risk
+## Are rats dangerous?
 
 Rats are one of the most consequential pests on a farm, and the risk is both to health and to the buildings and feed. On the **health** side, Norway rats are associated with a range of diseases transmissible to people and animals — leptospirosis, salmonellosis, and others — spread through their droppings, urine, and the contamination of feed, water, and surfaces. On a livestock operation that risk runs both ways: rats can move pathogens between animals and foul the feed and water the herd shares, so a rat problem is a herd-health problem as much as a building problem. Their contamination of stored grain and feed can render it unfit and force it to be discarded — a loss that often dwarfs what the rats actually eat.
 
 On the **structural** side, the damage is broad. Rats gnaw **wiring**, and chewed wiring in a barn full of dry feed, bedding, and nesting material is a documented fire hazard. They gnaw structural wood, insulation, feed bags, doors, and the soft parts of equipment. Their **burrowing** is a slower but serious problem: extensive tunneling along and under foundations, slabs, feed bunks, and floors can undermine and settle those structures over time, and burrows against a foundation channel water where it does not belong. Across a season the combination of contaminated feed, gnaw damage, fire risk, and structural undermining makes a rat colony an expensive tenant.
 
-## Why DIY usually fails
+## Why doesn't DIY work on rats?
 
 The standard response to farm rats is bait — a bucket of pellets or a few stations around the buildings — and it rarely solves the problem, for reasons rooted in rat behavior and in the setting. The first is **neophobia**: Norway rats are wary of new objects, so they commonly avoid a freshly placed station for days, and control that expects a quick knockdown gives up too soon or concludes the bait "isn't working." The second is **competing food**: where a farm offers abundant grain and feed, rats often prefer the familiar food over bait, so uptake is poor as long as the real feast is available and accessible.
 
@@ -91,7 +91,7 @@ The deeper problem is that **bait treats the population, not the conditions that
 
 Bait also carries real **non-target risk** on a farm — poultry, pets, livestock, and non-target wildlife — and improperly placed bait is a hazard, not a solution. A rat that dies in a wall void or under a floor becomes an odor and secondary-fly problem in an inaccessible spot. And the **exclusion** piece, which is what actually breaks the cycle, is skilled, physical work: rats gnaw and dig, so hardening a building against them means sealing the base and every gap with heavy hardware cloth, sheet metal, and concrete — not foam, screen, or wood a rat chews through — and addressing the burrows. Done piecemeal by hand, it usually leaves enough access that the colony persists. This is the same lesson as the [farmhouse rodent exclusion](/guides/farmhouse-rodent-exclusion/) work: sealing with the right materials, at the right places, is the fix.
 
-## The BugBoss process for rats
+## How does BugBoss handle rats?
 
 We run farm rat work as an integrated program, in order, because any single tool used alone leaves the problem standing. First we **inspect** the whole operation — buildings, foundations, feed storage, and the grounds — to gauge the size and extent of the colony, map the burrow systems and runways, identify the feed sources and harborage supporting them, and find every gap into the buildings. Rats spread across a farmstead, so a real inspection covers the property, not just the one building where they were noticed.
 
@@ -101,15 +101,15 @@ Third, we **remove the population** with a controlled program of trapping and ba
 
 Fourth, and central to a lasting fix, we **harden and seal the structures**: closing the base where walls meet slabs and ground, fitting tight doors and heavy sweeps, and sealing every viable gap with materials rats cannot gnaw or dig through, plus addressing active burrows against the buildings. Then we set **monitoring** so the population stays down and any new pressure is caught early. This runs through our [residential pest control](/residential-pest-control/) and, for businesses and larger operations, [commercial pest control](/commercial-pest-control/) services, with no contract and the owner, Brian, directly on the job.
 
-## Prevention and exclusion
+## How do you keep rats out?
 
 Rat prevention on a farm comes down to three things: deny food, deny harborage, and seal the buildings. On **food**, get grain, livestock feed, and pet and poultry food into rat-proof metal storage — not paper bags, not thin plastic, not open bins — and stay on top of spillage around bunks, bins, and cribs. Accessible feed is the single biggest thing keeping a colony on the property; secure it and much of the reason for the rats to be there disappears.
 
 On **harborage**, cut back the cover that shelters burrows: keep vegetation, weeds, and grass mowed back from foundations and buildings, clear clutter, woodpiles, scrap, and idle equipment away from the walls, and keep a clean, open strip around the base of feed storage and outbuildings so burrows have nowhere to hide. A rat that cannot find protected harborage next to the feed is a rat with a much weaker foothold.
 
-On the **buildings**, seal the low gaps a burrowing rat exploits. Close the perimeter where walls meet slabs and ground, fit tight-fitting doors with heavy sweeps, and seal every opening larger than about half an inch with materials rats cannot defeat — heavy hardware cloth, sheet metal, hardware cloth backing behind concrete patches, not foam or wood. Screen vents and close utility penetrations. Because ag buildings and older farmhouses have so many potential low openings, a methodical inspection of the whole structure beats patching the one hole you noticed. On a working farm with constant surrounding pressure, the realiztic goal is a hardened building plus secured feed plus ongoing awareness — the landscape belongs to the rats, but the buildings and the feed do not have to.
+On the **buildings**, seal the low gaps a burrowing rat exploits. Close the perimeter where walls meet slabs and ground, fit tight-fitting doors with heavy sweeps, and seal every opening larger than about half an inch with materials rats cannot defeat — heavy hardware cloth, sheet metal, hardware cloth backing behind concrete patches, not foam or wood. Screen vents and close utility penetrations. Because ag buildings and older farmhouses have so many potential low openings, a methodical inspection of the whole structure beats patching the one hole you noticed. On a working farm with constant surrounding pressure, the realistic goal is a hardened building plus secured feed plus ongoing awareness — the landscape belongs to the rats, but the buildings and the feed do not have to.
 
-## When to call BugBoss
+## When should you call BugBoss about rats?
 
 Call at the **first solid sign** — fresh burrows along a foundation, large droppings in the feed room, gnawed feed bags, a rat seen in daylight — rather than waiting to see how bad it gets. Rats breed fast around a steady feed source, and a small problem in early fall becomes a colony by winter. Call in **late summer or early fall** to harden buildings and secure feed ahead of the seasonal push indoors. And call when **feed contamination, wiring damage, or burrowing near foundations** shows up, because those are the costs that compound.
 

@@ -61,7 +61,7 @@ What people notice is the **migration**. When conditions shift — a warm early-
 
 They overwinter as eggs, tucked into cracks in bark, soil, siding gaps, and foundation crevices, and they aestivate as eggs through hot midsummer weather too. Clover mites are cool-season animals: they want spring and autumn, and both extremes of the year shut them down.
 
-## The season in Northeast Wisconsin
+## When are clover mites active in Northeast Wisconsin?
 
 **March through May** is the main event, and it starts earlier than people expect — often while snow is still lying on the shaded side of the house. All it takes is enough sun on a south or west wall to warm it. This spring peak accounts for the great majority of calls.
 
@@ -73,7 +73,7 @@ They overwinter as eggs, tucked into cracks in bark, soil, siding gaps, and foun
 
 The spring peak generally runs a few weeks, occasionally longer if the weather stays cool and changeable. It is genuinely self-limiting — it will end on its own. What it will not do is skip next year, unless something about the foundation edge changes.
 
-## Where they come from around here
+## Where do clover mites come from around here?
 
 The source is always the lawn, and the properties that get them worst share a specific combination.
 
@@ -89,7 +89,7 @@ The source is always the lawn, and the properties that get them worst share a sp
 
 **Foundation plantings** of clover, groundcover, and dense low vegetation touching the wall.
 
-## Signs
+## How do you know you have clover mites?
 
 - Tiny bright red or reddish-brown specks moving slowly on windowsills, frames, and siding
 - Rust-colored smears where they have been wiped or crushed
@@ -100,7 +100,7 @@ The source is always the lawn, and the properties that get them worst share a sp
 - Thick, well-fertilized lawn growing directly against the foundation
 - The same thing happening at the same time last spring
 
-## Risk
+## Are clover mites dangerous?
 
 There is essentially none. Clover mites **do not bite, sting, transmit disease, live on people or pets, infest food, or damage the structure or its contents.** They cannot survive indoors and die within a day or two of getting in.
 
@@ -110,7 +110,7 @@ The **staining** is the one genuine practical problem, and it is worth taking se
 
 The **nuisance is real** even though the risk is not. Thousands of moving specks in a bedroom is genuinely distressing for a lot of people, particularly given the instinctive assumption that anything that small and that numerous must be biting something. It is not, and knowing that helps.
 
-## Why DIY usually fails
+## Why doesn't DIY work on clover mites?
 
 **Interior spraying.** The mites indoors are already dying. Treating inside surfaces achieves nothing they would not do on their own within a day, and it puts product where you live.
 
@@ -126,7 +126,7 @@ The **nuisance is real** even though the risk is not. Thousands of moving specks
 
 **Skipping the barren strip.** This is the one change that actually ends the problem, and it is the one people are most reluctant to make because it means giving up 18 inches of lawn along the wall. It is worth it.
 
-## The BugBoss process
+## How does BugBoss handle clover mites?
 
 **1. Confirm the identification.** Clover mite, spider mite, or something that actually bites. Establishing that nothing here is biting anyone is usually the most reassuring part of the visit.
 
@@ -142,7 +142,7 @@ The **nuisance is real** even though the risk is not. Thousands of moving specks
 
 **7. Advise on cleanup.** Vacuum, soft brush, no wiping. It sounds trivial and it saves people a set of stained sills.
 
-## Prevention
+## How do you keep clover mites out?
 
 - **Put in the barren strip.** Eighteen to twenty-four inches of gravel, stone, or bare soil between the lawn and the foundation. Clover mites are very reluctant to cross it, and this single change resolves most of the problem on most houses. It is the highest-value item here by a wide margin.
 - **Ease off the fertilizer** in the few feet closest to the house. Lush turf against the siding is what builds the population.
@@ -152,7 +152,7 @@ The **nuisance is real** even though the risk is not. Thousands of moving specks
 - **Vacuum, never wipe.** Soft brush attachment, light touch.
 - **Mow and manage turf** so it is not left long and lush right at the wall.
 
-## When to call BugBoss
+## When should you call BugBoss about clover mites?
 
 Call in **early spring** if last year was bad — treatment landing before the migration starts is worth several times the same treatment applied in the middle of it. Call when the numbers are heavy enough that cleanup is a daily chore. Call if you want the identification settled, particularly if anyone in the house is convinced something is biting them, because that answer changes what you should be worrying about.
 

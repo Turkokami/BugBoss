@@ -18,7 +18,7 @@ faqs:
   - q: "Are weasels protected in Wisconsin?"
     a: "Weasels and mink are native furbearing mammals in Wisconsin, and their trapping, handling, relocation, and dispatch are governed by state wildlife and furbearer regulation, including seasons and specific provisions that can apply to animals causing property damage. Those rules matter and they can change. Source: Wisconsin Department of Natural Resources furbearer and wildlife regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. We handle the regulatory side as part of the job rather than leaving owners to interpret it."
   - q: "Are weasels dangerous to people or pets?"
-    a: "Not to people in any realiztic sense. Weasels and mink are small, wary animals that avoid humans and will retreat given any chance — though a cornered one will defend itself fiercely, which is a good reason never to reach into a space where one is trapped. Cats and small dogs are generally safe from them too, being larger than typical prey, although a confrontation can go badly for both animals. The genuine risk is entirely to poultry, rabbits, caged birds, and small livestock."
+    a: "Not to people in any realistic sense. Weasels and mink are small, wary animals that avoid humans and will retreat given any chance — though a cornered one will defend itself fiercely, which is a good reason never to reach into a space where one is trapped. Cats and small dogs are generally safe from them too, being larger than typical prey, although a confrontation can go badly for both animals. The genuine risk is entirely to poultry, rabbits, caged birds, and small livestock."
   - q: "Are they good for anything?"
     a: "Considerably, yes, and it is worth weighing. A weasel is one of the most effective rodent predators there is, capable of following mice and voles right into their burrows and tunnels in a way that nothing else on the farm can. A weasel hunting a hay field, a fence line, or a machine shed is doing genuinely valuable work suppressing a rodent population. The conflict is specific and narrow: poultry and small livestock. Where there are no birds to lose, a resident weasel is usually an asset rather than a problem."
   - q: "Why did the rodent problem stop right before I lost birds?"
@@ -91,7 +91,7 @@ The response differs by species, so getting this right matters.
 
 The combination of **a tiny entry point** and **many birds killed but not eaten** is the weasel signature and it is fairly unambiguous.
 
-## The season here
+## When are weasels and mink active in Northeast Wisconsin?
 
 **Winter is the peak**, for several converging reasons. Natural prey is harder to find, weasels are hunting harder and ranging further, they are drawn to the warmth and rodent populations of barns and outbuildings, and coops are shut up tight — which concentrates the birds and, if anything gets in, makes escape impossible. The white winter coat also means the animal glimpsed in a barn is often not recognized for what it is.
 
@@ -101,7 +101,7 @@ The combination of **a tiny entry point** and **many birds killed but not eaten*
 
 **Autumn** sees weasels beginning to move toward buildings and settled winter territory. This is the right time for exclusion work, before the pressure builds.
 
-## Where they come from around here
+## Where do weasels and mink come from around here?
 
 The rural corridor is excellent weasel country, and the properties that lose birds tend to share the same features.
 
@@ -117,9 +117,9 @@ The rural corridor is excellent weasel country, and the properties that lose bir
 
 **Any property with a rodent problem**, since that is what attracts them in the first place.
 
-That last point deserves emphasiz, because it produces a pattern I have seen many times: someone notices the mouse problem in the barn has quietly stopped, is pleased about it, and loses birds three weeks later. The same animal did both.
+That last point deserves emphasis, because it produces a pattern I have seen many times: someone notices the mouse problem in the barn has quietly stopped, is pleased about it, and loses birds three weeks later. The same animal did both.
 
-## Signs
+## How do you know you have weasels and mink?
 
 - Multiple birds killed in a single night, mostly uneaten, wounds at head and neck
 - No obvious entry point — because the entry is small enough to overlook
@@ -131,7 +131,7 @@ That last point deserves emphasiz, because it produces a pattern I have seen man
 - Missing eggs, or losses among rabbits and other small caged livestock
 - Disturbed nesting material with no other damage
 
-## Risk
+## Are weasels and mink dangerous?
 
 **To people: negligible.** Weasels and mink avoid humans and will retreat given any opportunity. A cornered animal will defend itself with real determination, which is a sound reason never to reach into a space where one is trapped, but they do not seek confrontation.
 
@@ -141,7 +141,7 @@ That last point deserves emphasiz, because it produces a pattern I have seen man
 
 Set against that, the **benefit deserves honest weight**. A weasel is among the most effective rodent predators in existence, able to follow mice and voles directly into their burrows in a way nothing else on a farm can. On a property with no birds to lose, a resident weasel is genuinely an asset. The conflict here is narrow and specific, and it is worth being clear about that rather than treating the animal as vermin.
 
-## Why DIY usually fails
+## Why doesn't DIY work on weasels and mink?
 
 **Chicken wire.** The single most consequential mistake in backyard poultry keeping. It keeps chickens in. It does not keep anything out — a weasel walks through the mesh without touching the sides.
 
@@ -157,7 +157,7 @@ Set against that, the **benefit deserves honest weight**. A weasel is among the 
 
 **Waiting until after the loss.** The bleakest part of this work. Almost every weasel job I attend is a response to a flock already dead, and almost every one of them was preventable with a weekend of hardware cloth.
 
-## The BugBoss process
+## How does BugBoss handle weasels and mink?
 
 **1. Confirm which predator.** Entry size, wound pattern, extent of loss, tracks, and droppings. The response is completely different for a weasel than for a raccoon or a fox, so this comes first.
 
@@ -173,7 +173,7 @@ Set against that, the **benefit deserves honest weight**. A weasel is among the 
 
 **7. Follow up.** These animals return to what they treat as a cache site, so a check after the initial work matters more here than with most wildlife.
 
-## Prevention
+## How do you keep weasels and mink out?
 
 - **Half-inch hardware cloth. Not chicken wire.** If you take one thing from this page, take that.
 - **Screws and washers, not staples.** Staples pull; screws hold.
@@ -186,7 +186,7 @@ Set against that, the **benefit deserves honest weight**. A weasel is among the 
 - **Shut birds in at night**, every night, in a properly built structure.
 - **Do it before you lose the flock.** The exclusion work is a weekend. The alternative is finding out the hard way.
 
-## When to call BugBoss
+## When should you call BugBoss about weasels and mink?
 
 Call **after a multi-bird loss with no obvious entry** — that combination is the weasel signature and the coop needs going over properly before you restock. Call if a **rodent problem in your barn stopped without explanation**, which is worth taking as an early warning. And call **before you build or restock a coop**, because getting the exclusion right at the outset is straightforward and getting it right after a loss is heartbreaking.
 

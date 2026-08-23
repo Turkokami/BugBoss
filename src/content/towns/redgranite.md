@@ -85,7 +85,7 @@ Redgranite's setting drives its pests directly. The **quarry lake and the nearby
 
 This is where the absence of local help hits hardest, because the national brands routing trucks out here mostly **don't do wildlife**. For BugBoss it's a core part of the job. Bats roost in the attics and behind the fascia of the older homes and cabins. Raccoons den in chimneys and torn soffits, especially females raising young in spring. Squirrels chew into attics through weak roof edges. Skunks den under cabins, decks, and outbuildings — and under a seasonal cabin one can go undiscovered a long time.
 
-Removing tonight's raccoon does nothing about the torn soffit it used, so the part that matters is **exclusion** — sealing the building against this animal and the next — and, with bats, doing it on the DNR calendar. We handle both ends, then clean up the raccoon latrine, the bat guano, and the fouled insulation. The [wildlife removal](/wildlife-removal/) page explains our approach.
+Around the quarry the wooded slopes push wildlife right up to the village lots, and a trapped animal is only ever half the job — the torn soffit it climbed through is still open the following week. So the work that counts is **exclusion**: closing the building against this animal and the next, and with bats, doing it on the DNR's calendar rather than yours. We handle both ends, then deal with what got left behind — the raccoon latrine, the bat guano, the insulation that has to come out. The [wildlife removal](/wildlife-removal/) page explains our approach.
 
 ## Commercial pest control in Redgranite
 

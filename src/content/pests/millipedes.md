@@ -79,7 +79,7 @@ A building in the path of that front intercepts a great many animals. They pile 
 
 Populations build over several seasons in a favorable spot, which is why the property with deep mulch, thick thatch, and permanent leaf litter sees this every year while the neighbour with a gravel strip and clean beds does not.
 
-## The season here
+## When are millipedes active in Northeast Wisconsin?
 
 **September and October** is the main event. This is when the great majority of mass arrivals happen in Northeast Wisconsin, driven by the autumn migration.
 
@@ -91,7 +91,7 @@ Populations build over several seasons in a favorable spot, which is why the pro
 
 **Winter** is quiet outdoors. Millipedes overwinter in soil and litter below the frost line. Indoor sightings in midwinter usually mean a damp crawlspace or basement sustaining them, which is a moisture finding worth acting on.
 
-## Where they come from around here
+## Where do millipedes come from around here?
 
 The population is always close — usually within a few feet of where you are finding the bodies.
 
@@ -111,7 +111,7 @@ The population is always close — usually within a few feet of where you are fi
 
 **Shaded north and east sides**, which stay damp longest and see the heaviest arrivals.
 
-## Signs
+## How do you know you have millipedes?
 
 - Dozens or hundreds of coiled dark millipedes on basement or garage floors, appearing suddenly
 - Mass movement visible across driveways, patios, and walls on damp autumn nights
@@ -122,7 +122,7 @@ The population is always close — usually within a few feet of where you are fi
 - A faint unpleasant odor where large numbers have died and been crushed
 - Staining on light flooring where they have been stepped on
 
-## Risk
+## Are millipedes dangerous?
 
 Very low, and worth putting plainly: millipedes **do not bite, sting, transmit disease, damage buildings, chew wood or fabric, or infest food.** They are physically incapable of most of what people fear from them.
 
@@ -132,7 +132,7 @@ The **nuisance is genuine** though, and worth taking seriously as a nuisance. Cl
 
 And as with every moisture pest, the underlying **signal** matters: conditions immediately around your foundation are damp and organic enough to support a large population, and there are ground-level gaps into the building. Both feed a wider set of problems — sowbugs, springtails, centipedes, and in the longer run wood rot and the insects that follow it.
 
-## Why DIY usually fails
+## Why doesn't DIY work on millipedes?
 
 **Treating inside.** The millipedes indoors are already dying. Interior spray adds nothing and puts product where you live for no benefit.
 
@@ -146,7 +146,7 @@ And as with every moisture pest, the underlying **signal** matters: conditions i
 
 **Assuming it will keep getting worse.** It will not. Migrations end. The right response is to prepare for next autumn, not to escalate treatment mid-event.
 
-## The BugBoss process
+## How does BugBoss handle millipedes?
 
 **1. Confirm what it is.** Millipede, centipede, or sowbug — a moment's work that determines everything else, because those three animals are telling you different things.
 
@@ -162,7 +162,7 @@ And as with every moisture pest, the underlying **signal** matters: conditions i
 
 **7. Book the autumn visit.** Millipedes are one of the genuinely predictable pests. A property that got hit last September will very likely be hit again, and treating it as an annual scheduled item rather than an annual emergency works much better.
 
-## Prevention
+## How do you keep millipedes out?
 
 - **Dethatch the lawn**, particularly where it runs up to the foundation. Often the single highest-value item.
 - **Create a dry strip** of bare soil or gravel 12 to 24 inches wide against the foundation, with mulch pulled back.
@@ -174,7 +174,7 @@ And as with every moisture pest, the underlying **signal** matters: conditions i
 - **Seal at ground level** — foundation cracks, sill plate gaps, garage door seals, thresholds, and basement window seals.
 - **Schedule the perimeter treatment for late summer** if your property has a history. Anticipating this pest works; reacting to it does not.
 
-## When to call BugBoss
+## When should you call BugBoss about millipedes?
 
 Call in **late summer** if you had a bad autumn last year — that is the phone call that actually prevents the problem, and it is the one people rarely think to make. Call during a migration if the numbers are overwhelming and you want the pressure cut. Call if you are finding them **year-round rather than seasonally**, which points to a damp crawlspace or basement sustaining them and is a different, more useful conversation.
 

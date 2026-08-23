@@ -29,11 +29,11 @@ faqs:
     a: "It can pose a couple of specific risks. On horse properties, opossums are the definitive host of the parasite that causes EPM (equine protozoal myeloencephalitis) — a serious neurological disease horses can contract from feed or water contaminated by opossum droppings, so keeping opossums out of the barn and feed room matters. For dogs and cats, the bigger routine concern is the fleas and ticks opossums carry into the yard, plus bacteria in their droppings."
   - q: "Does BugBoss handle opossums in barns, coops, and outbuildings?"
     a: "Yes. On rural properties around Clintonville, opossums den under and inside barns, sheds, granaries, and coops and get into feed rooms, and outbuilding wildlife removal and exclusion is core work for us. We remove the animal, seal or screen the access points and coop, and clean up the droppings and parasite load — important on horse properties given the EPM risk from contaminated feed and water."
-  - q: "Should I call a pest company or a wildlife specializt for an opossum?"
+  - q: "Should I call a pest company or a wildlife specialist for an opossum?"
     a: "Both — which is the point of BugBoss. Most pest-only companies around here won't touch wildlife, and most trappers won't do the exclusion, coop-securing, flea-and-tick knockdown, and cleanup that actually solve it. We do pest control and wildlife removal under one roof, so an opossum job means humane removal, a dig-proof seal, food and coop fixes, and cleanup handled together, by the owner you reach directly."
 ---
 
-## What you're dealing with
+## What are opossums, and what makes them a problem here?
 
 The opossum is the odd one out among Northeast Wisconsin's nuisance wildlife, and knowing what it actually is takes a lot of the alarm out of a sighting while keeping the real concerns in focus. The **Virginia opossum** (*Didelphis virginiana*) is North America's only marsupial — the females carry their young in a pouch — a cat-sized, grayish-white animal with a long, pointed pink nose, thin naked ears, a naked prehensile tail, and a mouthful of fifty teeth it bares in a dramatic hiss when cornered. That display, and the famous "playing dead," are the whole of its defense. Opossums are not aggressive, they're slow and nearsighted, they rarely stand and fight, and they're a genuinely low rabies risk. What they are is opportunistic: a wandering scavenger that will move into any ready-made den near an easy food source and stay as long as both hold out.
 
@@ -53,7 +53,7 @@ Reproduction is pure marsupial. After a very short gestation the tiny, undevelop
 
 Opossums **do not hibernate** and stay active all winter, which is a hard life this far north. In the coldest stretches they hole up in the most sheltered den they can find and live off fat reserves, emerging to forage on milder nights, and they suffer frostbite damage to ears and tail in severe cold. That drive for winter shelter is what pushes them under heated structures and into barns and crawl spaces from late fall onward. Their lifespan is short — often just two to three years in the wild — and their populations turn over fast, so the individual under your deck this winter is unlikely to be the same one next winter, but the *den* will keep drawing new arrivals until it's closed.
 
-## The season in Northeast Wisconsin
+## When are opossums active in Northeast Wisconsin?
 
 **Spring** brings breeding and the first pouch-young, and dispersing yearlings looking for dens and food after winter. A female denning under a deck in spring may be carrying young, which changes how removal has to be timed.
 
@@ -91,7 +91,7 @@ Opossums carry a **lighter health load than raccoons or skunks**, and it's worth
 
 **Property damage** is modest compared with a woodchuck or raccoon. Opossums don't excavate their own burrows and don't tear up structures the way a raccoon does; the harm is mostly the **coop raiding, garbage and garden mess, droppings, and the parasite load**, plus occasional damage getting into a barn, crawl space, or feed store. The indirect problem is the same as with the other ground-denners: an opossum keeping a crawl-space den open and scented helps keep that den attractive to whatever comes next.
 
-## Why DIY usually fails
+## Why doesn't DIY work on opossums?
 
 Homeowners try the familiar remedies on opossums, and they fail for the same structural reasons they fail on skunks and woodchucks.
 
@@ -123,7 +123,7 @@ This is core [wildlife removal](/wildlife-removal/) work for us, and because we'
 
 The reason we insist on all these steps comes down to how opossum problems recur. Remove the animal but leave the burrow open and scented, and the next drifter — or a skunk — moves into the furnished den. Seal the void but leave the coop and garbage open, and the property keeps drawing opossums to a now-closed den, so they find the next cavity. Do the removal and the seal but skip the flea-and-tick and droppings cleanup, and you've left a parasite reservoir and, in a barn, a horse-health hazard. An opossum job that actually holds is the one where the animal is out, the den and burrow are closed with buried steel, the coop and food are secured, and the parasites and droppings are cleaned up.
 
-## Prevention and exclusion
+## How do you keep opossums out?
 
 Keeping opossums out is the same two-front job as the region's other ground-denners: close the cavities and cut the food.
 
@@ -133,7 +133,7 @@ Keeping opossums out is the same two-front job as the region's other ground-denn
 
 None of this evicts an opossum already denning under a structure — exclusion and food control are post-removal and preventive measures, not a way to get a resident animal out. And the same buried-barrier work that opossum-proofs a deck also shuts out [skunks](/pest-problems/skunk-under-deck/) and [groundhogs](/pest-library/groundhogs/), so the effort closes the whole ground-level wildlife problem at once. If [bats](/pest-library/bats/) are part of the same project, they're protected in Wisconsin and can't be excluded during the summer maternity season, so we sequence the work so nothing gets sealed at the wrong time.
 
-## When to call BugBoss
+## When should you call BugBoss about opossums?
 
 Call when you see the signs — an opossum coming and going from under a deck or shed, droppings and raided garbage or pet food, coop damage, or the animal itself moving through the yard at night. Call promptly if you keep it around a **chicken coop** or a **horse barn**, given the coop raiding and the EPM risk from droppings in feed and water. And while an opossum is a low rabies risk, still give distance to any animal that's staggering, disoriented, or unnaturally tame, and let us handle it.
 

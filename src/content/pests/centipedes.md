@@ -41,7 +41,7 @@ A house centipede is a predatory arthropod, not an insect in the strict sense. I
 
 Here's the reframe that matters: a house centipede is a hunter, and it is in your basement because your basement is feeding it. It eats other arthropods — insects, spiders, silverfish, springtails, small cockroaches, and the like. It needs dampness to survive. So finding one is really finding two facts about your home at once: the space is **humid enough** to keep a moisture-dependent animal alive, and it has **enough prey** to be worth hunting in. In that sense the centipede is less a pest in its own right than a living moisture-and-pest gauge. That's the lens we use on every centipede call, and it's why the fix is almost never "kill the centipede."
 
-## Identification
+## How do you identify centipedes?
 
 House centipedes are easy to tell apart from almost anything else once you know the marks. The body is flattened and segmented, grayish-yellow with three dark longitudinal lines, and the **legs are long and banded**, sticking out from the sides so the whole animal looks like a fringed ribbon when it runs. On the biggest, most mature specimens the leg span can look startlingly wide relative to the slim body. They move in quick bursts and freeze, then burst again — a very different motion from the steady crawl of a beetle or the scuttle of a spider.
 
@@ -49,7 +49,7 @@ Don't confuse them with a few look-alikes. **Millipedes** are slow, dark, rounde
 
 One more identification note that reassures people: the house centipede is the only centipede species that actually breeds indoors in our region, and it stays in small numbers. You are not going to open a wall and find a nest of hundreds. They breed slowly and live more than a year as individuals, so what you're seeing is usually a handful of long-lived animals, not a booming colony — which is very different from, say, a mouse or ant problem where numbers climb fast.
 
-## Wisconsin biology and lifecycle
+## How do centipedes live and breed in Wisconsin?
 
 The house centipede evolved in warm, dry Mediterranean regions and spread worldwide by moving into human structures, and that history explains its behavior in Wisconsin. Outdoors in a climate like ours it lives under mulch, logs, leaf litter, landscape timbers, stones, and in the damp margins of foundations — the same cool, dark, humid microhabitats it seeks indoors. When the outdoor world gets too cold, or in the case of a heated home simply because the basement offers year-round stable conditions, it moves in and can complete its whole life cycle inside.
 
@@ -57,7 +57,7 @@ Reproduction is slow and low-volume by pest standards. The female lays eggs in d
 
 The hunting biology is what ties them to the rest of your pest picture. A house centipede subdues prey by seizing it with its modified front legs — called **forcipules** — which inject venom. That venom is calibrated for silverfish and springtails, not for people; it's why the animal is a fearsome predator to a bug and a near-nothing to a human. It hunts at night, running down prey with those long legs, and it will stay wherever the hunting is good. So the population size of your centipedes is set, more than anything, by the population size of everything else living in the damp with them.
 
-## The season here
+## When are centipedes active in Northeast Wisconsin?
 
 Because house centipedes can live entirely indoors, they're a **year-round** presence in a home that suits them — you can find one in January as easily as July. But there's still a seasonal rhythm to when people notice them in Northeast Wisconsin, and it maps onto the region's moisture cycle.
 
@@ -67,7 +67,7 @@ Seasonal cabins around the Waupaca Chain O' Lakes deserve their own note here. A
 
 The through-line is moisture. Centipedes track humidity, and in this region humidity in the lower level of a house peaks with spring melt and summer mugginess, so that's when the sightings peak — but a chronically damp basement erases the seasonality and gives you a year-round problem.
 
-## Local moisture and habitat drivers
+## What conditions bring centipedes to a property here?
 
 This is where the Clintonville area's housing stock does most of the work. Northeast and Central Wisconsin homes skew old — pre-war farmhouses, mid-century village homes, seasonal lake cabins — and the way they're built is a near-perfect match for what a house centipede wants.
 
@@ -77,7 +77,7 @@ Inside, the drivers are the usual damp spots: sweating cold-water pipes, leaking
 
 And that prey supply is the second driver, inseparable from the first. Damp basements grow **[silverfish](/pest-library/silverfish/)**, springtails, small spiders, ground beetles, ants, and the occasional roach — the exact menu a house centipede lives on. So the same conditions that keep the centipede comfortable also stock its pantry. This is why we always inspect a centipede problem as a moisture problem with a food problem riding on top of it, and why the two get solved together.
 
-## Signs you have them
+## How do you know you have centipedes?
 
 Centipedes don't leave much evidence — no droppings you'd notice, no damage, no nests. The signs are mostly sightings and conditions:
 
@@ -88,7 +88,7 @@ Centipedes don't leave much evidence — no droppings you'd notice, no damage, n
 
 If you're finding centipedes regularly, don't focus on the animals — read the room. What they're really reporting is a moisture problem and a standing insect population in the lower level of your home.
 
-## Nuisance and risk
+## Are centipedes dangerous?
 
 Let's be plain about the actual danger, because the appearance oversells it. House centipedes are, for practical purposes, **harmless to people**. They have venom, but it's meant for the insects they hunt; they're shy and non-aggressive, they rarely bite, and on the rare occasion one bites a person who's handling it, the effect is comparable to a mild bee sting and passes quickly. They don't transmit disease, they don't contaminate food, they don't chew wiring or wood, and they don't damage stored goods. In strictly rational terms, they're one of the most benign things you can find indoors — and arguably beneficial, since they kill other pests.
 
@@ -96,7 +96,7 @@ The real cost is the **nuisance and the alarm**. Almost nobody wants to share th
 
 There's a more important secondary risk worth flagging, though. Because centipedes indicate dampness, a persistent centipede problem is often the first noticeable symptom of a **moisture issue that will cause bigger problems** — mold, wood rot, and the whole cast of other moisture pests, from silverfish to carpenter ants. In that sense the centipede is doing you a favor by showing up: it's an early warning that the lower level of the house needs attention.
 
-## Why DIY usually fails
+## Why doesn't DIY work on centipedes?
 
 People fight centipedes the way they fight most bugs — with a can of spray — and it doesn't work, for reasons built into the animal's biology.
 
@@ -106,7 +106,7 @@ Perimeter and crack-and-crevice sprays do a little more, since they hit the entr
 
 The other DIY failure is misdiagnosis. Because centipedes are so alarming, people pour effort into the centipede itself and never ask what it's eating or why the space is damp. They treat the visible predator and ignore the invisible **prey population and moisture source** that are the actual engine of the problem. The result is a lot of dead centipedes and no change in how many they see. Lasting control runs the other direction: dry the space, remove the food, seal the entries, and the centipedes leave because there's no longer any reason for them to be there.
 
-## The BugBoss process
+## How does BugBoss handle centipedes?
 
 We work centipedes as a moisture-and-prey problem, because that's what they are. The process:
 
@@ -120,7 +120,7 @@ We work centipedes as a moisture-and-prey problem, because that's what they are.
 
 **Follow up.** We confirm the numbers are dropping and the conditions are holding, and adjust if a moisture source turns out to be more stubborn than it first looked. Centipede control is habitat change, and we'd rather set the right expectation — that drying a chronically damp basement takes some doing — than promise a one-spray cure that won't last.
 
-## Prevention and exclusion
+## How do you keep centipedes out?
 
 Preventing centipedes is preventing the two things they need: moisture and prey, plus closing the doors they come in through. In practice:
 
@@ -134,7 +134,7 @@ Preventing centipedes is preventing the two things they need: moisture and prey,
 
 Do those things and the space stops being centipede habitat. You're not killing your way to zero — you're making the basement a place a moisture-dependent predator can't make a living, which is what actually holds.
 
-## When to call BugBoss
+## When should you call BugBoss about centipedes?
 
 Call when you're seeing house centipedes repeatedly, when they're bothering you enough that you want them gone regardless of how harmless they are, or — most importantly — when their presence tells you the lower level of your home has a moisture problem you haven't gotten on top of. Recurring centipedes almost always come packaged with silverfish, springtails, or other damp-loving pests, and with the underlying dampness that will eventually cause mold and rot if it's left alone.
 

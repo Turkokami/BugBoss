@@ -35,7 +35,7 @@ faqs:
     a: "When a beaver dam threatens a town or county road, a public culvert, or a shared drainage, the town or county highway department and sometimes the DNR or USDA Wildlife Services have a role. Wisconsin's beaver-damage program and USDA Wildlife Services handle a lot of road and infrastructure conflicts — look up their current regional contact rather than relying on a number quoted on a website, including this one. On private damage we work directly for you; where public infrastructure is involved, we help you sort out who does what."
 ---
 
-## What you're dealing with
+## What are beavers, and what makes them a problem here?
 
 A beaver problem is a problem of moving water and disappearing trees. Unlike almost any other nuisance animal, the **beaver** (*Castor canadensis*) actively re-engineers your property — it dams the flow, raises the water table, backs a pond up over ground that used to be dry, plugs the culvert that drains your driveway, and drops the mature trees along your shoreline for food and building material. It's the largest rodent in North America, thirty to seventy pounds of muscle, buck teeth, and determination, and it works at night, fast, and relentlessly. By the time most people call, the water is already where it shouldn't be and a few good trees are already down.
 
@@ -103,7 +103,7 @@ Beaver damage falls into a few clear categories, and they compound.
 
 Beavers can carry giardia (the "beaver fever" association is real), so their ponds are a reason not to drink untreated surface water, but as with muskrats the practical risk on a property is overwhelmingly the water and the trees, not disease.
 
-## Why DIY usually fails
+## Why doesn't DIY work on beavers?
 
 Beaver problems defeat casual efforts for reasons rooted in the animal's biology and in the regulations.
 
@@ -147,7 +147,7 @@ The durable outcome depends on matching the fix to the goal, and on protecting w
 
 **Coordinate on shared water.** Because beaver flooding crosses property lines and affects downstream neighbors and public roads, the lasting solutions often involve the town, county, or DNR. Getting the right parties involved early prevents both repeat problems and disputes.
 
-## When to call BugBoss
+## When should you call BugBoss about beavers?
 
 Call as soon as you see the signs — a new dam, water rising where it shouldn't, a plugged culvert, or fresh chisel-cut stumps and girdled trees along the water. Beavers work fast: a dam goes up in a few nights, a culvert plugs overnight, and a mature tree comes down between dusk and dawn, so "waiting to see if it gets worse" almost always means a bigger dam, higher water, and more lost trees by the time you do call. **Fall** is an especially important time to act, because that's when tree-cutting and dam-building peak.
 

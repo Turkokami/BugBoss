@@ -2,11 +2,11 @@
 title: "Pest Control in West De Pere, WI"
 city: "De Pere"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems on the west side of De Pere, Brown County — west of the Fox River, from the St. Norbert College area and Broadway district out to the newer subdivisions. We're a Clintonville-based rural specializt reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems on the west side of De Pere, Brown County — west of the Fox River, from the St. Norbert College area and Broadway district out to the newer subdivisions. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
 order: 14
 faqs:
   - q: "Does BugBoss serve the west side of De Pere?"
-    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not the Green Bay metro, so we're not the closest truck to De Pere — we're the rural exclusion and wildlife specializt worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit for your problem."
+    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not the Green Bay metro, so we're not the closest truck to De Pere — we're the rural exclusion and wildlife specialist worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit for your problem."
   - q: "Why do west-side De Pere homes get cluster flies?"
     a: "The west side runs from older homes near St. Norbert College and the Broadway district out to newer subdivisions on former farmland, and both get them. Cluster flies breed in soil, not garbage, so the Fox River corridor, established lawns, and nearby open ground keep producing them. They mass on warm south and west walls each fall and push into wall voids and attics to overwinter."
   - q: "My west-side De Pere home is a newer subdivision build — why do I still get pests?"
@@ -35,7 +35,7 @@ De Pere is divided by the **Fox River**, and the **west side** has its own histo
 
 For pest control, the west side reads as two zones. The **older neighborhoods** near St. Norbert College and the Broadway district hold settled homes with the entry points that come with age. West and southwest of there, newer **subdivisions** have spread across former farmland, with plenty of construction from the mid-twentieth century onward — ranches, split-levels, and modern builds. Both get pests; they just let them in differently.
 
-**BugBoss The X-Terminator** is not a De Pere company. We run out of **Clintonville**, in rural Waupaca County, and the west side of De Pere sits at the edge of the metro area we reach. We won't pretend we're the nearest truck to a west-side address. What we are is the rural exclusion and wildlife specializt worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the work we do every week on old farmhouses out in the country, and the work the metro franchises won't take without a contract.
+**BugBoss The X-Terminator** is not a De Pere company. We run out of **Clintonville**, in rural Waupaca County, and the west side of De Pere sits at the edge of the metro area we reach. We won't pretend we're the nearest truck to a west-side address. What we are is the rural exclusion and wildlife specialist worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the work we do every week on old farmhouses out in the country, and the work the metro franchises won't take without a contract.
 
 ## Two housing eras, two sets of entry points
 
@@ -65,7 +65,7 @@ There's also a college-town wrinkle. **Bed bugs** travel with people and their b
 
 ## Wildlife along the Fox River
 
-The **Fox River** corridor brings wildlife right up to west-side rooflines, and this is where a rural specializt earns the drive from Clintonville. Homes near the water and the wooded edges of the newer subdivisions see more attic and chimney intrusions than an interior lot.
+The **Fox River** corridor brings wildlife right up to west-side rooflines, and this is where a rural specialist earns the drive from Clintonville. Homes near the water and the wooded edges of the newer subdivisions see more attic and chimney intrusions than an interior lot.
 
 **Bats** roost in the older attics and in larger new builds with complex rooflines. Exclusion is legally restricted — Wisconsin protects its bats, and the **DNR keeps one-way exits open June 1 through July 31** during the maternity season, when flightless pups are in the roost. Sealing then traps and kills the pups, which is illegal and a worse mess. We do the work in the legal window: find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up the guano. The rules are in our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the process is on the [bats](/pest-library/bats/) and [bats in attic](/pest-problems/bats-in-attic/) pages.
 
@@ -85,8 +85,8 @@ The Broadway business district, the restaurants near campus, and the buildings t
 
 Here's the straight version. BugBoss is **Clintonville-based and family-owned** — owner Brian Zahringer runs the truck and answers the phone. Our home ground is rural country out around [Pulaski](/service-area/pulaski/), [Bonduel](/service-area/bonduel/), and [Shawano](/service-area/shawano/). The west side of De Pere is the metro edge of what we reach, and for a quick one-off a company inside the metro is closer.
 
-Where we're the better call is the specialized, problem-first work: **older-home and new-build exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — with **no long-term contract and no cancellation fee**. You're hiring a specializt for a specific problem, not signing onto a route. That's the whole point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building along Broadway.
+Where we're the better call is the specialized, problem-first work: **older-home and new-build exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — with **no long-term contract and no cancellation fee**. You're hiring a specialist for a specific problem, not signing onto a route. That's the whole point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building along Broadway.
 
-Every job runs the same disciplined way: we **inspect** inside and out, **treat the source** rather than just what's visible, do the **exclusion** that keeps the next wave out, and **follow up** to confirm it's gone.
+Every job runs the same way. We **inspect** the property inside and out, and on the west side that means establishing early whether we are working an older home with aged entry points or a newer build where nobody sealed the penetrations when it went up — because the work differs. We **treat the source** rather than what is visible. We do the **exclusion** that keeps the next wave out. And we **follow up** to confirm it worked.
 
 Call BugBoss when you've got fall invaders on the windows, carpenter ant swarmers indoors in spring, mice you can't trap your way out of, or scratching in the attic that turns out to be bats, squirrels, or a raccoon. For a west-side De Pere home, those are exactly the jobs we're built for. Reach us at **866-BUGBOSS**, or [request a quote](/contact/). We'll be honest about whether we're the right fit — and if we are, we'll solve it without a contract.

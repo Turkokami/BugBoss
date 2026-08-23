@@ -39,7 +39,7 @@ What they share is the reason they end up indoors: the **fall push toward warm, 
 
 The useful reframe: crickets indoors are a **ground-level entry problem**, and in the case of camel crickets, a **moisture problem** on top of it. You don't beat them by chasing individual crickets around the basement — you beat them by drying the space, cutting the harborage around the foundation, and sealing the gaps they walk in through.
 
-## Identification
+## How do you identify crickets?
 
 **Field crickets** are what most people picture: robust, black to dark brown, about a half inch to a bit over an inch long, with long antennae, large jumping hind legs, and wings folded flat over the back. The males chirp by rubbing their wings together — a behavior only field (and related) crickets do — and the females have a long, needle-like ovipositor projecting from the rear for laying eggs in soil. They're strong jumpers and can fly short distances. Indoors, you usually hear a field cricket before you see it.
 
@@ -49,7 +49,7 @@ The two are easy to distinguish: if it's black, winged, and chirping, it's a fie
 
 A quick word on the "spider cricket" nickname, since it comes up constantly: it refers to camel crickets, and it's earned by their long spindly legs and their unsettling habit of jumping *toward* whatever disturbs them rather than away. That startle-jump is a defense — a small, harmless insect trying to look alarming — and it works on most homeowners, who understandably recoil when a crawlspace erupts with leaping bugs. It's worth internalizing that the jump is bluff, not threat: camel crickets have no bite, no sting, and no interest in you. Knowing that takes most of the dread out of finding them.
 
-## Wisconsin biology and lifecycle
+## How do crickets live and breed in Wisconsin?
 
 The two crickets have different life cycles, and the differences explain their behavior indoors.
 
@@ -59,7 +59,7 @@ The two crickets have different life cycles, and the differences explain their b
 
 That contrast — field crickets as temporary loud intruders, camel crickets as persistent silent residents — is the key to understanding cricket problems in this region. It's also why moisture control matters so much more for camel crickets: take away the dampness and you take away the one thing they can't live without.
 
-## The season here
+## When are crickets active in Northeast Wisconsin?
 
 Cricket pressure in Northeast Wisconsin is a **late-summer and fall** story, though camel crickets blur the calendar by living indoors year-round.
 
@@ -69,7 +69,7 @@ Into **late fall and winter**, the field crickets indoors gradually die off — 
 
 The takeaway on timing: the big influx is a fall event driven by cooling, drying ground, so the most effective window for exclusion and perimeter work is **late summer, before the migration** — sealing and treating ahead of the push rather than reacting after the crickets are already inside and chirping.
 
-## Local moisture and habitat drivers
+## What conditions bring crickets to a property here?
 
 The Clintonville area's mix of rural land and older housing stock is what sets up cricket problems, and the two crickets respond to two different local features.
 
@@ -79,7 +79,7 @@ The Clintonville area's mix of rural land and older housing stock is what sets u
 
 Seasonal **lake cabins** around the Waupaca Chain O' Lakes are a classic camel-cricket setting: a cabin with a damp crawlspace or basement, closed up and undisturbed for long stretches, gives camel crickets exactly the cool, humid, quiet conditions they want to build up numbers unnoticed. Owners often open up to find a crawlspace full of them. It's a big reason we recommend inspecting cabin crawlspaces at opening.
 
-## Signs you have them
+## How do you know you have crickets?
 
 The signs differ by cricket, which is itself diagnostic:
 
@@ -92,7 +92,7 @@ The signs differ by cricket, which is itself diagnostic:
 
 If you're hearing crickets, think field cricket and entry points; if you're finding silent clusters in a damp lower space, think camel cricket and moisture.
 
-## Nuisance and risk
+## Are crickets dangerous?
 
 Crickets are, health-wise, a **low-risk nuisance pest**. Neither field nor camel crickets bite people meaningfully, sting, or transmit disease, and neither poses any danger to pets. They don't damage the structure of the house — no chewing of wood, wiring, or framing. So there's no safety case for control; the case is comfort and, secondarily, protecting stored belongings.
 
@@ -102,7 +102,7 @@ The one property concern worth taking seriously is **feeding damage in large num
 
 And, as with the other damp-loving pests, a **camel cricket population is a moisture flag**: their presence tells you the lower level of your home is damp enough to sustain moisture-dependent insects, which is a condition that will also invite silverfish and centipedes and can lead to mold and wood rot if it isn't addressed. In that sense the crickets are doing you the favor of pointing at a problem worth fixing.
 
-## Why DIY usually fails
+## Why doesn't DIY work on crickets?
 
 Homeowners typically respond to crickets with a spray or a few sticky traps, and it disappoints them for the usual reasons.
 
@@ -112,11 +112,11 @@ For **camel crickets**, the failure is deeper, because they're an established, b
 
 The common DIY gap is the same across both: it treats the visible crickets and ignores the **entry points, the harborage, and (for camel crickets) the dampness** that drive the problem. Lasting control runs the other way — seal the ground-level gaps both use, cut the harborage against the foundation, dry out the spaces camel crickets need, and treat where they actually live. That combination is what a can of spray was never going to do.
 
-## The BugBoss process
+## How does BugBoss handle crickets?
 
 We work crickets as a ground-level entry problem, with a moisture component for camel crickets. The process:
 
-**Inspect and identify.** First we determine which cricket you have, because it changes the emphasiz — chirping field crickets migrating in, silent camel crickets established in the damp, or both. We inspect the foundation, crawlspace, and basement for entry points, harborage, and (for camel crickets) the moisture sustaining them.
+**Inspect and identify.** First we determine which cricket you have, because it changes the emphasis — chirping field crickets migrating in, silent camel crickets established in the damp, or both. We inspect the foundation, crawlspace, and basement for entry points, harborage, and (for camel crickets) the moisture sustaining them.
 
 **Treat harborage and the perimeter.** For field crickets we focus on the exterior harborage band around the foundation — the tall vegetation, mulch, and debris where they stage before entering — and the entry points, applying targeted materials where the crickets travel. For camel crickets we treat the harborage where they actually live, in the crawlspace, basement cracks, and voids.
 
@@ -126,7 +126,7 @@ We work crickets as a ground-level entry problem, with a moisture component for 
 
 **Time it and follow up.** Because the big field-cricket push is a fall event, the most effective work happens in late summer ahead of the migration; for camel crickets it's about maintaining the dry conditions and re-checking the established harborage. We'd rather set the honest expectation — that camel cricket control is about changing a damp space, which takes some doing — than promise a one-spray fix that won't last.
 
-## Prevention and exclusion
+## How do you keep crickets out?
 
 Preventing crickets combines sealing the entries, drying the camel-cricket spaces, and cutting the outdoor harborage. The practical steps:
 
@@ -140,7 +140,7 @@ Preventing crickets combines sealing the entries, drying the camel-cricket space
 
 Do those things and you close the gaps both crickets walk through, take away the damp habitat camel crickets need, and reduce the outdoor population staging against the foundation — a combination that keeps both kinds out far more reliably than reacting with a spray once they're inside.
 
-## When to call BugBoss
+## When should you call BugBoss about crickets?
 
 Call when field crickets are getting into the house and chirping through the nights, when you find camel crickets clustering in a basement or crawlspace, or when a camel cricket population signals a dampness problem in your lower level that you haven't gotten on top of. A single stray field cricket is a minor thing; a fall influx, or an established camel cricket population in a damp crawlspace, points to open entry points and moisture conditions worth treating properly — and camel crickets, left alone in the damp, will persist and grow year-round.
 

@@ -144,7 +144,7 @@ We run ant work as a sequence, in order, because skipping a step is how the prob
 
 ## Prevention
 
-Once the ants are handled, keeping them gone is mostly about denying them what drew them in, and the two ant problems call for slightly different emphasiz.
+Once the ants are handled, keeping them gone is mostly about denying them what drew them in, and the two ant problems call for slightly different emphasis.
 
 For **nuisance ants**, the everyday habits do the heavy lifting: keep food sealed and counters and floors clean, wipe up spills and crumbs promptly, manage sweet-smelling trash and recycling, and fix dripping faucets and other easy indoor moisture. Then close the doors — seal the gaps around foundations, utility and pipe penetrations, windows, and doors where foragers trail in. Take away the food, the water, and the entry, and nuisance ants lose their reason to be there.
 

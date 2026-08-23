@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Oconto, WI?"
     a: "Yes. BugBoss The X-Terminator covers Oconto and the surrounding Oconto County from our base in Clintonville. The drive northeast is one we make regularly, because this rural corner of the bay shore is underserved by the national brands. We handle homes in town, bay-front and river properties, the downtown business district, and the farms and woodlots outside the city — pest control and wildlife both."
   - q: "There isn't a good local pest company up here — does BugBoss really cover Oconto?"
-    a: "We do, and coverage is the whole point. A lot of Oconto homeowners are used to a franchise dispatching a truck from Green Bay on the company's schedule, or being told wildlife 'isn't something we do.' BugBoss is a rural specializt. We cover this stretch of Oconto County on purpose, we do pest and wildlife under one roof, and there's no long-term contract holding you to it."
+    a: "We do, and coverage is the whole point. A lot of Oconto homeowners are used to a franchise dispatching a truck from Green Bay on the company's schedule, or being told wildlife 'isn't something we do.' BugBoss is a rural specialist. We cover this stretch of Oconto County on purpose, we do pest and wildlife under one roof, and there's no long-term contract holding you to it."
   - q: "What is the most common pest in Oconto homes?"
     a: "Cluster flies and mice. Oconto sits in open bay-shore and farm country, and cluster fly larvae develop in the soil, so nearly every lot grows its own population regardless of housekeeping. As the nights cool they mass on warm south and west walls and work into the voids, while mice push in from the fields and river cover. Both are about the setting, not cleanliness."
   - q: "Does BugBoss remove bats in Oconto?"
@@ -91,7 +91,7 @@ As the county seat and the service anchor for the north bay shore, Oconto has a 
 
 BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the service documentation you need on hand, and schedules discreetly so pest work never disrupts your operation or your customers. Because you deal with the owner directly, there's a real person accountable for the result — not a national brand's call center and a different face every visit.
 
-## Why a rural specializt beats the national brands here
+## Why a rural specialist beats the national brands here
 
 The national pest companies are built for dense suburbs where a truck can hit fifteen stops in a tight box. Oconto isn't that. It's a small bay-shore city at the far end of a Green Bay franchise route, surrounded by water, woods, and farm country, where value comes from **local knowledge and actually showing up** — and from working with someone who knows the difference between a cluster fly and a stable fly, a big brown bat and a little brown bat, and a moisture-driven carpenter ant problem and a harmless ant trail on the dock.
 

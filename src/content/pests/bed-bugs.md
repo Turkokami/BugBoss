@@ -77,15 +77,15 @@ Bed bugs get into homes and buildings around here the same way they do everywher
 
 **Visitors, caregivers, and returning family** can bring them in on their belongings — a guest's bag, a returning student's luggage, an item from an infested household. None of this involves any failing on the resident's part; it is simply how a hitchhiking insect moves through ordinary human life. The takeaway is that the sources are travel and used items and shared walls, not dirt — which is exactly why "cleaning harder" never prevents or cures bed bugs.
 
-## Signs of an infestation
+## How do you know you have bed bugs?
 
-Catching bed bugs early makes them dramatically easier to eliminate, so it pays to know the signs. **Unexplained itchy welts** appearing overnight, especially on skin exposed during sleep and sometimes in lines or clusters, are often the first prompt — but remember bites alone aren't proof. The physical evidence is what confirms it: **dark fecal spots** (like smearing marker dots) along mattress seams and piping, on the box spring, on sheets, and in nearby cracks; **pale shed skins** near harborage; tiny **white eggs** cemented in seams and crevices; a **musty, sweetish odor** in heavier infestations; and **live bugs** — flat, reddish-brown, apple-seed-sized — tucked into the seams of the mattress and box spring, the joints of the frame and headboard, and the cracks around the bed. The concentration of evidence around the sleeping area, where they feed, is characteriztic. If you find these signs, the right move is to stop and get a professional inspection rather than start spraying or hauling out furniture, both of which can make things worse.
+Catching bed bugs early makes them dramatically easier to eliminate, so it pays to know the signs. **Unexplained itchy welts** appearing overnight, especially on skin exposed during sleep and sometimes in lines or clusters, are often the first prompt — but remember bites alone aren't proof. The physical evidence is what confirms it: **dark fecal spots** (like smearing marker dots) along mattress seams and piping, on the box spring, on sheets, and in nearby cracks; **pale shed skins** near harborage; tiny **white eggs** cemented in seams and crevices; a **musty, sweetish odor** in heavier infestations; and **live bugs** — flat, reddish-brown, apple-seed-sized — tucked into the seams of the mattress and box spring, the joints of the frame and headboard, and the cracks around the bed. The concentration of evidence around the sleeping area, where they feed, is characteristic. If you find these signs, the right move is to stop and get a professional inspection rather than start spraying or hauling out furniture, both of which can make things worse.
 
-## Health risk
+## Are bed bugs dangerous?
 
 Bed bugs occupy an unusual spot among pests: they are **not known to transmit disease to humans**, which genuinely sets them apart from mosquitoes, ticks, and filth flies. You are not going to catch an illness from a bed bug bite the way you might from those vectors. But it would be wrong to conclude they are harmless, because the harm they do is real and takes a different form. The **bites** themselves itch, can become secondarily infected from scratching, and in some people provoke notable allergic reactions. Heavy infestations mean many bites night after night. And the effect that most defines bed bugs is **psychological**: the anxiety, insomnia, and distress of being bitten in your own bed, of not feeling safe where you sleep, is a substantial toll, and it is one of the reasons an infestation deserves prompt, thorough treatment rather than being toughed out. Sleep loss and stress are health issues too. So the honest summary is that bed bugs are not a disease threat but are far from trivial, and the sooner they are eliminated the smaller the physical and mental cost.
 
-## Why DIY usually fails
+## Why doesn't DIY work on bed bugs?
 
 Bed bugs are, along with German cockroaches, the pest where do-it-yourself efforts fail most reliably and most expensively — and understanding why saves people from making the infestation worse.
 
@@ -119,7 +119,7 @@ Because bed bugs hitchhike, prevention is about vigilance rather than cleaning, 
 
 **At home**, reducing clutter around the bed gives bed bugs fewer places to hide and makes any early infestation easier to spot and treat — this is not about cleanliness for its own sake but about denying harborage. A **bed bug-proof mattress and box spring encasement** is a strong preventive and diagnostic tool: it traps any bugs inside where they can't feed, keeps new ones from harboring in the mattress, and makes inspection far easier. And catching an introduction early — acting the moment you see signs rather than waiting — is itself the best prevention against a small problem becoming a large one. In shared and rental housing, prompt reporting and a building-level response prevent spread between units.
 
-## When to call BugBoss
+## When should you call BugBoss about bed bugs?
 
 Call as soon as you suspect bed bugs — unexplained itchy bites appearing overnight, dark fecal spots or shed skins on the mattress or box spring, or a live bug. Do not wait to be certain and do not start spraying or hauling furniture first, because early infestations are vastly easier and cheaper to eliminate than established ones, and the wrong first moves spread bugs and complicate treatment. Call, too, if signs appear after you've traveled or brought in used furniture, and — for landlords, lodging, and care facilities — at the first report, since bed bugs in shared housing are a building problem that grows with delay.
 

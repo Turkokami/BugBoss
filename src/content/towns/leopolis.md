@@ -109,7 +109,7 @@ Leopolis is the clearest case there is for going local. The national brands run 
 
 There's no pretending a place on County Highway D is a five-minute drive from anywhere, and the smart way to handle pest and wildlife work at this distance is to plan it rather than react to it. For a remote Leopolis property, that usually means bundling the year's needs into a couple of well-timed visits instead of a string of emergency calls: a spring pass for carpenter ants, wildlife den-checks, and exclusion; a late-summer pass for the fall invaders and the rodent push before the freeze. Handling the whole property — house, cabin, barn, and outbuildings — in one visit makes far more sense out here than treating one problem and driving back out for the next.
 
-It also means being realiztic about wildlife timing. If bats are in the roof in July, the exclusion has to wait for the maternity window to close on July 31 anyway, so we plan it for August rather than making a wasted trip. A [residential](/residential-pest-control/) program built around this rhythm keeps a far-flung property protected without a truck in the driveway every month — which fits both the distance and the way people out here prefer to do business.
+It also means being realistic about wildlife timing. If bats are in the roof in July, the exclusion has to wait for the maternity window to close on July 31 anyway, so we plan it for August rather than making a wasted trip. A [residential](/residential-pest-control/) program built around this rhythm keeps a far-flung property protected without a truck in the driveway every month — which fits both the distance and the way people out here prefer to do business.
 
 ## How BugBoss handles a Leopolis job
 

@@ -289,7 +289,7 @@ export const pests: Pest[] = [
     faqs: [
       { q: 'Where are ticks most common on my property?', a: 'Along the edges where lawn meets woods, brush, or tall grass, and in leaf litter and shaded, humid areas. These transition zones are where yard tick treatment focuses.' },
       { q: 'Can a yard treatment reduce Lyme disease risk?', a: 'Reducing the tick population in the areas people use lowers the chance of encounters and bites. It is one layer of protection alongside repellents, tick checks, and landscaping.' },
-      { q: 'When should ticks be treated?', a: 'Treatments are timed to the active season, with emphasiz on late spring and again in fall. A seasonal yard program keeps pressure on the population through the peak months.' },
+      { q: 'When should ticks be treated?', a: 'Treatments are timed to the active season, with emphasis on late spring and again in fall. A seasonal yard program keeps pressure on the population through the peak months.' },
       { q: 'Does BugBoss offer tick programs for rural properties and cabins?', a: 'Yes. Wooded lots, cabins, and rural acreages are exactly where tick pressure is highest, and we treat the edge habitats that matter most.' },
     ],
   },

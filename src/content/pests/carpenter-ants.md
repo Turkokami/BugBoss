@@ -43,7 +43,7 @@ This distinction is the key to everything that follows. Because carpenter ants d
 
 Wisconsin sits well north of serious termite range, so carpenter ants are the region's principal **wood-destroying insect**. They work slower than termites, but a colony left alone for years in a sill plate, a subfloor, or a deck post can do genuine structural damage. They are common precisely because the conditions they favor — mature trees, older homes, and a climate with plenty of moisture and freeze-thaw cycles — describe most of the Clintonville area exactly.
 
-## Identification
+## How do you identify carpenter ants?
 
 Carpenter ant workers are large, from about a quarter inch up to half an inch, and they come in a range of sizes within a single colony — entomologists call this being **polymorphic**, with minor, media, and major workers all present. Most are uniformly black, though some species and castes show a dark red or brownish thorax. Two features separate them from other big ants: viewed from the side, the top of the thorax is **evenly, smoothly rounded** (not lumpy or angled), and the waist has a **single node** (one bump) rather than two.
 
@@ -53,7 +53,7 @@ Don't confuse carpenter ants with the smaller nuisance [ants](/pest-library/ants
 
 The size range within one colony is itself a clue. Carpenter ant colonies are **polymorphic**, meaning workers come in a spread of sizes — small minors, mid-sized medias, and large majors — that divide the labor, with the biggest workers defending the nest and handling large prey while the smaller ones tend brood and forage. So if you're seeing black ants that vary noticeably in size all coming from the same area, that variation points to carpenter ants rather than a nuisance species, whose workers are usually uniform. The majors, with their oversized heads, are the ones people describe as looking almost intimidating up close.
 
-## Wisconsin biology and lifecycle
+## How do carpenter ants live and breed in Wisconsin?
 
 A carpenter ant colony is a slow, deliberate operation, and understanding its structure is what makes control possible.
 
@@ -67,7 +67,7 @@ The connection between the outdoor parent and the indoor satellites is a physica
 
 Diet is the other half of the biology. Workers feed on carbohydrates — sap, fruit, and especially **honeydew** farmed from aphids and treehoppers — while the developing larvae need protein, which the workers supply by hunting live and scavenging dead insects. Indoors, that translates to a taste for sweets and grease: they'll work a spill of syrup or pet food, and this appetite is exactly what modern baiting exploits, because the foragers carry bait back and feed it to the brood and queen they'd never otherwise expose. None of it involves eating wood, which is the single most important thing to keep straight — you cannot bait or poison the wood, only the ants, and you cannot starve them out of a structure by denying them food.
 
-## The season in Northeast Wisconsin
+## When are carpenter ants active in Northeast Wisconsin?
 
 Carpenter ant activity tracks the Wisconsin year closely. Through the cold months the colony sits in a dormant, semi-frozen state; the ants tolerate winter well but do little. As the ground warms in **April and May**, foraging resumes, and this is when mature colonies release their **spring swarmers** — the winged males and new queens leaving to mate and, if lucky, found new colonies. Swarmers at your windows in May or early June are the season's loudest alarm.
 
@@ -77,7 +77,7 @@ The seasonal tell that matters most for diagnosis is winter. **Large black ants 
 
 One more piece of seasonal timing is worth flagging for older homes: **ice dams**. Northeast Wisconsin winters build heavy ice at the eaves, and the backed-up meltwater it forces under shingles is a classic source of the roofline moisture damage carpenter ants love. A home that suffers ice dams year after year is steadily manufacturing the soft, wet wood a colony needs, high up where it's hard to inspect. So carpenter ants at the roofline and in upper walls are often a downstream symptom of a winter ice-dam problem, and the two are worth thinking about together.
 
-## Signs of an infestation
+## How do you know you have carpenter ants?
 
 The clearest signs, roughly in order of certainty:
 
@@ -89,11 +89,11 @@ The clearest signs, roughly in order of certainty:
 
 Because carpenter ants concentrate where water has been, the sign hunt and the leak hunt are the same search.
 
-## Structural risk
+## What damage do carpenter ants cause?
 
 Carpenter ants damage a home by hollowing its structural and finish wood over time. The galleries are clean and smooth, almost sanded-looking, and follow the softer grain of the wood — unlike the mud-packed, soil-flecked tunnels of termites, which are lined with dirt. If you open a piece of infested wood and the tunnels are clean and free of soil, that points to carpenter ants; if they're packed with mud and debris, think termite (rare this far north) or old moisture rot. A colony that works a sill plate, a floor joist, a header, or a deck post for several years can compromise it. Because the ants prefer wood that's already moisture-damaged, the ant damage often compounds rot that's already underway, and the two together can turn a small leak into a structural repair. The pace is slow, which cuts both ways: you have time to catch it, but an unnoticed colony can also do years of quiet work before anyone sees a swarmer. Carpenter ants don't sting or spread disease, so the risk here is to the building, not to your health.
 
-## Why DIY usually fails
+## Why doesn't DIY work on carpenter ants?
 
 Carpenter ants defeat over-the-counter control for structural reasons, not for lack of effort.
 
@@ -103,7 +103,7 @@ Worse, repellent sprays can cause a colony to **bud** — sensing a threat, the 
 
 And DIY almost never addresses the **moisture source**, which is the whole reason the ants are there. Kill every ant on the counter and leave the roof leak, and a new colony will find the same soft wood next year. Effective control requires finding the nests — plural — treating the colony at its source with the right non-repellent products or baits, and correcting the water problem. That's a diagnostic job as much as a treatment job.
 
-## The BugBoss process
+## How does BugBoss handle carpenter ants?
 
 We work carpenter ants as a hunt, because that's what they require. The process:
 
@@ -117,7 +117,7 @@ We work carpenter ants as a hunt, because that's what they require. The process:
 
 One thing we're candid about: carpenter ant work is a diagnostic job, and the honest version sometimes takes more than one visit. If the parent nest is outdoors on your property or a neighbor's and foragers are commuting in, we treat what we can reach and re-check, because a single application rarely erases a mature, multi-nest colony in one pass. Baiting works but works gradually, as the bait moves through the colony to the queen. We'd rather set that expectation up front than promise a one-spray cure that doesn't hold — which is the promise that leaves so many homeowners frustrated after a season.
 
-## Prevention and exclusion
+## How do you keep carpenter ants out?
 
 Because carpenter ants are drawn by moisture and reach the house along physical bridges, prevention is mostly about drying the wood and cutting the bridges:
 
@@ -127,7 +127,7 @@ Do those things and you make your home a poor prospect for a colony that could o
 
 It helps to think of prevention as two jobs: **keep the wood dry** so it never becomes attractive, and **cut the bridges** so an outdoor colony can't reach whatever wood you do have. The dry-wood half is really just good home maintenance — the same gutter, roof, grading, and caulking upkeep that prevents rot — which is why carpenter ant prevention and moisture management are effectively the same project. The bridge-cutting half is landscaping: keep vegetation off the walls, wood off the ground, and limbs off the roof. A home that stays dry and isn't physically connected to the surrounding trees and woodpiles is one carpenter ants have a hard time colonizing, no matter how many nests are out in the woodlot.
 
-## When to call BugBoss
+## When should you call BugBoss about carpenter ants?
 
 Call when you see large black ants indoors repeatedly — and especially if you see them in winter, or you find winged swarmers at a window in spring, or you turn up frass beneath trim or framing. Those signs point to an established indoor nest that won't resolve on its own and that a can of spray will likely make worse.
 

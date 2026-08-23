@@ -33,7 +33,7 @@ faqs:
     a: "No. BugBoss never uses long-term contracts or cancellation fees. Some cabin and rural-acreage owners choose seasonal monitoring because the field pressure never stops, but that is your choice each year, not a lock-in. You deal directly with the owner, Brian, and once the building is properly sealed, the recurring pressure — and the contamination that comes with it — drops sharply."
 ---
 
-## What we are dealing with, and how to identify it
+## What are deer mice, and how do you identify them?
 
 The deer mouse is the native field mouse of rural Northeast Wisconsin, and around the woodlots, farms, and lake cabins near Clintonville it is at least as common as the house mouse — and it is the one that carries the health concern that changes how a job is handled. Where the [house mouse](/pest-library/mice/) is the animal of villages, towns, and homes with a steady food supply, the deer mouse belongs to the fields, woods, woodpiles, cabins, and outbuildings that make up so much of the country here. If you have bicolored mice in a lake cabin, a farm shed, or an outbuilding ringed by woods, it is almost certainly deer mice.
 
@@ -41,7 +41,7 @@ Identification is straightforward once you know the pattern, and it genuinely ma
 
 This is why, when we inspect a rural property — and especially a cabin — identifying the species is step one. A house-mouse problem and a deer-mouse problem are controlled the same way, with sealing and removal, but the deer-mouse job carries a layer of caution around the cleanup that a house-mouse job in a village home may not. Getting the ID right up front is what tells us how carefully the droppings and nests have to be handled.
 
-## Wisconsin biology and lifecycle
+## How do deer mice live and breed in Wisconsin?
 
 Deer mice are hardy, adaptable native rodents built for the Wisconsin landscape. They live outdoors most of the year in fields, fencerows, woods, brush, and woodpiles, nesting in burrows, hollow logs, stumps, and any protected cavity. They are excellent climbers and are largely nocturnal, foraging on seeds, nuts, insects, and plant material, and — importantly for their survival in dry field conditions — they need very little free water, which makes a dry attic, wall void, or shed perfectly livable. They store food, caching seeds and nuts in their nests, which is part of why a deer-mouse nest in a cabin drawer often comes with a hoard.
 
@@ -67,9 +67,9 @@ Deer mice are a landscape animal, and the woods, fields, and lake country around
 
 **Farm outbuildings** — sheds, machine buildings, granaries, pole barns, and the like — sit right against the fields and woods deer mice come from, and they offer clutter, stored materials, and equipment to nest in. Deer mice are frequently the mouse in these buildings, more so than the house mouse, and the enclosed, dusty, seldom-cleaned interiors are exactly the kind of space where disturbing droppings is a concern. The same sealing that keeps [mice out of a pole barn](/pest-problems/mice-in-pole-barn/) keeps deer mice out.
 
-**Older farmhouses** ringed by fields and woods take deer-mouse pressure at every low gap — fieldstone and rubble foundations that never fully seal, balloon-framed walls that let a mouse travel from the sill straight to the attic, decades of settlement cracks and open utility penetrations. And **woodpiles, brush, and tall grass** stacked or growing against any building give deer mice cover and a staging area right at the wall, from which they probe for a way in. The realiztic picture on a rural property is that the landscape belongs to the deer mice — the goal is a sealed building, not a mouse-free forty acres.
+**Older farmhouses** ringed by fields and woods take deer-mouse pressure at every low gap — fieldstone and rubble foundations that never fully seal, balloon-framed walls that let a mouse travel from the sill straight to the attic, decades of settlement cracks and open utility penetrations. And **woodpiles, brush, and tall grass** stacked or growing against any building give deer mice cover and a staging area right at the wall, from which they probe for a way in. The realistic picture on a rural property is that the landscape belongs to the deer mice — the goal is a sealed building, not a mouse-free forty acres.
 
-## Signs of an infestation
+## How do you know you have deer mice?
 
 Deer mice announce themselves the way other mice do, with a few rural-specific tells. **Droppings** — small, dark, rice-shaped pellets — are the most reliable sign, scattered along walls, in drawers and cabinets, inside stored boxes and totes, and through outbuildings and cabins; fresh droppings are dark and soft, older ones gray and crumbly. **Nests** of shredded paper, fabric, insulation, and plant material turn up in protected spots — inside stored bedding and cushions, in drawers, in wall and ceiling voids, in clutter — often with a **cache** of seeds or nuts, which is a deer-mouse hallmark. **Gnaw marks** on stored goods, packaging, and wood, and small holes chewed into anything holding food, point to active mice.
 
@@ -91,7 +91,7 @@ For a lightly soiled surface in a well-ventilated home, a careful homeowner can 
 
 Beyond hantavirus, deer mice bring the ordinary rodent problems too: contamination of food and surfaces, allergy and asthma triggers from droppings and dander, and a role as a host for the immature **blacklegged ticks** behind Lyme disease in this region — one more reason to keep them off a property, not just out of the pantry.
 
-## Why DIY usually fails
+## Why doesn't DIY work on deer mice?
 
 The standard response to mice in a cabin or outbuilding — a handful of snap traps or a bag of bait — runs into the same wall it does with house mice, plus a health complication. On the control side, trapping removes the mice that are inside but leaves the **quarter-inch gaps wide open**, and on a rural property the surrounding fields and woods hold an effectively endless supply of deer mice that push in again every fall. You trap, you get a lull, the mice come back, and people conclude they simply live with mice in the cabin. They do not have to; the building was never sealed.
 
@@ -99,7 +99,7 @@ Sealing done by hand usually fails on **materials**. Deer mice gnaw through expa
 
 The health complication is unique to deer mice: the DIY cleanup step is where people put themselves at risk. Reaching for a **broom or a shop vac** on a winter's worth of cabin droppings is exactly the wrong move, and it is the most common mistake we see — a well-intentioned owner aerosolizing contamination in an enclosed space during spring opening. This is a large part of why heavy deer-mouse jobs are worth handing to someone who will do both the exclusion with the right materials and the cleanup by the right method.
 
-## The BugBoss process for deer mice
+## How does BugBoss handle deer mice?
 
 We run deer-mouse work as a three-part job, in order, with the species-specific caution built in from the start. First we **inspect** the building inside and out — confirming that we are dealing with deer mice (which sets the cleanup precautions), gauging the size and location of the population and its nests, and mapping how they are getting in. Finding the entry points is what makes the fix stick, and on rural buildings there are usually several.
 
@@ -107,15 +107,15 @@ Second, we **remove the active population** with targeted trapping and control s
 
 Third, and the heart of a lasting fix, we do the **exclusion**: sealing every entry point we found with materials mice cannot chew through, so the building itself keeps them out. Then we set **monitoring** so you know the problem is gone and stays gone. For seasonal properties we time all of this around your closing and opening schedule. This is a core rural specialty of ours, covered in depth in our [farmhouse rodent exclusion](/guides/farmhouse-rodent-exclusion/) and [cabin seasonal pest control](/guides/cabin-seasonal-pest-control/) guides, and it runs through our [residential pest control service](/residential-pest-control/) with no contract and the owner, Brian, directly accountable.
 
-## Prevention and exclusion
+## How do you keep deer mice out?
 
 Prevention for deer mice is exclusion plus denying them food and cover, with the cleanup done safely. On the **building**, the priorities are the ground-level and penetration gaps: seal around utility, pipe, and wire entries; close gaps where siding meets the foundation and at the sill plate; fit tight door sweeps and repair worn seals; screen vents; and close foundation cracks. Use materials mice cannot gnaw — sealed metal, hardware cloth, and proper sealants at the right places — not foam or loose steel wool alone. Because our cabins, farmhouses, and outbuildings have so many potential openings, a methodical inspection beats spot-fixing the one gap you happen to see.
 
-Deny food and shelter as well. Store food, and especially birdseed and pet and livestock feed, in sealed metal containers rather than bags and thin plastic. In a **cabin**, do not leave stored bedding, cushions, upholstered furniture, and boxed goods as ready-made nest sites — store them sealed or elevated, and consider what a mouse would do with them over a quiet winter. Cut down clutter that offers nesting material, keep stored goods off the floor and away from walls, and pull woodpiles, brush, and tall grass back from the foundation so deer mice lose the staging area right at the building's edge. On a rural acreage the field-and-woods pressure never really stops, so the realiztic goal is a well-sealed building plus ongoing awareness, not a mouse-free landscape.
+Deny food and shelter as well. Store food, and especially birdseed and pet and livestock feed, in sealed metal containers rather than bags and thin plastic. In a **cabin**, do not leave stored bedding, cushions, upholstered furniture, and boxed goods as ready-made nest sites — store them sealed or elevated, and consider what a mouse would do with them over a quiet winter. Cut down clutter that offers nesting material, keep stored goods off the floor and away from walls, and pull woodpiles, brush, and tall grass back from the foundation so deer mice lose the staging area right at the building's edge. On a rural acreage the field-and-woods pressure never really stops, so the realistic goal is a well-sealed building plus ongoing awareness, not a mouse-free landscape.
 
 And build the **safe-cleanup habit** into how you open a seasonal building: ventilate before you go to work, wet down any droppings and nests with disinfectant, wipe and bag rather than sweep or vacuum, and glove up. That habit is cheap insurance against the one genuinely serious risk deer mice carry.
 
-## When to call BugBoss
+## When should you call BugBoss about deer mice?
 
 Call at the **first solid sign** — bicolored mice in the cabin or shed, droppings in stored items, chewed goods, scratching in the walls — rather than waiting, because indoor breeding and constant field pressure turn a small fall problem into a large one. Call in **late summer or early fall** if you have had deer mice before and want the building sealed ahead of the annual push. And call **before opening or closing a seasonal cabin** — before closing, to seal it tight against the winter invasion; before or at opening, so a winter's worth of deer-mouse contamination gets cleaned up by the right method instead of a broom.
 

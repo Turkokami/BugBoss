@@ -33,7 +33,7 @@ faqs:
     a: "Secure the surviving animals immediately — get poultry and small stock into a closed, solid enclosure that night — and preserve any evidence of the kill without disturbing the whole scene, since it helps confirm the predator. Remove any carcass or attractant that's drawing the animal back. Then call for an assessment. Fast securing of your animals prevents the next loss while the longer fix is put in place."
 ---
 
-## What you're dealing with
+## What are coyotes, and what makes them a problem here?
 
 A coyote problem is different from every other animal on this site, because the coyote isn't trying to get *into* your buildings — it's a predator working your land, and the conflict is about your **animals, not your structure**. That changes the whole shape of the problem. There's no attic to seal, no latrine to clean, no gap to close. Instead there's a smart, adaptable, territorial predator that has found something worth coming back for, and the job is to figure out what that is, take it away, protect what you're losing, and — when a particular animal has crossed the line into active depredation — remove that individual lawfully.
 
@@ -61,7 +61,7 @@ The **breeding cycle** drives the conflict pattern. Coyotes breed roughly **Janu
 
 The behavioral fact that governs everything is **habituation.** A wild coyote is wary and avoids people. But a coyote that finds food near buildings — and isn't met with any consequence — learns that the reward is worth the reduced caution, and it grows progressively bolder. A bold coyote hanging around a farmstead in daylight isn't usually rabid; it's usually a normal animal that's been **rewarded** into losing its fear. That's why attractant removal isn't a soft first step — it's the step that keeps the problem from escalating.
 
-## The season here
+## When are coyotes active in Northeast Wisconsin?
 
 **Late winter (January–March).** Breeding season. Peak howling, bold territorial movement, and the start of heightened pressure near farms. Losses of poultry and small stock begin climbing.
 
@@ -91,7 +91,7 @@ A coyote comes to *your* place, and stays, because it's finding food, shelter fo
 
 ## Signs of a coyote problem
 
-The clearest sign is **losses** — missing poultry, killed or injured small stock, missing pets — often with a characteriztic kill pattern (a coyote typically kills small animals with a throat bite and feeds on specific areas). Beyond the kills, look for **tracks** (neat, oval, in fairly straight travel lines) in mud, dust, or snow; **scat** (rope-like, tapered, full of hair and bone, often left on trails and prominent spots as territorial markers); and **the howling** — the group yip-howl at night is a reliable indicator that a family group is using the area.
+The clearest sign is **losses** — missing poultry, killed or injured small stock, missing pets — often with a characteristic kill pattern (a coyote typically kills small animals with a throat bite and feeds on specific areas). Beyond the kills, look for **tracks** (neat, oval, in fairly straight travel lines) in mud, dust, or snow; **scat** (rope-like, tapered, full of hair and bone, often left on trails and prominent spots as territorial markers); and **the howling** — the group yip-howl at night is a reliable indicator that a family group is using the area.
 
 **Sightings** matter for what they tell you about boldness: a coyote glimpsed crossing a distant field at dusk is normal, but one repeatedly seen near buildings, moving in daylight, or showing little fear of people or activity is a habituated animal and a warning sign. **Dens** — a hole with a fan of excavated dirt and prey remains, tracks, and pup activity nearby, usually on a field edge or in a woodlot in spring — indicate a family group raising young right in your area, which forecasts the spring depredation pressure. **A carcass or gut pile being visited and fed on** is both a sign and a cause.
 
@@ -107,7 +107,7 @@ The clearest sign is **losses** — missing poultry, killed or injured small sto
 
 **Human safety** is, to be clear, a low direct risk — attacks on people are very rare and almost always involve animals that have been fed. But that low risk climbs precisely when a coyote has been rewarded into losing its fear, which is another argument for addressing attractants early.
 
-## Why DIY usually fails
+## Why doesn't DIY work on coyotes?
 
 Coyotes defeat casual efforts for reasons rooted in their intelligence and in the shape of the problem.
 
@@ -121,7 +121,7 @@ Coyotes defeat casual efforts for reasons rooted in their intelligence and in th
 
 **Misidentifying the predator sends the whole effort the wrong way.** Chase coyotes when the culprit is a loose dog, or treat a wolf as a coyote, and nothing you do fixes the losses — and the wolf error can land you in real trouble.
 
-## The BugBoss process
+## How does BugBoss handle coyotes?
 
 We handle coyotes as an integrated problem: identify it correctly, take away what's drawing it, protect what you're losing, and remove the right animal lawfully — in that order, because that order is what makes results last.
 
@@ -155,7 +155,7 @@ The durable goal isn't a coyote-free landscape — it's a property that coyotes 
 
 **Don't let them get comfortable.** A coyote that's beginning to hang around buildings should be hazed and, importantly, denied the food reward — the earlier you break the habituation, the easier the problem is to reverse.
 
-## When to call BugBoss
+## When should you call BugBoss about coyotes?
 
 Call when you're **losing animals** — a run of missing poultry, killed or injured small stock, or a missing pet — and want the losses stopped, not just an animal chased off. Call when a coyote has **lost its wariness**, showing up near buildings, moving in daylight, or seeming unbothered by people, because that habituation only escalates. Call in the **spring pup-feeding window** if pressure is building, and call promptly if you find a **den** near your buildings. And treat any coyote acting sick, disoriented, or unnaturally bold as a possible rabies case — keep away and report it.
 

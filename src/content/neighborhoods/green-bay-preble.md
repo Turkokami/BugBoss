@@ -2,11 +2,11 @@
 title: "Pest Control in Preble, WI"
 city: "Green Bay"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems on Green Bay's east side in the Preble area, Brown County — mid-century homes near the East River and newer subdivisions farther east. We're a Clintonville-based rural specializt reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems on Green Bay's east side in the Preble area, Brown County — mid-century homes near the East River and newer subdivisions farther east. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
 order: 11
 faqs:
   - q: "Does BugBoss serve the Preble area on Green Bay's east side?"
-    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not Green Bay, so we're not the nearest truck to the east side — we're the rural exclusion and wildlife specializt worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit for your problem."
+    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not Green Bay, so we're not the nearest truck to the east side — we're the rural exclusion and wildlife specialist worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit for your problem."
   - q: "My Preble home is a newer subdivision build — why do I still get pests?"
     a: "Because a tight, modern house still has predictable gaps, and much of Preble's newer development sits on former farmland with open ground nearby. Cluster flies and mice come off that soil and those fencerows no matter how new the house is. They just enter at construction junctions — soffit returns, weep holes, and utility penetrations — instead of an old foundation crack."
   - q: "Why does the older part of Preble get cluster flies and boxelder bugs?"
@@ -33,7 +33,7 @@ Preble isn't a single subdivision — it's a broad stretch of Green Bay's **east
 
 The **older core**, closer to the East River and the Bay Beach area, filled in through the mid-twentieth century — ranches, Cape Cods, split-levels, and story-and-a-half homes from the 1950s and 60s. Push farther east and you hit the **newer subdivisions**, much of it built from the late 1980s onward on former farmland, with plenty of construction dated well into the 2000s and 2010s. Ranch, split-level, and modern-farmhouse and Colonial-Revival builds line curved streets and cul-de-sacs. One name, two building eras — and each brings pests in its own way.
 
-**BugBoss The X-Terminator** is not an east-side Green Bay company. We run out of **Clintonville**, in rural Waupaca County, and Preble sits at the eastern edge of the metro area we reach. We won't pretend we're the closest truck to a Green Bay address. What we are is the rural exclusion and wildlife specializt worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the kind of work we do every week on old farmhouses and lake cabins out in the country, and the kind the metro franchises won't do without a contract.
+**BugBoss The X-Terminator** is not an east-side Green Bay company. We run out of **Clintonville**, in rural Waupaca County, and Preble sits at the eastern edge of the metro area we reach. We won't pretend we're the closest truck to a Green Bay address. What we are is the rural exclusion and wildlife specialist worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the kind of work we do every week on old farmhouses and lake cabins out in the country, and the kind the metro franchises won't do without a contract.
 
 ## Two housing eras, two sets of entry points
 
@@ -51,7 +51,7 @@ Every September and October, Preble gets the same wave every rural home in our t
 
 Homeowners in Preble's newer subdivisions are often shocked to get hammered by [cluster flies](/pest-library/cluster-flies/), assuming it's an old-house problem. It isn't. Cluster fly larvae **parasitize earthworms** in the soil, so a two-year-old house sitting on former farm ground produces the same fall population as a mid-century home near the river — it just lets them in through soffit returns and weep holes instead of a foundation crack. [Boxelder bugs](/pest-library/boxelder-bugs/) feed on boxelder and maple seeds from the trees around every neighborhood, and [Asian lady beetles](/pest-library/asian-lady-beetles/) pile in beside them.
 
-The fix is the same regardless of build date: a **timed early-fall exterior treatment** on the sunny walls, plus sealing the seams. Our [cluster fly control guide](/guides/cluster-fly-control/) covers the timing, and if they're already stacking up on the glass, see [cluster flies in windows](/pest-problems/cluster-flies-in-windows/).
+Build date barely matters here — a 1955 ranch and a 2015 build on the same block both get them, because the draw is the sunny wall and the open ground behind it, not the age of the house. The fix is a **timed early-fall exterior treatment** on those walls plus sealing the seams, done before the flies mass rather than after. Our [cluster fly control guide](/guides/cluster-fly-control/) covers the timing, and if they are already stacking up on the glass, see [cluster flies in windows](/pest-problems/cluster-flies-in-windows/).
 
 ## Mice and carpenter ants across the east side
 
@@ -61,7 +61,7 @@ The fix is the same regardless of build date: a **timed early-fall exterior trea
 
 ## Wildlife along the East River corridor
 
-The **East River** and the green space around **Bay Beach** give wildlife a highway right up to east-side rooflines, and this is where a rural specializt genuinely earns the trip from Clintonville. Homes backing onto that corridor see more attic and chimney intrusions than a home buried in a dense block.
+The **East River** and the green space around **Bay Beach** give wildlife a highway right up to east-side rooflines, and this is where a rural specialist genuinely earns the trip from Clintonville. Homes backing onto that corridor see more attic and chimney intrusions than a home buried in a dense block.
 
 **Bats** roost in attics and behind fascia on both the mid-century homes and the larger new builds with complex rooflines. Exclusion is legally restricted — Wisconsin protects its bats, and the **DNR keeps one-way exits open June 1 through July 31** during the maternity season, when flightless pups are in the roost. We do the work outside that window: find the exits, install one-way doors, wait at least a week, then seal and clean up the guano. The rules are in our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the process is on the [bats](/pest-library/bats/) and [bats in attic](/pest-problems/bats-in-attic/) pages. We never seal bats in.
 
@@ -81,7 +81,7 @@ And winter on the east side is mostly about what already got in during fall — 
 
 Here's the straight version. BugBoss is **Clintonville-based and family-owned** — owner Brian Zahringer runs the truck and answers the phone. Our home ground is rural country out around [Pulaski](/service-area/pulaski/), [Bonduel](/service-area/bonduel/), and [Shawano](/service-area/shawano/). Preble is the eastern edge of what we reach, and for a quick one-off in the city a company inside Green Bay is closer.
 
-Where we're the better call is the specialized, problem-first work: **old-home and new-build exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — and we do it with **no long-term contract and no cancellation fee**. You're hiring a specializt for a specific problem, not signing up for a route. That's the point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
+Where we're the better call is the specialized, problem-first work: **old-home and new-build exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — and we do it with **no long-term contract and no cancellation fee**. You're hiring a specialist for a specific problem, not signing up for a route. That's the point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
 
 Every job runs the same disciplined way: we **inspect** the property inside and out, **treat the source** rather than just what's visible, do the **exclusion** that keeps the next wave out, and **follow up** to confirm it's gone.
 

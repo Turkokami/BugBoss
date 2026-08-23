@@ -73,17 +73,17 @@ Not every building gets cluster flies equally, and knowing which ones do explain
 
 Cluster flies also turn up in **commercial and agricultural buildings** — offices, warehouses, and the pole barns and outbuildings that dot every rural property — for the same reasons. Any large, warm, south-facing wall over worm-rich ground is a candidate, which is why we address them on [commercial properties](/commercial-pest-control/) as well as homes.
 
-## Signs of an infestation
+## How do you know you have cluster flies?
 
 The signs are straightforward once you know the pattern. In fall, look for masses of large, sluggish flies on the sunny exterior walls, especially in the afternoon. Indoors, the classic sign is groups of dead and dying flies on windowsills, particularly upstairs, and in light fixtures and ceiling corners. Live flies appearing at the windows on warm winter and early-spring days are the clearest indicator of an established overwintering population in the structure. In heavy cases, a large mass of flies dormant in a wall void or attic can give off a faint, sweetish, slightly greasy odor. And where dead flies accumulate over years, you may find carpet beetles and other scavengers that have moved in to feed on the carcasses — a secondary problem the flies quietly created.
 
-## Health and structural risk
+## Are cluster flies dangerous?
 
 The honest answer is that cluster flies are almost entirely a nuisance pest, and it is worth saying so plainly rather than overselling the threat. They do not bite. They do not sting. They do not transmit disease to people, because unlike house flies and blow flies they never contact garbage, manure, or carrion — they develop inside earthworms in clean soil. They do not lay eggs in your food or breed inside the house. They do not chew wood, wiring, or insulation, so there is no structural damage.
 
 What they cost you is comfort and a bit of cleanup. Large overwintering populations mean repeated vacuuming through the winter, stained sills and walls where flies die and their bodies break down, and the odor a big dormant mass can produce. The one genuine secondary concern is that accumulations of dead flies attract scavenging insects like carpet beetles, which can then move on to fabrics and stored goods. So while cluster flies themselves are harmless, letting a heavy population build in the walls year after year is not consequence-free. It is a manageable nuisance that becomes a persistent one if ignored.
 
-## Why DIY usually fails
+## Why doesn't DIY work on cluster flies?
 
 Almost every homeowner starts the same way: they wait until the flies show up at the windows, then they buy a can of flying-insect spray and go after the ones they can see. It never solves the problem, and the reason is timing and location. By the time flies are inside on the windowsill, they are already deep in the wall voids and attic — the ones in view are a tiny fraction of the population, and killing them changes nothing about the hundreds still hidden. Spraying the interior also puts pesticide where you live, breathe, and sleep, to no real benefit. Vacuuming is cleaner and just as effective for the visible flies.
 
@@ -91,7 +91,7 @@ The other common mistake is treating too late. People call in October or Novembe
 
 Exclusion is the other half, and it is genuinely hard to do well on the kinds of houses we have here. The soffit and fascia gaps, the roofline junctions, the balloon-framed walls of older farmhouses that run open from sill to attic — these are the entry points, and finding and sealing them takes knowing where to look and being willing to work at the roofline. A homeowner caulking around the obvious windows misses the routes that matter most. This is the same envelope-sealing skill that underlies our [farmhouse rodent exclusion](/guides/farmhouse-rodent-exclusion/) work, and it is not a weekend job on a two-story farmhouse.
 
-## The BugBoss process for cluster flies
+## How does BugBoss handle cluster flies?
 
 We run cluster fly work on the calendar the insect follows, not the calendar of when the phone rings. The core of it is an **exterior treatment applied in the right window** — ideally late August into September — to the south- and west-facing walls, the soffits, the eaves, the roofline, and the areas around windows and vents where the flies gather and enter. Applied at the right time, this treats the flies as they land on the walls, before they get into the voids, and knocks down the bulk of the invading population.
 
@@ -99,15 +99,15 @@ Alongside the treatment we do **exclusion**: identifying and sealing the entry p
 
 We also **identify correctly first**. If you are seeing flies in winter, we confirm whether they are overwintering cluster flies or blow flies pointing to a dead animal in a wall or chimney, because those are two entirely different jobs. And we **stand behind the work** with follow-up. Because cluster flies re-invade from the surrounding land every single fall, many area homeowners choose a recurring early-fall visit — not because we require it (we never lock anyone into a [contract](/no-contracts/)), but because annual maintenance is simply the most cost-effective way to keep a rural home ahead of a pest the land regenerates every year. Our full approach is laid out in the [cluster fly control guide](/guides/cluster-fly-control/).
 
-## Prevention and exclusion
+## How do you keep cluster flies out?
 
 The prevention story for cluster flies is the exclusion story, because you cannot touch the breeding source. Every opening you close before fall is one the flies cannot use. The high-value targets are the roofline and upper structure: seal and screen gable, ridge, and soffit vents; close the gaps where soffit meets fascia and where the roof meets the walls; and repair any lifted or damaged flashing. Around the walls, caulk gaps around window and door frames, seal where utility lines and pipes penetrate the siding, and repair torn screens. On older homes, pay attention to the places where different materials meet and where decades of settling have opened seams.
 
-Do this work in summer, before the late-August gathering begins, so the building is buttoned up before the flies arrive. Light-colored siding and shaded walls attract fewer flies than dark, sun-baked ones, though that is rarely a practical thing to change. The realiztic goal is not zero flies — the land guarantees a population — but keeping that population out of the wall voids and living space, which exclusion plus well-timed exterior treatment reliably does.
+Do this work in summer, before the late-August gathering begins, so the building is buttoned up before the flies arrive. Light-colored siding and shaded walls attract fewer flies than dark, sun-baked ones, though that is rarely a practical thing to change. The realistic goal is not zero flies — the land guarantees a population — but keeping that population out of the wall voids and living space, which exclusion plus well-timed exterior treatment reliably does.
 
 It is also worth managing the secondary problem. Where cluster flies have overwintered in a wall or attic for years, dead flies accumulate, and those carcasses feed scavengers like carpet beetles and, occasionally, the larder beetles that then move on to fabrics and stored goods. Cleaning out heavy accumulations of dead flies from attics and voids, as part of the exclusion work, removes that food source and heads off a fabric-pest problem before it starts. On cabins that have gone years without attention, this cleanup is often as valuable as the treatment itself.
 
-## When to call BugBoss
+## When should you call BugBoss about cluster flies?
 
 Call in late summer or early fall if you have had cluster flies before — that is the moment treatment pays off, and getting on the calendar in August or September beats calling in November when the flies are already in the walls. Call if you are seeing large numbers of slow flies on your exterior walls in the fall, or clusters of live flies at your windows on warm winter days. And call if you are not sure what you have, because winter flies can also mean a dead animal in a wall, which is a different problem entirely.
 

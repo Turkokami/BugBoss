@@ -10,7 +10,7 @@ faqs:
   - q: "What do I do if my dog gets quilled?"
     a: "Go to a vet, and do not attempt removal yourself. Quills carry microscopic backward-facing barbs that make them very difficult to withdraw cleanly, and they migrate deeper into tissue with time and with the animal's movement — a quill left in place can travel and reach joints, the chest cavity, or an eye. Removal generally requires sedation, both for the pain and because a struggling dog drives them further in. Pulling at them at home commonly snaps them, leaving barbed fragments buried. This is a same-day veterinary visit, not a wait-and-see."
   - q: "Are porcupines dangerous to people?"
-    a: "Not unless you touch one. Porcupines are slow, placid, largely nocturnal animals with no interest in confrontation and no ability to chase anything down. They do not attack, they cannot throw quills, and a person who keeps a few feet of distance is in no danger at all. The realiztic risks are to curious dogs, to livestock that investigate, and to anyone who tries to move one. Give it room and it will amble away, though slowly — porcupines are in no hurry about anything."
+    a: "Not unless you touch one. Porcupines are slow, placid, largely nocturnal animals with no interest in confrontation and no ability to chase anything down. They do not attack, they cannot throw quills, and a person who keeps a few feet of distance is in no danger at all. The realistic risks are to curious dogs, to livestock that investigate, and to anyone who tries to move one. Give it room and it will amble away, though slowly — porcupines are in no hurry about anything."
   - q: "How do I know it is a porcupine and not something else?"
     a: "Look at the tree damage first: porcupines strip bark in irregular patches from the upper trunk and larger branches, well off the ground, leaving pale exposed wood and coarse tooth grooves — quite different from the neat low-level work of rabbits or the ragged tearing of deer. Then look for the den, which will have a distinctive mound of scat outside, plus shed quills caught around the entrance. In winter, well-worn trails through snow leading to and from a den under a building are conclusive."
   - q: "Will a porcupine kill my trees?"
@@ -91,7 +91,7 @@ The den is unmistakable once you know what to look for. Porcupines defecate at t
 
 They are strongly attached to these sites and return year after year, which has a direct practical consequence: **closing the den has to be permanent and robust**, or the animal simply reopens it.
 
-## The season in Northeast Wisconsin
+## When are porcupines active in Northeast Wisconsin?
 
 **Winter is peak conflict season**, and everything converges. Porcupines do not hibernate. Their diet shifts to bark and needles, so tree girdling happens now. That diet supplies no sodium, so the salt craving intensifies and the structural chewing starts. Deep snow keeps them close to the den, concentrating damage in one area. And road salt is everywhere. If you have a porcupine problem, you will almost certainly discover it between December and March.
 
@@ -101,7 +101,7 @@ They are strongly attached to these sites and return year after year, which has 
 
 **Autumn** sees them feeding heavily and beginning to settle toward winter dens. This is the best window for exclusion work, before the animal is established for the cold season.
 
-## Signs
+## How do you know you have porcupines?
 
 - Gnawed plywood, shed walls, or barn sheathing with broad coarse tooth grooves
 - Ruined tool handles, deck rails, or porch posts
@@ -114,7 +114,7 @@ They are strongly attached to these sites and return year after year, which has 
 - A dark bulky shape high in a conifer in winter
 - A dog with quills — the most urgent sign of all
 
-## Risk
+## Are porcupines dangerous?
 
 **To people: minimal**, provided you do not touch one. Porcupines cannot throw quills, cannot chase you, and will not approach. Keep a few feet of distance and there is no hazard.
 
@@ -128,7 +128,7 @@ They are strongly attached to these sites and return year after year, which has 
 
 Porcupines can carry parasites and disease as any wild mammal can, but that is not a leading concern here — the quills and the chewing are.
 
-## Why DIY usually fails
+## Why doesn't DIY work on porcupines?
 
 **Trying to move the animal.** Porcupines are slow and appear easy to handle, which leads people to attempt it. Anything that contacts the animal gets quilled, including gloves, tools, and the person holding them.
 
@@ -142,7 +142,7 @@ Porcupines can carry parasites and disease as any wild mammal can, but that is n
 
 **Assuming it left.** Porcupines have strong site fidelity and will return to a den they have used for years.
 
-## The BugBoss process
+## How does BugBoss handle porcupines?
 
 **1. Confirm the animal.** Chew pattern, tree damage, scat, quills, and trails. Porcupine sign is distinctive once you know it, and the salt-tracking chew pattern is usually conclusive on its own.
 
@@ -158,7 +158,7 @@ Porcupines can carry parasites and disease as any wild mammal can, but that is n
 
 **7. Check the rest of the property.** Where there is one suitable void there are usually others — the barn, the old shed, the deck at the back. Closing one den and leaving three open moves the problem rather than solving it.
 
-## Prevention
+## How do you keep porcupines out?
 
 - **Secure the salt.** Livestock salt and mineral blocks in porcupine-proof housing, tools and leather stored inside, boats and saddles under cover.
 - **Store tools indoors.** Sweat-soaked handles are a genuine draw and easily protected.
@@ -169,7 +169,7 @@ Porcupines can carry parasites and disease as any wild mammal can, but that is n
 - **Clear brush piles and hollow logs** near buildings if you have persistent pressure.
 - **Keep dogs leashed** at dusk and at night on rural properties in winter, which is when most quillings happen.
 
-## When to call BugBoss
+## When should you call BugBoss about porcupines?
 
 Call when you find **chewing you cannot explain** — plywood, tool handles, deck rails, or vehicle components. Call when you find a **den with a scat mound** under a shed, barn, or deck. Call when **trees are being stripped high on the trunk**, especially if you have conifers you care about. And call before **winter sets in** if you had a porcupine last year, since autumn is the right window to close dens and protect trees.
 

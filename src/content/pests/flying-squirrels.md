@@ -119,7 +119,7 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 
 **Not aggression.** Flying squirrels are not dangerous animals in any direct sense. They are small, shy, and nocturnal, and they have no interest in confrontation. Nobody is being attacked. The problems are structural, sanitary, and — for anyone trying to sleep under them — acoustic.
 
-## Why DIY usually fails
+## Why doesn't DIY work on flying squirrels?
 
 **Underestimating the count.** Somebody traps four animals, the noise drops for a week, and then it is back. Because there were twenty-two.
 
@@ -135,7 +135,7 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 
 **Stopping at the animals.** Removal without cleanup leaves the contaminated insulation, the parasites, and the scent that advertises the site to the next glider.
 
-## The BugBoss process
+## How does BugBoss handle flying squirrels?
 
 **1. Confirm the species by timing.** Standing outside at dusk and watching the roofline is often all it takes. Flying squirrel emergence is tightly synchronized, so the animals show us the exit themselves within minutes of sunset. That single observation identifies the species and locates the primary entry.
 
@@ -153,7 +153,7 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 
 **8. Come back and check.** A follow-up on the seal and the attic. Roofline exclusion is only as good as its weakest point, and a job worth doing is worth verifying.
 
-## Prevention
+## How do you keep flying squirrels out?
 
 - **Treat the roofline as the barrier**, not the trees. You cannot stop a flying squirrel reaching your roof. You can stop it getting through.
 - **Inspect soffit returns and fascia junctions specifically.** These are the classic flying squirrel entries and they are easy to overlook because they are small and tucked away.
@@ -164,7 +164,7 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 - **Deal with it in autumn** when you find it. Exclusion is easiest before the winter aggregation forms and after the late-summer young are mobile.
 - **Do not leave a cleared attic uncleaned.** Residual scent is an advertisement.
 
-## When to call BugBoss
+## When should you call BugBoss about flying squirrels?
 
 Call when the attic noise **starts at dusk and runs through the night** — that timing alone is worth a phone call, because it points at a colony rather than a stray animal. Call when you find **concentrated soiled insulation or ceiling staining**. Call if you have trapped a few animals and the noise came back. And call **before** sealing anything, because the order of operations is what separates a resolved job from animals dying in your ceiling.
 

@@ -31,11 +31,11 @@ faqs:
     a: "Very possibly. Heavy thumping, scratching, and movement — and, in spring, chittering or crying sounds from young — coming from a chimney or attic at night point to a raccoon, often a mother with kits. Raccoons are nocturnal, so the noise typically starts around dusk. Squirrels are active in daytime and lighter; the heavy, deliberate nighttime movement is a raccoon tell. Have it inspected before lighting any fire."
   - q: "Does BugBoss handle raccoons in barns and outbuildings?"
     a: "Yes. Barns, sheds, pole barns, and other outbuildings are common raccoon den sites on rural properties around Clintonville, and outbuilding wildlife removal and exclusion is part of our core service. We remove the animals, seal or screen the access points, and clean up latrines and contamination, the same as we would in a house attic."
-  - q: "Should I call a pest company or a wildlife specializt for raccoons?"
+  - q: "Should I call a pest company or a wildlife specialist for raccoons?"
     a: "Both, ideally — and that's the point of BugBoss. Most pest-only companies in this area won't touch wildlife, and most trappers don't do the sealing and cleanup that actually solves the problem. We do pest control and wildlife work under one roof, so a raccoon job means removal, exclusion, and decontamination handled together, by the same people you can reach directly."
 ---
 
-## What you're dealing with
+## What are raccoons, and what makes them a problem here?
 
 A raccoon in the attic or chimney is a different kind of problem from an insect infestation, and it's worth being clear-eyed about why. The **raccoon** (*Procyon lotor*) is intelligent, strong, dexterous, and nocturnal, with hands capable of prying, pulling, and tearing. It carries diseases and parasites that pose a genuine risk to your family, and in Northeast Wisconsin it very often shows up as a **mother raising a litter** inside your home. That combination — a smart, powerful animal, a real health hazard, and, frequently, dependent young — is why raccoon work is a specialized job, not a matter of setting a trap and hoping.
 
@@ -57,7 +57,7 @@ It's worth understanding just how capable these animals are, because it explains
 
 The **chimney** case deserves its own note because it's so common and so misunderstood. A masonry chimney is, to a raccoon, an ideal hollow tree: vertical, protected, and warm. A female will climb down and settle on the **smoke shelf** just above the damper to raise her litter, which means the animals are sitting directly above your fireplace. This is exactly why you never light a fire to "smoke out" a chimney raccoon — you'll kill the kits, which can't climb out, and leave carcasses on the shelf. A chimney raccoon is a different job from an attic raccoon, and it almost always involves young.
 
-## The season in Northeast Wisconsin
+## When are raccoons active in Northeast Wisconsin?
 
 **Late winter and spring** are the peak. February and March bring denning females; March through May brings the kits and the heaviest attic and chimney activity. This is the most important window to get right, because a job done in spring almost always involves young that must be accounted for — done carelessly, you orphan kits that then die and rot inside a wall or flue, turning a wildlife problem into a serious odor-and-decontamination problem.
 
@@ -69,7 +69,7 @@ Around Clintonville specifically, the older housing stock is the vulnerability. 
 
 The signs are usually loud and physical. **Heavy nighttime noise** — thumping, dragging, and deliberate movement — in the attic or chimney, starting around dusk, is the classic tell; raccoons are big enough that the sound is unmistakably heavier than a [squirrel's](/pest-library/squirrels/) daytime scampering. Squirrels are light and busy and active in daylight; raccoons are heavy, deliberate, and nocturnal, and the difference in the sound is one of the fastest ways to guess what you're dealing with before anyone goes up to look. In spring you may hear **chittering, crying, or purring sounds from kits**. On the exterior, look for **torn soffits, bent or pried-open vents, and damaged shingles or fascia** at the entry point, often with muddy smudges and hair around the opening. Inside, you'll find flattened and shredded insulation, and a concentrated **latrine** — raccoons return to the same spot to defecate, so droppings pile up in one area. Outdoors, tipped and raided garbage cans, raided pet food, and rolled-back sod (from foraging for grubs) round out the picture.
 
-## Health and structural risk
+## Are raccoons dangerous?
 
 Raccoons carry the heaviest health load of the common attic wildlife, and it's worth spelling out.
 
@@ -81,7 +81,7 @@ There's a household angle to the roundworm risk that's easy to underestimate. Be
 
 Structurally, raccoons are among the most destructive animals that get into a house. They tear and compact insulation, **chew and displace electrical wiring** (a documented fire risk), rip into ductwork and vent pipes, and soak insulation, drywall, and framing with latrine waste. A single denning season can produce insulation loss, contamination, and repairs that run well past the cost of prompt removal.
 
-## Why DIY usually fails
+## Why doesn't DIY work on raccoons?
 
 Homeowners try a predictable set of do-it-yourself fixes on raccoons, and they fail for consistent reasons.
 
@@ -93,7 +93,7 @@ Homeowners try a predictable set of do-it-yourself fixes on raccoons, and they f
 
 Finally, the **contamination cleanup** is genuinely hazardous work given the roundworm risk, requiring proper protective equipment and decontamination, not a shop vac and a garbage bag.
 
-## The BugBoss process
+## How does BugBoss handle raccoons?
 
 We handle raccoons as one complete job, in a deliberate order:
 
@@ -111,7 +111,7 @@ The reason to insist on all four steps, rather than just the removal, comes down
 
 Spring jobs get special handling. When a female and kits are involved, the young have to be accounted for and dealt with together with the mother — removing her alone leaves kits that can't survive on their own and will die in the structure, creating an odor-and-decontamination problem worse than the original. Handling the family as a unit, on a humane timeline, is both the right thing and the practical thing.
 
-## Prevention and exclusion
+## How do you keep raccoons out?
 
 Keeping raccoons out comes down to closing the building and removing the draws. **Cap the chimney** with a sturdy, animal-resistant cap — an open chimney is the single most common raccoon den entry. **Screen and reinforce attic, gable, and roof vents** with heavy-gauge material, since standard louvered covers are easily pried. **Repair and secure soffits, fascia, and roof edges**, especially the weather-loosened spots on older homes, and check the roof-return junctions where dormers and additions meet the main roof. **Trim tree branches** that overhang or touch the roof, since they're the raccoon's ladder to the roofline.
 
@@ -119,7 +119,7 @@ Then cut the attractants: keep **garbage in secured, latching cans**, bring **pe
 
 [Squirrels](/pest-library/squirrels/), [bats](/pest-library/bats/), and [skunks](/pest-library/skunks/) exploit many of the same weak points, so the exclusion work that raccoon-proofs your home tends to close out the rest of the attic-and-crawlspace wildlife too. There's an important timing difference to be aware of, though: **bats are legally protected in Wisconsin** and can't be excluded during the summer maternity season, so if bats turn up alongside a raccoon problem, the bat portion has to follow the DNR timeline even while the raccoon work proceeds. We coordinate the two so nothing gets sealed at the wrong time — see the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) for how that window works.
 
-## When to call BugBoss
+## When should you call BugBoss about raccoons?
 
 Call as soon as you suspect a raccoon — heavy nighttime noise in the attic or chimney, torn soffits or vents, a latrine, or the chittering of kits in spring. Call before lighting any fire if there's a chance something is in the chimney, and call promptly in spring, because a job done right while the kits are still in the den is far cleaner than one done after they've dispersed into the walls. And treat any sick-acting, disoriented, or daytime-staggering raccoon as a possible rabies case — keep away from it and let us handle it.
 

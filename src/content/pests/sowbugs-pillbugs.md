@@ -69,7 +69,7 @@ Both are gray to slate-brown, roughly a quarter to half an inch long, and armore
 
 The genuine misidentification worth avoiding is **millipedes**, which arrive in similar places at similar times. Millipedes are longer, more cylindrical, darker, and have many more legs — two pairs per segment, giving that rippling motion. They coil into a flat spiral rather than a ball. And they arrive in mass migrations in autumn, whereas sowbugs and pillbugs trickle in year-round whenever the ground is wet. Different animal, similar message about moisture.
 
-## The season in Northeast Wisconsin
+## When are sowbugs and pillbugs active in Northeast Wisconsin?
 
 **Spring melt** is the first big push. Saturated ground, water moving toward foundations, and a winter's worth of accumulated leaf litter finally thawing out. Late March into May is reliably busy.
 
@@ -79,7 +79,7 @@ The genuine misidentification worth avoiding is **millipedes**, which arrive in 
 
 **Winter** quiets outdoors as the ground freezes, but a heated house with a damp crawlspace or a wet basement corner can keep producing them all winter. Midwinter sowbugs mean an indoor damp source, not an outdoor one.
 
-## Where they come from around here
+## Where do sowbugs and pillbugs come from around here?
 
 The habitat is always within a few feet of where you are finding them, and it is always the same short list.
 
@@ -99,7 +99,7 @@ The habitat is always within a few feet of where you are finding them, and it is
 
 **Concrete aprons, patios, and slabs** that stay wet along the edge, particularly on the shaded north side.
 
-## Signs
+## How do you know you have sowbugs and pillbugs?
 
 - Gray armored bugs, usually dead, along basement and garage walls
 - Live ones under mulch, boards, stones, and timbers when you lift them
@@ -110,7 +110,7 @@ The habitat is always within a few feet of where you are finding them, and it is
 - Live individuals surviving indoors for extended periods — this one means a genuinely damp interior space and is worth investigating
 - Damp sill plates, water staining at the base of foundation walls, or bare damp crawlspace soil
 
-## Risk
+## Are sowbugs and pillbugs dangerous?
 
 There is essentially none. Sowbugs and pillbugs **do not bite, sting, transmit disease, damage structures, chew wood or fabric, or infest food.** They cannot harm people or pets in any way. They are among the most genuinely harmless animals that ever gets called in as a pest.
 
@@ -120,7 +120,7 @@ They can be a **minor garden nuisance** in very damp, heavily mulched conditions
 
 And their presence is a **moisture signal** — which is the part that actually matters. A steady indoor supply, or live individuals persisting inside, means there is sustained dampness at or under the building. That same dampness produces mold, wood rot, sill plate decay, and the whole family of moisture-driven pests: springtails, centipedes, silverfish, millipedes, and eventually carpenter ants in softened wood. The pillbugs are the cheapest possible early warning, and they are worth listening to.
 
-## Why DIY usually fails
+## Why doesn't DIY work on sowbugs and pillbugs?
 
 **Treating it as an insect problem.** Interior spraying kills animals that were already dying anyway and does nothing about the outdoor population or the entry routes.
 
@@ -134,7 +134,7 @@ And their presence is a **moisture signal** — which is the part that actually 
 
 **Not asking why they are surviving.** Live sowbugs indoors week after week means the interior has a damp problem. That is a finding, not a nuisance, and spraying it hides the signal.
 
-## The BugBoss process
+## How does BugBoss handle sowbugs and pillbugs?
 
 **1. Identify.** Sowbug, pillbug, or millipede — and confirm it is not something that actually needs different handling. This takes moments and it settles what the rest of the visit is about.
 
@@ -150,7 +150,7 @@ And their presence is a **moisture signal** — which is the part that actually 
 
 **7. Check back.** Particularly where a drainage or grading correction was part of the plan, since the result only shows after the next serious rain.
 
-## Prevention
+## How do you keep sowbugs and pillbugs out?
 
 - **Create a dry strip against the foundation.** Bare soil or gravel, 12 to 24 inches wide, with mulch pulled back from the wall. The most effective single change available.
 - **Keep mulch shallow.** Two to three inches is plenty; deep mulch is habitat.
@@ -163,7 +163,7 @@ And their presence is a **moisture signal** — which is the part that actually 
 - **Put a vapor barrier over bare crawlspace soil** and ventilate or dehumidify the space.
 - **Seal at floor level** — foundation cracks, sill plate gaps, garage door seals, thresholds, and utility penetrations.
 
-## When to call BugBoss
+## When should you call BugBoss about sowbugs and pillbugs?
 
 Call when you are **sweeping them up repeatedly** and want it to stop rather than becoming a chore. Call when you find **live ones indoors over an extended period**, which means an interior damp problem worth locating. Call when the numbers are **overwhelming** after a wet season and you want the pressure knocked down while you correct the habitat. And call if you would rather have someone tell you plainly which parts of this are a pest control job and which parts are drainage, because that distinction saves people money.
 

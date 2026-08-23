@@ -33,7 +33,7 @@ faqs:
     a: "Because the site is still accessible and still rewarding. If the eaves are still open, the vent is still an easy cavity, and the spilled feed is still there, scaring or clearing the birds just creates a short vacancy that fills right back in. These species are persistent and site-loyal. The only thing that durably stops them is physically excluding them from the spot and removing the food and shelter that made it worth their while."
 ---
 
-## What you're dealing with
+## What are nuisance birds, and what makes them a problem here?
 
 Nuisance-bird problems come down to three species, and naming them precisely is the whole foundation of the job. The birds that cause real building conflicts in Northeast Wisconsin are the **European starling**, the **rock pigeon**, and the **house sparrow** — and all three share two crucial traits. First, they're **non-native, introduced species**, thoroughly adapted to living on and in human buildings. Second, and this is what makes direct control possible, **they are not protected** under the federal Migratory Bird Treaty Act. Starlings, house sparrows, and pigeons are, along with resident game birds, among the only birds in the country that can be controlled directly rather than merely deterred.
 
@@ -63,7 +63,7 @@ They nest **repeatedly through the warm season.** Starlings and house sparrows c
 
 And all three are **food-driven.** Starlings and sparrows are drawn to and sustained by **spilled grain, livestock feed, and accessible food**, which is the engine behind barn and feedlot infestations. The birds are there because the food is there — which means feed and spillage management is part of any real solution, not an afterthought.
 
-## The season here
+## When are nuisance birds active in Northeast Wisconsin?
 
 **Spring (April–June).** Nesting ramps up hard. Starlings and sparrows claim vents, soffits, gables, and signage and begin the first broods; pigeons are nesting too. This is when new nests block vents, and when the droppings and parasite load starts building at each site. It's the season people first notice birds coming and going from a vent or eave.
 
@@ -105,7 +105,7 @@ Beyond histoplasmosis, droppings and nesting material can carry **other pathogen
 
 For a business, there's also the plain matter of **appearance and liability** — droppings on entries, walkways, and merchandise are a customer-facing problem and a slip hazard, which is why [commercial bird exclusion](/commercial-pest-control/) is such common work.
 
-## Why DIY usually fails
+## Why doesn't DIY work on nuisance birds?
 
 The standard homeowner and business-owner attempts fail for consistent reasons rooted in how these birds behave.
 
@@ -121,7 +121,7 @@ The standard homeowner and business-owner attempts fail for consistent reasons r
 
 **And the legal trap is real.** A frustrated property owner who acts against birds without confirming the species can run afoul of federal protections if the bird turns out to be native. The whole effort depends on correct identification first.
 
-## The BugBoss process
+## How does BugBoss handle nuisance birds?
 
 We handle nuisance birds as an integrated exclusion-and-cleanup job, in a deliberate order.
 
@@ -139,7 +139,7 @@ We handle nuisance birds as an integrated exclusion-and-cleanup job, in a delibe
 
 On agricultural buildings this folds directly into our [dairy farm pest program](/guides/dairy-farm-pest-control/), and where birds and other wildlife have both exploited the same open eaves and soffits, it connects to [attic and roofline exclusion](/guides/attic-wildlife-removal/) — the same weak points that let in [squirrels](/pest-library/squirrels/), [raccoons](/pest-library/raccoons/), and bats often let in birds too.
 
-## Prevention and exclusion
+## How do you keep nuisance birds out?
 
 Keeping nuisance birds off a building is about closing the access and cutting the food — the same logic as the control job, applied before the problem takes hold.
 
@@ -153,7 +153,7 @@ Keeping nuisance birds off a building is about closing the access and cutting th
 
 **Act early.** Address the first birds and the first nest before a site becomes an established, site-loyal colony — a handful of starlings at a vent is far easier to exclude than a barn full of them with years of droppings built up.
 
-## When to call BugBoss
+## When should you call BugBoss about nuisance birds?
 
 Call when birds are **nesting in a vent, soffit, or eave** — especially a dryer vent, where it's a fire risk — and when **droppings are accumulating** on walkways, ledges, feed, machinery, or below a roost. Call when **flocks** have moved onto a barn or feedlot and are fouling feed and water, when a storefront or sign has become a pigeon roost, and whenever there's **heavy droppings buildup** to clean up, because that cleanup is a health-risk job that shouldn't be done with a broom. And call before you act against any bird you're not certain is a starling, house sparrow, or pigeon — confirming the species keeps you clear of the federal protections on native birds.
 

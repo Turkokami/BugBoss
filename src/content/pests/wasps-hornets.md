@@ -33,7 +33,7 @@ faqs:
     a: "Keep away from it, keep others and pets away, and call for professional removal rather than attempting it yourself — a nest by a doorway is a repeated-exposure risk you don't want to gamble on with a known allergy. Carry any prescribed epinephrine, and let us handle the nest. We prioritize nests that pose an immediate safety risk."
 ---
 
-## What you're dealing with
+## What are wasps and hornets, and what makes them a problem here?
 
 "Wasps and hornets" in Northeast Wisconsin covers three insects that behave differently enough that the right response depends on knowing which one you have. All three are social wasps that build paper nests, all three sting, and all three run the same annual boom-and-bust cycle — but where they nest, how big the colony gets, and how aggressive they become vary a lot.
 
@@ -63,7 +63,7 @@ The paper itself is a nice illustration of the biology. Both yellowjackets and b
 
 There's also a **species split among yellowjackets** worth knowing about locally. Most of our yellowjackets nest in the ground or in abandoned rodent burrows, but the introduced **German yellowjacket** readily nests inside wall voids and attics of buildings — and those are the colonies that turn into an indoor emergency when workers chew through into the living space. So a yellowjacket nest in a structural void isn't just a bigger version of a ground nest; it's a specific, higher-stakes situation, which is why it gets treated differently.
 
-## The season in Northeast Wisconsin
+## When are wasps and hornets active in Northeast Wisconsin?
 
 Spring (roughly April–May) is the **founding queen** stage — small starter nests, no workers yet, and the easiest time to stop a colony by knocking the nest down. Through June and July the colonies build steadily; you start noticing regular wasp traffic and the first visible nests. **August and September are the peak** — the largest colonies, the most defensive behavior, the scavenging that brings wasps into contact with people, and the great majority of stings and service calls. Activity crashes with the first hard frosts of October, and by November the colonies are dead and only overwintering queens remain.
 
@@ -77,7 +77,7 @@ There's a practical upshot to the annual cycle that homeowners often miss: **tim
 
 The obvious sign is a **visible nest** — an open umbrella comb under an eave for paper wasps, or a gray enclosed paper nest in a tree or on a wall for bald-faced hornets. The trickier ones are hidden, and the tell there is **traffic**: a steady stream of wasps flying in and out of a single point gives away a nest you can't see. Watch for consistent in-and-out flight at a hole in the ground, a gap in the siding, a soffit corner, or a crack at the eave. Other signs include a sudden rise in indoor wasp sightings in late summer (often meaning a wall-void colony has found its way inside), and, for large ground or wall nests, a faint audible hum near the entry on a warm day.
 
-## Health risk
+## Are wasps and hornets dangerous?
 
 Wasps and hornets are a genuine health hazard, not just a nuisance, and unlike a honeybee, a wasp **can sting repeatedly** without dying. The risk comes in two forms. For the roughly 3 percent of people with a stinging-insect allergy, a single sting can trigger anaphylaxis — a medical emergency. For everyone else, the danger is a **mass stinging response**: disturb a large ground or wall-void colony and dozens of workers can attack at once, and enough stings can be serious even for someone with no allergy. Yellowjacket ground nests are the classic cause of these incidents, because people stumble onto them while mowing or gardening with no warning. Nests near doorways, decks, and other high-traffic spots multiply the odds of an encounter, which is why those are the nests worth removing even when a far-off nest could safely be left alone.
 
@@ -87,7 +87,7 @@ Small, exposed paper wasp starter nests can sometimes be handled by a careful ho
 
 Store-bought aerosol sprays reach only a few feet and often **agitate a colony without killing it**, especially with hidden nests where the spray never reaches the brood and the queen. A homeowner who empties a can into a soffit gap or a ground hole frequently ends up with an angry, fully intact colony and a serious sting risk. High nests invite ladder falls made worse by defending wasps. And the most damaging mistake is with **wall-void colonies**: sealing the entry hole from the outside traps the workers inside, and they will chew through drywall into the living space searching for another way out — turning an outdoor problem into an indoor one. A void colony must be treated and confirmed dead *before* the opening is closed, in that order, every time.
 
-## The BugBoss process
+## How does BugBoss handle wasps and hornets?
 
 We match the method to the wasp and the nest location, because there's no single right technique for all three.
 
@@ -101,7 +101,7 @@ We match the method to the wasp and the nest location, because there's no single
 
 A note on why the treatment method has to fit the nest. A ground yellowjacket nest is reached by treating the entrance so returning foragers track the product down into the comb. An aerial hornet nest is treated so the envelope is penetrated and the interior is reached, not just the outside surface — coating the outside of a football-sized nest does little to the workers deep inside. A paper wasp comb, being open, is the most straightforward. And a wall-void or soffit colony calls for treating through the entry the wasps are already using so the product moves through the nest, then leaving the opening alone until the colony is confirmed dead. Applying the wrong technique — most commonly, sealing a void nest or half-treating a big aerial nest — is what turns a manageable job into a dangerous one, and it's the reason "which wasp, and where" is the first question we answer on any call.
 
-## Prevention and exclusion
+## How do you keep wasps and hornets out?
 
 You can't stop every wasp on a rural property, but you can cut the nesting sites that matter. In **late spring**, walk the eaves, soffits, porch ceilings, railings, playsets, and outbuilding rafters and knock down the small starter nests before workers arrive — this is the highest-leverage prevention there is. Seal soffit, fascia, and siding gaps and cracks in the exterior so yellowjackets and hornets can't get into wall voids and cavities. Keep **garbage covered and cleaned up**, especially from midsummer on, and manage fallen fruit and open recycling, since these draw scavenging yellowjackets. Keep exterior food and drink covered at late-summer gatherings. And fill in abandoned rodent burrows and cap ground cavities near patios and walkways where ground-nesting yellowjackets set up.
 
@@ -109,7 +109,7 @@ Note that the same soffit and siding gaps that let wasps into wall voids also ad
 
 A word on the popular DIY preventives. **Decoy nests** — the paper-bag-looking fake nests sold on the promise that territorial queens won't build near an existing colony — have very little reliable evidence behind them, and we wouldn't tell anyone to trust their safety to one. **Hanging wasp traps** can catch scavenging yellowjackets late in the season and take some pressure off a patio, but they don't stop a colony from forming and can even draw more wasps into an area if placed poorly. Neither is a substitute for the two things that actually work: removing established nests and sealing the cavities queens want to nest in. Around farms and rural homes with a dozen outbuildings and endless overhangs, some annual wasp activity is simply the cost of the setting; the goal is controlling the nests that put people at risk, not sterilizing the property.
 
-## When to call BugBoss
+## When should you call BugBoss about wasps and hornets?
 
 Call for any yellowjacket or bald-faced hornet nest, any nest in a wall void or the ground, any nest high on the structure or near a doorway, deck, or other spot where people pass — and immediately if anyone in the household has a stinging-insect allergy. These are the situations where DIY carries real risk and where doing it wrong (especially sealing a wall nest) makes things worse.
 

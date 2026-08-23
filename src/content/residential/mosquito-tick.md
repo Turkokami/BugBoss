@@ -107,11 +107,11 @@ We run these as programs matched to your property, not as a product sprayed off 
 
 Throughout, you deal directly with Brian, the owner, a licensed Wisconsin commercial applicator whose categories include aquatic and mosquito work as well as structural, so the treatments near water and around the home are done by someone certified for exactly that. Everything runs with no long-term [contract](/no-contracts/) and no cancellation fee, free up-front quotes, and the honest local judgment that a company living and working in this corridor can offer over a national brand dispatching from the Fox Valley on a fixed schedule. It all connects to the rest of what a rural property needs, from [general pest control](/residential-pest-control/general-pest-control/) to wildlife in the attic, under one roof and one point of contact, and it is backed by [our guarantee](/our-guarantee/).
 
-## Realiztic expectations
+## Realistic expectations
 
 It matters to be straight about what a yard program does and does not do, because overpromising helps no one. A mosquito program near water reduces the population and makes your used areas enjoyable; it does not eliminate every mosquito on a property bordering a lake or wetland, because the surrounding habitat keeps producing them and no treatment drains the lake. A tick program substantially reduces ticks in the treated edge zones and lowers your day-to-day exposure where you live; it does not make you immune to ticks, and you can still pick one up on a hike, from a pet, or beyond the treated areas, which is why the landscaping, repellent, and tick-check layers stay essential. A flea program clears an infestation when the environment and the pet are treated together on the life cycle; it can rebound if the pet goes untreated or a wildlife source keeps re-seeding it.
 
-The realiztic and worthwhile goal across all three is to reduce populations and pressure to the point where you can use and enjoy your own yard, cabin, and home, and to give you the informed picture of the complementary steps that keep it that way. That is what an honest program delivers, and it is a lot, especially in this landscape.
+The realistic and worthwhile goal across all three is to reduce populations and pressure to the point where you can use and enjoy your own yard, cabin, and home, and to give you the informed picture of the complementary steps that keep it that way. That is what an honest program delivers, and it is a lot, especially in this landscape.
 
 ## When to call BugBoss
 

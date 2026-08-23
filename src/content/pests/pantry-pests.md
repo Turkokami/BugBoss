@@ -69,7 +69,7 @@ They also **spread between packages**. Adults leave the original source and find
 
 And they feed on things you would not think to check. Birdseed. Dry pet food. Pet treats. Dried flower arrangements and potpourri. Decorative gourds and seed ornaments. Rodent bait in a garage. Spilled dry food behind or under an appliance. Old spice jars nobody has opened in five years. Any of these can be the reservoir that keeps a kitchen reinfesting after a thorough cleanout.
 
-## The season here
+## When are pantry pests active in Northeast Wisconsin?
 
 Pantry pests are indoor, year-round animals — a heated house has no winter. But the calls cluster distinctly.
 
@@ -95,7 +95,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 
 **Spice jars.** The most overlooked spot in the kitchen. Something bought in 2019 and used twice can quietly host a drugstore beetle population indefinitely.
 
-## Signs of an infestation
+## How do you know you have pantry pests?
 
 - Small beetles crawling on shelves, in cabinets, or on the counter near food storage
 - Beetles inside packages, including ones you thought were sealed
@@ -106,7 +106,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 - Tiny holes or chew marks in paper and cardboard packaging
 - Insects in pet food, birdseed, or dried decorative material
 
-## Risk
+## Are pantry pests dangerous?
 
 **Health risk is low and worth putting in proportion.** Stored product pests do not bite, do not sting, do not transmit disease, and are not poisonous. Eating a few by accident is unpleasant to contemplate and medically insignificant. Two genuine caveats: heavy infestations produce enough insect fragments and dust to trigger allergy or asthma symptoms in sensitive people, and badly infested food frequently develops mold and off flavours alongside the insects. Discard infested food because it is spoiled, not because it is toxic.
 
@@ -114,7 +114,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 
 **In a commercial setting the risk profile changes entirely.** For a restaurant, bakery, grocery, school kitchen, or food processing operation, stored product pests are a compliance problem: a finding during an inspection or a third-party audit, with consequences that dwarf the value of the product involved. That work is a documented program rather than a cleanout, and we handle it as such through our [commercial pest control](/commercial-pest-control/) side.
 
-## Why DIY usually fails
+## Why doesn't DIY work on pantry pests?
 
 **The source is never found.** This is the whole story. People clean the visible cupboard, throw out the obvious box, and miss the bag of birdseed in the garage or the flour at the back of the bottom shelf. Two weeks later the beetles are back and it feels like the treatment failed. The treatment was never the issue.
 
@@ -128,7 +128,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 
 **Not checking non-food items.** Potpourri, dried arrangements, seed ornaments, and old spices are the classic hidden reservoirs.
 
-## The BugBoss process
+## How does BugBoss handle pantry pests?
 
 **1. Identify the insect.** Beetle or moth, and which beetle. This immediately narrows where to look — weevils mean whole grains, flour beetles mean milled products, drugstore beetles mean spices and non-obvious material.
 
@@ -144,7 +144,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 
 **7. Follow up.** A check a few weeks later to confirm the tail of stragglers has ended and nothing was missed.
 
-## Prevention
+## How do you keep pantry pests out?
 
 - **Repackage on arrival.** Flour, cereal, rice, pasta, cornmeal, sugar, spices, pet food, birdseed — into hard containers with sealing lids. Glass, rigid plastic, or metal. This one habit prevents most recurrences.
 - **Freeze bulk and bulk-bin purchases.** Several days in the freezer kills all life stages. Do it before the food joins the rest of the pantry.
@@ -156,7 +156,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 - **Check the spice rack once a year** and bin anything ancient.
 - **Include the decorations.** Dried arrangements, seed ornaments, and potpourri get inspected too.
 
-## When to call BugBoss
+## When should you call BugBoss about pantry pests?
 
 Call when you have **cleaned out the pantry and they came back** — that means a source you have not found, and finding it is exactly what an experienced search is for. Call when beetles keep appearing at **windows in winter** and you cannot work out where from. Call if you are dealing with a **commercial kitchen, bakery, grocery, school, or food storage operation**, where this is a compliance matter and needs a documented program rather than a cleanout.
 

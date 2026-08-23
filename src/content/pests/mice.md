@@ -33,7 +33,7 @@ faqs:
     a: "No. BugBoss never uses long-term contracts or cancellation fees. Some customers choose ongoing monitoring, especially on farms and rural acreages where field pressure is constant, but that is your choice each season, not a lock-in. You deal directly with the owner, Brian, and once the building is properly sealed, the recurring pressure drops sharply — which is the whole point of doing exclusion right the first time."
 ---
 
-## What we are dealing with, and how to identify it
+## What are mice, and how do you identify them?
 
 Mice are the number-one cold-weather pest across rural Northeast Wisconsin, and around Clintonville they are as reliable as the first hard frost. When the fields go cold in fall, the mice come in — and they come into the tidy village home and the immaculate farmhouse alike, because the draw is warmth and food, not mess. Understanding which mouse you have, how it lives, and how it gets in is the difference between trapping the same problem every winter and actually ending it.
 
@@ -57,7 +57,7 @@ Then, from roughly September through November, as nights turn cold and harvest s
 
 Through winter, the mice that got in are established and breeding indoors, and the problem grows behind the walls while it is too cold outside for you to notice new activity outdoors. This is when the population inside compounds. Come spring, some mice drift back outside as conditions warm, but any with a good indoor nest and food source stay, and the survivors outdoors start the cycle over — building through summer toward the next fall push. Break the cycle by sealing the building, and the fall invasion has nowhere to go.
 
-## Signs of an infestation
+## How do you know you have mice?
 
 Mice usually announce themselves before you see one. **Droppings** are the most reliable sign — small, dark, rice-shaped pellets scattered along walls, in cupboards and drawers, behind and under appliances, and in pantries; fresh droppings are dark and soft, older ones gray and crumbly, which helps gauge how current the activity is. **Gnaw marks** on food packaging, wood, and wiring, and small holes chewed into stored feed or pet-food bags, point to active mice. **Sound** is often the first clue: scratching, gnawing, and scurrying in the walls and ceilings at night, when the house is quiet. **Nests** of shredded paper, fabric, and insulation turn up in hidden spots — behind appliances, in drawers, in attic and wall voids, inside stored boxes. A persistent **musky odor** in an enclosed space signals a well-established population. And **rub marks** — faint greasy smudges along baseboards and around openings, where mice travel the same routes repeatedly — mark the highways they use, which is useful for finding where they are getting in.
 
@@ -73,13 +73,13 @@ Mice do not choose houses at random — they exploit specific weaknesses, and th
 
 **Village homes** in Clintonville proper are generally tighter but still have the usual weak points: garage-door corners and worn seals, dryer-vent and utility penetrations, gaps where siding meets the foundation, and older basement windows. And **commercial buildings** — restaurants, shops, warehouses — carry the added weight of health and inspection stakes, which is why we handle rodent work as a documented program on the [commercial](/commercial-pest-control/) side.
 
-## Health and structural risk
+## Are mice dangerous?
 
 Mice earn the concern. On the health side, they contaminate food and food-prep surfaces with droppings, urine, and hair, and can transmit or contribute to a range of illnesses; a mouse traveling from a barn floor to your countertop is not a hygienic visitor. Their droppings and dander are also a real trigger for allergies and asthma, which matters in homes with kids or sensitive occupants. And deer mice, common on the farms and cabins around here, are associated with **hantavirus** — rare, but potentially severe, and spread through contact with or airborne particles from droppings, urine, and nests. That is precisely why dry sweeping or vacuuming rodent messes in enclosed rural spaces is the wrong move; it can put particles into the air. The mess should be dampened, disinfected, and cleaned up with protection, which BugBoss handles as part of the job.
 
 On the structural side, the constant gnawing does real damage. Mice chew wiring — a documented cause of house and barn fires — along with insulation, stored goods, wood, and packaging. They soil and shred attic insulation, reducing its value and leaving contamination behind. In outbuildings and pole barns they get into stored feed, seed, and equipment. None of this is catastrophic overnight, but left to compound over a winter of year-round breeding, a mouse problem stops being cosmetic and starts costing money and posing genuine hazards.
 
-## Why DIY usually fails
+## Why doesn't DIY work on mice?
 
 The standard homeowner response to mice is a handful of snap traps or a bag of bait from the hardware store, and while that catches some mice, it almost never solves the problem — because it treats the symptom and leaves the cause wide open. As long as the quarter-inch gaps around the foundation, utilities, garage doors, and sill are unsealed, the fields keep supplying fresh mice every fall. You trap, you get a lull, and the mice return, and people conclude they simply live with mice. They do not have to.
 
@@ -87,7 +87,7 @@ Bait carries its own problems in a home. A mouse that eats bait often dies insid
 
 The part homeowners consistently underestimate is exclusion, and specifically doing it with the right materials. Mice chew through expanding foam, plastic, and rubber, and steel wool alone rusts and works loose, so a lot of well-intentioned sealing simply gets gnawed open again. Effective rodent exclusion means finding the real entry points — which takes knowing where mice actually get into our region's older farmhouses, with their fieldstone foundations, balloon framing, and decades of settlement gaps — and closing them with materials mice cannot defeat. On a balloon-framed farmhouse, a mouse entering at the sill plate can travel the open wall cavity straight to the attic, so sealing the visible kitchen gap while leaving the sill open accomplishes little. This is skilled work, and it is the difference between a temporary lull and a lasting fix.
 
-## The BugBoss process for mice
+## How does BugBoss handle mice?
 
 We run rodent work as a three-part job, in order, because doing it any other way leaves the problem half-solved. First we **inspect** the building inside and out to confirm the species, gauge the size and location of the population, and — most importantly — map how they are getting in. Finding the entry points is the part that makes everything else stick, and it is where experience with local building stock pays off.
 
@@ -95,15 +95,15 @@ Second, we **remove the active population** with targeted trapping and control a
 
 Third, and this is the heart of it, we do the **exclusion**: sealing every entry point we found, with materials mice cannot chew through, so the building itself keeps them out. Then we set **monitoring** so you know the problem is actually gone and stays gone. This is our core rural specialty, and it is what separates BugBoss from the spray-and-trap outfits — we cover it in depth in our [farmhouse rodent exclusion guide](/guides/farmhouse-rodent-exclusion/), and for seasonal properties in the [cabin seasonal pest control guide](/guides/cabin-seasonal-pest-control/). Everything runs through our [residential pest control service](/residential-pest-control/), with no [contract](/no-contracts/) and the owner, Brian, directly accountable for the result.
 
-## Prevention and exclusion
+## How do you keep mice out?
 
 Prevention for mice is exclusion plus denying them food and cover. On the building, the priorities are the ground-level and penetration gaps: seal around utility, pipe, and wire entries; close gaps where siding meets the foundation and at the sill plate; fit tight door sweeps and repair worn garage-door seals; screen vents; and close foundation cracks. Use materials mice cannot gnaw — sealed metal, hardware cloth, and proper sealants at the right locations — not foam or loose steel wool alone. Because our older homes have so many potential openings, a methodical inspection beats spot-fixing the one gap you happen to notice.
 
-Deny them food and shelter as well. Store pantry staples, and especially pet food, birdseed, and livestock feed, in sealed metal or heavy containers rather than bags and thin plastic. Keep stored goods off the floor and away from walls, cut down clutter that offers nesting material and cover, and manage woodpiles, tall grass, and debris against the foundation that give mice a staging area right at the building. On farms and rural acreages the field pressure never really stops, so the realiztic goal is a well-sealed building plus ongoing awareness, not a mouse-free landscape — the landscape belongs to the mice, but your house does not have to.
+Deny them food and shelter as well. Store pantry staples, and especially pet food, birdseed, and livestock feed, in sealed metal or heavy containers rather than bags and thin plastic. Keep stored goods off the floor and away from walls, cut down clutter that offers nesting material and cover, and manage woodpiles, tall grass, and debris against the foundation that give mice a staging area right at the building. On farms and rural acreages the field pressure never really stops, so the realistic goal is a well-sealed building plus ongoing awareness, not a mouse-free landscape — the landscape belongs to the mice, but your house does not have to.
 
 It is worth remembering that mice are also travelers along the property, not just through the front gap. Woodpiles stacked against the house, dense shrubs and tall grass at the foundation, feed and seed stored in the garage, and clutter in the outbuildings all give mice cover and a staging area right at the building's edge, from which they probe for a way in. Pulling that cover back a few feet from the foundation, keeping the immediate perimeter clear, and storing anything edible in sealed metal removes the ramp that leads to the door. None of it substitutes for sealing the building, but it lowers the pressure on the seals you have made and makes the whole system hold longer.
 
-## When to call BugBoss
+## When should you call BugBoss about mice?
 
 Call at the first solid sign of activity — droppings in the cupboards, scratching in the walls at night, gnawed packaging — rather than waiting to see how bad it gets, because year-round indoor breeding means a small fall problem becomes a large winter one fast. Call in late summer or early fall if you have had mice before and want to seal the building ahead of the annual push. And call before opening up or closing a seasonal cabin, when a quiet winter's worth of rodent activity is easiest to catch and clean up.
 

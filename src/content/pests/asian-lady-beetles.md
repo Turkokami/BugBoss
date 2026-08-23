@@ -51,7 +51,7 @@ One identification point that trips people up: the **larvae** look nothing like 
 
 Two related nuisances get confused with lady beetles and are worth naming, because they travel with the same fall wave: [boxelder bugs](/pest-library/boxelder-bugs/), which are black with red lines and flat-bodied, and the shield-shaped brown marmorated stink bug. All three, plus [cluster flies](/pest-library/cluster-flies/), make up the "fall invader" complex, and they use the same entry points and the same wall voids. If you have one, you likely have the others. They differ in behavior, though. Cluster flies are sluggish and gather in loose groups; boxelder bugs crawl in slow masses and stain surfaces reddish; Asian lady beetles are the most mobile and the only ones in the group that bite and reflex-bleed. Getting the ID right matters because it tells you what mess to expect — fly specks, red boxelder stains, or yellow beetle streaks — and confirms you're dealing with an overwintering nuisance rather than something that breeds indoors.
 
-## Wisconsin biology and lifecycle
+## How do asian lady beetles live and breed in Wisconsin?
 
 The Asian lady beetle runs a single, tidy annual cycle keyed to our climate. Adults that survived the winter emerge from buildings and outdoor shelter in spring, disperse to fields and gardens, and lay eggs on plants where aphids are abundant. The larvae — spiky, alligator-shaped, black with orange markings, and nothing like the adult — feed on aphids for a couple of weeks, pupate, and produce a new generation of adults. In Wisconsin's season there are typically **two generations** through the summer, sometimes a partial third in a long, warm year.
 
@@ -61,7 +61,7 @@ Through summer the beetles stay out in the crops and trees doing their aphid wor
 
 Two features of the overwintering behavior explain why infestations tend to be so concentrated and so repetitive. First, the beetles orient to **contrast and warmth** — they home in on prominent, sunlit, light-colored vertical surfaces, which is why an isolated pale farmhouse standing alone in open ground gets hammered while a house tucked into trees may barely notice them. Second, once beetles land and settle, they release an **aggregation pheromone** that draws still more beetles to the same spot. That's why the crowd builds through an afternoon rather than dispersing, and why the same house — and often the same corner of the same house — gets hit year after year. The chemical trace lingers on the structure and gives next year's beetles a head start. Understanding that is half the reason a targeted exterior treatment of the favored walls works so much better than random spraying.
 
-## The season in Northeast Wisconsin
+## When are asian lady beetles active in Northeast Wisconsin?
 
 The trigger here is a specific weather pattern, not a date on the calendar. What sets off a mass flight is **the first sunny, mild afternoon following a sharp cold snap**, usually somewhere in late September through October. The cold snap tells the beetles winter is coming; the warm, still afternoon that follows gives them the flight conditions to move. On those days they take to the air by the thousands and home in on the warmest vertical surfaces in the landscape.
 
@@ -75,7 +75,7 @@ Then it goes quiet through the deep cold of November, December, and early Januar
 
 The fall aggregation on the exterior is the clearest sign — a moving orange mass on the sunny side of the house on a warm October afternoon. Indoors, the tells are beetles crawling on ceilings and gathering at upstairs windows, especially on warm days; small **yellow-orange stains** on walls, curtains, and window frames where disturbed beetles have released their defensive fluid; and a faint, acrid, musty odor when numbers are high. In spring you'll find dead beetles collecting on windowsills and in light fixtures. If you're also seeing sluggish flies at the same windows, that's cluster flies overwintering alongside them.
 
-## Health and structural risk
+## Are asian lady beetles dangerous?
 
 Structurally, Asian lady beetles do no damage. They don't chew wood, wiring, or fabric, and they don't nest or reproduce inside. The concerns are narrower and worth stating plainly.
 
@@ -87,7 +87,7 @@ Third, minor bites and pet issues. The nip is harmless. Dogs that compulsively e
 
 It's worth contrasting this with the fall invaders that travel alongside them. [Cluster flies](/pest-library/cluster-flies/) don't bite or bleed but can leave greasy specks and, in big numbers, a faint sweetish odor. [Boxelder bugs](/pest-library/boxelder-bugs/) don't bite either but stain surfaces reddish and smell when crushed. The Asian lady beetle is the one that does all three — nips, stains yellow, and smells — which is why, pound for pound, it generates the most indoor complaints of the group even when its numbers are lower.
 
-## Why DIY usually fails
+## Why doesn't DIY work on asian lady beetles?
 
 The instinct is to reach for a can of spray or a fogger when the beetles show up inside, and that instinct fails for specific reasons.
 
@@ -95,7 +95,7 @@ By the time you see beetles indoors, they are already spread through wall voids,
 
 The other DIY failure is timing. Exterior treatment works, but only in a **narrow window in early fall before the beetles enter**. Spray the wall in November and the beetles are already inside; the treatment does nothing. Get the timing wrong by two weeks and you've missed the season. Reading the weather to hit that window — the mild spell after the first cold snap — is exactly the kind of local judgment that separates an effective treatment from a wasted one.
 
-## The BugBoss process
+## How does BugBoss handle asian lady beetles?
 
 We treat Asian lady beetles as part of the whole fall-invader picture, not as a one-off. The approach is built around timing and the building envelope.
 
@@ -109,13 +109,13 @@ The reason the exterior-and-early approach beats everything else comes back to t
 
 For businesses, the same logic applies. A warehouse, office, or lodging property with long sunny walls can take on beetles by the thousands, and they end up in light fixtures, on ceilings, and in product. We fold Asian lady beetle work into [commercial pest control](/commercial-pest-control/) programs the same way — timed exterior treatment and exclusion rather than reactive indoor spraying.
 
-## Prevention and exclusion
+## How do you keep asian lady beetles out?
 
 The durable fix for Asian lady beetles is closing the building envelope, and fall is the deadline. Before the first cold snaps, the work worth doing includes: sealing gaps around windows and doors and replacing failed weatherstripping; caulking where siding meets the foundation and around utility, cable, and dryer-vent penetrations; screening gable vents, ridge vents, and soffit vents; and repairing torn window and door screens. On older Waupaca County housing stock, the soffit and fascia junctions and the top of the foundation wall are the highest-value places to seal, because that's where balloon-framed walls open into the attic.
 
 Reducing what draws them helps at the margins — light-colored walls and bright exterior lighting attract the fall flight — but you can't repaint your house to solve a beetle problem, and they'll come off neighboring fields regardless. Exclusion plus a timed exterior treatment is the reliable combination. The same sealing work knocks down [boxelder bugs](/pest-library/boxelder-bugs/), [cluster flies](/pest-library/cluster-flies/), and fall [mice](/pest-library/mice/) at the same time, which is why we recommend doing it as one project rather than chasing each pest separately.
 
-## When to call BugBoss
+## When should you call BugBoss about asian lady beetles?
 
 Call when the beetles are massing on your walls in fall — that's the ideal moment, because we can treat before they get inside — or in winter when they keep reappearing at the windows and you want next fall to be different. Call sooner rather than later if someone in the house has asthma or allergies, since indoor populations can aggravate both.
 

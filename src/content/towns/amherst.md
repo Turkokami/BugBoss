@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Amherst, WI?"
     a: "Yes. BugBoss The X-Terminator serves Amherst and the surrounding Tomorrow Valley farm country from our base at 600 S. Main St. in Clintonville. We cover village homes, the older farmhouses and outbuildings scattered through the countryside, and the village's businesses — both pest control and wildlife removal, with owner Brian Zahringer running the work."
   - q: "Why does BugBoss drive out to Amherst?"
-    a: "Because rural central Wisconsin is exactly the corridor we built BugBoss to serve. Amherst sits at the western reach of our territory, out in the Tomorrow Valley farm country. We're the local specializt who actually shows up here rather than routing you to a national call center dispatching from the Fox Valley or Wausau."
+    a: "Because rural central Wisconsin is exactly the corridor we built BugBoss to serve. Amherst sits at the western reach of our territory, out in the Tomorrow Valley farm country. We're the local specialist who actually shows up here rather than routing you to a national call center dispatching from the Fox Valley or Wausau."
   - q: "What is the most common pest in Amherst?"
     a: "Mice and fall invaders. Amherst is farm country, and homes here sit surrounded by open field, woodlot, and pasture, so mice push indoors every fall and cluster flies and boxelder bugs mass on sunny walls. Older farmhouses get hit hardest because they have the most entry points. It's about the rural setting, not housekeeping."
   - q: "Does BugBoss handle rodents in Amherst farmhouses?"
@@ -41,7 +41,7 @@ Amherst is a small farm village in the Tomorrow Valley, and it fights the pest b
 
 What that setting means for pest control is simple: Amherst homes are surrounded by field, pasture, woodlot, and water, and that rural exposure — not housekeeping — drives the pests. Mice push in from the fields every fall. Cluster flies grow right out of the earthworm-rich soil of lawns and pastures. Carpenter ants find moisture in old farmhouse wood and riverside timber. And the barns, sheds, and outbuildings that come with any farm village act as reservoirs that feed the pressure on the houses nearby. This is **farmhouse and outbuilding country**, and it needs a whole-property approach.
 
-BugBoss The X-Terminator reaches Amherst from Clintonville at the western edge of our map, and that's exactly what we set out to do — be the rural specializt who covers this corridor. We handle **both pest control and wildlife removal**, you deal directly with owner Brian Zahringer, and there's no contract. Here's how the pest year runs in the Tomorrow Valley.
+BugBoss The X-Terminator reaches Amherst from Clintonville at the western edge of our map, and that's exactly what we set out to do — be the rural specialist who covers this corridor. We handle **both pest control and wildlife removal**, you deal directly with owner Brian Zahringer, and there's no contract. Here's how the pest year runs in the Tomorrow Valley.
 
 ## The Amherst pest calendar, season by season
 
@@ -125,4 +125,4 @@ On a farm, a few signs are worth a call before things spread: droppings and gnaw
 
 Amherst sits in the Tomorrow Valley at the western reach of the BugBoss map, and from here we cover the surrounding towns with the same owner-direct service: [Rosholt](/service-area/rosholt/) to the north, [Stevens Point](/service-area/stevens-point/) and [Plover](/service-area/plover/) to the west, and east through [Iola](/service-area/iola/), [Scandinavia](/service-area/scandinavia/), and [Ogdensburg](/service-area/ogdensburg/) toward our Waupaca County core. Wherever you are in the valley, you reach Brian directly.
 
-If you've got a pest or wildlife problem anywhere around Amherst, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specializt who actually drives out to the Tomorrow Valley — licensed, contract-free, and accountable to you.
+If you've got a pest or wildlife problem anywhere around Amherst, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specialist who actually drives out to the Tomorrow Valley — licensed, contract-free, and accountable to you.

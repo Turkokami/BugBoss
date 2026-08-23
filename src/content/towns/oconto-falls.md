@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Oconto Falls, WI?"
     a: "Yes. BugBoss The X-Terminator covers Oconto Falls and the surrounding Oconto County from our base in Clintonville. This dairy-and-river corridor northeast of us is underserved by the national brands, so we schedule it deliberately. We handle village homes, river-adjacent properties, downtown businesses, and the dairy farms outside town — pest control and wildlife both."
   - q: "Is there a local pest company in Oconto Falls, or does BugBoss have to come from far away?"
-    a: "BugBoss is the rural specializt that actually covers this area. Most homeowners here are used to a franchise sending a truck from Green Bay on the company's timetable, or being told wildlife isn't part of the deal. We're based in Clintonville, we run this corridor on purpose, and we do pest and wildlife under one roof with no long-term contract."
+    a: "BugBoss is the rural specialist that actually covers this area. Most homeowners here are used to a franchise sending a truck from Green Bay on the company's timetable, or being told wildlife isn't part of the deal. We're based in Clintonville, we run this corridor on purpose, and we do pest and wildlife under one roof with no long-term contract."
   - q: "What is the most common pest in Oconto Falls homes?"
     a: "Cluster flies and mice. Oconto Falls sits in open dairy country where cluster fly larvae develop in the field soil, so nearly every property grows its own population regardless of housekeeping. As the nights cool they mass on warm south and west walls and work into the voids, while mice push in from the surrounding farmland. Both are about the setting, not cleanliness."
   - q: "Does BugBoss remove bats in Oconto Falls?"
@@ -99,7 +99,7 @@ Beyond the headline pests, a river-split dairy town produces its own supporting 
 
 The durable fix here is **exclusion**, not repeated spraying, and it matters across every building type in town. A treatment clears what's present now; sealing the structure keeps the next wave out. On an Oconto Falls property that means sealing around **utility and pipe penetrations**, closing the **sill-plate gap** where the frame meets a block or fieldstone foundation, addressing **soffit and fascia junctions** and weak roof edges where squirrels, bats, and raccoons get in, and correcting **moisture** — gutters, grading, and damp river-side crawlspaces that pull carpenter ants and dampness pests. On a dairy the same logic scales up: the farm is only as rodent-tight as its weakest outbuilding, so we prioritize the barns and feed storage that matter most and work through them in order. Sealing is the part that keeps the problem from simply coming back.
 
-## Why a rural specializt beats the national brands here
+## Why a rural specialist beats the national brands here
 
 National pest companies are built for dense subdivisions where a truck knocks out fifteen tight stops. A river-split dairy town at the edge of a Green Bay route doesn't fit that model, and it shows in the service — the far-away dispatch, the missed windows, the sense that you're the stop nobody wants to make. What counts here is **knowing the ground and actually showing up**, and working with someone who can tell a cluster fly from a stable fly, a big brown bat from a little brown bat, and a moisture-driven carpenter ant problem from a harmless ant trail.
 

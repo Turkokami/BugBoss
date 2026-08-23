@@ -83,7 +83,7 @@ Wautoma's setting drives its pests directly. The **lakes and trout streams** kee
 
 This is where the shortage of local help matters most, because the national brands routing trucks out here mostly **don't do wildlife**. For BugBoss it's a core part of the work. Bats roost in cabin and older-home attics and behind fascia. Raccoons den in chimneys and torn soffits, especially females raising young in spring. Squirrels chew into attics through weak roof edges. Skunks den under cabins, decks, and outbuildings — and a skunk under a seasonal cabin can go undiscovered for a long time.
 
-Removing tonight's raccoon does nothing about the torn soffit it used, so the part that matters is **exclusion** — sealing the building against this animal and the next — and, with bats, doing it on the DNR calendar. We handle both ends, then clean up the raccoon latrine, the bat guano, and the fouled insulation. The [wildlife removal](/wildlife-removal/) page explains our approach.
+With the lake properties and the seasonal cabins around Wautoma, an animal often has the run of a building for weeks before anybody opens the door — which is exactly why trapping alone settles nothing. The gap it used is still there. **Exclusion** is the part that lasts: sealing the structure against this animal and the next, and with bats, working to the DNR's calendar. We do both ends of that, then clean up what the animal left — the latrine, the guano, the fouled insulation. The [wildlife removal](/wildlife-removal/) page explains our approach.
 
 ## Commercial pest control for the Waushara County seat
 

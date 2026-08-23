@@ -29,11 +29,11 @@ faqs:
     a: "Enough to wipe out a home garden fast. An adult woodchuck eats a pound or more of vegetation a day in season and favors exactly what you're growing — peas, beans, lettuce, carrot tops, broccoli, and young corn — often shearing whole rows off at ground level overnight. They'll also gnaw the bark of fruit trees and ornamentals and dig at melons and squash. A resident woodchuck and a productive garden don't coexist for long."
   - q: "Does BugBoss handle groundhogs under barns, slabs, and outbuildings?"
     a: "Yes. On rural properties around Clintonville, woodchucks burrow under pole barns, granaries, machine sheds, concrete slabs, feed floors, and old outbuildings, and the undermining can threaten footings and floors. Outbuilding wildlife removal and exclusion is core work for us. We remove the animal, backfill the burrow, and trench in a dig-proof barrier along the skirt or foundation edge."
-  - q: "Should I call a pest company or a wildlife specializt for a groundhog?"
+  - q: "Should I call a pest company or a wildlife specialist for a groundhog?"
     a: "Both — which is the point of BugBoss. Most pest-only companies around here won't touch wildlife, and most trappers won't do the backfilling and buried-barrier exclusion that actually keeps woodchucks from re-digging. We do pest control and wildlife removal under one roof, so a groundhog job means removal, a proper backfill, and a dig-proof seal handled together, by the owner you reach directly."
 ---
 
-## What you're dealing with
+## What are groundhogs, and what makes them a problem here?
 
 The **groundhog** — woodchuck, *Marmota monax* — is the largest member of the squirrel family in Wisconsin and, pound for pound, the most consequential digger that gets under the state's rural buildings. An adult runs sixteen to twenty-seven inches nose to tail and five to ten pounds, a stocky, low-slung, grizzled-brown rodent that most people picture standing up on a fence line surveying a hayfield. That posture is charming. What it does underground is not. A woodchuck is an earth-moving machine, and when it decides the sheltered ground under your deck, shed, stoop, or slab is the safest place to build its burrow, it will move a startling volume of soil out from under a structure that depends on that soil to stay level.
 
@@ -53,7 +53,7 @@ The burrow itself is the reason woodchucks matter so much to a building. A singl
 
 Woodchucks are **strict herbivores** and **diurnal** — active by day, especially morning and late afternoon. They eat a pound or more of green vegetation a day in season and go straight for garden crops: peas, beans, lettuce, broccoli, carrot tops, young corn, and melons, along with clover, alfalfa, and grasses in the field. They'll gnaw the bark of fruit trees and ornamentals, and — a genuinely destructive habit on farms and rural properties — they'll chew through **underground power and irrigation lines** and the rubber hoses and wiring of parked equipment. They're also strong climbers and swimmers when they need to be, which surprises people who assume a fence alone will stop them.
 
-## The season in Northeast Wisconsin
+## When are groundhogs active in Northeast Wisconsin?
 
 **Early spring** is the wake-up. As woodchucks come out of hibernation in March and April, they're hungry and breeding, and this is when burrow activity and the first garden damage appear. A burrow that was quiet all winter under your deck suddenly has a fresh mound of dirt beside it.
 
@@ -91,7 +91,7 @@ There's also a **downstream risk** that's easy to miss: an abandoned or partly u
 
 Woodchucks are a relatively low disease risk to people compared with raccoons or skunks — they're not a significant rabies vector — but their burrow debris and the parasites (fleas, ticks) they carry are still reasons to keep pets out of an active burrow and to handle cleanup with sense.
 
-## Why DIY usually fails
+## Why doesn't DIY work on groundhogs?
 
 Homeowners try the same short list of woodchuck fixes, and they fail for reasons that trace straight back to how the burrow works.
 
@@ -123,7 +123,7 @@ This is core [wildlife removal](/wildlife-removal/) work for us, and because we'
 
 The reason we insist on all these steps comes down to how woodchuck problems recur. Trap the animal but leave the open burrow, and a July disperser — or a skunk — moves into the ready-made den within weeks. Fill the hole but skip the removal, and the resident just re-digs it. Remove the animal and backfill but leave the garden unfenced, and you've solved the burrow while leaving the buffet that drew the woodchuck there. A woodchuck job that actually holds is the one where the animal is out, the burrow is backfilled, the void is sealed with buried steel, and the food and habitat draws are addressed. Skip any of those and you tend to pay twice.
 
-## Prevention and exclusion
+## How do you keep groundhogs out?
 
 Keeping woodchucks out is a two-front job: close the burrow sites and protect the food.
 
@@ -135,7 +135,7 @@ Keeping woodchucks out is a two-front job: close the burrow sites and protect th
 
 The same buried-barrier work that woodchuck-proofs a deck also shuts out denning [skunks](/pest-problems/skunk-under-deck/) and [raccoons](/pest-library/raccoons/), so it tends to close the whole ground-level wildlife problem at once. If [bats](/pest-library/bats/) are part of the same project, remember they're protected in Wisconsin and can't be excluded during the summer maternity season; we sequence the work so nothing gets sealed at the wrong time.
 
-## When to call BugBoss
+## When should you call BugBoss about groundhogs?
 
 Call as soon as you see the signs — a burrow entrance with a mound of fresh dirt at the edge of a deck, shed, or slab; garden rows sheared off overnight; a stocky brown rodent grazing in the yard by day; or early signs of settling or cracking in a stoop, slab, or deck footing. The sooner a woodchuck is removed and its burrow backfilled, the less soil comes out from under your structure and the less chance a second animal moves into an established den.
 

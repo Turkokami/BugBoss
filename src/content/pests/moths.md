@@ -41,7 +41,7 @@ The **clothes moths** are a different animal. The two that matter, the **webbing
 
 For both kinds, the single fact that changes everything is this: the **adult moth does no damage**. Adult pantry moths do not eat your food, and adult clothes moths do not eat anything at all — the clothes moth adult does not even have working mouthparts. The adults exist only to mate and lay eggs. All of the destruction is done by the **larvae**, small caterpillar-like grubs feeding out of sight in your food or your fabric. This is why swatting the moths you see accomplishes nothing about the actual problem, and it is the first thing the [team at BugBoss](/residential-pest-control/) explains when the calls come in.
 
-## Wisconsin biology and lifecycle
+## How do moths live and breed in Wisconsin?
 
 Both groups run the same basic cycle — egg, larva, pupa, adult — but on different food, and the details of each explain why they are so persistent.
 
@@ -73,7 +73,7 @@ For **clothes moths**, the driver is the same stock of animal-fiber goods that f
 
 **Seasonal cabins** combine both risks with the worst possible condition: no one there to catch it early. Bulk food and birdseed left in a closed cabin draw pantry moths, and wool bedding, hides, and taxidermy draw clothes moths, all developing undisturbed for months. We handle these as part of our [cabin seasonal pest control](/guides/cabin-seasonal-pest-control/), and it often overlaps with the same closets and stored goods that harbor carpet beetles.
 
-## Signs of an infestation
+## How do you know you have moths?
 
 For **pantry moths**, the signs are the weak-flying, copper-tipped adults around the kitchen in the evening; **silk webbing, clumping, and matting** inside packages of flour, cereal, birdseed, pet food, or other dry goods; small caterpillar-like larvae in or near the food; and — the sign that surprises people — larvae crawling up walls and small **cocoons in high corners and where wall meets ceiling**, sometimes rooms away from the food. A musty or off smell in a heavily infested package can accompany the rest.
 
@@ -85,7 +85,7 @@ One caution on identification: not every moth indoors is a stored-food or fabric
 
 Neither pantry nor clothes moths bite, sting, or transmit disease, so there is **no direct health threat**. Accidentally eating a few pantry moth eggs or larvae in contaminated food is not harmful — unappetizing, certainly, but not dangerous. The real cost is elsewhere. Pantry moths force you to throw out contaminated food, sometimes a good deal of it, and the contamination and cleanup are a genuine nuisance. Clothes moths destroy belongings, and often irreplaceable ones — heirloom woolens, hunting trophies, furs, antique rugs — quietly and thoroughly before they are caught. As with carpet beetles, the value at stake with clothes moths is the property, which is what makes catching them early worthwhile even though they pose no risk to your health or your home's structure.
 
-## Why DIY usually fails
+## Why doesn't DIY work on moths?
 
 The classic pantry moth mistake is going after the adults — spraying the kitchen, hanging strips, swatting the moths at the light — while never finding the infested food that is producing them. Since the adults do no damage and the larvae are hidden in a package or a spill, killing the visible moths changes nothing, and they keep reappearing. The second, related failure is not searching thoroughly enough: people clean out the one obviously infested box and stop, missing the package pushed to the back, the flour spilled in a crack, the larvae that crawled off to pupate in another room, or the second source entirely — the bag of birdseed in the garage, the deer corn in the shed, the pet food on the porch. Pantry moths are persistent for exactly this reason, and one overlooked source restarts the whole cycle.
 
@@ -93,7 +93,7 @@ Pheromone traps are another point of confusion. The sticky pantry-moth traps sol
 
 Clothes moths fail DIY efforts for a different reason: they are simply hard to find. The adults hide, the larvae feed in the dark on stored items, and the damage is discovered late. Treating one visible garment while larvae continue in an adjacent stored item, or in a rug edge under the furniture, gets nowhere. And because clothes moths and carpet beetles look like the same problem to a homeowner, people frequently treat for the wrong one. Getting the identification right and, more importantly, locating **every** source is what the job actually requires, and it is more work than it first appears.
 
-## The BugBoss process for moths
+## How does BugBoss handle moths?
 
 We treat indoor moths as a source problem, because that is what they are. The work begins with **identification** — establishing whether you have pantry moths, clothes moths, or, as sometimes happens, both, and distinguishing clothes moths from the [carpet beetles](/pest-library/carpet-beetles/) they are so easily confused with. That determination points the whole job in the right direction.
 
@@ -109,7 +109,7 @@ For **pantry moths**: transfer dry goods out of their original paper and cardboa
 
 For **clothes moths**: clean wool, fur, and silk items before long-term storage, since larvae are drawn to sweat, food, and soiling; store woolens, furs, and down in **sealed containers or garment bags** rather than open closets or cardboard; and rotate, inspect, and air out stored items periodically so nothing feeds undisturbed for a year. Vacuum closets, under furniture, and rug edges regularly, and deal with any keratin reservoirs in the house — old nests, dead-insect accumulations, forgotten hides or mounts — that could be feeding the moths. As with carpet beetles, in a rural home the durable fix often means addressing the same closets, attics, and stored goods that harbor the whole fabric-pest complex.
 
-## When to call BugBoss
+## When should you call BugBoss about moths?
 
 Call when you keep seeing small copper-tipped moths in the kitchen, find **webbing or larvae in your dry goods, birdseed, or pet food**, or spot larvae and cocoons crawling up walls and into ceiling corners — that points to a pantry moth source you need help finding completely. Call when you discover **holes and webbing in wool clothing, blankets, or rugs**, or small plain moths flitting out of a closet, which points to clothes moths. And call if you are not sure whether you are looking at clothes moths or carpet beetles, or whether the moths in the kitchen are a food problem or something else, because getting the identification right decides everything that follows.
 

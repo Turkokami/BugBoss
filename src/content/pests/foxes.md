@@ -4,7 +4,7 @@ title: "Foxes in Northeast Wisconsin: Dens Under the Shed, Poultry Losses & When
 answer: "Red and gray foxes den under Northeast Wisconsin sheds, decks, and barn floors in spring, raising kits for about six weeks before moving on. They rarely threaten people but do take poultry. BugBoss handles humane den resolution and the exclusion that stops the same void being used next year."
 faqs:
   - q: "Are foxes dangerous to people?"
-    a: "Realiztically, no. A red fox weighs about the same as a small dog — much of its apparent size is fur and tail — and it is a shy, wary animal that avoids people. Healthy foxes do not attack adults or children, and attacks on people are extraordinarily rare. A fox that stands and watches you from across a yard is being curious, not threatening. Where caution is genuinely warranted is with an animal behaving abnormally: disoriented, unsteady, unusually bold, or showing no fear at all. That warrants a call rather than an approach."
+    a: "Realistically, no. A red fox weighs about the same as a small dog — much of its apparent size is fur and tail — and it is a shy, wary animal that avoids people. Healthy foxes do not attack adults or children, and attacks on people are extraordinarily rare. A fox that stands and watches you from across a yard is being curious, not threatening. Where caution is genuinely warranted is with an animal behaving abnormally: disoriented, unsteady, unusually bold, or showing no fear at all. That warrants a call rather than an approach."
   - q: "Is a fox out during the day rabid?"
     a: "Almost certainly not, and this worry causes a lot of unnecessary alarm. Foxes are naturally active at dawn and dusk and frequently hunt in broad daylight, especially in spring when a vixen has hungry kits to feed and cannot afford to wait for nightfall. Daytime activity on its own is completely normal behavior. The signs that actually matter are behavioral: staggering or circling, apparent disorientation, unprovoked aggression, complete absence of fear, or paralysis. An animal doing any of those should be reported and not approached."
   - q: "There is a fox den under my shed — do I have to do anything?"
@@ -103,7 +103,7 @@ An important behavioral detail: a vixen almost always maintains **several altern
 
 **Village edges.** Foxes adapt well to human proximity, so dens under sheds in Clintonville, Marion, and Manawa are as likely as anything out on a farm.
 
-## Signs
+## How do you know you have foxes?
 
 - A den entrance about eight inches across with excavated soil fanned outside, under a structure
 - Strong musky odor near the entrance
@@ -115,7 +115,7 @@ An important behavioral detail: a vixen almost always maintains **several altern
 - Screaming or barking calls at night, especially in winter breeding season
 - Well-worn trails between the den and hunting ground
 
-## Risk
+## Are foxes dangerous?
 
 **To people: very low.** Foxes are small, wary, and avoid confrontation. Attacks on people are extraordinarily rare, and a fox watching you from across the yard is curious, not dangerous.
 
@@ -129,7 +129,7 @@ The exception worth knowing is **abnormal behavior** — staggering, circling, d
 
 And the **benefit** deserves stating: a fox family eats a very large number of rodents. A vixen feeding a litter hunts almost constantly, and mice and voles make up the bulk of what she brings home. On a rural property that is genuine, valuable rodent suppression.
 
-## Why DIY usually fails
+## Why doesn't DIY work on foxes?
 
 **Sealing the den with kits inside.** The most serious mistake, and it happens. The young starve under the structure, which is both inhumane and produces an odor and insect problem you will be dealing with for weeks.
 
@@ -145,7 +145,7 @@ And the **benefit** deserves stating: a fox family eats a very large number of r
 
 **Panicking about daytime sightings.** A lot of removal requests trace back to a normal fox doing a normal thing.
 
-## The BugBoss process
+## How does BugBoss handle foxes?
 
 **1. Identify the animal and the situation.** Fox, coyote, or dog; den or passing through; kits present or not; what the actual conflict is. That last question matters, because "there is a fox" and "I am losing birds" call for different responses.
 
@@ -163,7 +163,7 @@ And the **benefit** deserves stating: a fox family eats a very large number of r
 
 **8. Close the other voids.** Where there is one accessible space under a structure there are usually more. Sealing one and leaving three open just relocates the den.
 
-## Prevention
+## How do you keep foxes out?
 
 - **Close voids under structures before anything moves in.** Sheds, decks, porches, barn floors, and mobile homes. Hardware cloth, skirted outward eighteen inches or buried. Cheap now, tiresome later.
 - **Build the coop properly.** Half-inch hardware cloth, covered run, base skirted or buried, positive latches, birds shut in at night.
@@ -175,7 +175,7 @@ And the **benefit** deserves stating: a fox family eats a very large number of r
 - **Supervise small pets** after dark on rural properties.
 - **Check for early denning activity** in March, before kits are born, when a void can still be closed without stranding anything.
 
-## When to call BugBoss
+## When should you call BugBoss about foxes?
 
 Call when you find a **den under a structure** and want to know whether it needs anything — often the answer is reassuring, and the useful work is the sealing afterwards. Call when you are **losing poultry**, because that is a real conflict and the coop needs going over properly. Call if a fox is behaving **abnormally**. And call in **March**, before kits are born, if you know you have a void under the shed and want it closed before anything moves in — that is the cheapest version of this entire problem.
 

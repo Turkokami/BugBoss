@@ -128,7 +128,7 @@ This is where most industrial plants actually feel the pressure. Beyond the regu
 - **ASI Food Safety** — a widely used third-party auditing and inspection body.
 - **Customer / QA audits** — automotive, aerospace, medical-device, and contract-manufacturing customers increasingly send their own quality auditors and flow pest-program requirements down the supply chain.
 
-Every one of these wants the same thing from your pest program: a written scope, a **trend analyzis** showing pest activity over time, **device maps** tied to a facility plan, **corrective-action** records, product and label documentation, applicator licensing, and evidence that findings actually get closed out. A program that cannot produce that binder loses points no matter how few pests are actually present.
+Every one of these wants the same thing from your pest program: a written scope, a **trend analysis** showing pest activity over time, **device maps** tied to a facility plan, **corrective-action** records, product and label documentation, applicator licensing, and evidence that findings actually get closed out. A program that cannot produce that binder loses points no matter how few pests are actually present.
 
 ## The audit findings that sink plants — and how the program prevents them
 

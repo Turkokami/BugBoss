@@ -45,7 +45,7 @@ This confusion drives a real share of the calls, so it is worth clearing up plai
 
 There is one more twist. The bristly hairs on carpet beetle larvae, and the shed skins, can cause an itchy skin rash or welts in sensitive people, a reaction that is genuinely easy to mistake for bed bug bites. So someone finds cast skins, gets an itchy rash, and concludes they have bed bugs, when the culprit is a carpet beetle infestation in the mattress padding or the closet. The distinction matters enormously — bed bug treatment is intensive and expensive, and it is the wrong answer for carpet beetles. When there is any doubt, a proper identification saves people from treating the wrong pest, and it is exactly the kind of thing worth a phone call before spending money.
 
-## Wisconsin biology and lifecycle
+## How do carpet beetles live and breed in Wisconsin?
 
 The carpet beetle's life is built around one thing: a hidden supply of animal-based material for the larvae to eat. The cycle runs egg, larva, pupa, adult. An adult female lays her eggs directly on or near a suitable food source — a wool rug, a stored garment, a down pillow, a taxidermy mount, an accumulation of dead insects, a bird or rodent nest. The eggs hatch into the bristly larvae, and this **larval stage is where all the damage happens** and where the insect spends most of its life. Depending on temperature and how good the food supply is, the larva can feed for anywhere from a couple of months to well over a year, molting and shedding those telltale skins as it grows. Then it pupates and emerges as an adult. The adults live only a few weeks — long enough to mate, and for the females to find the next place to lay eggs, often flying outdoors to feed on flowers and then back in, or simply staying indoors where food is plentiful.
 
@@ -71,7 +71,7 @@ The second driver is **the stuff of rural and Northwoods life**. This is hunting
 
 The third is **seasonal cabins**, which combine all of the above with long stretches of no one being there. Wool bedding left in a closed cabin, taxidermy on the walls, down comforters in the bunk room, and years of dead cluster flies in the attic add up to ideal, undisturbed carpet beetle habitat that no one is around to notice or interrupt. We handle these as part of our [cabin seasonal pest control](/guides/cabin-seasonal-pest-control/), usually hand in hand with the fall-invader cleanup.
 
-## Signs of an infestation
+## How do you know you have carpet beetles?
 
 The signs are subtle and easy to miss until damage is done. The clearest is the damage itself: **irregular holes in wool, silk, or blended fabrics**, threadbare or grazed bare patches on rugs and upholstery, chewed feathers on down items, and gnawed spots on taxidermy, hides, or felt. Alongside the damage you will often find the diagnostic sign — **cast-off larval skins**, tiny bristly translucent husks, near the affected material, along baseboards, in closet corners, or in drawers. You may see the **larvae themselves**, small and fuzzy, if you move furniture or lift the edge of a rug, and you will often see the **adult beetles at windows** in spring and summer. In heavier cases, fine powdery debris and shed skins collect in undisturbed corners and inside vents. Because the larvae shun light and activity, the signs almost always turn up in the quietest, least-disturbed parts of the house.
 
@@ -83,7 +83,7 @@ Carpet beetles are primarily a **property pest**, and the damage they do to belo
 
 On the health side, they do not bite, sting, or spread disease. The genuine issue is that the **bristly larval hairs and shed skins can irritate skin and airways** — causing itchy rashes in sensitive people, sometimes mistaken for insect bites, and aggravating allergies or asthma when the debris builds up in household dust. It is a real but limited concern, and it is another reason not to let a population build unchecked in bedding, ductwork, or carpets.
 
-## Why DIY usually fails
+## Why doesn't DIY work on carpet beetles?
 
 The most common DIY failure is treating the symptom instead of the source. Someone finds beetles at the window and sprays the sills, or finds a few holes in a sweater and throws it out, without ever locating where the larvae are actually feeding. As long as the real food source remains — the wool rug under the bed, the taxidermy mount, the pounds of dead cluster flies in the attic, the forgotten bag of birdseed on the porch — the larvae keep going and the beetles keep reappearing. Carpet beetle control is fundamentally a **find-the-food problem**, and the food is usually hidden in exactly the places people do not look.
 
@@ -91,7 +91,7 @@ The second failure is underestimating the scope. It is tempting to assume the pr
 
 The third is misidentification, and it cuts both ways: people spend heavily treating for bed bugs when they have carpet beetles, or they dismiss carpet beetles as harmless window beetles while their belongings quietly get eaten. Getting the identification and the source right, up front, is what separates a job that actually ends the problem from months of frustration.
 
-## The BugBoss process for carpet beetles
+## How does BugBoss handle carpet beetles?
 
 We treat carpet beetles as a source-and-harborage problem, not a spray-the-baseboards problem. The work starts with **identification and inspection** — confirming it is carpet beetles and not clothes moths or bed bugs, then tracking down where the larvae are actually feeding. That means checking the obvious places (closets, rugs, stored woolens, upholstery) and the ones people miss: the attic and wall voids where fall-invader carcasses accumulate, ductwork and vents where lint collects, and any bird or rodent nests in the structure.
 
@@ -103,7 +103,7 @@ Preventing carpet beetles comes down to denying the larvae food and denying the 
 
 On the **structure side**, the single most valuable thing most rural homeowners can do is deal with the fall-invader accumulations and any nests in the attic and walls. Cleaning out years of dead cluster flies and lady beetles removes the largest hidden food source, and pairing that with the exclusion work that keeps the fall invaders and wildlife out in the first place addresses the root cause rather than the symptom. Repairing screens and sealing gaps around windows, vents, and the roofline also cuts down on adult beetles flying in from outside to lay eggs. Bringing cut flowers indoors can carry adults in as well, so it is worth a look in high season. Prevention, in short, is mostly about starving the larvae — and in this part of Wisconsin, starving them usually means dealing with the same rooflines and voids that the whole fall-invader complex runs through.
 
-## When to call BugBoss
+## When should you call BugBoss about carpet beetles?
 
 Call when you find **unexplained holes or bare patches** in wool clothing, rugs, or upholstery, when you spot the small bristly larvae or their cast skins in closets, drawers, or along baseboards, or when small beetles keep turning up at your windows in spring and summer. Call, too, if you have a long-running cluster fly or lady beetle problem, because there is a good chance carpet beetles are already feeding on the carcasses in your attic even if you have not seen damage yet. And absolutely call if you think you might have bed bugs but are not sure — a correct identification can save you a great deal of money and worry, and around here the answer is often the carpet beetle instead.
 

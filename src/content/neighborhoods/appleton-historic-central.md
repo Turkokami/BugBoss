@@ -2,7 +2,7 @@
 title: "Pest Control in Historic Central, Appleton, WI"
 city: "Appleton"
 county: "Outagamie County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems in Appleton's Historic Central neighborhood, the older housing just north of downtown where the median home dates to the 1880s. We're the Clintonville-based rural specializt that also works the Fox Valley edge — carpenter ants, boxelder bugs, mice, and attic bats in century-old homes, with no contract."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems in Appleton's Historic Central neighborhood, the older housing just north of downtown where the median home dates to the 1880s. We're the Clintonville-based rural specialist that also works the Fox Valley edge — carpenter ants, boxelder bugs, mice, and attic bats in century-old homes, with no contract."
 order: 1
 faqs:
   - q: "Does BugBoss do pest control in Historic Central Appleton?"
@@ -33,7 +33,7 @@ Historic Central is the band of older housing that sits just north of downtown A
 
 For a pest technician, the age of the housing is the whole story. A home built in the 1880s or 1890s was not built to any modern standard of air-sealing, and it has had a hundred and forty years to settle, shift, and shed water. Every one of those years opened gaps. That's not a knock on the neighborhood — these are some of the best-built and best-loved homes in Appleton — it's just the reality of the building science. Old homes have more ways in, and the pests that matter here are the ones that exploit age, moisture, and the open cavities of pre-war construction.
 
-BugBoss The X-Terminator is based up in Clintonville, in Waupaca County, and our home ground is the rural corridor of farmhouses and lake cabins north and west of the Fox Cities. We're not pretending to be an Appleton company that beats Orkin or Terminix on route density downtown. What we are is the **older-home and wildlife specializt** who works the Fox Valley edge for the specific, source-driven jobs those national franchises handle poorly — the carpenter-ant problem that keeps coming back, the bat colony nobody else will legally touch, the mouse infestation hiding in a balloon-framed wall. That's the work Historic Central generates, and it's the work we're built for.
+BugBoss The X-Terminator is based up in Clintonville, in Waupaca County, and our home ground is the rural corridor of farmhouses and lake cabins north and west of the Fox Cities. We're not pretending to be an Appleton company that beats Orkin or Terminix on route density downtown. What we are is the **older-home and wildlife specialist** who works the Fox Valley edge for the specific, source-driven jobs those national franchises handle poorly — the carpenter-ant problem that keeps coming back, the bat colony nobody else will legally touch, the mouse infestation hiding in a balloon-framed wall. That's the work Historic Central generates, and it's the work we're built for.
 
 ## The pests that come with 1880s housing
 
@@ -65,7 +65,7 @@ Historic Central is prime **wildlife** territory, and this is where being a comp
 
 Let's be straight about it. If you want a weekly-route company to spray your foundation on a subscription, Appleton has national brands built for exactly that, and they'll sign you to a contract to do it. We're not that. BugBoss is a **Clintonville-based, family-owned outfit** — owner Brian Zahringer runs the jobs himself — and our specialty is the rural and older-home work that the volume operators do badly: carpenter-ant problems traced to their source, cluster-fly exclusion on a century home, rodent-proofing a balloon-framed wall, and the bat, squirrel, and raccoon work that requires knowing Wisconsin's wildlife law.
 
-Historic Central sits on the **Fox Valley edge** of our service area, and we reach it on a regular basis. What we bring that the franchises don't is **no long-term contract, no cancellation fee**, direct access to the owner, and a genuine command of both insects and wildlife under one roof. Call us for the one problem that's over your head; you're not signing up for anything ongoing. That's the whole idea behind our [no-contract approach](/no-contracts/), and it's a big part of why people on the edge of the metro call the rural specializt instead of the national truck.
+Historic Central sits on the **Fox Valley edge** of our service area, and we reach it on a regular basis. What we bring that the franchises don't is **no long-term contract, no cancellation fee**, direct access to the owner, and a genuine command of both insects and wildlife under one roof. Call us for the one problem that's over your head; you're not signing up for anything ongoing. That's the whole idea behind our [no-contract approach](/no-contracts/), and it's a big part of why people on the edge of the metro call the rural specialist instead of the national truck.
 
 ## How we work a Historic Central job
 

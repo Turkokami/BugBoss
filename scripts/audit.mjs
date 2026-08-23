@@ -204,6 +204,28 @@ for (const file of [...walk('src', '.md'), ...walk('src', '.astro'), ...walk('sr
   for (const [i, line] of readFileSync(file, 'utf8').split('\n').entries()) {
     const hit = line.match(BRITISH);
     if (hit) fail(`${file}:${i + 1}`, 'british-spelling', hit[0]);
+    // The -ise/-ize normalisation was first written with stems, which also
+    // matched specialist / realistic / analysis / emphasis / characteristic
+    // and mangled 160 of them before this check existed. Guard the wreckage
+    // pattern, not just the British spellings.
+    const broke = line.match(/\b[a-z]*(realizt|analyzis|specializt|emphasiz\b|characterizt|prioritizt|recognizt|organizt)[a-z]*/i);
+    if (broke) fail(`${file}:${i + 1}`, 'mangled-word', broke[0]);
+  }
+}
+
+// Rule 5: local content is local. A paragraph repeated verbatim across pages
+// is boilerplate wearing a town's name, and it is the failure mode a
+// programmatic build slides into without anyone deciding to. Checked on the
+// source rather than the output so shared components and nav do not count.
+const seenPara = new Map();
+for (const file of walk('src/content', '.md')) {
+  const body = readFileSync(file, 'utf8').split(/^---$/m).slice(2).join('---');
+  for (const para of body.split(/\n\s*\n/)) {
+    const p = para.trim();
+    if (p.length < 140 || /^[#\-*|>]/.test(p)) continue;
+    const key = p.replace(/\s+/g, ' ');
+    if (seenPara.has(key)) fail(file, 'duplicate-paragraph', `also in ${seenPara.get(key)}`);
+    else seenPara.set(key, file);
   }
 }
 

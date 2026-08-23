@@ -73,7 +73,7 @@ American cockroaches have a slight seasonal edge outdoors — they are more acti
 
 Around Clintonville, Shawano, and Waupaca, the practical picture is this: German cockroaches show up in village apartments and rentals, in restaurants and food businesses, and occasionally in homes after a used appliance or an infested box comes in; American cockroaches show up in damp older basements, around sump and drain areas, and in commercial utility spaces. Older village housing stock, with its aging plumbing and stone or block basements, gives both species more of the cracks and moisture they exploit.
 
-## Signs of an infestation
+## How do you know you have cockroaches?
 
 The most direct sign is **seeing the roaches**, but the details matter. Because cockroaches are nocturnal and secretive, spending the day jammed into tight cracks, **daytime sightings out in the open usually mean the population is already large** — the harborage is crowded and roaches are being pushed out to find food and space. So catching one in the beam of a flashlight when you flip on the kitchen light at night is an earlier warning than seeing them stroll across the floor at noon.
 
@@ -109,7 +109,7 @@ Alongside treatment we address the **sanitation and moisture drivers**, because 
 
 Finally — and this is non-negotiable for German cockroaches — we build in **follow-up visits.** Because egg cases keep hatching, we return to treat the newly emerged nymphs and confirm the population is genuinely collapsing, not just temporarily quiet. This disciplined, source-based, multi-visit approach is what resolves an infestation rather than suppressing it for a few weeks. You deal directly with Brian and the crew, there is [no long-term contract](/no-contracts/), and for restaurants, rentals, and food operations we run it as a discreet [commercial pest control](/commercial-pest-control/) program built to satisfy a health inspection.
 
-## Prevention and exclusion
+## How do you keep cockroaches out?
 
 Preventing cockroaches is about denying them the three things they need — food, water, and harborage — and cutting off how they get in.
 
@@ -119,7 +119,7 @@ Preventing cockroaches is about denying them the three things they need — food
 
 **Stop the hitchhikers.** Because German cockroaches so often arrive on cardboard, in used appliances, and in secondhand items, inspect and break down incoming boxes promptly (don't let cardboard pile up), be cautious with used appliances and furniture, and — for food businesses — inspect deliveries. This is the most overlooked prevention step and one of the most important, since it addresses the actual point of introduction. For related indoor pantry and cupboard problems, see our guide to [pantry pests in the cupboard](/pest-problems/pantry-pests-in-cupboard/).
 
-## When to call BugBoss
+## When should you call BugBoss about cockroaches?
 
 Call as soon as you have confirmed cockroaches — with German cockroaches especially, even a single confirmed one in a kitchen is worth acting on, because they breed fast and are rarely alone. Daytime sightings, a rising count, pepper-like droppings along cabinet edges, egg cases, shed skins, or a musty odor all mean the infestation is established and time is not on your side. For American cockroaches, call when large roaches keep coming from a drain, sump, or damp basement — that is a moisture-and-drain problem that will keep recurring until it is corrected. And for any **restaurant, tavern, rental, or care facility**, call at the first sign, before it becomes an inspection problem.
 

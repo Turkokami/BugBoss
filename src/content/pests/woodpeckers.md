@@ -33,7 +33,7 @@ faqs:
     a: "Rarely for long on its own. Static decoys are quickly ignored once the bird learns they don't move or threaten. Deterrents that move, flash, and change, combined with physical barriers on the actual target spot and removal of the attractant, are what hold up. A lone plastic owl is one of the most commonly bought and least effective woodpecker fixes."
 ---
 
-## What you're dealing with
+## What are woodpeckers, and what makes them a problem here?
 
 A woodpecker on the house is a genuinely different kind of pest problem, and understanding why is the whole key to solving it. Unlike a [raccoon](/pest-library/raccoons/) in the attic or [mice](/pest-library/mice/) in the walls, the woodpecker isn't trying to live inside your home — it's using the outside of your building as a tool. It hammers your siding to send a signal, to dig a nest, or to eat, and which of those three it's doing determines everything about how you stop it. Treat the wrong cause and the bird keeps coming back, because you never addressed the reason it was there.
 
@@ -61,7 +61,7 @@ Every woodpecker-on-a-house problem traces back to one of three behaviors, and s
 
 **Feeding (the important one).** Woodpeckers eat **wood-boring insects** — beetle larvae, carpenter ants, carpenter bees, and other borers — and they are extraordinarily good at detecting them, hearing the larvae moving inside the wood and drilling precisely to reach them. When a bird returns obsessively to the same area and digs **deep, ragged, irregular holes**, it is almost always mining insects it can hear in the siding or trim. This is the behavior people most misunderstand, because they focus on the bird when the bird is actually pointing at an infestation. **Persistent, localized, ragged pecking is a diagnostic sign of wood-boring insects.** Deter the bird without treating the insects and the pecking continues, because the food is still there.
 
-## The season here
+## When are woodpeckers active in Northeast Wisconsin?
 
 Woodpecker pressure on Northeast Wisconsin homes concentrates in two windows, with a low background hum in between.
 
@@ -115,7 +115,7 @@ Woodpecker damage isn't a health hazard the way a [raccoon](/pest-library/raccoo
 
 **Cosmetic and quality-of-life costs.** Dented flashing, scarred cedar, and dawn drumming that wakes the household are real nuisances even when the structural stakes are lower.
 
-## Why DIY usually fails
+## Why doesn't DIY work on woodpeckers?
 
 People throw a familiar arsenal at woodpeckers, and most of it fails for the same underlying reason: it treats the bird instead of the cause.
 
@@ -163,7 +163,7 @@ Keeping woodpeckers off a building is about making it a poor target on all three
 
 Because woodpecker feeding so often signals an insect problem, the single best long-term protection is keeping the wood of your home and outbuildings free of borers — which is ordinary, ongoing pest control done well.
 
-## When to call BugBoss
+## When should you call BugBoss about woodpeckers?
 
 Call when a woodpecker is **repeatedly working the same area** — that persistence usually means insects in the wood, and it's the situation most worth diagnosing early. Call when you find **fresh cavities or ragged holes** in siding, fascia, or trim, before water and rot compound the damage; when **spring drumming** on your metal trim has become intolerable; and when you see the tidy **rows of sapsucker holes** or the round entry holes and frass of carpenter bees near pecked wood. Call in **fall** too, when quieter roost-hole excavation is easy to miss until the damage is done.
 

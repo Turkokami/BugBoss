@@ -11,7 +11,7 @@ import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/our-guarantee/';
 const answer =
-  'The BugBoss guarantee applies to quarterly general pest service. If a covered household insect comes back between scheduled visits, we return and re-treat at no extra charge. It covers general household insects on the structures we treat — not fleas, cockroaches, bed bugs, carpenter ants, or other specializt work, which are quoted as their own jobs.';
+  'The BugBoss guarantee applies to quarterly general pest service. If a covered household insect comes back between scheduled visits, we return and re-treat at no extra charge. It covers general household insects on the structures we treat — not fleas, cockroaches, bed bugs, carpenter ants, or other specialist work, which are quoted as their own jobs.';
 const desc =
   'The BugBoss guarantee, stated plainly: what quarterly service covers, what it does not, and why we do not advertise a "lifetime" warranty.';
 
@@ -26,15 +26,15 @@ const covered = [
 const notCovered = [
   { pest: 'Stinging insects away from treated structures', why: 'Nests elsewhere on the property are a separate call — a ground nest at the fence line is a different job from a wasp nest on the eave we treated.', href: '/pest-library/wasps-hornets/' },
   { pest: 'Fleas', why: 'Almost always tied to a pet or a wildlife host, so it needs its own treatment plan and follow-up.', href: '/pest-library/fleas/' },
-  { pest: 'Cockroaches', why: 'A specializt job with its own protocol and repeat visits.', href: '/pest-library/cockroaches/' },
+  { pest: 'Cockroaches', why: 'A specialist job with its own protocol and repeat visits.', href: '/pest-library/cockroaches/' },
   { pest: 'Bed bugs', why: 'Requires preparation, multiple visits and its own quote.', href: '/pest-library/bed-bugs/' },
   { pest: 'Carpenter ants', why: 'A wood-destroying insect tied to a moisture problem, not a general household pest.', href: '/pest-library/carpenter-ants/' },
   { pest: 'Rodents and wildlife', why: 'Exclusion work is a construction job as much as a pest job and is always quoted separately.', href: '/wildlife-removal/' },
 ];
 
 const faqs = [
-  { q: 'What exactly does the BugBoss guarantee cover?', a: `It covers general household insects on quarterly service — spiders, Asian lady beetles, boxelder bugs, stink bugs, common house ants and similar. If one of those comes back between your scheduled visits, we return and re-treat at no additional charge. It also covers stinging insects on the structures we treated. It does not extend to stinging insects elsewhere on the property, or to specializt pests like fleas, cockroaches, bed bugs and carpenter ants.` },
-  { q: 'Do I need to be on quarterly service?', a: 'Yes — the guarantee is attached to the quarterly program, because that is what makes it meaningful. Re-treating between visits only works if there are scheduled visits to be between. One-off treatments and specializt jobs are quoted on their own terms, and we will tell you plainly at the time what is and is not included.' },
+  { q: 'What exactly does the BugBoss guarantee cover?', a: `It covers general household insects on quarterly service — spiders, Asian lady beetles, boxelder bugs, stink bugs, common house ants and similar. If one of those comes back between your scheduled visits, we return and re-treat at no additional charge. It also covers stinging insects on the structures we treated. It does not extend to stinging insects elsewhere on the property, or to specialist pests like fleas, cockroaches, bed bugs and carpenter ants.` },
+  { q: 'Do I need to be on quarterly service?', a: 'Yes — the guarantee is attached to the quarterly program, because that is what makes it meaningful. Re-treating between visits only works if there are scheduled visits to be between. One-off treatments and specialist jobs are quoted on their own terms, and we will tell you plainly at the time what is and is not included.' },
   { q: 'Is this a lifetime warranty?', a: 'No, deliberately. "Lifetime" guarantees in this industry are usually either unenforceable or so hedged they mean nothing, and overpromising is exactly the complaint people have about the national companies. A defined guarantee you can actually hold us to is worth more than a big word in small print. If we say we will come back, we come back.' },
   { q: 'Why are fleas, roaches and bed bugs excluded?', a: 'Because they are not general household insects and they are not solved by a quarterly perimeter treatment. Each one needs its own protocol, its own preparation, and usually more than one visit — bed bugs especially. Folding them into a general guarantee would mean either pricing quarterly service far higher for everyone, or quietly not honoring it. We would rather quote those jobs honestly and separately.' },
   { q: 'Why are carpenter ants excluded when regular ants are covered?', a: 'Because they are a different kind of problem. Common house ants are foraging in from outside and respond to general treatment. Carpenter ants are excavating wood to nest, almost always in timber a moisture problem softened first, and dealing with them properly means finding the colony and fixing the water. That is a job with its own inspection and quote, not something a quarterly service can promise.' },

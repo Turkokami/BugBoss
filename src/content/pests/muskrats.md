@@ -33,7 +33,7 @@ faqs:
     a: "Yes. Shoreline muskrat work on the Waupaca Chain O' Lakes, the Wolf and Little Wolf and Embarrass rivers, and the ponds and dams around Waupaca County is part of our wildlife service. We locate the active burrows, remove the animals within Wisconsin's rules, and advise on protecting the bank, dock footings, boathouse, or dam so the problem doesn't simply return the following season."
 ---
 
-## What you're dealing with
+## What are muskrats, and what makes them a problem here?
 
 A muskrat problem on the water rarely announces itself the way a raccoon in the attic does. There's no noise overhead, no torn soffit, no animal you can point to. Instead the shoreline quietly starts to fail — a soft spot in the lawn near the seawall, a dock post that's leaning a little more each year, a section of bank that caves when you step on it — and by the time it's obvious, a **muskrat** (*Ondatra zibethicus*) has been tunneling into your bank for a season or more, entirely underwater and entirely out of sight. That hidden, structural nature is what makes muskrats a specialized waterfront problem rather than a nuisance you can shrug off.
 
@@ -105,7 +105,7 @@ The core of muskrat damage is **loss of bank integrity**. A hollowed bank is a w
 
 The disease angle exists — muskrats can carry giardia, and less commonly tularemia and leptospirosis, so nobody should handle them or let a dog mouth a carcass — but on a waterfront property the structural risk is what drives the urgency.
 
-## Why DIY usually fails
+## Why doesn't DIY work on muskrats?
 
 Homeowners try a predictable set of fixes on muskrats, and they fail for consistent, physical reasons.
 
@@ -153,7 +153,7 @@ The durable fix is making your bank a place muskrats can't easily use, and it's 
 
 A shoreline built and maintained this way tends to close out other bank problems too. The same riprap and reduced-cover approach that stops muskrats makes the bank less useful to other burrowers, and it stabilizes the shore against ordinary wave and current erosion at the same time.
 
-## When to call BugBoss
+## When should you call BugBoss about muskrats?
 
 Call as soon as you see the signs — soft or sunken spots in the lawn near the water, a leaning dock post, cut vegetation and slides along the bank, or a cave-in near a seawall or boathouse. Call **before** the next winter if you can, because a muskrat family will spend the ice season quietly enlarging its burrow while nobody's watching, and the difference between a fall call and a spring one can be the difference between removal-and-riprap and a rebuilt shoreline.
 

@@ -75,7 +75,7 @@ Three biological facts explain the indoor problem.
 
 That last point explains the timing people find so mysterious. A springtail explosion is almost always a day or two behind a weather event, because the weather is what moved them.
 
-## The season in Northeast Wisconsin
+## When are springtails active in Northeast Wisconsin?
 
 **Spring**, and specifically snowmelt, is the first peak. Saturated ground, water running toward foundations, damp basements and crawlspaces waking up after winter. Late March through May produces a lot of these calls.
 
@@ -85,7 +85,7 @@ That last point explains the timing people find so mysterious. A springtail expl
 
 **Winter** shifts the picture indoors. Outdoor populations go dormant under frost, but overwatered houseplants, damp basements, crawlspaces, and bathrooms sustain indoor populations right through. A midwinter springtail problem is entirely an indoor moisture problem and the source is inside the building.
 
-## Where they come from around here
+## Where do springtails come from around here?
 
 The rural corridor has some particular contributors worth naming, because they are the things I end up pointing at on most of these calls.
 
@@ -103,7 +103,7 @@ The rural corridor has some particular contributors worth naming, because they a
 
 **Overwatered houseplants.** The main winter reservoir, and the one people never suspect.
 
-## Signs
+## How do you know you have springtails?
 
 - Clouds of tiny jumping specks on damp floors, in sink basins, or in window wells
 - Concentrations around bathroom fixtures, the toilet base, or a shower surround
@@ -114,7 +114,7 @@ The rural corridor has some particular contributors worth naming, because they a
 - Visible mold or mildew nearby, since that is what they are eating
 - Water-stained or damp foundation walls, sill plates, or crawlspace soil
 
-## Risk
+## Are springtails dangerous?
 
 Genuinely minimal, and it deserves to be stated clearly: springtails **do not bite, sting, spread disease, damage structures or belongings, or infest food.** They cannot live on people or pets. There is no health hazard and no property damage.
 
@@ -122,7 +122,7 @@ People sometimes report itching or a crawling sensation during heavy infestation
 
 The risk that actually matters is **the condition they are reporting on**. A thriving indoor springtail population means sustained dampness and enough fungal growth to feed them. That points to mold, and potentially to rot, structural moisture damage, and indoor air quality problems — all of which are worth more of your attention than the springtails ever will be. Treat them as an alarm rather than a threat.
 
-## Why DIY usually fails
+## Why doesn't DIY work on springtails?
 
 **Because it is treated as an insect problem.** Spray kills the springtails present. It does not dry anything, and the outdoor reservoir is effectively infinite, so they return as soon as the residual fades.
 
@@ -134,7 +134,7 @@ The risk that actually matters is **the condition they are reporting on**. A thr
 
 **Because sealing without drying does not hold.** Springtails are small enough to use openings you will never find them all. Sealing helps, but only drying makes the space uninhabitable.
 
-## The BugBoss process
+## How does BugBoss handle springtails?
 
 **1. Confirm what they are.** First job, always, and it usually saves the customer money immediately — springtails rather than fleas means the flea plan can be canceled.
 
@@ -150,7 +150,7 @@ The risk that actually matters is **the condition they are reporting on**. A thr
 
 **7. Follow up.** After the corrections, a check to confirm the population has gone rather than paused.
 
-## Prevention
+## How do you keep springtails out?
 
 - **Get water away from the foundation.** Downspout extensions well clear of the wall, ground graded to fall away from the house, no low spots holding water against the foundation. This is the highest-value item on the list.
 - **Pull mulch back.** Leave a dry strip of bare soil or gravel against the foundation, and keep mulch shallow rather than piled.
@@ -161,7 +161,7 @@ The risk that actually matters is **the condition they are reporting on**. A thr
 - **Water houseplants less.** Let the top of the soil dry between waterings and empty the saucers.
 - **Seal ground-level entry points** — foundation cracks, sill plate gaps, utility penetrations, and window wells.
 
-## When to call BugBoss
+## When should you call BugBoss about springtails?
 
 Call when you have **jumping specks and you want to know whether it is fleas**, because that answer alone changes what you should be spending money on. Call when they keep coming back after cleaning and spraying — that means an unaddressed moisture source, and finding it is the job. Call when the springtails are pointing at something structural: a persistently damp basement, a wet crawlspace, water staining, or visible mold.
 

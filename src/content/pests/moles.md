@@ -31,7 +31,7 @@ faqs:
     a: "Yes. Large rural lawns, orchards, and garden plots around Clintonville sit on exactly the rich, worm-heavy soil moles favor, and the open ground gives them room to spread tunnels far. We focus trapping on the active runways closest to the areas you care about — lawn, beds, and garden — and set a monitoring approach for the broader property so a new mole gets caught before it takes over."
 ---
 
-## What you're dealing with
+## What are moles, and what makes them a problem here?
 
 The first thing to get straight about moles is that they are not rodents, and that single fact explains almost everything about why they're so hard to control the wrong way. A **mole** is an insectivore — a member of the same broad group as shrews, not mice — built from the nose back to be an underground digging machine. It has a pointed, hairless snout, velvety fur that lies flat in any direction so the animal can move forward or backward in a tight tunnel, tiny nearly useless eyes, no visible ears, and enormously enlarged, outward-turned front feet that work like a pair of shovels. It spends virtually its entire life underground, tunneling in search of the earthworms and insect larvae it eats. It does not eat your plants. It does not eat the grain and seed baits sold to kill it. And it is a different animal, with a completely different fix, from the [vole](/pest-library/voles/) that so many homeowners confuse it with.
 
@@ -89,7 +89,7 @@ The **surface ridges and mounds** make a lawn rough and unsightly, catch and dul
 
 The most underappreciated harm is **indirect**: moles create a tunnel network that plant-eating rodents then exploit. **Voles and mice travel the mole's abandoned runs** to reach roots, bulbs, and the base of shrubs and young trees, gnawing them out of sight. So a mole problem left alone often turns into a [vole](/pest-library/voles/) problem — girdled shrubs, dead patches, tunneled beds — that gets blamed, wrongly, on the mole. This is one more reason to clear the moles and close the situation out rather than living with it.
 
-## Why DIY usually fails
+## Why doesn't DIY work on moles?
 
 Mole control has a worse do-it-yourself track record than almost any other yard pest, and the failures are remarkably consistent because they all trace back to the same misunderstanding of what a mole is.
 
@@ -101,7 +101,7 @@ Mole control has a worse do-it-yourself track record than almost any other yard 
 
 **Flooding and gassing tunnels** rarely work because the network is extensive, branching, and draining, and the mole simply retreats to the deep runs or moves to a fresh section. And even the homeowners who reach for **traps** often fail — not because trapping doesn't work, but because they set the trap on a dead, abandoned run, or use the wrong trap for the tunnel type, or place it wrong. Trapping is the method that works, but it's a targeted, learnable skill, and skipping the "is this run active?" step wastes the effort.
 
-## The BugBoss process
+## How does BugBoss handle moles?
 
 We treat moles with the method the animal's biology actually calls for — trapping, done with care — not the bait its biology guarantees will fail.
 
@@ -115,7 +115,7 @@ We treat moles with the method the animal's biology actually calls for — trapp
 
 If [voles](/pest-library/voles/) have moved into the mole runs and started gnawing roots and bark, we handle that at the same time — it's a rodent problem with a rodent's fix, and it's exactly the kind of thing a full-service company can close out in one go. For the step-by-step on a tunneled lawn, see our [moles in the lawn](/pest-problems/moles-in-lawn/) walkthrough.
 
-## Prevention
+## How do you keep moles out?
 
 You can't make a good lawn unattractive to moles without ruining the lawn, so mole prevention is really about trimming the food and habitat at the margins and catching new arrivals early.
 
@@ -127,7 +127,7 @@ You can't make a good lawn unattractive to moles without ruining the lawn, so mo
 
 What doesn't prevent moles is the folklore — the gum, mothballs, glass, ultrasonic stakes, and whirligigs. Save the effort for the things that actually move the needle: moisture, grubs, and early trapping.
 
-## When to call BugBoss
+## When should you call BugBoss about moles?
 
 Call when you see the ridges and cone mounds and want them gone — especially if store baits and repellents have already failed, which is the usual story by the time people call. Spring and fall, when the surface runs are active, are the best windows to trap, but a mole working deeper in summer or under snow in winter can still be dealt with. And call if you're not sure whether you have moles or voles; the ID determines the entire approach, and we'll confirm it before setting anything.
 

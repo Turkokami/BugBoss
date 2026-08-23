@@ -30,7 +30,7 @@ faqs:
   - q: "Are the bees hovering at my head going to attack me?"
     a: "No. That is the male doing territorial display, and he has no stinger. He will hover, dart at your face, and chase other insects and even birds away from the area around the gallery, and it is genuinely intimidating the first time. He cannot hurt you. Once you know the hovering bee is structurally incapable of stinging, the whole performance becomes much easier to ignore — though it is still a reliable sign there are galleries nearby."
   - q: "Does BugBoss handle carpenter bees on barns and pole buildings?"
-    a: "Yes, and those are the biggest jobs we see. Barns, pole buildings, machine sheds, and open-rafter outbuildings across the rural corridor offer exactly what carpenter bees want: large expanses of bare, weathered softwood, mostly on horizontal undersides, that nobody paints. Infestations there build up over many years and are often accompanied by significant woodpecker damage by the time anyone calls. We treat the active galleries, work through the sealing, and lay out a realiztic finishing plan for the surfaces that matter most."
+    a: "Yes, and those are the biggest jobs we see. Barns, pole buildings, machine sheds, and open-rafter outbuildings across the rural corridor offer exactly what carpenter bees want: large expanses of bare, weathered softwood, mostly on horizontal undersides, that nobody paints. Infestations there build up over many years and are often accompanied by significant woodpecker damage by the time anyone calls. We treat the active galleries, work through the sealing, and lay out a realistic finishing plan for the surfaces that matter most."
   - q: "Is it worth treating if I only have two or three holes?"
     a: "Usually yes, because carpenter bees compound. Two or three holes this year is the cheapest, easiest point to intervene — treat, plug, finish the wood, and you are done. Left alone, those same galleries get reused and extended, more females are drawn to a board that is clearly suitable, and the woodpeckers eventually arrive. Small carpenter bee problems are genuinely easy to solve; large ones on a barn are a project. Catching it early is worth a great deal."
 ---
@@ -79,7 +79,7 @@ One generation a year, and understanding its shape tells you when to act.
 
 The single-generation cycle is why a year of ignoring the problem costs you a year of tunnelling in the same board, and why treatment timing in late spring lines up with adult activity.
 
-## The season in Northeast Wisconsin
+## When are carpenter bees active in Northeast Wisconsin?
 
 **May** — adults emerge, males start hovering, the first fresh sawdust appears. This is when most people first notice.
 
@@ -105,7 +105,7 @@ The rural corridor is exceptionally good carpenter bee habitat, for one straight
 
 The common thread is bare, weathered, horizontal softwood. Painted surfaces get skipped. Hardwoods get skipped. The pressure-treated deck that has been left to gray for eight years does not get skipped.
 
-## Signs of an infestation
+## How do you know you have carpenter bees?
 
 - Perfectly round half-inch holes, usually on the underside of a board
 - Coarse sawdust piled below the holes — an active-this-season indicator
@@ -128,7 +128,7 @@ Second, **water**. An open half-inch hole in horizontal wood admits moisture, an
 
 Third — and this is the one that actually costs money — **woodpeckers**. Downy and hairy woodpeckers hear the larvae inside and chisel the wood open to get at them. A tidy round hole becomes a ragged trench several inches long, or a series of them down the length of a fascia board. On most jobs I attend, the woodpecker excavation is the expensive part of the repair.
 
-## Why DIY usually fails
+## Why doesn't DIY work on carpenter bees?
 
 **Wrong sequence.** Overwhelmingly the most common mistake is plugging the holes without treating first. Live adults and developing larvae get sealed in, and they are entirely capable of chewing out through filler or cutting a fresh exit an inch away. Treat, wait, *then* plug.
 
@@ -142,7 +142,7 @@ Third — and this is the one that actually costs money — **woodpeckers**. Dow
 
 **Ignoring the finish.** Treat and plug without addressing the bare weathered wood and you have solved this year's problem. The board is still exactly as attractive as it was, and next May there will be new holes.
 
-## The BugBoss process
+## How does BugBoss handle carpenter bees?
 
 **1. Find every gallery.** Underneath the deck, up under the fascia and soffits, along the barn rafters, with a light. Mapping the full extent, not just the obvious holes, is most of the value of the visit — and it is where most DIY attempts fall short.
 
@@ -154,11 +154,11 @@ Third — and this is the one that actually costs money — **woodpeckers**. Dow
 
 **5. Address the woodpeckers.** Where they have already found the site, the priority is removing the food source, because that is what stops the drumming and excavation. Repair guidance for what they have opened up comes with it.
 
-**6. Plan the finish.** This is the prevention conversation, and it is honest rather than idealistic: nobody is going to paint an entire barn. So we identify the surfaces where finishing actually pays — the deck rails, the house fascia, the porch — and where the realiztic answer is annual treatment and monitoring instead.
+**6. Plan the finish.** This is the prevention conversation, and it is honest rather than idealistic: nobody is going to paint an entire barn. So we identify the surfaces where finishing actually pays — the deck rails, the house fascia, the porch — and where the realistic answer is annual treatment and monitoring instead.
 
 **7. Come back next spring.** One generation a year means one meaningful check a year. On properties with barns and long histories of carpenter bee activity, an annual May visit is genuinely the efficient way to keep it from compounding.
 
-## Prevention
+## How do you keep carpenter bees out?
 
 - **Paint or seal exposed softwood.** Solid-color paint deters best, stain is second, bare wood is an invitation. Deck rails and undersides, fascia, soffits, porch ceilings, and trim are the priorities.
 - **Treat and plug existing holes before finishing.** Painting over an active gallery achieves nothing and hides the evidence.
@@ -167,9 +167,9 @@ Third — and this is the one that actually costs money — **woodpeckers**. Dow
 - **Cap exposed end grain** on rafter tails and beam ends, which are favored drilling spots.
 - **Deal with it early.** Two or three holes is a small job. A barn with forty years of accumulation is a project. There is no cheaper moment than the first season you notice them.
 
-## When to call BugBoss
+## When should you call BugBoss about carpenter bees?
 
-Call in **late spring** when you see the fresh sawdust and the hovering starts — that is the treatment window, and hitting it means one visit instead of a season of watching the holes multiply. Call if **woodpeckers have started working the same area**, because that means larvae in the wood and it will get worse quickly. Call if you have a **barn, shed, or pole building** with years of accumulated holes and you want a realiztic plan rather than a losing battle with a spray can.
+Call in **late spring** when you see the fresh sawdust and the hovering starts — that is the treatment window, and hitting it means one visit instead of a season of watching the holes multiply. Call if **woodpeckers have started working the same area**, because that means larvae in the wood and it will get worse quickly. Call if you have a **barn, shed, or pole building** with years of accumulated holes and you want a realistic plan rather than a losing battle with a spray can.
 
 Brian works carpenter bees across the rural corridor — Clintonville, Marion, Tigerton, Manawa, Iola, Embarrass, Waupaca, New London, and the farms and outbuildings between them — where bare barn wood and weathered cedar decks make this one of the more common structural insect calls of the early summer.
 

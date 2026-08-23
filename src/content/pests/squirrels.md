@@ -33,7 +33,7 @@ faqs:
     a: "No. BugBoss never uses long-term contracts or cancellation fees. Squirrel work is typically a defined job — remove, exclude, repair, and verify — not an ongoing route. You deal directly with the owner, Brian, and once the roofline is properly sealed with the right materials, the access is closed for good rather than managed forever."
 ---
 
-## What we are dealing with, and how to identify it
+## What are squirrels, and how do you identify them?
 
 Squirrels are the wildlife call we get most across the wooded country around Clintonville, and they show up in the attic and soffit far more often than most homeowners expect. The tip-off is almost always sound: heavy, confident scampering across the ceiling, a rolling noise as they move stored nuts, and gnawing — all of it in broad daylight, concentrated around dawn and again in the hour before dark. That daytime activity is the fastest way to separate squirrels from the other things that get into attics. Mice are lighter and work at night; [bats](/pest-library/bats/) are nearly silent and swarm at dusk; [raccoons](/pest-library/raccoons/) are heavier, slower, and often nocturnal. When the noise is brisk, busy, and daylit, it is usually a squirrel.
 
@@ -73,19 +73,19 @@ Squirrels do not wander in randomly; they come off the trees, and the wooded, gl
 
 **Village homes** in Clintonville proper, with their mature tree-lined lots, get plenty of gray squirrel pressure at the soffit returns, gable vents, and rooflines. And **pole barns and outbuildings** draw reds especially, which cache cones and nest in stored materials; the gaps at the eaves and gable ends of a pole building are easy access.
 
-## Signs of an infestation
+## How do you know you have squirrels?
 
 Squirrels tend to be obvious once you know what to listen and look for. **Daytime noise** is the leading sign — brisk scampering, rolling, and gnawing in the attic or soffit, strongest at dawn and again before dusk. A distinct **rolling or dropping sound** is often squirrels moving cached nuts or acorns across the attic floor. **A gnawed entry hole**, roughly golf-ball to fist-sized with a rim of fresh, light-colored wood shavings, is the physical proof; look up high, at soffit returns, fascia edges, gable and ridge vents, and roofline joints. **Chewing damage** shows on fascia, trim, vent screening, and — the dangerous one — electrical wiring in the attic.
 
 Inside the attic you will find **nesting material** — shredded insulation, leaves, and debris gathered into a den — along with **droppings and urine staining** in the nesting area, and **soiled, matted, displaced insulation** that has lost its value. Outside, look for **worn, greasy travel routes** up downspouts, corners, and along branches, and for the squirrels themselves running the roofline. A **drey** — a bulky leaf nest wedged in a tree fork near the house — signals a resident population that may test the building. And in late winter and spring, more noise and more voices usually means a litter of young has arrived.
 
-## Health and structural risk
+## Are squirrels dangerous?
 
 The costs of an attic squirrel problem fall into two buckets, and both are real. On the **structural and fire** side, the gnawing is the core issue: squirrels chew wiring, and stripped or damaged wiring in an attic full of dry nesting material is a documented cause of house fires. They chew structural wood, fascia, soffit, and vent screening, and a female enlarging a hole to move young in turns a small gap into a big one. They shred and compact **insulation**, which loses R-value where they nest and travel, and heavy contamination means the insulation has to be removed and replaced. Water intrusion through a gnawed-open roofline adds rot and mold over time. None of this is instant, but across a winter it compounds into real repair bills.
 
 On the **health** side, squirrels are wildlife, and their droppings and urine can carry parasites and pathogens; accumulated waste in attic insulation is not something to disturb casually. They bring in **fleas, ticks, and mites** that can move down into the living space. And a cornered or handled squirrel — especially a mother defending young — will bite and scratch, which is one more reason removal is a job for someone equipped for it rather than a homeowner reaching into an attic. The safe, correct handling of contaminated insulation and nesting material is part of what we do on these jobs, and it overlaps with our broader [attic wildlife removal](/guides/attic-wildlife-removal/) approach.
 
-## Why DIY usually fails
+## Why doesn't DIY work on squirrels?
 
 The typical homeowner response to attic squirrels is a live trap from the farm store and, if that seems to work, plugging the hole. It almost never solves the problem, and it frequently makes things worse. The first issue is **sequence and timing**. If you seal the hole without confirming the attic is empty, you either trap the animal inside — where it dies in a wall void and stinks for weeks, or does frantic damage trying to escape — or, worse, you seal a mother out and leave a litter of young to starve in the insulation, which is both inhumane and a serious odor and contamination problem. Squirrels have young in the den during both of their main invasion windows, so this is not a rare edge case; it is the norm.
 
@@ -93,7 +93,7 @@ The second issue is that **trapping treats the animal, not the access**. Northea
 
 The third issue is **the repair itself**. Squirrels gnaw, so sealing a roofline against them is not a matter of stuffing a hole with foam or screen — they chew right back through soft materials. It takes heavy-gauge metal flashing, hardware cloth, and proper structural repair of the often rotted, weather-damaged wood around the entry, installed to the standard that a determined rodent cannot defeat. And it is usually **high, awkward work** — a soffit return two stories up, a gable vent at the peak, a roofline joint over a dormer — which is dangerous for a homeowner on a ladder and is exactly where the amateur repair fails first. There is also the regulatory piece: squirrels are a game species in Wisconsin with rules around trapping and relocation, which a licensed operator handles as a matter of course.
 
-## The BugBoss process for squirrels
+## How does BugBoss handle squirrels?
 
 We run squirrel work as a defined wildlife job, in a set order, because doing it out of order is how people end up with dead animals in the wall or squirrels back in the attic.
 
@@ -105,15 +105,15 @@ Third, and this is the heart of it, we **exclude and repair**: sealing every ent
 
 This is wildlife work, and the fact that BugBoss does both pest control and wildlife removal is exactly what sets us apart from the spray-route companies that will not touch an attic squirrel. It runs through our [wildlife removal service](/wildlife-removal/), it is detailed further in our [attic wildlife removal guide](/guides/attic-wildlife-removal/), and if squirrels in the attic are your specific problem, our [squirrels-in-attic problem page](/pest-problems/squirrels-in-attic/) walks through it start to finish. There is no contract, and the owner, Brian, is directly accountable for the result.
 
-## Prevention and exclusion
+## How do you keep squirrels out?
 
 Keeping squirrels off a building is mostly about closing the roofline and cutting the routes onto the roof. On the **structure**, the priorities are the high, vulnerable spots: seal and reinforce soffit returns and fascia gaps, screen or cap gable and ridge vents with heavy metal mesh, close the roofline joints where dormers and additions meet the main roof, and repair any soft, rotted wood before a squirrel finds it. Use materials a rodent cannot gnaw — heavy-gauge hardware cloth and metal flashing, not foam, plastic, or light screen. Because our older farmhouses and complex rooflines offer so many candidate openings, a methodical inspection of the whole roofline beats patching the one hole you happened to notice.
 
 Cut the **routes onto the roof** as well. Trim back any branches within roughly six to eight feet of the roofline — this single step removes the launch pads squirrels rely on and is often the highest-value prevention on a wooded lot. Keep firewood, trellises, and anything climbable away from the walls, and consider guards on downspouts squirrels are using as ladders. Around **cabins and outbuildings**, close the eave and gable gaps that reds exploit, and store any seed, feed, or cones-attracting material in sealed metal.
 
-Deny them a reason to stay, too. Bird feeders right against the house concentrate squirrels at the building and give them a food-anchored reason to probe the roofline; moving feeders well away from the structure lowers the pressure. On a wooded rural lot the squirrels own the landscape and always will — the realiztic goal is a sealed, sound building plus the branch clearance that keeps them off the roof, not a squirrel-free property.
+Deny them a reason to stay, too. Bird feeders right against the house concentrate squirrels at the building and give them a food-anchored reason to probe the roofline; moving feeders well away from the structure lowers the pressure. On a wooded rural lot the squirrels own the landscape and always will — the realistic goal is a sealed, sound building plus the branch clearance that keeps them off the roof, not a squirrel-free property.
 
-## When to call BugBoss
+## When should you call BugBoss about squirrels?
 
 Call at the **first daytime scampering or gnawing** in the attic or soffit, rather than waiting to see whether it stops — because during both the fall and late-winter windows, that noise usually means an animal that is denning and may be about to raise young, and the damage and the risk only grow from there. Call in **late summer or early fall** if you have had squirrels before and want the roofline sealed ahead of the dispersal push. And call **before opening or closing a seasonal cabin**, when a quiet winter's worth of chewing and nesting is easiest to find and clean up.
 

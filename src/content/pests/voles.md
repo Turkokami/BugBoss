@@ -31,7 +31,7 @@ faqs:
     a: "Yes, we handle voles as part of our property and landscape work — habitat reduction, protecting vulnerable trees and shrubs, and targeted control around the yard, orchard, and garden. And no, there is never a contract or cancellation fee. Vole work is often seasonal, timed around fall before the snow and spring at snowmelt. You deal directly with the owner, Brian, and pay for the work you need."
 ---
 
-## What we are dealing with, and how to identify it
+## What are voles, and how do you identify them?
 
 Voles are the small, plant-eating rodents that most people around here never see but discover every spring, when the snow pulls back and the lawn is laced with winding trails and the young trees turn out to have their bark chewed off. Locally they get called **meadow mice**, and that name is a good guide to what they are: stocky, short-tailed, small-eared rodents that live outdoors in grass, mulch, and ground cover, feeding on plants. The species doing most of the damage in Northeast Wisconsin is the **meadow vole**, an animal of fields, lawns, orchards, and grassy edges across the whole region.
 
@@ -39,7 +39,7 @@ A vole is easy to distinguish from the mice that get into buildings once you hav
 
 The two signs that define a vole problem are **surface runways** and **girdled plants**. Runways are narrow, worn paths — an inch or two wide — winding through the grass and ground cover, where voles have traveled the same routes over and over, clipping the vegetation down. Girdling is bark gnawed off the base of trees and shrubs, often in irregular patches or a complete ring around the trunk, with small gnaw marks visible in the wood. Both become obvious at snowmelt. It is worth being clear about what voles are **not**: they are not **moles**. Moles are insect-eating mammals that push up soil ridges and mounds tunneling for grubs; if you see raised soil rather than surface trails and chewed bark, that is a mole, and it is a different animal with a different fix.
 
-## Wisconsin biology and lifecycle
+## How do voles live and breed in Wisconsin?
 
 Voles are built to be abundant. They are among the most prolific small mammals on the landscape: a female meadow vole can produce numerous litters over the course of a year, with several young per litter, and the young mature in a matter of weeks and begin breeding themselves. Under good conditions — abundant cover and food, mild weather — a population can build with startling speed, which is why voles have well-known **boom-and-crash cycles**, running to high densities in some years and low in others. A yard or orchard that carried a handful of voles one year can be riddled with them the next.
 
@@ -71,7 +71,7 @@ Voles are everywhere on the rural and semi-rural landscape here — the question
 
 Because voles are an outdoor, landscape animal, the fix is on the property itself — the habitat and the plantings — not on sealing a building. That makes vole work part of our broader [residential](/residential-pest-control/) property care rather than a structural exclusion job.
 
-## Signs of an infestation
+## How do you know you have voles?
 
 Vole sign is distinctive once you know it. **Surface runways** are the classic sign — narrow, worn, winding paths an inch or two wide through the grass and ground cover, most visible at snowmelt when the whole network is exposed across the lawn at once. **Girdled bark** on the base of young trees and shrubs — chewed off in patches or a full ring, with small gnaw marks in the exposed wood, usually at or below the winter snow line — is the damage that matters most. **Small burrow openings**, roughly an inch or two across with no soil mound (unlike a mole), turn up in mulch, ground cover, and along the runways.
 
@@ -85,7 +85,7 @@ On the **health** side, voles are a low concern compared with house mice and [de
 
 There is one more cost worth naming, and it is a financial one. Around here a lot of the trees at risk are not cheap or easily replaced: young apple and other fruit trees in a home orchard, ornamental and shade trees a homeowner paid to plant, and the windbreak and yard trees on a rural property. A vole-girdled tree that dies represents years of growth and real money lost, and unlike a chewed shrub it cannot simply be trimmed back and recovered. When you weigh the modest cost of wrapping trunks and reducing cover in fall against the loss of established or newly invested plantings, the prevention is almost always the better economics — which is the whole argument for treating voles proactively rather than absorbing the losses each spring.
 
-## Why DIY usually fails
+## Why doesn't DIY work on voles?
 
 Homeowners typically react to voles in spring, after the damage is done, and they react to the wrong thing. The most common mistake is treating voles like **moles** — buying mole traps or grub treatments — when the surface runways and chewed bark point to voles, an animal that grub control does nothing about. Getting the ID wrong means the effort misses entirely.
 
@@ -93,7 +93,7 @@ The second mistake is **treating the symptom, not the habitat**. Scattering a li
 
 The third and most costly mistake is **timing**. The girdling that kills trees happens under the snow, over the winter, out of sight — so by the time a homeowner sees the damage in spring, the trees are already girdled and the vole feeding season is over. Protecting the trees in **fall**, before the snow, is what prevents the damage, but most people do not think about voles until it is too late to help this year's trees. Effective vole control is proactive and habitat-focused: reduce the cover, protect the vulnerable plants before winter, and manage the population around the yard and orchard — none of which a reactive spring bait purchase accomplishes.
 
-## The BugBoss process for voles
+## How does BugBoss handle voles?
 
 We approach voles as a landscape and plant-protection problem, worked around the seasons. First we **inspect and confirm** — verifying that the damage is voles rather than moles (the fix is completely different), reading the runways and girdling to gauge where the pressure is heaviest, and identifying the habitat and the vulnerable plantings driving the problem. Getting the ID and the map right is what keeps the effort from being wasted on the wrong animal or the wrong spot.
 
@@ -101,15 +101,15 @@ Second, we tackle the **habitat**, which is the foundation of real vole control:
 
 Third, we **protect the vulnerable plantings** and apply **targeted control** where it is warranted: setting tree guards or hardware-cloth wraps at the base of young trees and shrubs before winter so voles cannot reach the bark, and using controlled trapping and baiting around the yard, orchard, and garden, placed and protected against non-target risk. We time the work to the season — protection and habitat reduction in **fall** before the snow, and assessment and follow-up at **spring** snowmelt. This runs through our [residential pest control service](/residential-pest-control/), with no contract and the owner, Brian, handling the property directly.
 
-## Prevention and exclusion
+## How do you keep voles out?
 
 Vole prevention is about **cover and protection**, since there is no building to seal. The single most effective thing is to **reduce the cover** voles rely on: keep grass mowed, especially around trees, along fencerows, and at field and ditch edges; pull mulch back several inches from tree trunks and shrub bases (mulch against a trunk is a covered feeding highway); and clear brush, debris, and heavy ground cover that give voles protected travel routes. A property with less dense cover carries fewer voles and exposes the ones it has to the hawks, owls, and foxes that keep them in check.
 
 **Protect the vulnerable plants** before winter. Wrap the base of young trees and valuable shrubs with hardware cloth or plastic tree guards, set a few inches into the soil so voles cannot burrow under and tall enough to clear the expected snow depth so they cannot reach over it. Keep a clear, bare zone around trunks — no grass, no mulch, no cover right at the base. For gardens and bulb beds, hardware-cloth barriers and reducing surrounding cover help protect roots and bulbs. Do this **in fall**, before the snow arrives and the girdling season begins, because the protection has to be in place before the damage starts, not after it shows up in spring.
 
-Manage the **edges and the property as a whole**, too. A tidy, mowed transition between lawn and adjacent field, ditch, or woodlot reduces the vole reservoir feeding into the yard, and keeping the immediate landscape open and low takes away the cover that turns a few voles into a damaging population. On a rural property surrounded by grassland the voles will always be out there — the realiztic goal is a low-cover landscape with the valuable plants protected, not a vole-free countryside.
+Manage the **edges and the property as a whole**, too. A tidy, mowed transition between lawn and adjacent field, ditch, or woodlot reduces the vole reservoir feeding into the yard, and keeping the immediate landscape open and low takes away the cover that turns a few voles into a damaging population. On a rural property surrounded by grassland the voles will always be out there — the realistic goal is a low-cover landscape with the valuable plants protected, not a vole-free countryside.
 
-## When to call BugBoss
+## When should you call BugBoss about voles?
 
 Call in **fall**, before the snow, if you have young trees, new landscaping, or an orchard to protect — this is the window when getting tree guards and habitat reduction in place actually prevents the winter girdling, and it is the highest-value time to act. Call at **spring snowmelt** if you have discovered runways across the lawn and chewed bark on your trees, so we can assess the damage, deal with the surviving population before it breeds up, and get protection in place before next winter. And call any time you are unsure whether you are dealing with **voles or moles**, because the two look similar in their effect on a lawn but need completely different approaches.
 
