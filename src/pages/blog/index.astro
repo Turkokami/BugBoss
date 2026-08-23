@@ -3,11 +3,19 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
+import { blogClusters } from '@/data/blog-clusters';
 import { webPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/blog/';
 const desc = 'BugBoss blog — seasonal pest and wildlife guidance for Northeast Wisconsin, on a Wisconsin seasonal-trigger calendar.';
 const posts = (await getCollection('blog')).sort((a, b) => (a.data.pubDate < b.data.pubDate ? 1 : -1));
+
+// Master Plan §3.4: the index is organized by the spoke each post feeds, not
+// by date. A reader who arrived on one post can see the rest of that topic,
+// and the spoke it supports, without going back to the navigation.
+const grouped = blogClusters
+  .map((c) => ({ cluster: c, posts: posts.filter((p) => p.data.cluster === c.slug) }))
+  .filter((g) => g.posts.length > 0);
 const pageNodes = [
   webPageNode({ url, name: 'Blog', description: desc }),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Blog', url }]),
@@ -22,17 +30,34 @@ const pageNodes = [
       {posts.length === 0 ? (
         <p>New posts are being published on the Wisconsin seasonal-trigger calendar. Check back soon.</p>
       ) : (
-        <div class="grid cols-2" style="margin-top:1.5rem">
-          {posts.map((p) => (
-            <a class="card" href={`/blog/${p.slug}/`}>
-              {p.data.window && <span class="tag">{p.data.window}</span>}
-              <h3 style="margin:.4rem 0 .3rem">{p.data.title}</h3>
-              <p style="font-size:.95rem;color:var(--muted);margin:0">{p.data.description}</p>
-            </a>
-          ))}
-        </div>
+        grouped.map((g) => (
+          <div class="cluster">
+            {/* Rule 3: a group label is not a page heading. The h2 is the topic
+                itself, which is a real section of this page. */}
+            <div class="cluster-head">
+              <h2>{g.cluster.label}</h2>
+              <a href={g.cluster.spokeUrl} class="spoke-link">{g.cluster.spokeLabel} →</a>
+            </div>
+            <div class="grid cols-2">
+              {g.posts.map((p) => (
+                <a class="card" href={`/blog/${p.slug}/`}>
+                  {p.data.window && <span class="tag">{p.data.window}</span>}
+                  <h3 style="margin:.4rem 0 .3rem">{p.data.title}</h3>
+                  <p style="font-size:.95rem;color:var(--muted);margin:0">{p.data.description}</p>
+                </a>
+              ))}
+            </div>
+          </div>
+        ))
       )}
     </div>
   </section>
   <Cta />
+  <style>
+    .cluster { margin-top: 2.5rem; }
+    .cluster-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .6rem; border-bottom: 1px solid var(--line); padding-bottom: .5rem; margin-bottom: 1.1rem; }
+    .cluster-head h2 { margin: 0; font-size: 1.25rem; }
+    .spoke-link { color: var(--green-600); text-decoration: none; font-weight: 700; font-size: .92rem; white-space: nowrap; }
+    .spoke-link:hover { text-decoration: underline; }
+  </style>
 </BaseLayout>

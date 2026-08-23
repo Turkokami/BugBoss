@@ -6,6 +6,7 @@ import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
 import Cta from '@/components/Cta.astro';
 import Reviews from '@/components/Reviews.astro';
+import ClusterPosts from '@/components/ClusterPosts.astro';
 import { business } from '@/data/business';
 import { residentialServices, getResidentialService } from '@/data/residential-services';
 import { getPest } from '@/data/pests';
@@ -78,6 +79,8 @@ const pageNodes = [
           <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>
         </>
       )}
+
+      <ClusterPosts cluster={s.slug} />
 
       <div class="callout">
         <p class="mt0"><strong>Need {s.short.toLowerCase()} at your home?</strong> BugBoss handles this across rural Northeast Wisconsin — locally, with no long-term contract.</p>

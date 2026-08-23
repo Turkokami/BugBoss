@@ -1,0 +1,46 @@
+---
+// Master Plan §3.4: the spoke inherits the topical depth of the posts that
+// feed it. Rendering the cluster here is what closes the loop — without it the
+// blog links down to the spoke and the spoke never links back, which makes the
+// posts leaf nodes instead of a cluster.
+//
+// Renders nothing when the cluster is empty, so a spoke with no posts yet does
+// not show a stub heading.
+import { getCollection } from 'astro:content';
+import { getBlogCluster } from '@/data/blog-clusters';
+
+interface Props {
+  /** Cluster key from src/data/blog-clusters.ts */
+  cluster: string;
+  heading?: string;
+}
+const { cluster, heading } = Astro.props;
+
+const c = getBlogCluster(cluster);
+const posts = (await getCollection('blog', (p) => p.data.cluster === cluster)).sort((a, b) =>
+  a.data.pubDate < b.data.pubDate ? 1 : -1,
+);
+---
+{posts.length > 0 && (
+  <>
+    <h2>{heading ?? `Field notes on ${(c?.label ?? cluster).toLowerCase()}`}</h2>
+    <ul class="post-list">
+      {posts.map((p) => (
+        <li>
+          <a href={`/blog/${p.slug}/`}>{p.data.title}</a>
+          {p.data.window && <span class="when">{p.data.window}</span>}
+          <p>{p.data.description}</p>
+        </li>
+      ))}
+    </ul>
+  </>
+)}
+
+<style>
+  .post-list { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 1rem; }
+  .post-list li { border-left: 3px solid var(--green-200, #cfe6d6); padding-left: 1rem; }
+  .post-list a { font-weight: 700; color: var(--ink); text-decoration: none; }
+  .post-list a:hover { color: var(--green-800); text-decoration: underline; }
+  .when { display: inline-block; margin-left: .5rem; font-size: .78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+  .post-list p { margin: .3rem 0 0; font-size: .93rem; color: var(--muted); }
+</style>

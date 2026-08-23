@@ -2,6 +2,7 @@
 title: "Why Cluster Flies Take Over Wisconsin Farmhouses Every Fall (and How to Stop Them)"
 description: "Cluster flies swarm Wisconsin farmhouses every September and October because of what's in the yard, not the kitchen. Here's why old farmhouses get hit hardest and how to break the cycle before winter."
 pubDate: "2025-09-15"
+cluster: "fall-invaders"
 window: "Sep–Oct"
 faqs:
   - q: "Why does my farmhouse get cluster flies when my house is clean?"

@@ -2,6 +2,7 @@
 title: "Tick & Lyme Prevention for Rural Wisconsin Yards"
 description: "Blacklegged ticks thrive where your lawn meets the woods. Here's how to make a rural Wisconsin yard less hospitable to ticks and cut your family's Lyme disease risk this spring and summer."
 pubDate: "2026-05-19"
+cluster: "mosquito-tick"
 window: "May–Jun"
 faqs:
   - q: "When are ticks worst in Wisconsin?"

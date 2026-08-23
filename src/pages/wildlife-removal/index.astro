@@ -5,6 +5,7 @@ import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
 import Cta from '@/components/Cta.astro';
 import Reviews from '@/components/Reviews.astro';
+import ClusterPosts from '@/components/ClusterPosts.astro';
 import { business } from '@/data/business';
 import { getService } from '@/data/services';
 import { pestsByCategory } from '@/data/pests';
@@ -48,6 +49,7 @@ const pageNodes = [
         {wildlife.map((p) => <a href={`/pest-library/${p.slug}/`} class="tag">{p.name}</a>)}
         <span class="tag">Groundhogs</span><span class="tag">Moles</span><span class="tag">Voles</span><span class="tag">Snakes</span><span class="tag">Woodpeckers</span>
       </div>
+      <ClusterPosts cluster="wildlife-removal" />
     </div>
   </section>
   <Reviews limit={3} />

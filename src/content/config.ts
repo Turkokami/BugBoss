@@ -43,6 +43,13 @@ const blog = defineCollection({
     description: z.string(),
     pubDate: z.string(),
     window: z.string().default(''),
+    // Master Plan §3.4: every post feeds one service spoke. Keys live in
+    // src/data/blog-clusters.ts; the build fails loudly on an unknown key.
+    cluster: z.enum([
+      'fall-invaders', 'rodent-control', 'ant-control', 'stinging-insects',
+      'mosquito-tick', 'bed-bug-treatment', 'cockroach-control',
+      'wildlife-removal', 'general-pest-control',
+    ]),
     faqs: faq.default([]),
   }),
 });

@@ -2,6 +2,7 @@
 title: "Wisconsin's Bat Maternity Season, Explained: Why You Can't Evict Bats June–July"
 description: "Wisconsin law bars sealing bats out of buildings during maternity season. Here's what the June 1–July 31 restriction means, why it exists, and how to plan a legal, humane bat exclusion around it."
 pubDate: "2026-05-05"
+cluster: "wildlife-removal"
 window: "May–Jun"
 faqs:
   - q: "Can I have bats removed from my house in June or July in Wisconsin?"

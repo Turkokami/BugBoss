@@ -2,6 +2,7 @@
 title: "Closing the Cabin? A Pest-Proofing Checklist for Wisconsin Seasonal Homes"
 description: "A quiet, empty cabin is exactly what mice, bats, and fall invaders want for winter. Here's the pest-proofing checklist to run before you close up a Wisconsin lake home for the season."
 pubDate: "2025-09-22"
+cluster: "general-pest-control"
 window: "Sep–Oct"
 faqs:
   - q: "When should I pest-proof my cabin for winter?"
