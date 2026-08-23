@@ -2,7 +2,7 @@
 title: "Hotel, Motel & Lodging Pest Control in Northeast Wisconsin"
 industry: "Hotels & Lodging"
 category: "Retail & Hospitality"
-answer: "BugBoss provides discreet, audit-ready pest control for hotels, motels, resorts, and cabins across Central and Northeast Wisconsin. We focus on proactive bed bug detection and heat treatment, rodent exclusion, and kitchen pest management that satisfies Wisconsin's lodging (ATCP 72) and food (ATCP 75) rules — with no long-term contract."
+answer: "BugBoss provides discreet, documented pest control for hotels, motels, resorts, and cabins across Central and Northeast Wisconsin. We focus on proactive bed bug detection and heat treatment, rodent exclusion, and kitchen pest management that satisfies Wisconsin's lodging (ATCP 72) and food (ATCP 75) rules — with no long-term contract."
 order: 21
 faqs:
   - q: "How fast can BugBoss respond to a suspected bed bug room?"
@@ -12,7 +12,7 @@ faqs:
   - q: "Will pest service disrupt my guests or my front desk?"
     a: "No. We schedule around check-in and check-out, arrive in unmarked or low-profile fashion when you ask, and work rooms and back-of-house on your timing. Discretion is part of the job in lodging — nobody at the front desk or in the lobby needs to know why we're there."
   - q: "Is your documentation ready for a health or lodging inspection?"
-    a: "Yes. Every visit generates a dated service record, a device map for rodent stations and monitors, a pest sighting and trend log, and corrective-action notes. That's the paper trail a Wisconsin lodging inspector, an agent-county sanitarian, or a franchise brand standards audit expects to see kept on-site."
+    a: "Every visit produces a work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."
   - q: "Which Wisconsin rules apply to my property?"
     a: "Hotels, motels, and tourist rooming houses fall under Wisconsin's ATCP 72 lodging code, administered by DATCP or an agent county. If you serve a breakfast, run a bar, or operate any kitchen, ATCP 75 — the Wisconsin Food Code — applies to that operation too. Both require you to keep the premises free of vermin."
   - q: "We're a seasonal lake resort with cabins. Can you cover us?"
@@ -105,7 +105,7 @@ If your property serves food in any form — a breakfast bar, a bar and grill, a
 
 That is where most rural properties are exposed — not because they don't care, but because the national brands that dominate pest control dispatch from the Fox Valley, treat a small-town motel as a low-priority route stop, and often don't leave documentation an inspector can actually use. A program is only as good as the paper trail it produces on the day an inspector or a brand standards auditor walks in.
 
-## An audit-ready IPM program, built for lodging
+## An documented IPM program, built for lodging
 
 BugBoss builds every commercial program on **Integrated Pest Management (IPM)** — inspection, monitoring, sanitation, and exclusion first, with targeted treatment applied only where and when it's warranted. IPM is not a buzzword here; it is what actually works in an occupied building full of guests, and it is what keeps chemical use minimal in spaces where people sleep and eat. See our full [commercial pest control](/commercial-pest-control/) approach for the framework we apply across industries.
 
@@ -130,7 +130,7 @@ We built for exactly this. Our [cabin and seasonal pest control guide](/guides/c
 1. **Walk-through and risk assessment.** Brian inspects the property building by building — guest rooms, back-of-house, kitchen or breakfast area, laundry, exterior, dumpster corral, and grounds. We identify current activity, conducive conditions, and the entry points and harborage that will cause tomorrow's problems.
 2. **A program scoped to your property.** We set service frequency, place and map monitoring devices, and define the bed bug inspection rotation and response protocol. Frequency reflects your size, season, and turnover — not a national brand's one-size route template.
 3. **Treat the source, exclude the entry.** We address active pests with the right tool — heat for bed bugs, source elimination for flies, targeted product for roaches — and seal the physical gaps that let rodents and invaders in, because exclusion is what makes results last.
-4. **Document everything.** Every visit feeds the on-site record: service log, device map, trend log, corrective actions. When an inspector or auditor arrives, the binder is ready.
+4. **Document every visit.** Every visit produces a work order recording what was inspected, what was found and what was done. If a franchise brand standard or a lodging inspection requires more than that — a device map, a trend log, corrective-action records — say so at the outset and we will agree it in writing.
 5. **Follow up and adjust.** Bed bug jobs get a scheduled re-inspection. Rodent and seasonal pressure get frequency adjustments as the calendar turns. You deal with the owner throughout — no rotating cast of route techs, no call center between you and the person doing the work.
 
 You never sign a long-term contract to get this. BugBoss works [without contracts or cancellation fees](/no-contracts/); you stay because the program holds up, not because you're locked in.

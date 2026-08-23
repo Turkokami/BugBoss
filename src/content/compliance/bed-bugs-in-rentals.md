@@ -21,13 +21,13 @@ faqs:
   - q: "What preparation is the tenant responsible for?"
     a: "Usually a substantial amount, and it genuinely matters — a treatment fails without it. Typically that means laundering and bagging clothing and linens, emptying dressers and closets, pulling furniture away from walls, reducing clutter so harborage can be reached, and vacating for the required period. Your treatment provider will give a specific list. A tenant who cannot manage the prep — and elderly or disabled tenants often cannot — should say so early rather than let a scheduled treatment fail, because a failed treatment tends to be the thing that gets blamed on them."
   - q: "Should I throw out my mattress?"
-    a: "Usually not, and not before treatment. Discarding furniture rarely resolves an infestation, because the bugs are also in the bed frame, the baseboards, and the wall voids, and it costs you hundreds of dollars for nothing. Worse, dragging an infested mattress through a shared hallway is an excellent way to seed the rest of the building. If something genuinely must go, it should be sealed and labelled as infested first. Encasements on a treated mattress are usually the better answer than replacement."
+    a: "Usually not, and not before treatment. Discarding furniture rarely resolves an infestation, because the bugs are also in the bed frame, the baseboards, and the wall voids, and it costs you hundreds of dollars for nothing. Worse, dragging an infested mattress through a shared hallway is an excellent way to seed the rest of the building. If something genuinely must go, it should be sealed and labeled as infested first. Encasements on a treated mattress are usually the better answer than replacement."
   - q: "Can I be evicted for reporting bed bugs?"
     a: "Reporting a problem is not lawful grounds for eviction, and retaliating against a tenant for asserting their rights is the kind of thing Wisconsin's rental practices rules are aimed at. If you believe you are being retaliated against for a report, document the sequence carefully and contact DATCP or a tenant advocacy service. The much bigger practical risk is the opposite one: tenants who stay silent for fear of being blamed, while the infestation grows and spreads to their neighbours."
   - q: "How do I know it is actually bed bugs?"
     a: "Get a physical specimen or a clear photograph before anyone spends money. Bed bugs are visible to the naked eye — roughly apple-seed sized when adult, flat, reddish-brown — and the other signs are small dark faecal spots on sheets and mattress seams, shed skins, and bites that often appear in lines on skin exposed while sleeping. Bites alone prove nothing, because people react very differently and plenty of things bite. If the biting started days after birds, bats, or rodents left the building, you may be dealing with mites instead, which is a completely different job."
   - q: "Does BugBoss handle bed bugs in rental property?"
-    a: "Yes, for both landlords and tenants, and we treat it as a building problem rather than a unit problem. That means inspecting adjacent units, giving the tenant a realistic preparation list in advance, treating properly, and following up — bed bug work essentially always needs more than one visit. We document what we find in writing, which matters when landlord and tenant disagree about cause. For owners with multiple units we would rather set up a written response protocol before there is an outbreak than improvise during one."
+    a: "Yes, for both landlords and tenants, and we treat it as a building problem rather than a unit problem. That means inspecting adjacent units, giving the tenant a realiztic preparation list in advance, treating properly, and following up — bed bug work essentially always needs more than one visit. We document what we find in writing, which matters when landlord and tenant disagree about cause. For owners with multiple units we would rather set up a written response protocol before there is an outbreak than improvise during one."
 ---
 
 ## The rule, stated plainly
@@ -72,7 +72,7 @@ It also reaches **hotels, motels, and short-term lodging**, where the exposure i
 
 **Respond within a reasonable time** to a written report. No deadline is set, but bed bugs multiply, so "reasonable" is short.
 
-**Use a licensed applicator.** Retail products and DIY heat attempts routinely make infestations worse by scattering bugs into adjacent voids and units. See [how to check an applicator's licence](/compliance/pesticide-applicator-licensing/).
+**Use a licensed applicator.** Retail products and DIY heat attempts routinely make infestations worse by scattering bugs into adjacent voids and units. See [how to check an applicator's license](/compliance/pesticide-applicator-licensing/).
 
 **Inspect adjacent units.** Not optional in a multi-unit building if you want the problem to end.
 
@@ -102,7 +102,7 @@ It also reaches **hotels, motels, and short-term lodging**, where the exposure i
 
 **Civil claims** for habitability failures.
 
-**Spread, and cost.** The real penalty. A single unit treated promptly is a manageable job. The same infestation left for two months in a multi-unit building becomes a building-wide programme costing many times more — and the landlord pays for that either way, because at that point nobody can argue any single tenant caused it.
+**Spread, and cost.** The real penalty. A single unit treated promptly is a manageable job. The same infestation left for two months in a multi-unit building becomes a building-wide program costing many times more — and the landlord pays for that either way, because at that point nobody can argue any single tenant caused it.
 
 ## How BugBoss helps
 

@@ -12,7 +12,7 @@ export const business = {
   legalName: 'BugBoss The X-Terminator', // Registered name; DBA "The BugBoss".
   dba: 'The BugBoss',
   // NOTE: a WI business registration #535382 was previously published here.
-  // Brian did not recognise it when asked (Aug 2026), so it is unverified and
+  // Brian did not recognize it when asked (Aug 2026), so it is unverified and
   // has been removed rather than left on 239 pages. An unverifiable credential
   // is worse than no credential. Restore only if it can be confirmed.
   tagline: 'Pest Control & Wildlife Removal in Northeast Wisconsin',

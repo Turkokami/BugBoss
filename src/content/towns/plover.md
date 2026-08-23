@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Plover, WI?"
     a: "Yes. BugBoss The X-Terminator serves all of Plover from our base at 600 S. Main St. in Clintonville, out at the western edge of our service map. We cover the newer subdivisions, the older village core, the big retail and business corridor, and the food-processing operations — both pest control and wildlife removal, with owner Brian Zahringer running the work."
   - q: "Why does BugBoss drive to Plover from Clintonville?"
-    a: "Because covering this central-Portage corridor is exactly what we built BugBoss for. Plover sits at the far western reach of our territory, a longer haul than our Waupaca County core. We're the rural specialist who shows up here instead of routing you to a national call center dispatching from the Fox Valley."
+    a: "Because covering this central-Portage corridor is exactly what we built BugBoss for. Plover sits at the far western reach of our territory, a longer haul than our Waupaca County core. We're the rural specializt who shows up here instead of routing you to a national call center dispatching from the Fox Valley."
   - q: "I have a newer home in Plover — why do I still get pests?"
     a: "New construction isn't sealed against pests. Plover's subdivisions sit on flat, sandy glacial outwash, and mice, ants, wasps, and voles work the same weak points a new house always has: garage-door corners, utility penetrations, weep holes, and the seam where siding meets slab. New drywall doesn't stop a mouse; sealing the gaps does."
   - q: "What is the most common pest in Plover?"
@@ -41,7 +41,7 @@ Plover is the fast-growing half of the Stevens Point area, and it's a different 
 
 That growth is the single most important fact about pest control in Plover. A lot of the housing here is recent, and homeowners are often surprised to have pests in a new house — but new construction is not sealed against them. A newly built home has every one of the standard gaps a mouse, ant, or wasp exploits, and the sandy ground it sits on makes burrowing and ground-nesting easy. Add the enormous **retail and commercial base** — the village posts well over half a billion dollars in annual retail sales — and the food-processing operations tied to the region's irrigated potato and vegetable fields, and Plover's pest picture splits cleanly into three: newer homes, the older village core, and a heavy commercial corridor.
 
-BugBoss The X-Terminator reaches Plover from Clintonville at the western edge of our map, and that's on purpose — we're the rural specialist built to cover this corridor. We do **both pest control and wildlife removal**, you deal directly with owner Brian Zahringer, and there's no contract holding you. Here's how the pest year actually runs in Plover.
+BugBoss The X-Terminator reaches Plover from Clintonville at the western edge of our map, and that's on purpose — we're the rural specializt built to cover this corridor. We do **both pest control and wildlife removal**, you deal directly with owner Brian Zahringer, and there's no contract holding you. Here's how the pest year actually runs in Plover.
 
 ## The Plover pest calendar, season by season
 
@@ -123,4 +123,4 @@ A few signs are worth a call before a problem digs in: droppings or gnaw marks u
 
 Plover sits at the western edge of the BugBoss map, and from here we reach the surrounding Portage County towns with the same owner-direct service: [Stevens Point](/service-area/stevens-point/) right next door, [Amherst](/service-area/amherst/) and [Rosholt](/service-area/rosholt/) out in the Tomorrow Valley farm country, and east through [Iola](/service-area/iola/) and [Scandinavia](/service-area/scandinavia/) toward our Waupaca County core and [Waupaca](/service-area/waupaca/) itself. Wherever you are in central Portage County, you reach Brian directly.
 
-If you've got a pest or wildlife problem anywhere in Plover, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specialist who drives out to central Wisconsin — licensed, contract-free, and accountable to you.
+If you've got a pest or wildlife problem anywhere in Plover, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specializt who drives out to central Wisconsin — licensed, contract-free, and accountable to you.

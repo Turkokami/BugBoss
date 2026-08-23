@@ -29,7 +29,7 @@ faqs:
     a: "Enough to wipe out a home garden fast. An adult woodchuck eats a pound or more of vegetation a day in season and favors exactly what you're growing — peas, beans, lettuce, carrot tops, broccoli, and young corn — often shearing whole rows off at ground level overnight. They'll also gnaw the bark of fruit trees and ornamentals and dig at melons and squash. A resident woodchuck and a productive garden don't coexist for long."
   - q: "Does BugBoss handle groundhogs under barns, slabs, and outbuildings?"
     a: "Yes. On rural properties around Clintonville, woodchucks burrow under pole barns, granaries, machine sheds, concrete slabs, feed floors, and old outbuildings, and the undermining can threaten footings and floors. Outbuilding wildlife removal and exclusion is core work for us. We remove the animal, backfill the burrow, and trench in a dig-proof barrier along the skirt or foundation edge."
-  - q: "Should I call a pest company or a wildlife specialist for a groundhog?"
+  - q: "Should I call a pest company or a wildlife specializt for a groundhog?"
     a: "Both — which is the point of BugBoss. Most pest-only companies around here won't touch wildlife, and most trappers won't do the backfilling and buried-barrier exclusion that actually keeps woodchucks from re-digging. We do pest control and wildlife removal under one roof, so a groundhog job means removal, a proper backfill, and a dig-proof seal handled together, by the owner you reach directly."
 ---
 

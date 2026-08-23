@@ -29,7 +29,7 @@ faqs:
     a: "It can pose a couple of specific risks. On horse properties, opossums are the definitive host of the parasite that causes EPM (equine protozoal myeloencephalitis) — a serious neurological disease horses can contract from feed or water contaminated by opossum droppings, so keeping opossums out of the barn and feed room matters. For dogs and cats, the bigger routine concern is the fleas and ticks opossums carry into the yard, plus bacteria in their droppings."
   - q: "Does BugBoss handle opossums in barns, coops, and outbuildings?"
     a: "Yes. On rural properties around Clintonville, opossums den under and inside barns, sheds, granaries, and coops and get into feed rooms, and outbuilding wildlife removal and exclusion is core work for us. We remove the animal, seal or screen the access points and coop, and clean up the droppings and parasite load — important on horse properties given the EPM risk from contaminated feed and water."
-  - q: "Should I call a pest company or a wildlife specialist for an opossum?"
+  - q: "Should I call a pest company or a wildlife specializt for an opossum?"
     a: "Both — which is the point of BugBoss. Most pest-only companies around here won't touch wildlife, and most trappers won't do the exclusion, coop-securing, flea-and-tick knockdown, and cleanup that actually solve it. We do pest control and wildlife removal under one roof, so an opossum job means humane removal, a dig-proof seal, food and coop fixes, and cleanup handled together, by the owner you reach directly."
 ---
 

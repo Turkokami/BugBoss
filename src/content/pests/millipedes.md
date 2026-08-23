@@ -4,7 +4,7 @@ title: "Millipedes in Northeast Wisconsin: The Fall Migration That Fills Your Ba
 answer: "Millipedes are slow, dark, many-legged arthropods that migrate against Northeast Wisconsin foundations in mass numbers on damp fall nights, then die on basement floors. They do not bite or damage anything. BugBoss cuts the migrations with perimeter treatment timed to the event, plus moisture and leaf-litter management."
 faqs:
   - q: "Are millipedes dangerous?"
-    a: "No. Millipedes have no venom, no fangs, and no capacity to bite — their mouthparts are built for scraping soft decaying plant matter. They cannot damage your home, your belongings, or your food. The one minor caveat is that many species release a defensive fluid when threatened or crushed, which can irritate sensitive skin and will stain light-coloured surfaces. It is a good reason to sweep or vacuum them rather than step on them, and to wash your hands after handling one, but it is not a health hazard in any meaningful sense."
+    a: "No. Millipedes have no venom, no fangs, and no capacity to bite — their mouthparts are built for scraping soft decaying plant matter. They cannot damage your home, your belongings, or your food. The one minor caveat is that many species release a defensive fluid when threatened or crushed, which can irritate sensitive skin and will stain light-colored surfaces. It is a good reason to sweep or vacuum them rather than step on them, and to wash your hands after handling one, but it is not a health hazard in any meaningful sense."
   - q: "Why did hundreds of millipedes show up at once?"
     a: "Because millipedes migrate en masse, and your house happened to be in the path. In autumn, and after prolonged heavy rain, large populations that built up over the summer in lawn thatch, leaf litter, and mulch begin moving together across the surface at night. This is genuine mass movement, not individual wandering, and a building standing in the way intercepts hundreds of animals over a night or two. It is an event with a beginning and an end, usually running a few days to a couple of weeks, rather than a resident infestation."
   - q: "What is the difference between a millipede and a centipede?"
@@ -16,15 +16,15 @@ faqs:
   - q: "Will millipedes infest my house?"
     a: "No. Millipedes need constantly damp conditions and decaying plant matter to eat, and a normal heated house provides neither. They dry out and die within a day or two indoors, which is why you find them dead and coiled on basement floors rather than thriving. They cannot breed indoors either. What looks like an infestation is a large number of arrivals from outside, all dying on schedule. The exception is a chronically wet crawlspace or basement, which can be damp enough to keep them alive — and that is a moisture problem worth solving on its own merits."
   - q: "Why are they coiled up when I find them?"
-    a: "Coiling is a millipede's entire defence. It has no speed, no bite, and no sting, so when threatened — or when it is drying out and dying — it curls into a flat spiral, protecting the soft underside and legs behind the armoured plates of its back. Dead millipedes stay in that curl, which is why the basement floor ends up scattered with what look like small dark coils. A live millipede that has been disturbed will usually uncurl and move off after a minute or two if you leave it alone."
+    a: "Coiling is a millipede's entire defense. It has no speed, no bite, and no sting, so when threatened — or when it is drying out and dying — it curls into a flat spiral, protecting the soft underside and legs behind the armored plates of its back. Dead millipedes stay in that curl, which is why the basement floor ends up scattered with what look like small dark coils. A live millipede that has been disturbed will usually uncurl and move off after a minute or two if you leave it alone."
   - q: "When do millipede migrations happen in Wisconsin?"
     a: "The main event is autumn, roughly September into October, and it is triggered by a combination of shortening days, cooling temperatures, and damp conditions. Populations peak after a summer of breeding, and then move together looking for overwintering sites. A secondary trigger is prolonged heavy rain at any time in the warm months, which floods their habitat and drives them out onto the surface. Spring can produce a smaller movement as they emerge from overwintering. If your basement fills with millipedes, September and October are overwhelmingly the likeliest months."
   - q: "Do millipedes damage plants or gardens?"
     a: "Very rarely, and on balance they are beneficial. Millipedes are decomposers — they break down dead leaves, rotting wood, and decaying plant matter, which is genuinely valuable work in a garden or compost heap. In unusually damp conditions with very large populations they will occasionally feed on seedlings, soft ripe fruit lying on wet soil, and the roots of young plants, but this is a minor and situational problem. Most gardeners are better off with them present than absent, and the fix when they do cause trouble is drainage and mulch depth rather than treatment."
   - q: "How long do millipedes live?"
-    a: "Considerably longer than most people expect for something so small — several years is normal for many species, with some living longer still. They grow by moulting, adding body segments and legs at each moult rather than reaching a fixed adult size. This longevity matters practically because it means populations build up gradually over multiple seasons in a favourable spot. A property with heavy thatch, deep mulch, and permanent leaf litter accumulates millipedes year on year, which is why the same houses tend to get hit by the migrations repeatedly."
+    a: "Considerably longer than most people expect for something so small — several years is normal for many species, with some living longer still. They grow by molting, adding body segments and legs at each molt rather than reaching a fixed adult size. This longevity matters practically because it means populations build up gradually over multiple seasons in a favorable spot. A property with heavy thatch, deep mulch, and permanent leaf litter accumulates millipedes year on year, which is why the same houses tend to get hit by the migrations repeatedly."
   - q: "Do millipedes really have a thousand legs?"
-    a: "No, though they are the leggiest animals we deal with. The name means thousand-footed but the species found in Wisconsin homes typically have somewhere in the range of thirty to eighty pairs — so a few dozen to a couple of hundred legs, depending on species and how many times the animal has moulted. Each body segment carries two pairs, which is the defining feature separating millipedes from centipedes. The synchronised wave that ripples down all those legs when a millipede walks is one of the more hypnotic things in the invertebrate world."
+    a: "No, though they are the leggiest animals we deal with. The name means thousand-footed but the species found in Wisconsin homes typically have somewhere in the range of thirty to eighty pairs — so a few dozen to a couple of hundred legs, depending on species and how many times the animal has molted. Each body segment carries two pairs, which is the defining feature separating millipedes from centipedes. The synchronized wave that ripples down all those legs when a millipede walks is one of the more hypnotic things in the invertebrate world."
   - q: "Should I spray inside for millipedes?"
     a: "There is very little point. The millipedes indoors are already dying — the interior is too dry for them — and killing them faster does not reduce the number arriving from outside. Interior treatment also puts product where you live for no real gain. The useful work is all on the outside: reducing the damp harborage against the foundation, sealing the ground-level entry routes, and where the property has a history of serious migrations, a perimeter treatment timed to the autumn event so arrivals contact it before they reach the wall."
   - q: "Why are they in my window wells?"
@@ -47,11 +47,11 @@ The other useful thing to know is that this is an **event, not an infestation**.
 
 Millipedes are ancient, slow-moving arthropods — among the first animals to colonise land, and essentially unchanged in body plan for a very long time. The ones we deal with here are typically an inch to an inch and a half long, dark brown to nearly black, and cylindrical in cross-section, with a hard segmented shell.
 
-The defining feature is the legs: **two pairs per body segment**, which is what separates a millipede from a centipede and what produces that mesmerising rippling wave when one walks. The name promises a thousand feet; the reality for our species is somewhere between thirty and eighty pairs depending on species and age, since millipedes add segments each time they moult.
+The defining feature is the legs: **two pairs per body segment**, which is what separates a millipede from a centipede and what produces that mesmerising rippling wave when one walks. The name promises a thousand feet; the reality for our species is somewhere between thirty and eighty pairs depending on species and age, since millipedes add segments each time they molt.
 
 They are **decomposers**. Millipedes eat dead leaves, rotting wood, and decaying plant matter, scraping it up with mouthparts that could not break skin if the animal wanted to. Outdoors they are unambiguously useful, doing the work of breaking organic material down into soil.
 
-Their defence is entirely passive. No speed, no bite, no sting — just the ability to **coil into a flat spiral**, tucking the soft underside and all those legs behind the armoured plates of the back. Many species supplement this with a defensive secretion from glands along the body: unpleasant-smelling, mildly irritating to sensitive skin, and capable of staining a light surface. That secretion is the only real reason to sweep or vacuum them rather than crush them.
+Their defense is entirely passive. No speed, no bite, no sting — just the ability to **coil into a flat spiral**, tucking the soft underside and all those legs behind the armored plates of the back. Many species supplement this with a defensive secretion from glands along the body: unpleasant-smelling, mildly irritating to sensitive skin, and capable of staining a light surface. That secretion is the only real reason to sweep or vacuum them rather than crush them.
 
 And they live a surprisingly long time — several years is normal. That longevity is why populations build gradually over seasons, and why the same properties tend to get hit again and again.
 
@@ -65,7 +65,7 @@ Worth settling, because they mean quite different things.
 
 If it is on the floor and does not move much, it is a millipede. If it crossed the room before you finished registering it, it is a centipede.
 
-The other regular confusion is with **sowbugs and pillbugs**, which turn up in the same places for the same reasons. Those are grey, much shorter, armoured like tiny armadillos, and roll into a ball rather than a flat spiral.
+The other regular confusion is with **sowbugs and pillbugs**, which turn up in the same places for the same reasons. Those are gray, much shorter, armored like tiny armadillos, and roll into a ball rather than a flat spiral.
 
 ## Biology and why they move together
 
@@ -73,11 +73,11 @@ Two facts drive everything.
 
 **They must stay damp.** Millipedes lose water rapidly through their shell and have very limited ability to conserve it. They live in the moist layer under leaf litter, mulch, thatch, logs, and stones, and they are active mostly at night when humidity is highest. In a heated house they desiccate and die within a day or two — which is precisely why you find them dead.
 
-**They move as a population.** This is the unusual bit and it is what produces the dramatic events. Under the right combination of triggers — shortening autumn days, cooling temperatures, damp ground — millipedes begin travelling together across the surface at night, sometimes in enormous numbers. Prolonged heavy rain does the same thing at other times of year by flooding their habitat and driving them out. They are looking for overwintering sites or for better conditions, and they move in something close to a front.
+**They move as a population.** This is the unusual bit and it is what produces the dramatic events. Under the right combination of triggers — shortening autumn days, cooling temperatures, damp ground — millipedes begin traveling together across the surface at night, sometimes in enormous numbers. Prolonged heavy rain does the same thing at other times of year by flooding their habitat and driving them out. They are looking for overwintering sites or for better conditions, and they move in something close to a front.
 
 A building in the path of that front intercepts a great many animals. They pile against the foundation, work along it, and push through whatever ground-level gaps they find. Once inside, they are on a clock.
 
-Populations build over several seasons in a favourable spot, which is why the property with deep mulch, thick thatch, and permanent leaf litter sees this every year while the neighbour with a gravel strip and clean beds does not.
+Populations build over several seasons in a favorable spot, which is why the property with deep mulch, thick thatch, and permanent leaf litter sees this every year while the neighbour with a gravel strip and clean beds does not.
 
 ## The season here
 
@@ -119,14 +119,14 @@ The population is always close — usually within a few feet of where you are fi
 - Concentrations along the base of foundation walls, around floor drains, and at thresholds
 - Heavy thatch, deep mulch, or leaf litter banked against the foundation
 - Activity concentrated on the shaded, damper side of the house
-- A faint unpleasant odour where large numbers have died and been crushed
+- A faint unpleasant odor where large numbers have died and been crushed
 - Staining on light flooring where they have been stepped on
 
 ## Risk
 
 Very low, and worth putting plainly: millipedes **do not bite, sting, transmit disease, damage buildings, chew wood or fabric, or infest food.** They are physically incapable of most of what people fear from them.
 
-The **defensive secretion** is the only real caution. It smells bad, can cause mild irritation or temporary discolouration on sensitive skin, and stains light-coloured flooring and fabric. Sweep or vacuum rather than crushing, wash your hands after handling one, and keep an eye on a dog or small child inclined to pick things up — the likely outcome there is a bad taste and some drooling rather than any actual harm.
+The **defensive secretion** is the only real caution. It smells bad, can cause mild irritation or temporary discoloration on sensitive skin, and stains light-colored flooring and fabric. Sweep or vacuum rather than crushing, wash your hands after handling one, and keep an eye on a dog or small child inclined to pick things up — the likely outcome there is a bad taste and some drooling rather than any actual harm.
 
 The **nuisance is genuine** though, and worth taking seriously as a nuisance. Cleaning up hundreds of dead millipedes repeatedly over a fortnight is unpleasant, and for people who are squeamish about invertebrates it is properly distressing.
 
@@ -158,7 +158,7 @@ And as with every moisture pest, the underlying **signal** matters: conditions i
 
 **5. Time the perimeter treatment to the season.** Late summer into early autumn, before the movement starts, so arrivals contact the treatment at the foundation rather than after they are indoors. On properties with a migration history we schedule this to the calendar rather than waiting for the call — it is a far better use of the money.
 
-**6. Lay out the habitat plan.** Dethatching, mulch depth and setback, leaf clearance, lifting timbers and boards, window well clearing and covers, downspouts and grading. Specific and prioritised, with a clear line between what we handle and what belongs to a landscaper or an excavator.
+**6. Lay out the habitat plan.** Dethatching, mulch depth and setback, leaf clearance, lifting timbers and boards, window well clearing and covers, downspouts and grading. Specific and prioritized, with a clear line between what we handle and what belongs to a landscaper or an excavator.
 
 **7. Book the autumn visit.** Millipedes are one of the genuinely predictable pests. A property that got hit last September will very likely be hit again, and treating it as an annual scheduled item rather than an annual emergency works much better.
 
@@ -180,4 +180,4 @@ Call in **late summer** if you had a bad autumn last year — that is the phone 
 
 Brian works millipede migrations across the rural corridor — Clintonville, Marion, Manawa, Iola, Tigerton, Embarrass, Waupaca, New London, Weyauwega, and the wooded townships between them — where heavy leaf fall, mature tree cover, and old foundations make autumn arrivals a routine part of the season.
 
-They travel with company. Grey armoured bugs that roll into balls are [sowbugs and pillbugs](/pest-library/sowbugs-pillbugs/); tiny jumping specks are [springtails](/pest-library/springtails/); fast many-legged hunters are [centipedes](/pest-library/centipedes/). All of them are reporting on the same damp band of ground around your foundation.
+They travel with company. Gray armored bugs that roll into balls are [sowbugs and pillbugs](/pest-library/sowbugs-pillbugs/); tiny jumping specks are [springtails](/pest-library/springtails/); fast many-legged hunters are [centipedes](/pest-library/centipedes/). All of them are reporting on the same damp band of ground around your foundation.

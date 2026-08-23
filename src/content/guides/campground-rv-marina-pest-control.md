@@ -113,7 +113,7 @@ No pest company is on your property every day, so a big part of a strong program
 
 ## Liability and the reputation math
 
-There's a hard-dollar side to campground pest management that's easy to overlook. A guest stung by yellow jackets at a picnic shelter, a child exposed to a tick-borne illness, or a family that carries bed bugs home from a rental cabin isn't just a bad review — each is a potential liability claim, and lodging operators have been held responsible for bed-bug infestations in rented units. Set against that exposure, and against the very real cost of the reviews and cancelled bookings that follow a pest incident, a documented professional program is cheap insurance. The math almost always favors prevention over cleanup, both in dollars and in the reputation that a seasonal operation lives or dies on.
+There's a hard-dollar side to campground pest management that's easy to overlook. A guest stung by yellow jackets at a picnic shelter, a child exposed to a tick-borne illness, or a family that carries bed bugs home from a rental cabin isn't just a bad review — each is a potential liability claim, and lodging operators have been held responsible for bed-bug infestations in rented units. Set against that exposure, and against the very real cost of the reviews and canceled bookings that follow a pest incident, a documented professional program is cheap insurance. The math almost always favors prevention over cleanup, both in dollars and in the reputation that a seasonal operation lives or dies on.
 
 ## Marina-specific pests and the water's edge
 

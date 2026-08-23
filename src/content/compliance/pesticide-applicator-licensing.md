@@ -8,16 +8,16 @@ source: "Wis. Stat. ch. 94 and Wis. Admin. Code ch. ATCP 29 (Pesticide Use and C
 sourceUrl: "https://datcp.wi.gov/Pages/Programs_Services/PesticideApplicators.aspx"
 reviewed: "August 2026"
 faqs:
-  - q: "Does a pest control company need a licence in Wisconsin?"
+  - q: "Does a pest control company need a license in Wisconsin?"
     a: "Yes. Applying pesticides for hire in Wisconsin requires certification of the individual applicator by DATCP in the categories that cover the work, and licensing of the business. This is not a formality — it means somebody has passed examinations on pesticide safety, label law, application technique, and the specific pest category, and that they are subject to record-keeping requirements and to enforcement if they get it wrong. An uncertified person spraying your house for money is operating outside the law, whatever they charge."
   - q: "How do I check whether a company is actually licensed?"
-    a: "Ask for the applicator's certification number and the categories it covers, then verify it with DATCP rather than trusting the number on a business card. DATCP administers the certification and licensing programme and is the authority on whether a given applicator or business is current. A legitimate operator will hand the number over without hesitation — Brian's is #103689 and it is printed on every page of this site. Hesitation, vagueness, or 'the office has that' is the answer you should pay attention to."
+    a: "Ask for the applicator's certification number and the categories it covers, then verify it with DATCP rather than trusting the number on a business card. DATCP administers the certification and licensing program and is the authority on whether a given applicator or business is current. A legitimate operator will hand the number over without hesitation — Brian's is #103689 and it is printed on every page of this site. Hesitation, vagueness, or 'the office has that' is the answer you should pay attention to."
   - q: "What are the certification categories, and why do they matter?"
     a: "Wisconsin certifies commercial applicators by category, and each category corresponds to a type of work — structural pest control, aquatic and mosquito, turf, agricultural, and others. It matters because certification in one category does not qualify someone for another. An applicator certified only for turf is not certified to treat the inside of your house. When you ask for a number, ask what categories it covers and check that they actually match the job you are hiring for."
   - q: "What categories does BugBoss hold?"
     a: "Brian Zahringer holds Wisconsin Commercial Pesticide Applicator certification #103689, in categories 005.0 Aquatic and Mosquito and 007.1 Structural, currently valid through 31 October 2027. Structural is the category covering pest control in and around buildings — the bulk of what we do. Aquatic and mosquito covers mosquito work and treatment around water. Those are the categories the work we advertise actually falls into, which is the point of publishing them."
   - q: "Does certification expire?"
-    a: "Yes. Wisconsin certifications run for a defined period and must be renewed, generally through continuing instruction or re-examination, and the business licence is renewed on its own cycle. This is worth asking about specifically, because a lapsed certification is a real and fairly common problem — somebody certified five years ago is not necessarily certified today. Ask for the expiry date, not just the number."
+    a: "Yes. Wisconsin certifications run for a defined period and must be renewed, generally through continuing instruction or re-examination, and the business license is renewed on its own cycle. This is worth asking about specifically, because a lapsed certification is a real and fairly common problem — somebody certified five years ago is not necessarily certified today. Ask for the expiry date, not just the number."
   - q: "Should the company be insured as well as licensed?"
     a: "Yes, and they are separate things — licensing is a state requirement to apply pesticides, insurance is protection if something goes wrong at your property. Ask for both, and for commercial work ask for a certificate of insurance naming the limits. A company that cannot produce either quickly is telling you something. BugBoss is licensed and insured, and we will produce documentation on request without making it awkward."
   - q: "What records should I get after a treatment?"
@@ -27,7 +27,7 @@ faqs:
   - q: "What if I think an application was done improperly?"
     a: "DATCP's Bureau of Agrichemical Management handles pesticide use complaints in Wisconsin, and improper application is exactly what that process exists for. Before you contact them, gather what you can: dates, what you were told was applied, any product names or labels, photographs, and any symptoms or damage. If anyone is unwell, seek medical advice and mention the exposure. Keep the record contemporaneous — written at the time, not reconstructed later."
   - q: "Does this apply to over-the-counter products I buy myself?"
-    a: "Certification requirements are aimed at commercial application, so a homeowner treating their own property with a general-use retail product is in a different position. That said, the label is the law for everyone: applying a product contrary to its labelling is unlawful regardless of who does it, and retail labels carry real restrictions on where and how they may be used. Most DIY pest failures we are called in to fix are not exotic — they are products used somewhere the label does not permit, at rates the label does not permit."
+    a: "Certification requirements are aimed at commercial application, so a homeowner treating their own property with a general-use retail product is in a different position. That said, the label is the law for everyone: applying a product contrary to its labeling is unlawful regardless of who does it, and retail labels carry real restrictions on where and how they may be used. Most DIY pest failures we are called in to fix are not exotic — they are products used somewhere the label does not permit, at rates the label does not permit."
 ---
 
 ## The rule, stated plainly
@@ -36,7 +36,7 @@ faqs:
 
 Certification is not paperwork. It means the person standing in your kitchen has passed examinations covering pesticide safety, label law, application technique, environmental protection, and the specific pest category they are certified in. It also means they are subject to record-keeping requirements and to enforcement action if they get it wrong.
 
-The programme sits under Wisconsin's pesticide statutes and administrative rules, administered by **DATCP's Bureau of Agrichemical Management**.
+The program sits under Wisconsin's pesticide statutes and administrative rules, administered by **DATCP's Bureau of Agrichemical Management**.
 
 You are entitled to ask for the number before anyone treats your property. You are also entitled to verify it rather than take somebody's word.
 

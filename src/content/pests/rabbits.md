@@ -6,11 +6,11 @@ faqs:
   - q: "Is it rabbits or deer eating my shrubs?"
     a: "Look at the cut end, because it is conclusive. Rabbits have sharp upper and lower incisors and bite cleanly through a stem, leaving a smooth, angled cut at roughly 45 degrees that looks like it was done with secateurs. Deer have no upper front teeth — they grip and tear against a hard palate — so they leave a ragged, shredded, stringy end. Height helps confirm it: rabbit damage stops at whatever the snow depth allowed, usually under about two and a half feet, while deer browse well above that. Two different animals, two different fences."
   - q: "Do rabbit repellents work?"
-    a: "Briefly, and unreliably. Taste and odour repellents wash off with rain and snowmelt, degrade in sunlight, and need reapplying constantly through exactly the season when getting out to spray is least convenient. More importantly, a rabbit in late winter with little else available will eat treated bark anyway — hunger beats distaste. Repellents have a marginal place protecting a few specific plants during a mild spell, but anyone relying on them to get valuable shrubs and young trees through a Wisconsin winter is going to be disappointed."
+    a: "Briefly, and unreliably. Taste and odor repellents wash off with rain and snowmelt, degrade in sunlight, and need reapplying constantly through exactly the season when getting out to spray is least convenient. More importantly, a rabbit in late winter with little else available will eat treated bark anyway — hunger beats distaste. Repellents have a marginal place protecting a few specific plants during a mild spell, but anyone relying on them to get valuable shrubs and young trees through a Wisconsin winter is going to be disappointed."
   - q: "How do I protect trees from rabbit girdling?"
     a: "Cylinders of quarter-inch hardware cloth around the trunk, held an inch or two off the bark by stakes so the rabbit cannot press through and reach it, and extending well above the maximum expected snow line — which in this part of Wisconsin means considerably higher than people first assume, generally two feet above the ground at minimum and more where snow drifts. Commercial spiral tree wraps work for smaller trunks but must be removed in spring so they do not trap moisture or constrict the growing trunk."
   - q: "What is girdling and will my tree survive it?"
-    a: "Girdling is the removal of bark in a complete ring around the trunk. The layer just under the bark carries sugars from the leaves down to the roots, so severing it all the way round starves the root system and the tree dies, sometimes not until the following summer when it leafs out and then collapses. Partial damage — a strip taken from one side — is usually survivable, and the tree will compartmentalise and grow over it in time. But a fully girdled young tree is finished, which is why protection has to go on before the damage rather than after."
+    a: "Girdling is the removal of bark in a complete ring around the trunk. The layer just under the bark carries sugars from the leaves down to the roots, so severing it all the way round starves the root system and the tree dies, sometimes not until the following summer when it leafs out and then collapses. Partial damage — a strip taken from one side — is usually survivable, and the tree will compartmentalize and grow over it in time. But a fully girdled young tree is finished, which is why protection has to go on before the damage rather than after."
   - q: "Why is the damage so much worse in winter?"
     a: "Two things happen at once. Green food disappears, so rabbits switch to bark, twigs, and buds, which is when woody plants become the target rather than incidental. And snow accumulates, lifting the rabbit's reach — a foot of snow means bark a foot higher is now within range, and drifting can put them much higher still. That combination puts the trunk sections and lower branches of young trees and shrubs directly on the menu during the exact months when nobody is out looking at the garden."
   - q: "How many rabbits am I dealing with?"
@@ -41,7 +41,7 @@ Rabbit damage has a particular cruelty to its timing. You do not see it happenin
 
 By then it is done. A fully girdled young tree is already dead — it may leaf out weakly in May and then collapse in July, but the outcome was decided in January.
 
-This is why rabbit work is almost entirely **preventive**. There is no treatment, no product, and no removal programme that saves a tree already girdled, and no repellent that reliably gets valuable plants through a Wisconsin winter. What works is a physical barrier put on in autumn, plus reducing the cover that holds rabbits on the property in the first place.
+This is why rabbit work is almost entirely **preventive**. There is no treatment, no product, and no removal program that saves a tree already girdled, and no repellent that reliably gets valuable plants through a Wisconsin winter. What works is a physical barrier put on in autumn, plus reducing the cover that holds rabbits on the property in the first place.
 
 ## Identification: rabbit or deer?
 
@@ -59,7 +59,7 @@ Before you fence anything, establish which animal you are fencing against, becau
 
 ## What a cottontail is, and why they multiply
 
-The animal here is the **eastern cottontail**, *Sylvilagus floridanus* — brown-grey, roughly two to three pounds, with the white underside to the tail that gives the species its name.
+The animal here is the **eastern cottontail**, *Sylvilagus floridanus* — brown-gray, roughly two to three pounds, with the white underside to the tail that gives the species its name.
 
 Two facts shape the problem.
 
@@ -85,7 +85,7 @@ Just beneath the bark lies the phloem, the tissue that carries sugars produced i
 
 The delayed nature of it is what catches people. A girdled tree often leafs out in spring on stored reserves, looks fine into early summer, and then wilts and dies in July when the reserves run out. Owners frequently assume disease or drought and never connect it to the bark damage they saw in March.
 
-**Partial damage is usually survivable.** A strip taken from one side leaves an intact pathway, and the tree will compartmentalise the wound and grow over it in time, though it remains a weak point and an entry for disease.
+**Partial damage is usually survivable.** A strip taken from one side leaves an intact pathway, and the tree will compartmentalize the wound and grow over it in time, though it remains a weak point and an entry for disease.
 
 **Complete girdling of a young tree is fatal**, with no remedy. Which is the entire argument for autumn guards on anything you value.
 
@@ -151,7 +151,7 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 **1. Confirm the animal.** Rabbit, deer, vole, or porcupine — the cut angle and the damage height settle it quickly, and the fencing spec depends entirely on the answer.
 
-**2. Inventory what needs protecting.** Not everything does. Established thick-barked trees are at little risk; young fruit trees, new plantings, valuable ornamentals, and shelterbelt stock are where the money is. Prioritising keeps the job proportionate.
+**2. Inventory what needs protecting.** Not everything does. Established thick-barked trees are at little risk; young fruit trees, new plantings, valuable ornamentals, and shelterbelt stock are where the money is. Prioritizing keeps the job proportionate.
 
 **3. Specify the barriers properly.** Quarter-inch hardware cloth cylinders for trunks, staked clear of the bark, and tall enough to clear expected snow with margin. Two-foot one-inch mesh fencing for beds and vegetable plots, with the base buried or aproned outward and pinned.
 

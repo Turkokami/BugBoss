@@ -2,11 +2,11 @@
 title: "Pest Control in Astor, WI"
 city: "Green Bay"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems in Green Bay's historic Astor neighborhood, Brown County — the older homes near the Fox River and downtown. We're a Clintonville-based rural specialist reaching the metro edge for problem-first jobs: cluster flies, mice, carpenter ants, and bats in old attics. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems in Green Bay's historic Astor neighborhood, Brown County — the older homes near the Fox River and downtown. We're a Clintonville-based rural specializt reaching the metro edge for problem-first jobs: cluster flies, mice, carpenter ants, and bats in old attics. No contracts."
 order: 10
 faqs:
   - q: "Does BugBoss cover the Astor neighborhood in Green Bay?"
-    a: "Yes, for the jobs we specialize in. We're based in Clintonville, not Green Bay, so we're not the closest truck to Astor — we're the rural exclusion and wildlife specialist worth calling for older-home problems: fall cluster flies and boxelder bugs, mice in stone foundations, carpenter ants in aged wood, and bats or squirrels in the big Astor attics. Call and we'll tell you honestly whether we're the right fit for your job."
+    a: "Yes, for the jobs we specialize in. We're based in Clintonville, not Green Bay, so we're not the closest truck to Astor — we're the rural exclusion and wildlife specializt worth calling for older-home problems: fall cluster flies and boxelder bugs, mice in stone foundations, carpenter ants in aged wood, and bats or squirrels in the big Astor attics. Call and we'll tell you honestly whether we're the right fit for your job."
   - q: "Why do Astor's historic homes get so many cluster flies?"
     a: "Two reasons. Astor's homes date largely from 1835 to 1920, with rubble-stone foundations, balloon framing, and complex rooflines full of gaps a modern house doesn't have. And cluster flies breed in soil, not garbage, so proximity to the Fox River corridor and older lawns keeps them coming. They mass on warm south and west walls in fall and push through every seam into wall voids and attics."
   - q: "Can you get bats out of an old Astor attic legally?"
@@ -33,7 +33,7 @@ The Astor Historic District covers roughly **39 square blocks** in southeast Gre
 
 For a pest company, that history is the whole story. Astor's homes span roughly **1835 to 1920** and run the full catalog of nineteenth- and early-twentieth-century construction: Greek Revival, Gothic Revival, Italianate, Queen Anne, and the châteauesque and Prairie-style houses that came later. Beautiful buildings — and every one of them was framed and founded before anyone thought about air-sealing, weatherstripping, or a continuous foundation. That's exactly what pests exploit.
 
-**BugBoss The X-Terminator** is not a Green Bay company. We run out of **Clintonville**, in rural Waupaca County, and Astor sits at the far edge of the metro area we reach. We're not going to pretend we're the nearest truck to a downtown Green Bay address. What we are is the specialist worth calling when the problem is an old-house problem — the fall invaders, the rodents in a stone foundation, the carpenter ants in soft old framing, and the wildlife in a big Victorian attic. Those are the jobs the metro franchises either won't take or won't do without locking you into a contract, and they're the jobs we do every week out in old-farmhouse country.
+**BugBoss The X-Terminator** is not a Green Bay company. We run out of **Clintonville**, in rural Waupaca County, and Astor sits at the far edge of the metro area we reach. We're not going to pretend we're the nearest truck to a downtown Green Bay address. What we are is the specializt worth calling when the problem is an old-house problem — the fall invaders, the rodents in a stone foundation, the carpenter ants in soft old framing, and the wildlife in a big Victorian attic. Those are the jobs the metro franchises either won't take or won't do without locking you into a contract, and they're the jobs we do every week out in old-farmhouse country.
 
 ## Why old homes leak pests: the Astor entry points
 
@@ -61,17 +61,17 @@ The control that actually works is a **timed early-fall exterior treatment** on 
 
 ## Wildlife in Astor: bats, squirrels, and old chimneys
 
-Astor's old attics and tall masonry chimneys make it some of the best wildlife habitat in the city, and this is where a rural specialist genuinely earns the drive from Clintonville.
+Astor's old attics and tall masonry chimneys make it some of the best wildlife habitat in the city, and this is where a rural specializt genuinely earns the drive from Clintonville.
 
 **Bats** roost in the big open attics and behind loose fascia on these Victorians. Getting them out is not a spray job and it's not a job you can do whenever it's convenient — Wisconsin protects its bats, and four cave species are state-threatened. The **DNR requires one-way bat exits to stay open June 1 through July 31**, during the maternity season when flightless pups are in the roost. Sealing the building then traps and kills the pups, which is both illegal and a far worse mess. We do exclusion in the legal window: find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up the guano. The details are in our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), the [bats](/pest-library/bats/) page, and the [bats in attic](/pest-problems/bats-in-attic/) walkthrough.
 
 **Squirrels** chew into attics at aged roof edges, gable vents, and rotted fascia — a [squirrels in attic](/pest-problems/squirrels-in-attic/) job that ends with sealing every access point, not just trapping the one you saw. **Raccoons** treat Astor's old uncapped chimneys as ready-made dens, especially females raising young in spring; that's a [raccoon in chimney](/pest-problems/raccoon-in-chimney/) situation that calls for humane removal and a proper chimney cap. All of this is our [wildlife removal](/wildlife-removal/) work, and the [attic wildlife removal guide](/guides/attic-wildlife-removal/) covers how we button up an old attic afterward. Most pest-only outfits reaching Astor from the metro won't touch any of it — see the [raccoons](/pest-library/raccoons/) and [squirrels](/pest-library/squirrels/) pages.
 
-## Honest positioning: the rural specialist at the metro edge
+## Honest positioning: the rural specializt at the metro edge
 
 Here's the straight version. BugBoss is a **Clintonville-based, family-owned** company — owner Brian Zahringer runs the truck and answers the phone. Our home ground is rural: farmhouses and lake cabins out around [Pulaski](/service-area/pulaski/), [Bonduel](/service-area/bonduel/), and [Shawano](/service-area/shawano/). Astor is the eastern edge of what we reach, and we won't pretend otherwise. For a quick one-off in downtown Green Bay, a company inside the city is closer.
 
-Where we're the better call is on the work we do best: **old-home exclusion, fall invaders, carpenter ants, and wildlife** — the specialized, problem-first jobs that reward someone who's spent years sealing century-old buildings out in the country. We do **pest control and wildlife removal both**, which the metro pest franchises generally don't, and we do it with **no long-term contract and no cancellation fee**. You're not signing up for a route; you're hiring a specialist for a specific problem. That's the whole idea behind our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
+Where we're the better call is on the work we do best: **old-home exclusion, fall invaders, carpenter ants, and wildlife** — the specialized, problem-first jobs that reward someone who's spent years sealing century-old buildings out in the country. We do **pest control and wildlife removal both**, which the metro pest franchises generally don't, and we do it with **no long-term contract and no cancellation fee**. You're not signing up for a route; you're hiring a specializt for a specific problem. That's the whole idea behind our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
 
 ## How we work, and when to call
 

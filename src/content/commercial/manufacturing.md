@@ -2,7 +2,7 @@
 title: "Manufacturing & Industrial Pest Control in Northeast Wisconsin"
 industry: "Manufacturing & Industrial"
 category: "Manufacturing & Industrial"
-answer: "BugBoss The X-Terminator provides documented, audit-ready pest control for manufacturing and industrial plants across Central and Northeast Wisconsin — perimeter rodent programs, loading-dock and high-bay exclusion, bird management, and fly control built to satisfy OSHA sanitation rules and customer QA audits, scheduled around your shifts, with no long-term contract."
+answer: "BugBoss The X-Terminator provides documented pest control for manufacturing and industrial plants across Central and Northeast Wisconsin — perimeter rodent programs, loading-dock and high-bay exclusion, bird management, and fly control built to satisfy OSHA sanitation rules and customer QA audits, scheduled around your shifts, with no long-term contract."
 order: 10
 faqs:
   - q: "Do you understand large industrial facilities, or just small shops?"
@@ -12,7 +12,7 @@ faqs:
   - q: "Does OSHA actually require pest control in a plant?"
     a: "Effectively, yes. OSHA's sanitation standard, 29 CFR 1910.141, requires that every enclosed workplace be constructed, equipped, and maintained so far as reasonably practicable to prevent the entrance or harborage of rodents, insects, and other vermin, and it requires a continuing and effective extermination program wherever their presence is detected. That is a documented, ongoing pest program in plain language. Beyond OSHA, your own customers' quality audits usually set a higher bar than the regulation does."
   - q: "Our customers audit us. Can your documentation stand up to that?"
-    a: "Yes — that is the whole point of the program. Automotive, aerospace, food-contact packaging, and contract manufacturers increasingly flow food-safety-grade pest expectations down to their suppliers through customer QA audits and schemes like SQF, AIB, and ASI. BugBoss keeps a service log, a trend record, device maps tied to a facility plan, corrective-action notes, product and label documentation, and applicator licensing on file, kept on-site in an audit binder or digital folder so it is ready when an auditor or customer rep asks."
+    a: "Every visit produces a work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."
   - q: "What pests matter most in a Wisconsin manufacturing plant?"
     a: "Rodents first — mice and rats exploiting dock doors, utility penetrations, and pallet traffic. Then birds in high-bay space and on the roof, flies and other filth insects at docks and break areas, stored-product insects where paper, packaging, or food-contact material sits, and the seasonal fall invaders — cluster flies, boxelder bugs, lady beetles — that mass on warm plant walls every October in this part of the state. A good program addresses all of them, not just whatever was crawling on the day someone called."
   - q: "How do mice get into a building this big?"
@@ -128,7 +128,7 @@ This is where most industrial plants actually feel the pressure. Beyond the regu
 - **ASI Food Safety** — a widely used third-party auditing and inspection body.
 - **Customer / QA audits** — automotive, aerospace, medical-device, and contract-manufacturing customers increasingly send their own quality auditors and flow pest-program requirements down the supply chain.
 
-Every one of these wants the same thing from your pest program: a written scope, a **trend analysis** showing pest activity over time, **device maps** tied to a facility plan, **corrective-action** records, product and label documentation, applicator licensing, and evidence that findings actually get closed out. A program that cannot produce that binder loses points no matter how few pests are actually present.
+Every one of these wants the same thing from your pest program: a written scope, a **trend analyzis** showing pest activity over time, **device maps** tied to a facility plan, **corrective-action** records, product and label documentation, applicator licensing, and evidence that findings actually get closed out. A program that cannot produce that binder loses points no matter how few pests are actually present.
 
 ## The audit findings that sink plants — and how the program prevents them
 
@@ -143,7 +143,7 @@ Auditors and customer QA teams tend to write up the same handful of pest issues,
 
 The theme is consistent: auditors are not really grading how many bugs they see on the day, they are grading whether you run a controlled, documented, continuous system. That is what BugBoss builds.
 
-## What an audit-ready industrial program looks like
+## What a documented industrial program looks like
 
 BugBoss builds every manufacturing program around the same backbone, then scales and tunes it to the building.
 
@@ -159,7 +159,7 @@ BugBoss builds every manufacturing program around the same backbone, then scales
 
 **Seasonal fall-invader treatment.** A timed exterior treatment on the warm elevations plus sealing, calendared for late summer before the October swarm.
 
-**The documentation package.** A service log for every visit, a pest sighting and **trend record**, **device maps**, **corrective-action** notes with follow-through, product labels and SDS, and Brian's **Wisconsin Commercial Applicator license (#103689)** — kept on-site in an audit binder or shared digital folder, ready the moment an auditor or customer rep asks.
+**The documentation.** A work order for every visit as standard, plus Brian's Wisconsin Commercial Applicator license (#103689) and certificate of insurance on request. Customer QA audits and schemes like SQF, AIB and ASI generally want more — a trend record, device maps tied to a floor plan, corrective-action notes with follow-through, product labels and SDS. Tell us which of those your audit actually requires and we will agree the record-keeping before the program starts.
 
 **Discreet scheduling around your shifts.** Most of the work is perimeter, exterior, dock, roof, and monitoring — serviceable around production. When interior work near a line is needed, we coordinate a changeover, weekend, or sanitation window with your maintenance or QA lead. Because you deal directly with the owner, scheduling is a phone call, not a dispatch ticket.
 
@@ -175,7 +175,7 @@ A **local, owner-operated** company changes that math. BugBoss is close enough t
 2. **Map and baseline.** We build the device map on your floor plan, set the perimeter line and interior monitoring, and record a baseline so future visits show a trend.
 3. **Exclude at the openings.** Dock seals, door sweeps, penetrations, roof-line and high-bay gaps — we prioritize the exclusion that actually cuts pest pressure, and flag structural fixes for your maintenance crew.
 4. **Treat targeted, not broadcast.** Crack-and-crevice, baiting, monitored light traps, seasonal exterior treatment — product goes where the label and the food-safety rules allow it, never over a line or near packaging.
-5. **Document everything, close the loop.** Every visit is logged with findings, actions, and corrective steps, and the audit binder stays current. When an auditor or customer asks, the answer is already on the shelf.
+5. **Document and close the loop.** Every visit produces a work order logging findings, actions, and the corrective steps the plant needs to take. If a customer QA audit or a scheme like SQF or AIB wants records beyond that, tell us what your auditor asks for before we start so we can agree who keeps what.
 6. **Review the trend and adjust.** We use the trend data to tighten the program where pressure is showing and to prove control where it is not.
 
 If your plant is preparing for a customer audit, chasing a repeat rodent or bird finding, or simply tired of a route company that treats a factory like a big house, talk to us. Reach the owner directly at **866-BUGBOSS**, or through the [contact page](/contact/). Learn more about Brian and the company on our [about page](/about/), and see the neighboring markets we cover in [Clintonville](/service-area/clintonville/), [New London](/service-area/new-london/), [Shawano](/service-area/shawano/), [Waupaca](/service-area/waupaca/), [Wausau](/service-area/wausau/), and [Stevens Point](/service-area/stevens-point/). Related programs: [warehousing and distribution](/commercial-pest-control/warehousing-distribution/), [food processing](/commercial-pest-control/food-processing/), grain, feed, and seed, and [offices](/commercial-pest-control/offices/).

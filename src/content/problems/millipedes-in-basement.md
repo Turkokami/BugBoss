@@ -11,7 +11,7 @@ faqs:
   - q: "Will they breed in my basement?"
     a: "No. Millipedes need constantly damp conditions and decaying plant matter to eat, and a heated house offers neither. They dry out and die within a day or two indoors, which is exactly why you find them dead and coiled rather than thriving. They cannot reproduce inside. What looks like an infestation is a large number of arrivals from outside, all dying on schedule. The exception is a chronically wet crawlspace or basement, which can be damp enough to sustain them — and that is a moisture problem worth solving on its own merits."
   - q: "Why are they curled up?"
-    a: "Coiling is a millipede's entire defence — it has no speed, no bite and no sting, so when threatened, or when it is drying out and dying, it curls into a flat spiral to protect its soft underside and legs behind the armoured plates of its back. Dead millipedes stay in that curl, which is why the floor ends up scattered with small dark coils. A live one that has been disturbed will usually uncurl and move off if you leave it alone."
+    a: "Coiling is a millipede's entire defense — it has no speed, no bite and no sting, so when threatened, or when it is drying out and dying, it curls into a flat spiral to protect its soft underside and legs behind the armored plates of its back. Dead millipedes stay in that curl, which is why the floor ends up scattered with small dark coils. A live one that has been disturbed will usually uncurl and move off if you leave it alone."
   - q: "Is it millipedes or centipedes?"
     a: "Speed tells you instantly. Millipedes are slow, rounded and tube-like, dark, with two pairs of short legs per segment producing a rippling wave, and they coil when disturbed. Centipedes are fast — startlingly so — flattened, with one pair of long legs per segment splayed out sideways, and they run for cover rather than curling. Centipedes are also predators hunting other insects, and they turn up as individuals year-round wherever it is damp, not in autumn waves."
   - q: "Should I spray the basement?"
@@ -40,7 +40,7 @@ Two facts govern everything after that.
 
 **They cannot breed indoors.** There is no infestation to eliminate. There is a wave passing through, and it will pass in a few days to a fortnight.
 
-Millipedes also live several years, which is why populations build gradually in a favourable spot — and why the same houses get hit again and again. The properties that do are the ones with thick lawn thatch running to the foundation, deep mulch beds against the siding, heavy leaf fall, and shaded north and east walls that stay damp longest. That describes a great deal of our wooded service area.
+Millipedes also live several years, which is why populations build gradually in a favorable spot — and why the same houses get hit again and again. The properties that do are the ones with thick lawn thatch running to the foundation, deep mulch beds against the siding, heavy leaf fall, and shaded north and east walls that stay damp longest. That describes a great deal of our wooded service area.
 
 ## What to do now
 
@@ -66,4 +66,4 @@ Call if you are finding them **year-round rather than seasonally**, which means 
 
 Brian works millipede migrations across the rural corridor — Clintonville, Marion, Manawa, Iola, Tigerton, Embarrass, Waupaca, New London, Weyauwega and the wooded townships between them, where heavy leaf fall, mature tree cover and old foundations make autumn arrivals a routine part of the season.
 
-Full profile at [millipedes](/pest-library/millipedes/). They travel with company: grey armoured bugs that roll into balls are [sowbugs and pillbugs](/pest-library/sowbugs-pillbugs/), tiny jumping specks are [springtails](/pest-library/springtails/), and fast many-legged hunters are [centipedes](/pest-library/centipedes/).
+Full profile at [millipedes](/pest-library/millipedes/). They travel with company: gray armored bugs that roll into balls are [sowbugs and pillbugs](/pest-library/sowbugs-pillbugs/), tiny jumping specks are [springtails](/pest-library/springtails/), and fast many-legged hunters are [centipedes](/pest-library/centipedes/).

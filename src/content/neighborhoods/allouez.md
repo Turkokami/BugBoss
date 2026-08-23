@@ -2,11 +2,11 @@
 title: "Pest Control in Allouez, WI"
 city: "Allouez"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems in the Village of Allouez, Brown County — the established residential village on the Fox River between Green Bay and De Pere. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts, owner-direct."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems in the Village of Allouez, Brown County — the established residential village on the Fox River between Green Bay and De Pere. We're a Clintonville-based rural specializt reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts, owner-direct."
 order: 12
 faqs:
   - q: "Does BugBoss serve the Village of Allouez?"
-    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not the Green Bay metro, so we're not the nearest truck to Allouez — we're the rural exclusion and wildlife specialist worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit."
+    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not the Green Bay metro, so we're not the nearest truck to Allouez — we're the rural exclusion and wildlife specializt worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit."
   - q: "Why does an established village like Allouez get so many cluster flies?"
     a: "Because Allouez is largely built out with mature homes, established lawns, and big old trees, and it sits between two rivers — the Fox on the west and the East River to the east. Cluster flies breed in soil, not garbage, so those old lawns and river corridors keep producing them. They mass on warm south and west walls each fall and push into wall voids and attics."
   - q: "Can BugBoss remove bats from an Allouez home legally?"
@@ -35,7 +35,7 @@ Allouez is one of the older established communities in the Green Bay metro, and 
 
 Today Allouez is home to about **14,156 people** across **5.15 square miles**, and it's essentially built out: 100% urban, with roughly **5,575 housing units** and a very low **3.0% vacancy rate**. That's the key fact for pest control. Allouez isn't new subdivisions on former farmland — it's a **mature, settled village** of established homes, deep lawns, and big old trees, much of it dating from the first half and middle of the twentieth century. Settled housing means settled pest problems.
 
-**BugBoss The X-Terminator** is not a Green Bay metro company. We run out of **Clintonville**, in rural Waupaca County, and Allouez sits at the edge of the metro area we reach. We won't pretend we're the closest truck to a village address. What we are is the rural exclusion and wildlife specialist worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the work we do every week on old farmhouses and lake cabins out in the country, and the work the metro franchises won't take without a contract.
+**BugBoss The X-Terminator** is not a Green Bay metro company. We run out of **Clintonville**, in rural Waupaca County, and Allouez sits at the edge of the metro area we reach. We won't pretend we're the closest truck to a village address. What we are is the rural exclusion and wildlife specializt worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the work we do every week on old farmhouses and lake cabins out in the country, and the work the metro franchises won't take without a contract.
 
 ## Older, settled homes: where the pests get in
 
@@ -63,7 +63,7 @@ The control that works is a **timed early-fall exterior treatment** on those sun
 
 ## Wildlife along the Fox and East River corridors
 
-The **Fox River** on the west and the **East River** on the east both bring wildlife right up to Allouez rooflines, and this is where a rural specialist genuinely earns the drive from Clintonville. Homes backing onto the river greenway see more attic and chimney intrusions than an interior lot.
+The **Fox River** on the west and the **East River** on the east both bring wildlife right up to Allouez rooflines, and this is where a rural specializt genuinely earns the drive from Clintonville. Homes backing onto the river greenway see more attic and chimney intrusions than an interior lot.
 
 **Bats** roost in the older attics and behind loose fascia. Exclusion is legally restricted — Wisconsin protects its bats, four cave species are state-threatened, and the **DNR keeps one-way exits open June 1 through July 31** during the maternity season, when flightless pups are in the roost. Sealing the building then traps and kills the pups, which is illegal and a worse mess. We do the work in the legal window: find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up the guano. The rules are in our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the process is on the [bats](/pest-library/bats/) and [bats in attic](/pest-problems/bats-in-attic/) pages.
 
@@ -83,7 +83,7 @@ And winter in Allouez is mostly about what already got in during fall — **mice
 
 Here's the straight version. BugBoss is **Clintonville-based and family-owned** — owner Brian Zahringer runs the truck and answers the phone. Our home ground is rural country out around [Pulaski](/service-area/pulaski/), [Bonduel](/service-area/bonduel/), and [Shawano](/service-area/shawano/). Allouez is the metro edge of what we reach, and for a quick one-off a company inside the metro is closer.
 
-Where we're the better call is the specialized, problem-first work: **older-home exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — with **no long-term contract and no cancellation fee**. You're hiring a specialist for a specific problem, not signing onto a route. That's the whole point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
+Where we're the better call is the specialized, problem-first work: **older-home exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — with **no long-term contract and no cancellation fee**. You're hiring a specializt for a specific problem, not signing onto a route. That's the whole point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
 
 Every job runs the same disciplined way: we **inspect** inside and out, **treat the source** rather than just what's visible, do the **exclusion** that keeps the next wave out, and **follow up** to confirm it's gone.
 

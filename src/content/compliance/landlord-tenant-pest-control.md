@@ -27,7 +27,7 @@ faqs:
   - q: "Do these rules apply to a single-family rental house?"
     a: "Generally yes. Wisconsin's landlord-tenant statutes and rental practices rules apply to residential tenancies broadly rather than only to apartment buildings, though there are specific exceptions and some rules turn on the type of tenancy. A rented farmhouse in Waupaca County is a residential tenancy and the habitability duty travels with it — which matters out here, because rural single-family rentals see the heaviest rodent and wildlife pressure of anything we service."
   - q: "Can BugBoss work directly with my landlord?"
-    a: "Yes, and it is usually the fastest way to resolve things. We are regularly called by tenants who cannot get traction and by landlords who want the problem gone properly. We will inspect, document what we find in writing, and say plainly what caused it — which is often the piece both sides actually need, because a neutral written finding tends to end the argument about whose fault it is. For rental property owners with several units, we handle it as a documented programme rather than one-off calls."
+    a: "Yes, and it is usually the fastest way to resolve things. We are regularly called by tenants who cannot get traction and by landlords who want the problem gone properly. We will inspect, document what we find in writing, and say plainly what caused it — which is often the piece both sides actually need, because a neutral written finding tends to end the argument about whose fault it is. For rental property owners with several units, we handle it as a documented program rather than one-off calls."
 ---
 
 ## The rule, stated plainly
@@ -113,4 +113,4 @@ There is no single pest-control penalty in Wisconsin law. The consequences come 
 
 **We handle multi-unit properly.** Inspecting and treating adjacent units, not just the one that complained, because that is the only approach that works in a shared structure.
 
-**We work with either side.** Tenants call us when they cannot get traction; landlords call us when they want it resolved properly. For owners with several properties across Waupaca, Shawano, and Outagamie counties, we run it as a documented programme — see [property management pest control](/commercial-pest-control/property-management/).
+**We work with either side.** Tenants call us when they cannot get traction; landlords call us when they want it resolved properly. For owners with several properties across Waupaca, Shawano, and Outagamie counties, we run it as a documented program — see [property management pest control](/commercial-pest-control/property-management/).

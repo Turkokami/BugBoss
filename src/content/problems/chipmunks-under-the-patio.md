@@ -9,7 +9,7 @@ faqs:
   - q: "How do I know it's chipmunks and not something else?"
     a: "The entrance is the tell. Chipmunk holes are clean, round, about two inches across, and — crucially — have no mound of excavated soil around them, because they carry the spoil away in their cheek pouches to keep the entrance inconspicuous. Ground squirrel and rat burrows usually leave a spoil pile. Mole and vole work is different again: moles push up ridges and conical mounds, voles run at grass level with no digging. A clean two-inch hole with no dirt around it, next to a hard structure, is a chipmunk."
   - q: "How many are down there?"
-    a: "Usually more than you see at once. Chipmunks are territorial and largely solitary, so a burrow system typically holds one adult, but a favourable site supports several adjacent systems — and a patio, retaining wall or rock landscaping offers a lot of adjacent real estate. People commonly report seeing one and then, once they start watching, realise there are five or six working different entrances. Counting entrance holes gives a better estimate than counting sightings."
+    a: "Usually more than you see at once. Chipmunks are territorial and largely solitary, so a burrow system typically holds one adult, but a favorable site supports several adjacent systems — and a patio, retaining wall or rock landscaping offers a lot of adjacent real estate. People commonly report seeing one and then, once they start watching, realize there are five or six working different entrances. Counting entrance holes gives a better estimate than counting sightings."
   - q: "Why my yard?"
     a: "Cover, food and easy digging, in that combination. Rock landscaping, retaining walls, stacked stone, woodpiles and dense foundation plantings all give protected cover with ready-made voids. Bird feeders are a major draw — spilled seed under a feeder will support a chipmunk population indefinitely, and it is by far the most common attractant we find. Add loose backfill behind a wall or under a patio, which is far easier to tunnel than undisturbed ground, and the site is close to ideal."
   - q: "Will they get into my house?"
@@ -42,7 +42,7 @@ That network becomes a structural problem when it runs under something that bear
 
 Yards get colonised because they offer three things at once. **Cover** — rock landscaping, stacked stone, walls, woodpiles, dense foundation plantings. **Easy digging** — loose backfill and base material are far softer than undisturbed ground. And **food**, which is very often a bird feeder. Spilled seed under a feeder will sustain a chipmunk population indefinitely, and it is the most common attractant we find on these calls.
 
-Chipmunks are territorial, so a burrow usually holds one adult — but a good site supports several adjacent systems, which is why people who start watching realise there are five or six rather than the one they had noticed.
+Chipmunks are territorial, so a burrow usually holds one adult — but a good site supports several adjacent systems, which is why people who start watching realize there are five or six rather than the one they had noticed.
 
 ## What to do now
 

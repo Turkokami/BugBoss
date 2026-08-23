@@ -12,13 +12,13 @@ faqs:
   - q: "What is the yellow staining below the holes?"
     a: "Faecal material. Adult carpenter bees defecate at the gallery entrance, and it runs down the wood below the hole as yellowish-brown streaking that weathers into a persistent stain. On white-painted fascia and porch columns it is conspicuous and it does not wash off easily. The staining is also a useful diagnostic — combined with a perfectly round hole and coarse sawdust below, it confirms carpenter bees rather than any other wood-boring insect."
   - q: "How do I tell a carpenter bee from a bumble bee?"
-    a: "Look at the abdomen — the rear section of the body. A carpenter bee's is shiny, black, and essentially hairless, like polished plastic. A bumble bee's is densely furry, usually with yellow banding. Size and general shape are very similar, which is why people mix them up constantly, but the bare shiny rear is unmistakable once you know to check. Behaviour helps too: carpenter bees hover territorially around the same spot on a structure, while bumble bees work flowers and nest in the ground."
+    a: "Look at the abdomen — the rear section of the body. A carpenter bee's is shiny, black, and essentially hairless, like polished plastic. A bumble bee's is densely furry, usually with yellow banding. Size and general shape are very similar, which is why people mix them up constantly, but the bare shiny rear is unmistakable once you know to check. Behavior helps too: carpenter bees hover territorially around the same spot on a structure, while bumble bees work flowers and nest in the ground."
   - q: "Are carpenter bees good for anything?"
     a: "Yes, genuinely — they are effective pollinators, and they work early in the season when relatively little else is flying. That is worth weighing before deciding to eliminate every bee on the property. A carpenter bee working a wildflower patch or an orchard well away from any structure is doing useful work and is not a problem. The case for control is specific: galleries in structural wood, on a building you need to maintain, that get re-used and extended every year and attract woodpeckers."
   - q: "Where do carpenter bees drill?"
-    a: "Bare, weathered, unfinished softwood — cedar, pine, redwood, cypress, and fir are all favourites. They strongly prefer the underside of horizontal surfaces, which is why the classic locations are the underside of deck rails and joists, fascia and soffit boards, porch ceilings, the bottom edge of window trim, and the exposed rafters and siding of barns, sheds, and pole buildings. They generally avoid hardwoods and painted surfaces. If your deck rail has holes and your painted trim does not, that is the reason."
+    a: "Bare, weathered, unfinished softwood — cedar, pine, redwood, cypress, and fir are all favorites. They strongly prefer the underside of horizontal surfaces, which is why the classic locations are the underside of deck rails and joists, fascia and soffit boards, porch ceilings, the bottom edge of window trim, and the exposed rafters and siding of barns, sheds, and pole buildings. They generally avoid hardwoods and painted surfaces. If your deck rail has holes and your painted trim does not, that is the reason."
   - q: "Will painting the wood stop them?"
-    a: "It is the single most effective long-term prevention there is, though it is not absolute. Carpenter bees strongly prefer bare or weathered wood and a well-maintained painted surface deters them substantially. Solid-colour paint works considerably better than stain, and stain works better than nothing, but every finish only works while it is intact — once it weathers and chalks, the deterrence fades. Existing holes should be treated and plugged before finishing, otherwise you are simply painting over an active gallery."
+    a: "It is the single most effective long-term prevention there is, though it is not absolute. Carpenter bees strongly prefer bare or weathered wood and a well-maintained painted surface deters them substantially. Solid-color paint works considerably better than stain, and stain works better than nothing, but every finish only works while it is intact — once it weathers and chalks, the deterrence fades. Existing holes should be treated and plugged before finishing, otherwise you are simply painting over an active gallery."
   - q: "When should I treat for carpenter bees?"
     a: "Late spring, as the bees become active and are entering and leaving the galleries. That timing means the adults contact the treatment as they pass through the entrance. Plugging holes is a separate, later step: seal too early and you trap active bees that may simply chew a new exit, and seal before treatment and you leave developing larvae to emerge next season. The sequence matters more than most people expect — treat first, let it work, then plug, then finish the wood."
   - q: "Can I just plug the holes with caulk?"
@@ -26,11 +26,11 @@ faqs:
   - q: "How long do carpenter bees live and how many generations are there?"
     a: "In this climate there is essentially one generation a year. Adults overwinter in the old galleries, emerge in spring to mate, and the female provisions a series of cells with pollen and nectar, laying an egg in each. The larvae develop through summer, emerge as adults in late summer, feed, and then return to a gallery to overwinter. That single-generation cycle is why timing matters so much and why a year's neglect means another year's tunnelling in the same board."
   - q: "Do carpenter bees live in colonies?"
-    a: "No, they are solitary. Each female excavates and provisions her own gallery, which is quite different from honey bees or hornets. What confuses people is that many solitary females will use the same favourable board, so a barn rafter or deck rail can end up with a dozen or more holes and look very much like a colony. It is not — it is a good piece of wood that a lot of individual bees independently chose."
+    a: "No, they are solitary. Each female excavates and provisions her own gallery, which is quite different from honey bees or hornets. What confuses people is that many solitary females will use the same favorable board, so a barn rafter or deck rail can end up with a dozen or more holes and look very much like a colony. It is not — it is a good piece of wood that a lot of individual bees independently chose."
   - q: "Are the bees hovering at my head going to attack me?"
     a: "No. That is the male doing territorial display, and he has no stinger. He will hover, dart at your face, and chase other insects and even birds away from the area around the gallery, and it is genuinely intimidating the first time. He cannot hurt you. Once you know the hovering bee is structurally incapable of stinging, the whole performance becomes much easier to ignore — though it is still a reliable sign there are galleries nearby."
   - q: "Does BugBoss handle carpenter bees on barns and pole buildings?"
-    a: "Yes, and those are the biggest jobs we see. Barns, pole buildings, machine sheds, and open-rafter outbuildings across the rural corridor offer exactly what carpenter bees want: large expanses of bare, weathered softwood, mostly on horizontal undersides, that nobody paints. Infestations there build up over many years and are often accompanied by significant woodpecker damage by the time anyone calls. We treat the active galleries, work through the sealing, and lay out a realistic finishing plan for the surfaces that matter most."
+    a: "Yes, and those are the biggest jobs we see. Barns, pole buildings, machine sheds, and open-rafter outbuildings across the rural corridor offer exactly what carpenter bees want: large expanses of bare, weathered softwood, mostly on horizontal undersides, that nobody paints. Infestations there build up over many years and are often accompanied by significant woodpecker damage by the time anyone calls. We treat the active galleries, work through the sealing, and lay out a realiztic finishing plan for the surfaces that matter most."
   - q: "Is it worth treating if I only have two or three holes?"
     a: "Usually yes, because carpenter bees compound. Two or three holes this year is the cheapest, easiest point to intervene — treat, plug, finish the wood, and you are done. Left alone, those same galleries get reused and extended, more females are drawn to a board that is clearly suitable, and the woodpeckers eventually arrive. Small carpenter bee problems are genuinely easy to solve; large ones on a barn are a project. Catching it early is worth a great deal."
 ---
@@ -41,7 +41,7 @@ You hear it before you see it — a deep, heavy buzz around the deck rail — an
 
 That is the **eastern carpenter bee**, *Xylocopa virginica*, and the hole is exactly what it looks like — an entrance.
 
-Carpenter bees are large, robust bees, close enough to bumble bees in size and colouring that almost everyone assumes that is what they are. The distinguishing feature is the abdomen. A bumble bee's rear section is thickly furred and usually banded yellow. A **carpenter bee's abdomen is shiny, black, and bare** — smooth as polished plastic. Once you check that one feature the identification is instant and permanent.
+Carpenter bees are large, robust bees, close enough to bumble bees in size and coloring that almost everyone assumes that is what they are. The distinguishing feature is the abdomen. A bumble bee's rear section is thickly furred and usually banded yellow. A **carpenter bee's abdomen is shiny, black, and bare** — smooth as polished plastic. Once you check that one feature the identification is instant and permanent.
 
 They are **solitary**, which surprises people. There is no colony, no shared nest, no queen. Each female excavates her own gallery and provisions it herself. What makes a barn rafter look like a colony is simply that a lot of individual females independently agreed it was good wood.
 
@@ -57,7 +57,7 @@ And they are, for the record, useful animals. Carpenter bees are capable pollina
 
 **The staining.** Yellowish-brown streaking running down the wood below the entrance. That is faecal material from adults defecating at the hole, and on painted trim and porch columns it is conspicuous and stubborn.
 
-**The behaviour.** A big bee hovering persistently in one spot near a structure, darting out at anything that passes and returning to the same position, is a territorial male. Bumble bees do not do this. They work flowers and go to ground.
+**The behavior.** A big bee hovering persistently in one spot near a structure, darting out at anything that passes and returning to the same position, is a territorial male. Bumble bees do not do this. They work flowers and go to ground.
 
 **The sound, sometimes.** In quiet conditions, close to an active gallery, you can occasionally hear the larvae — a faint rasping or chewing from inside the wood. Which is precisely how the woodpeckers find them.
 
@@ -67,7 +67,7 @@ One generation a year, and understanding its shape tells you when to act.
 
 **Adults overwinter inside old galleries.** They do not die off in autumn and start fresh — they retreat into the existing tunnels and wait out the Wisconsin winter in the wood. This matters enormously: the holes in your deck are not just last year's damage, they are next year's housing.
 
-**Spring emergence and mating.** As temperatures climb through May, adults come out. Males take up territorial stations near favourable wood and hover; females mate and then get to work.
+**Spring emergence and mating.** As temperatures climb through May, adults come out. Males take up territorial stations near favorable wood and hover; females mate and then get to work.
 
 **Excavation.** The female cuts across the grain for roughly an inch, then turns and tunnels **with the grain**, typically four to six inches for a new gallery. She works slowly, about an inch a week, and she does not eat the wood — she chews it out and discards it, which is why you get sawdust rather than nothing. Given the choice she will extend an existing gallery rather than start from scratch, which is exactly how a board accumulates two feet of branching tunnels over a decade.
 
@@ -103,7 +103,7 @@ The rural corridor is exceptionally good carpenter bee habitat, for one straight
 - **Cabins and seasonal properties** — bare cedar, minimal maintenance, and nobody present in May to notice the bees.
 - **Fence rails, playsets, and pergolas** — smaller-scale but the same story.
 
-The common thread is bare, weathered, horizontal softwood. Painted surfaces get skipped. Hardwoods get skipped. The pressure-treated deck that has been left to grey for eight years does not get skipped.
+The common thread is bare, weathered, horizontal softwood. Painted surfaces get skipped. Hardwoods get skipped. The pressure-treated deck that has been left to gray for eight years does not get skipped.
 
 ## Signs of an infestation
 
@@ -113,7 +113,7 @@ The common thread is bare, weathered, horizontal softwood. Painted surfaces get 
 - Large shiny-abdomened bees hovering persistently near eaves, rails, or rafters
 - Territorial dive-bombing by males when you walk near the area
 - Woodpecker holes and ragged trenching where neat round holes used to be
-- Multiple holes clustered in a single favoured board
+- Multiple holes clustered in a single favored board
 - Faint chewing or rasping audible from inside the wood on a quiet day
 
 ## Risk: structural, not medical
@@ -154,22 +154,22 @@ Third — and this is the one that actually costs money — **woodpeckers**. Dow
 
 **5. Address the woodpeckers.** Where they have already found the site, the priority is removing the food source, because that is what stops the drumming and excavation. Repair guidance for what they have opened up comes with it.
 
-**6. Plan the finish.** This is the prevention conversation, and it is honest rather than idealistic: nobody is going to paint an entire barn. So we identify the surfaces where finishing actually pays — the deck rails, the house fascia, the porch — and where the realistic answer is annual treatment and monitoring instead.
+**6. Plan the finish.** This is the prevention conversation, and it is honest rather than idealistic: nobody is going to paint an entire barn. So we identify the surfaces where finishing actually pays — the deck rails, the house fascia, the porch — and where the realiztic answer is annual treatment and monitoring instead.
 
 **7. Come back next spring.** One generation a year means one meaningful check a year. On properties with barns and long histories of carpenter bee activity, an annual May visit is genuinely the efficient way to keep it from compounding.
 
 ## Prevention
 
-- **Paint or seal exposed softwood.** Solid-colour paint deters best, stain is second, bare wood is an invitation. Deck rails and undersides, fascia, soffits, porch ceilings, and trim are the priorities.
+- **Paint or seal exposed softwood.** Solid-color paint deters best, stain is second, bare wood is an invitation. Deck rails and undersides, fascia, soffits, porch ceilings, and trim are the priorities.
 - **Treat and plug existing holes before finishing.** Painting over an active gallery achieves nothing and hides the evidence.
 - **Keep finishes maintained.** The deterrent effect fades as the coating weathers and chalks. A repaint on schedule is carpenter bee prevention whether you think of it that way or not.
 - **Consider hardwood or composite** for replacement rails and trim in problem areas. Carpenter bees strongly prefer softwood.
-- **Cap exposed end grain** on rafter tails and beam ends, which are favoured drilling spots.
+- **Cap exposed end grain** on rafter tails and beam ends, which are favored drilling spots.
 - **Deal with it early.** Two or three holes is a small job. A barn with forty years of accumulation is a project. There is no cheaper moment than the first season you notice them.
 
 ## When to call BugBoss
 
-Call in **late spring** when you see the fresh sawdust and the hovering starts — that is the treatment window, and hitting it means one visit instead of a season of watching the holes multiply. Call if **woodpeckers have started working the same area**, because that means larvae in the wood and it will get worse quickly. Call if you have a **barn, shed, or pole building** with years of accumulated holes and you want a realistic plan rather than a losing battle with a spray can.
+Call in **late spring** when you see the fresh sawdust and the hovering starts — that is the treatment window, and hitting it means one visit instead of a season of watching the holes multiply. Call if **woodpeckers have started working the same area**, because that means larvae in the wood and it will get worse quickly. Call if you have a **barn, shed, or pole building** with years of accumulated holes and you want a realiztic plan rather than a losing battle with a spray can.
 
 Brian works carpenter bees across the rural corridor — Clintonville, Marion, Tigerton, Manawa, Iola, Embarrass, Waupaca, New London, and the farms and outbuildings between them — where bare barn wood and weathered cedar decks make this one of the more common structural insect calls of the early summer.
 

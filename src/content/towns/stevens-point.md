@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Stevens Point, WI?"
     a: "Yes. BugBoss The X-Terminator serves all of Stevens Point from our base at 600 S. Main St. in Clintonville, out at the western edge of our territory. We cover downtown, the near-campus rental blocks, the residential neighborhoods, and the city's business and food operations — both pest control and wildlife removal, with owner Brian Zahringer running the work."
   - q: "Do you drive all the way to Stevens Point from Clintonville?"
-    a: "We do. Stevens Point sits at the far western reach of our service map, a longer haul than our Waupaca County core, and that's exactly the corridor we built BugBoss to cover. We're the rural specialist who actually shows up in central Portage County instead of routing you to a national call center in the Fox Valley."
+    a: "We do. Stevens Point sits at the far western reach of our service map, a longer haul than our Waupaca County core, and that's exactly the corridor we built BugBoss to cover. We're the rural specializt who actually shows up in central Portage County instead of routing you to a national call center in the Fox Valley."
   - q: "What is the most common pest in Stevens Point?"
     a: "It splits by property type. Near UWSP the calls are rental mice, German cockroaches, and bed bugs moving between units. In the older neighborhoods it's cluster flies, carpenter ants, and fall invaders. Along the Wisconsin and Plover rivers it's mosquitoes. The setting drives the pest more than housekeeping does."
   - q: "Do you handle pest control for UWSP-area student rentals?"
@@ -125,4 +125,4 @@ Line the [residential service](/residential-pest-control/) up with the season �
 
 Stevens Point anchors the western end of our territory, and from here we reach the surrounding Portage County towns with the same owner-direct service: [Plover](/service-area/plover/) right next door, [Amherst](/service-area/amherst/) and [Rosholt](/service-area/rosholt/) out in the Tomorrow Valley farm country, and east through [Iola](/service-area/iola/) and [Scandinavia](/service-area/scandinavia/) toward our Waupaca County core and [Waupaca](/service-area/waupaca/) itself. Wherever you are in central Portage County, you reach Brian directly.
 
-If you've got a pest or wildlife problem anywhere in Stevens Point, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specialist who actually drives out to central Wisconsin — licensed, contract-free, and accountable to you.
+If you've got a pest or wildlife problem anywhere in Stevens Point, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specializt who actually drives out to central Wisconsin — licensed, contract-free, and accountable to you.

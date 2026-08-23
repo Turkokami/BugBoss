@@ -1,26 +1,26 @@
 ---
 pest: foxes
 title: "Foxes in Northeast Wisconsin: Dens Under the Shed, Poultry Losses & When to Just Wait"
-answer: "Red and grey foxes den under Northeast Wisconsin sheds, decks, and barn floors in spring, raising kits for about six weeks before moving on. They rarely threaten people but do take poultry. BugBoss handles humane den resolution and the exclusion that stops the same void being used next year."
+answer: "Red and gray foxes den under Northeast Wisconsin sheds, decks, and barn floors in spring, raising kits for about six weeks before moving on. They rarely threaten people but do take poultry. BugBoss handles humane den resolution and the exclusion that stops the same void being used next year."
 faqs:
   - q: "Are foxes dangerous to people?"
-    a: "Realistically, no. A red fox weighs about the same as a small dog — much of its apparent size is fur and tail — and it is a shy, wary animal that avoids people. Healthy foxes do not attack adults or children, and attacks on people are extraordinarily rare. A fox that stands and watches you from across a yard is being curious, not threatening. Where caution is genuinely warranted is with an animal behaving abnormally: disoriented, unsteady, unusually bold, or showing no fear at all. That warrants a call rather than an approach."
+    a: "Realiztically, no. A red fox weighs about the same as a small dog — much of its apparent size is fur and tail — and it is a shy, wary animal that avoids people. Healthy foxes do not attack adults or children, and attacks on people are extraordinarily rare. A fox that stands and watches you from across a yard is being curious, not threatening. Where caution is genuinely warranted is with an animal behaving abnormally: disoriented, unsteady, unusually bold, or showing no fear at all. That warrants a call rather than an approach."
   - q: "Is a fox out during the day rabid?"
-    a: "Almost certainly not, and this worry causes a lot of unnecessary alarm. Foxes are naturally active at dawn and dusk and frequently hunt in broad daylight, especially in spring when a vixen has hungry kits to feed and cannot afford to wait for nightfall. Daytime activity on its own is completely normal behaviour. The signs that actually matter are behavioural: staggering or circling, apparent disorientation, unprovoked aggression, complete absence of fear, or paralysis. An animal doing any of those should be reported and not approached."
+    a: "Almost certainly not, and this worry causes a lot of unnecessary alarm. Foxes are naturally active at dawn and dusk and frequently hunt in broad daylight, especially in spring when a vixen has hungry kits to feed and cannot afford to wait for nightfall. Daytime activity on its own is completely normal behavior. The signs that actually matter are behavioral: staggering or circling, apparent disorientation, unprovoked aggression, complete absence of fear, or paralysis. An animal doing any of those should be reported and not approached."
   - q: "There is a fox den under my shed — do I have to do anything?"
     a: "Often the best move is to wait. Fox dens under structures are almost always a spring arrangement: a vixen picks a sheltered void in March, the kits are born, and they are mobile and moving out at around six to eight weeks. The family then abandons the den on its own, at which point you can permanently seal the void and be done. If waiting is genuinely not workable — a business, a nervous household, birds at risk — mild harassment usually prompts the vixen to move the litter to one of the alternate dens she almost always maintains."
   - q: "How do I protect chickens from foxes?"
     a: "Secure housing at night is the foundation, plus a fully covered run for daytime and a base the fox cannot dig under. Foxes are persistent, capable diggers, so the bottom of the enclosure matters far more than the height — skirt hardware cloth outward about eighteen inches at ground level or bury it. Use half-inch hardware cloth rather than chicken wire, since the same construction that stops a fox digging will also stop a weasel walking through, and fit positive latches that a raccoon cannot work open."
   - q: "How do I know it is a fox and not a coyote or a dog?"
-    a: "Size and shape settle it. A red fox is small — around ten to fifteen pounds, roughly a small dog — with a slender build, very large pointed ears, black stockings on the legs, and a long bushy tail with a distinctive white tip. A coyote is two to three times heavier, greyer, with a proportionally larger muzzle and a black-tipped tail carried low when running. The white tail tip is the single most reliable field mark on a red fox. Grey foxes are similar in size to red foxes but greyer, with a black-tipped tail and, unusually, the ability to climb trees."
+    a: "Size and shape settle it. A red fox is small — around ten to fifteen pounds, roughly a small dog — with a slender build, very large pointed ears, black stockings on the legs, and a long bushy tail with a distinctive white tip. A coyote is two to three times heavier, grayer, with a proportionally larger muzzle and a black-tipped tail carried low when running. The white tail tip is the single most reliable field mark on a red fox. Gray foxes are similar in size to red foxes but grayer, with a black-tipped tail and, unusually, the ability to climb trees."
   - q: "What does a fox den look like?"
-    a: "The entrance is roughly eight inches across, usually with a fan of excavated soil spread outside it, and often more than one hole since foxes like a bolt exit. Around an active den in spring you will find a scatter of debris — feathers, bones, bits of fur, and discarded food remains — and a distinctive strong musky odour that most people notice before they see anything. Well-worn paths radiate from the entrance, and from about April onward the giveaway is kits playing outside in the morning or evening."
+    a: "The entrance is roughly eight inches across, usually with a fan of excavated soil spread outside it, and often more than one hole since foxes like a bolt exit. Around an active den in spring you will find a scatter of debris — feathers, bones, bits of fur, and discarded food remains — and a distinctive strong musky odor that most people notice before they see anything. Well-worn paths radiate from the entrance, and from about April onward the giveaway is kits playing outside in the morning or evening."
   - q: "Will a fox take my cat or small dog?"
     a: "It is uncommon but not impossible, and the risk is highest for very small pets, kittens, and small dogs left out unattended at night. Most adult cats are close enough to a fox in size that a fox will not engage — encounters between the two are usually stand-offs and mutual avoidance rather than predation. The sensible precautions are the ordinary ones for rural properties: bring small pets in at night, do not leave pet food outside, and supervise small dogs after dark, all of which also address coyotes."
   - q: "Are foxes useful to have around?"
     a: "Genuinely, yes, and it is worth weighing before deciding to remove one. A single fox family eats an enormous number of mice, voles, rats, and rabbits over a season — a vixen feeding a litter is hunting almost constantly, and rodents make up the bulk of what she brings back. On a rural property that rodent suppression is real and valuable. Removing a resident fox also creates a vacancy that a new fox will fill within a season, so unless the specific conflict is resolved, removal often just changes which animal is there."
   - q: "Is it legal to trap or remove a fox in Wisconsin?"
-    a: "Red and grey foxes are native furbearing mammals in Wisconsin, and their trapping, handling, relocation, and dispatch are governed by state wildlife and furbearer regulation, including seasons and specific provisions for animals causing damage. These rules are worth following properly and they do change. Source: Wisconsin Department of Natural Resources furbearer and wildlife regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. We deal with the regulatory side as part of the work."
+    a: "Red and gray foxes are native furbearing mammals in Wisconsin, and their trapping, handling, relocation, and dispatch are governed by state wildlife and furbearer regulation, including seasons and specific provisions for animals causing damage. These rules are worth following properly and they do change. Source: Wisconsin Department of Natural Resources furbearer and wildlife regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. We deal with the regulatory side as part of the work."
   - q: "How do I get a fox to move its den?"
     a: "Mild, persistent harassment usually does it, because vixens maintain several alternate dens precisely so they can relocate a litter when a site stops feeling safe. Increasing human activity near the entrance, leaving a radio playing nearby, adding light, and generally making the site busy and unpredictable will typically prompt a move within a few days. It should be mild — the object is to make the site unattractive, not to distress the animals or force a panicked move. Once the family has gone, the void gets sealed permanently so it cannot be reused."
   - q: "When do foxes have their young?"
@@ -49,7 +49,7 @@ Two species, both native and both common.
 
 **Red fox** (*Vulpes vulpes*) is the one people see. Rusty red above, white below, with black stockings on the legs, very large pointed ears, and a long bushy tail with a **white tip** — that white tip is the single most reliable field mark. Adults weigh only about ten to fifteen pounds; most of the apparent size is coat and tail. Red foxes do well in mixed country: farmland, field edges, woodlots, and the margins of villages.
 
-**Grey fox** (*Urocyon cinereoargenteus*) is less often seen. Grizzled grey with rusty flanks, a **black-tipped** tail, and — unusually among canids — the ability to climb trees, using them for escape and occasionally for denning in hollows. Greys prefer heavier woodland and brushier ground.
+**Gray fox** (*Urocyon cinereoargenteus*) is less often seen. Grizzled gray with rusty flanks, a **black-tipped** tail, and — unusually among canids — the ability to climb trees, using them for escape and occasionally for denning in hollows. Grays prefer heavier woodland and brushier ground.
 
 Both are largely crepuscular, most active at dawn and dusk, and both hunt in daylight without anything being wrong. Both are opportunistic omnivores: mice, voles, rabbits, birds, insects, carrion, fruit, and whatever else presents itself.
 
@@ -59,9 +59,9 @@ Worth settling, because the animals need different responses.
 
 **Red fox**: small, ten to fifteen pounds, slender, big pointed ears, black legs, bushy **white-tipped** tail, rusty coat. Runs with the tail out level.
 
-**Coyote**: two to three times heavier, greyer or more tawny, proportionally larger muzzle and head, **black-tipped** tail carried low when running. Much more substantial in the body. See [coyotes](/pest-library/coyotes/).
+**Coyote**: two to three times heavier, grayer or more tawny, proportionally larger muzzle and head, **black-tipped** tail carried low when running. Much more substantial in the body. See [coyotes](/pest-library/coyotes/).
 
-**Grey fox**: fox-sized but grizzled grey, black-tipped tail, climbs trees.
+**Gray fox**: fox-sized but grizzled gray, black-tipped tail, climbs trees.
 
 **Domestic dog**: variable, but generally a heavier build, shorter muzzle, tail carried high, and moves differently — dogs bound and range about, foxes trot with a purposeful, low, direct gait.
 
@@ -74,7 +74,7 @@ An active den is easy to identify:
 - An entrance around **eight inches** across, often with a second bolt hole nearby
 - A **fan of excavated soil** spread outside the entrance
 - A scatter of **feathers, bones, fur, and food remains** in the surrounding area
-- A distinctive **strong musky odour** most people notice before they see the hole
+- A distinctive **strong musky odor** most people notice before they see the hole
 - **Well-worn paths** radiating out from the entrance
 - From about April, **kits playing outside** in the early morning and evening
 
@@ -87,7 +87,7 @@ The timetable is the useful part:
 **Late spring into early summer** — the family abandons the natal den.
 **Autumn** — young disperse to find their own territories.
 
-An important behavioural detail: a vixen almost always maintains **several alternate dens** and will move a litter if a site stops feeling safe. That is what makes mild harassment an effective and humane tool when waiting is not an option — you are not evicting a family into nothing, you are prompting a move to a site she already has.
+An important behavioral detail: a vixen almost always maintains **several alternate dens** and will move a litter if a site stops feeling safe. That is what makes mild harassment an effective and humane tool when waiting is not an option — you are not evicting a family into nothing, you are prompting a move to a site she already has.
 
 ## Where the conflicts happen around here
 
@@ -106,7 +106,7 @@ An important behavioural detail: a vixen almost always maintains **several alter
 ## Signs
 
 - A den entrance about eight inches across with excavated soil fanned outside, under a structure
-- Strong musky odour near the entrance
+- Strong musky odor near the entrance
 - Kits playing outside at dawn or dusk from April onward
 - Feathers, bones, and food debris scattered near the den
 - Poultry taken one at a time, often in daylight, with scattered feathers
@@ -119,7 +119,7 @@ An important behavioural detail: a vixen almost always maintains **several alter
 
 **To people: very low.** Foxes are small, wary, and avoid confrontation. Attacks on people are extraordinarily rare, and a fox watching you from across the yard is curious, not dangerous.
 
-The exception worth knowing is **abnormal behaviour** — staggering, circling, disorientation, unprovoked aggression, complete absence of fear, or paralysis. Those signs warrant a call and no approach. But simply being **out in daylight is not abnormal**, and this misunderstanding causes a great deal of unnecessary worry every spring. A vixen with a litter to feed hunts whenever she can.
+The exception worth knowing is **abnormal behavior** — staggering, circling, disorientation, unprovoked aggression, complete absence of fear, or paralysis. Those signs warrant a call and no approach. But simply being **out in daylight is not abnormal**, and this misunderstanding causes a great deal of unnecessary worry every spring. A vixen with a litter to feed hunts whenever she can.
 
 **To pets: low but not zero.** Very small pets, kittens, and small dogs left out unattended at night carry some risk. Most adult cats are close enough in size that encounters are stand-offs rather than predation.
 
@@ -131,7 +131,7 @@ And the **benefit** deserves stating: a fox family eats a very large number of r
 
 ## Why DIY usually fails
 
-**Sealing the den with kits inside.** The most serious mistake, and it happens. The young starve under the structure, which is both inhumane and produces an odour and insect problem you will be dealing with for weeks.
+**Sealing the den with kits inside.** The most serious mistake, and it happens. The young starve under the structure, which is both inhumane and produces an odor and insect problem you will be dealing with for weeks.
 
 **Removing the adult and leaving the litter.** Same outcome by a different route.
 
@@ -181,4 +181,4 @@ Call when you find a **den under a structure** and want to know whether it needs
 
 Brian handles fox work across the rural corridor — Clintonville, Marion, Tigerton, Embarrass, Bear Creek, Iola, Manawa, Waupaca, New London, Weyauwega, and the farmsteads and village properties between them — where open voids under outbuildings and backyard flocks put foxes and people in regular contact every spring.
 
-If the animal is considerably larger and greyer, read [coyotes](/pest-library/coyotes/). If birds are being killed in numbers and left uneaten rather than carried off, that is [weasels and mink](/pest-library/weasels-mink/). And for the other animals that den in the same voids, see [skunks](/pest-library/skunks/), [groundhogs](/pest-library/groundhogs/), [opossums](/pest-library/opossums/), and [porcupines](/pest-library/porcupines/).
+If the animal is considerably larger and grayer, read [coyotes](/pest-library/coyotes/). If birds are being killed in numbers and left uneaten rather than carried off, that is [weasels and mink](/pest-library/weasels-mink/). And for the other animals that den in the same voids, see [skunks](/pest-library/skunks/), [groundhogs](/pest-library/groundhogs/), [opossums](/pest-library/opossums/), and [porcupines](/pest-library/porcupines/).

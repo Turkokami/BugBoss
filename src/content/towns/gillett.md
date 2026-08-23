@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Gillett, WI?"
     a: "Yes. BugBoss The X-Terminator covers Gillett and the surrounding Oconto County from our base in Clintonville. This farm-and-forest corner northeast of us is underserved by the national brands, so we schedule it on purpose. We handle village homes, farmsteads, hunting and recreation cabins, and the small downtown — pest control and wildlife both."
   - q: "Is there a local pest company in Gillett, or does BugBoss come from far off?"
-    a: "BugBoss is the rural specialist that actually covers this area. Most homeowners here are used to a franchise dispatching from Green Bay on the company's schedule, or being told wildlife isn't part of the deal. We're based in Clintonville, we run this corridor deliberately, and we do pest and wildlife under one roof with no long-term contract."
+    a: "BugBoss is the rural specializt that actually covers this area. Most homeowners here are used to a franchise dispatching from Green Bay on the company's schedule, or being told wildlife isn't part of the deal. We're based in Clintonville, we run this corridor deliberately, and we do pest and wildlife under one roof with no long-term contract."
   - q: "What is the most common pest in Gillett homes?"
     a: "Cluster flies and mice. Gillett sits in open farm-and-forest country where cluster fly larvae develop in the soil, so nearly every property grows its own population regardless of housekeeping. As the nights cool they mass on warm south and west walls, and mice push in from the surrounding fields and woodlots. Both are about the setting, not cleanliness."
   - q: "Does BugBoss remove bats in Gillett?"
@@ -97,7 +97,7 @@ Beyond the headline pests, farm-and-forest country produces its own supporting c
 
 The durable fix in Gillett is **exclusion**, not repeated spraying — and it matters even more where buildings sit empty for stretches, because there's no one home to notice a problem starting. A treatment clears what's present now; sealing the building keeps the next wave out. On a Gillett property that means sealing around **utility and pipe penetrations** and stovepipe and chimney gaps, closing the **sill-plate and log-joint gaps** where the frame meets the foundation, addressing **soffit and fascia junctions** and weak roof edges where squirrels, bats, and raccoons get in, and correcting **moisture** that draws carpenter ants to damp wood. On a farm the same logic runs building by building: the operation is only as rodent-tight as its weakest shed. For a cabin, exclusion done before a season of vacancy is worth more than any amount of trapping done after.
 
-## Why a rural specialist beats the national brands here
+## Why a rural specializt beats the national brands here
 
 National pest companies are built for dense subdivisions and tight routes. A small farm-and-forest city at the far edge of a Green Bay route doesn't fit that model, and it shows — the far-off dispatch, the missed windows, the sense that you're the stop nobody wants to drive to, and the flat refusal to touch wildlife. What counts here is **knowing the ground and actually showing up**, and working with someone who can tell a cluster fly from a stable fly, a big brown bat from a little brown bat, and a moisture-driven carpenter ant problem from a harmless ant trail on the woodpile.
 

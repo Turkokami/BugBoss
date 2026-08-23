@@ -6,7 +6,7 @@ faqs:
   - q: "Does BugBoss provide pest control in Rosholt, WI?"
     a: "Yes. BugBoss The X-Terminator serves Rosholt and the surrounding northern-Portage farm and pine country from our base at 600 S. Main St. in Clintonville. We cover village homes, the older farmhouses and outbuildings, and the hunting cabins scattered through the pines — both pest control and wildlife removal, with owner Brian Zahringer running the work."
   - q: "Why does BugBoss drive all the way out to Rosholt?"
-    a: "Because deep-rural central Wisconsin is exactly the corridor we built BugBoss to reach. Rosholt is one of the farthest points on our map, out in the northern-Portage pine and farm country. We're the local specialist who actually shows up here rather than routing you to a national call center in the Fox Valley or Wausau."
+    a: "Because deep-rural central Wisconsin is exactly the corridor we built BugBoss to reach. Rosholt is one of the farthest points on our map, out in the northern-Portage pine and farm country. We're the local specializt who actually shows up here rather than routing you to a national call center in the Fox Valley or Wausau."
   - q: "What is the most common pest in Rosholt?"
     a: "Mice and fall invaders. Rosholt is deep farm and pine country, so homes sit surrounded by field, woodlot, and pine, and mice push indoors every fall while cluster flies and boxelder bugs mass on sunny walls. Older farmhouses and seasonal cabins get hit hardest because they have the most gaps and sit empty or quiet. It's the rural setting, not housekeeping."
   - q: "Does BugBoss handle rodents in Rosholt farmhouses and cabins?"
@@ -41,7 +41,7 @@ Rosholt is about as far out as BugBoss The X-Terminator drives, and it's deep ru
 
 That setting is the whole story for pest control. Rosholt homes sit surrounded by open field, woodlot, and pine, and the pests here come with that rural exposure, not with housekeeping. Mice pour in off the fields every fall. Cluster flies grow out of the earthworm-rich soil of lawns and pastures. Carpenter ants find moisture in old farmhouse and cabin wood. And the barns, sheds, grain storage, and the hunting cabins scattered through the pines all act as reservoirs and quiet harborage that feed the pressure on the homes nearby. This is **farmhouse, outbuilding, and seasonal-cabin country**, and it needs a patient, whole-property approach.
 
-We reach Rosholt from Clintonville at nearly the outer edge of our map, and that's on purpose — being the rural specialist who covers this corridor is what BugBoss is for. We do **both pest control and wildlife removal**, you deal directly with owner Brian Zahringer, and there's no contract. Here's how the pest year runs out here.
+We reach Rosholt from Clintonville at nearly the outer edge of our map, and that's on purpose — being the rural specializt who covers this corridor is what BugBoss is for. We do **both pest control and wildlife removal**, you deal directly with owner Brian Zahringer, and there's no contract. Here's how the pest year runs out here.
 
 ## The Rosholt pest calendar, season by season
 
@@ -123,4 +123,4 @@ A few signs are worth a call before a problem takes hold: droppings and gnaw mar
 
 Rosholt sits at nearly the outer edge of the BugBoss map, and from here we cover the surrounding northern-Portage towns with the same owner-direct service: [Amherst](/service-area/amherst/) to the south, [Stevens Point](/service-area/stevens-point/) and [Plover](/service-area/plover/) to the west, and east through [Iola](/service-area/iola/) and [Scandinavia](/service-area/scandinavia/) toward our Waupaca County core and [Waupaca](/service-area/waupaca/) itself. Wherever you are in the northern-Portage farm and pine country, you reach Brian directly.
 
-If you've got a pest or wildlife problem anywhere around Rosholt, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specialist who actually makes the drive out to the pines — licensed, contract-free, and accountable to you.
+If you've got a pest or wildlife problem anywhere around Rosholt, call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). We're the rural specializt who actually makes the drive out to the pines — licensed, contract-free, and accountable to you.

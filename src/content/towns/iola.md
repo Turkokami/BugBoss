@@ -79,7 +79,7 @@ The **year-round village homes** in Iola proper are more conventional but still 
 
 The **Chain O' Lakes** and the **Tomorrow River** are the center of Iola's ecology, and water drives the pest picture in several directions. The lakes and slow river water are **mosquito** habitat. The moisture around waterfront buildings invites **carpenter ants, springtails, and dampness pests**. And the wooded shorelines and lots are prime **wildlife** country and prime habitat for the **ticks** that carry Lyme disease, which thrive where mowed ground meets brush and woods — the exact edge that defines nearly every lake lot. Our [tick and Lyme yard program](/guides/tick-lyme-yard-program/) is built to push that pressure back from the yard and the dock path.
 
-The higher, wooded glacial terrain around Iola also means more **hardwood and mixed forest** pressed up against homes than you'll find in the flatter farm towns — more carpenter ant parent nests, more squirrels, more raccoon and bat activity along the roofline. It's a genuinely different environment from the open dairy country a few miles east, and it calls for a different emphasis: exclusion of both insects and wildlife, and service timed to the seasonal calendar of the lakes.
+The higher, wooded glacial terrain around Iola also means more **hardwood and mixed forest** pressed up against homes than you'll find in the flatter farm towns — more carpenter ant parent nests, more squirrels, more raccoon and bat activity along the roofline. It's a genuinely different environment from the open dairy country a few miles east, and it calls for a different emphasiz: exclusion of both insects and wildlife, and service timed to the seasonal calendar of the lakes.
 
 ## Wildlife in Iola: cabins, attics, and the law
 

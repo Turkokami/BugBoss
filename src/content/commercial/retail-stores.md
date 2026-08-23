@@ -22,7 +22,7 @@ faqs:
   - q: "Do I need a long-term contract?"
     a: "No. BugBoss serves retail with no long-term contract and no cancellation fees. You get a program scoped to your store and you stay because it works. See our no-contract commitment."
   - q: "Is your service documented for health inspections?"
-    a: "Yes. Every visit produces a dated service record, a device map for rodent and insect monitors, a sighting and trend log, and corrective-action notes — the documentation a Wisconsin retail food inspector or agent-county sanitarian expects to find on-site and current."
+    a: "Every visit produces a work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."
   - q: "How often should a retail store be serviced?"
     a: "It depends on size, whether you sell food, your receiving volume, and your history. A small Main Street shop may need periodic service; a grocery or high-volume convenience store with a busy dock typically needs a regular monitored program. Brian scopes frequency to your actual risk, not a national brand's route template."
   - q: "We keep finding droppings but never see a mouse. Why?"
@@ -121,7 +121,7 @@ Almost everything that gets into a store starts outside it, and an interior-only
 
 Getting the exterior right is what makes the interior program hold. Seal the dock gaps, keep the corral clean and closed, cut back the harborage against the wall, and knock down the outdoor breeding sites, and the pressure at the door drops before it ever becomes an interior problem. It's the difference between a store that reacts to what it finds inside and one that stops the problem in the parking lot.
 
-## An audit-ready IPM program for retail
+## A documented IPM program for retail
 
 BugBoss builds retail programs on **Integrated Pest Management (IPM)** — inspection, monitoring, sanitation, and exclusion first, with targeted treatment only where it's warranted — which is both the most effective approach in an occupied store and the standard an inspector wants to see. Our broader [commercial pest control](/commercial-pest-control/) framework carries across every industry we serve; for retail it's tuned to the back-of-house realities above.
 
@@ -143,8 +143,8 @@ Central and Northeast Wisconsin retail is small-format and community-anchored: t
 1. **Walk-through and risk assessment.** Brian inspects the whole envelope — sales floor, back room, receiving dock, dropped ceiling and voids, break room, exterior, and dumpster corral — and identifies active pests, conducive conditions, and the entry points that will cause the next problem.
 2. **A program scoped to your store.** We set frequency and place and map monitoring devices based on your size, food-retail status, receiving volume, and history — not a one-size route box.
 3. **Treat the source, exclude the entry.** We eliminate active pests at the source — pull infested product lines, treat breeding drains, target rodent harborage — and seal the physical gaps at the dock, thresholds, and penetrations that let pests in.
-4. **Document everything.** Every visit feeds the on-site record: service log, device map, trend log, corrective actions — ready when an inspector arrives.
-5. **Follow up and adjust.** We track the trend log, raise frequency ahead of fall rodent season, and respond to callbacks directly. You're working with the owner, so a problem between visits is a phone call, not a claim.
+4. **Document every visit.** Every visit produces a work order recording what was inspected, what was found and what was done — the record a Wisconsin retail food inspector normally asks for. If a banner or supplier audit requires more, agree it with us up front.
+5. **Follow up and adjust.** We watch how activity moves across visits, raise frequency ahead of fall rodent season, and respond to callbacks directly. You're working with the owner, so a problem between visits is a phone call, not a claim.
 
 You get all of it [without a long-term contract or cancellation fees](/no-contracts/). You stay because the store stays clean.
 

@@ -195,6 +195,18 @@ for (const file of walk('src', '.astro')) {
   }
 }
 
+// American English. The site sells in Wisconsin, and British spellings read as
+// foreign — worse, as outsourced — on a local-intent page. A batch of them was
+// cleaned out once; this keeps them out. Stems only, so American-in-both words
+// (franchise, premises, harborage, cancellation) are never matched.
+const BRITISH = /\b(grey|colour|odour|vapour|armour|harbour|honour|behaviour|favour|defence|neighbourhood|labour|mould|moult|metre|litre|fibre|centre|licence|tyres?|storeys?|enquir|sulphur|aluminium|draught|whilst|amongst|programme|realis(e|ed|es|ing)|recognis(e|ed|es|ing)|prioritis(e|ed|es|ing)|fertilis(e|ed|es|ing)|organis(e|ed|es|ing|ation)|analys(e|ed|es|ing)|labelled|travelling|cancelled)/i;
+for (const file of [...walk('src', '.md'), ...walk('src', '.astro'), ...walk('src', '.ts')]) {
+  for (const [i, line] of readFileSync(file, 'utf8').split('\n').entries()) {
+    const hit = line.match(BRITISH);
+    if (hit) fail(`${file}:${i + 1}`, 'british-spelling', hit[0]);
+  }
+}
+
 // --- Cross-page link checks -------------------------------------------------
 for (const [target, sources] of linkTargets) {
   if (!existingPaths.has(target)) {

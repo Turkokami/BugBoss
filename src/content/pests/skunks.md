@@ -29,7 +29,7 @@ faqs:
     a: "Not truly. In Northeast Wisconsin's cold, skunks enter a state of reduced activity called torpor and hole up in a protected den — often under a deck, shed, or outbuilding, sometimes several females together — living off fat reserves and emerging on milder days. Males roam more, especially as breeding approaches in late winter. So a warm winter den under your structure is common, and it sets up the spring litter."
   - q: "Does BugBoss handle skunks under barns, sheds, and outbuildings?"
     a: "Yes. On rural properties around Clintonville, the crawl spaces under sheds, pole barns, granaries, and old outbuildings are prime skunk dens, and outbuilding wildlife removal and exclusion is core work for us. We remove the animals, trench in a dig-proof barrier or screen the skirt, and clean up the den — the same approach we use under a house deck."
-  - q: "Should I call a pest company or a wildlife specialist for a skunk?"
+  - q: "Should I call a pest company or a wildlife specializt for a skunk?"
     a: "Both — which is the point of BugBoss. Most pest-only companies around here won't touch wildlife, and most trappers won't do the exclusion and cleanup that actually keeps skunks from coming back. We do pest control and wildlife removal under one roof, so a skunk job means humane removal, a dig-proof seal on the den, and cleanup handled together, by the owner you reach directly."
 ---
 

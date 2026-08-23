@@ -7,7 +7,7 @@ faqs:
   - q: "Why do cabins around Iola get bats so often?"
     a: "Because a seasonal property offers exactly what a maternity colony wants: quiet, undisturbed, warm under the roof, and nobody there for months at a stretch. A cabin closed from October and reopened at Memorial Day is unoccupied through the entire period a colony forms and raises pups. Add the wooded lots and water of the Chain O' Lakes region, which support the insects bats feed on, and you have as good a set of conditions as exists in this part of Wisconsin."
   - q: "When can bats legally be excluded in Wisconsin?"
-    a: "Not during the maternity season, which is the single most important thing to know. Wisconsin bats are protected and exclusion is timed around the period when flightless pups are in the roost — sealing then traps young inside to die in the structure, which is both inhumane and creates a serious odour and insect problem in your cabin. The lawful and practical windows sit either side of that season. Source: Wisconsin Department of Natural Resources bat regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. Check current dates before scheduling."
+    a: "Not during the maternity season, which is the single most important thing to know. Wisconsin bats are protected and exclusion is timed around the period when flightless pups are in the roost — sealing then traps young inside to die in the structure, which is both inhumane and creates a serious odor and insect problem in your cabin. The lawful and practical windows sit either side of that season. Source: Wisconsin Department of Natural Resources bat regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. Check current dates before scheduling."
   - q: "I only opened the cabin in May and found droppings. What now?"
     a: "Do not seal anything yet, and this is the common mistake on seasonal property. Arriving in spring to find evidence of bats usually means a colony either is present or is about to form, and that is precisely the point in the year when exclusion cannot be done. Get it inspected, establish whether there are bats and pups in there now, and plan the work for the correct window. Sealing in May because you have just found the mess is how people end up with dead pups in a cabin wall in July."
   - q: "How are they getting in?"
@@ -38,7 +38,7 @@ The setting compounds it. Woodland lots and open water across the Chain O' Lakes
 
 This is the part that separates bat work from every other pest on this site: **you cannot simply do it when you notice it.**
 
-Wisconsin bats are protected, and exclusion is timed around the maternity season. Seal a roost while flightless pups are inside and they die in the structure. In a cabin that means an odour problem and a fly problem inside a building you only visit occasionally — which is considerably worse than the bats were.
+Wisconsin bats are protected, and exclusion is timed around the maternity season. Seal a roost while flightless pups are inside and they die in the structure. In a cabin that means an odor problem and a fly problem inside a building you only visit occasionally — which is considerably worse than the bats were.
 
 *Source: Wisconsin Department of Natural Resources bat regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026.*
 

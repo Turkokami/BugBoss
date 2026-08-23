@@ -20,7 +20,7 @@ faqs:
   - q: "Can you service my restaurant when we're closed?"
     a: "Yes. We schedule around your hours — early mornings, between service, or after close — so treatment and inspection happen when the kitchen is quiet and customers aren't around. Discreet scheduling is standard for food service accounts, both to avoid disruption and because you don't want pest management visible during service."
   - q: "What documentation do you leave for my health inspection?"
-    a: "Every visit is documented: what was found, what was treated and where, device and monitoring locations, pest activity trends over time, and any corrective actions or sanitation recommendations. That record stays on-site in a service log an inspector can review. When a DATCP or health-department inspector asks what your pest program looks like, the answer is a binder, not a shrug."
+    a: "Every visit produces a work order recording what was inspected, what was found, what was treated and where, and the sanitation work the kitchen needs to do next — the record a DATCP or health-department inspector normally asks to see. Keep those on-site and your pest program has an answer rather than a shrug. If a franchise brand standard or a third-party audit scheme requires more than that, tell us what it asks for before we start so we can agree the record-keeping up front."
   - q: "Do you treat around food without contaminating it?"
     a: "Yes. Food-handling areas get crack-and-crevice treatment, gel baiting in harborage, monitoring devices, and exclusion — not broadcast spraying over prep surfaces. Product placement follows the label and keeps material away from food, utensils, and food-contact surfaces. The Wisconsin Food Code and the pesticide label both govern this, and doing it correctly is exactly why a restaurant shouldn't hand pest control to an untrained sprayer."
   - q: "How often should a restaurant get pest control service?"
@@ -111,7 +111,7 @@ Pest pressure on a Wisconsin restaurant tracks the calendar, and a program that 
 
 **Winter (November–February)** is mostly interior work. Outdoor pressure drops, but the rodents that got in are warm, fed, and breeding, and German cockroach populations don't slow down at all inside a heated kitchen. Winter is the time to press on interior baiting, exclusion, and the harborage work that's easier to reach when the exterior is quiet.
 
-## What an audit-ready BugBoss restaurant program includes
+## What a documented BugBoss restaurant program includes
 
 Anyone can spray a baseboard. What a food service operation actually needs is a **documented IPM program** that keeps pests down and stands up to inspection. Here is what ours includes.
 
@@ -121,7 +121,7 @@ IPM means we don't lead with chemicals. We lead with **inspection, monitoring, s
 
 ### Monitoring and device maps
 
-We install and maintain **monitoring devices** — insect monitors, rodent stations, and insect light traps — placed deliberately at the entry points, harborage, and runways that matter in your specific building, and we keep a **device map** showing where each one is. That map does two things: it makes service consistent from visit to visit, and it gives an inspector or auditor a clear picture of the monitoring network. Reading those devices at each visit is how we catch a developing problem early instead of after it's visible on the line.
+We install and maintain **monitoring devices** — insect monitors, rodent stations, and insect light traps — placed deliberately at the entry points, harborage, and runways that matter in your specific building. Where a program warrants it we will map those placements, which makes service consistent from visit to visit and gives an inspector a clear picture of the monitoring network — worth agreeing at the outset if your operation is audited. Reading those devices at each visit is how we catch a developing problem early instead of after it's visible on the line.
 
 ### Sanitation and exclusion
 
@@ -139,7 +139,7 @@ We service food accounts **around your operation** — early mornings, between s
 
 Here is the reality for a supper club in Waupaca County or a cafe in Shawano: the national pest control brands dispatch from the Fox Valley or farther, they lock operators into multi-year contracts with cancellation fees, they rotate route technicians who don't know your building, and when a problem flares up before a busy Friday night, "we can get someone out next week" isn't good enough. Meanwhile the food-safety expectations — the Wisconsin Food Code, the health inspection, the documentation — apply to a village restaurant exactly as they apply to a Milwaukee one. Rural operators end up with the same rules and worse service.
 
-BugBoss is built for that gap. We're **local**, based in Clintonville, so we can respond fast when something surfaces. We build the program around your specific building and the rules it answers to. We keep the **audit-ready documentation** inspectors expect. We do both pest control and [wildlife removal](/wildlife-removal/), which matters when a bird or a squirrel gets into a restaurant's roofline or a raccoon works the dumpster corral. And we don't trap you in a contract — the whole idea behind our [no-contract approach](/no-contracts/) is that you stay because it works. You deal with the owner, [Brian](/about/), directly.
+BugBoss is built for that gap. We're **local**, based in Clintonville, so we can respond fast when something surfaces. We build the program around your specific building and the rules it answers to. We keep the **the documentation your scheme requires** inspectors expect. We do both pest control and [wildlife removal](/wildlife-removal/), which matters when a bird or a squirrel gets into a restaurant's roofline or a raccoon works the dumpster corral. And we don't trap you in a contract — the whole idea behind our [no-contract approach](/no-contracts/) is that you stay because it works. You deal with the owner, [Brian](/about/), directly.
 
 ## The BugBoss process for a food service account
 

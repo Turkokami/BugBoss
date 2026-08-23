@@ -9,7 +9,7 @@ faqs:
   - q: "Where do they actually get into a farmhouse?"
     a: "Older Marion farmhouses tend to have a handful of routes that come up again and again: the gap where the sill plate meets a stone or block foundation, the space around a well line or electrical conduit, basement window frames that have shifted, and the bulkhead or cellar door. Then there is the porch or addition built on later with a different foundation, which almost always leaves a seam. A mouse needs a gap about the width of a pencil, so most of these are invisible until someone gets down with a torch."
   - q: "Should I bait the pole barn?"
-    a: "Baiting has a role in an outbuilding, but on its own it is a permanent expense rather than a fix. As long as the feed and the harbourage are there, the population replaces itself, and you are paying to remove a fraction of it forever. The order that works is: secure the feed, cut the harbourage, seal what can be sealed, then use control to knock down what remains. Doing it the other way round is why people bait the same barn for a decade."
+    a: "Baiting has a role in an outbuilding, but on its own it is a permanent expense rather than a fix. As long as the feed and the harborage are there, the population replaces itself, and you are paying to remove a fraction of it forever. The order that works is: secure the feed, cut the harborage, seal what can be sealed, then use control to knock down what remains. Doing it the other way round is why people bait the same barn for a decade."
   - q: "How do I secure feed in an older pole barn?"
     a: "Metal or hard sealed containers rather than bags on the floor, pallets off the wall so you can see and clean behind them, and prompt cleanup of spillage — the loose grain around a bin or auger is usually the single biggest food source on the property. Nobody gets a working farm perfectly clean and we do not pretend otherwise, but reducing the easy calories dramatically reduces what the buildings can support."
   - q: "Do mice actually damage anything or are they just a nuisance?"
@@ -50,7 +50,7 @@ A mouse gets through a gap about the width of a pencil. Most of these are invisi
 
 **Secure the feed first.** Hard sealed containers, pallets off the wall so behind them can be seen and cleaned, and prompt cleanup of spillage around bins and augers. Nobody gets a working farm spotless and we do not pretend otherwise — but the loose grain is usually the single biggest food source on the property and reducing it changes what the buildings can carry.
 
-**Cut the harbourage.** Stacked material against walls, old bedding, disused equipment full of nesting sites.
+**Cut the harborage.** Stacked material against walls, old bedding, disused equipment full of nesting sites.
 
 **Seal the buildings**, farmhouse first. This is the part that lasts, and it is what separates a solved problem from an annual expense.
 

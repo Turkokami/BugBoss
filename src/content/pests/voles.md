@@ -107,7 +107,7 @@ Vole prevention is about **cover and protection**, since there is no building to
 
 **Protect the vulnerable plants** before winter. Wrap the base of young trees and valuable shrubs with hardware cloth or plastic tree guards, set a few inches into the soil so voles cannot burrow under and tall enough to clear the expected snow depth so they cannot reach over it. Keep a clear, bare zone around trunks — no grass, no mulch, no cover right at the base. For gardens and bulb beds, hardware-cloth barriers and reducing surrounding cover help protect roots and bulbs. Do this **in fall**, before the snow arrives and the girdling season begins, because the protection has to be in place before the damage starts, not after it shows up in spring.
 
-Manage the **edges and the property as a whole**, too. A tidy, mowed transition between lawn and adjacent field, ditch, or woodlot reduces the vole reservoir feeding into the yard, and keeping the immediate landscape open and low takes away the cover that turns a few voles into a damaging population. On a rural property surrounded by grassland the voles will always be out there — the realistic goal is a low-cover landscape with the valuable plants protected, not a vole-free countryside.
+Manage the **edges and the property as a whole**, too. A tidy, mowed transition between lawn and adjacent field, ditch, or woodlot reduces the vole reservoir feeding into the yard, and keeping the immediate landscape open and low takes away the cover that turns a few voles into a damaging population. On a rural property surrounded by grassland the voles will always be out there — the realiztic goal is a low-cover landscape with the valuable plants protected, not a vole-free countryside.
 
 ## When to call BugBoss
 

@@ -87,7 +87,7 @@ Japanese beetles pose no threat to people or pets. They do not bite or sting, th
 
 ## Why DIY usually fails
 
-The single most common DIY mistake is hanging a **pheromone trap** in the yard. The traps are extremely good at attracting beetles — that is exactly the problem. A trap pulls in far more beetles from the surrounding area than it captures, and many of those beetles settle onto your plants on the way to the trap. Homeowners routinely find that a trap makes their beetle problem worse, not better, which is why extension specialists generally advise against using them anywhere near a garden you are trying to protect.
+The single most common DIY mistake is hanging a **pheromone trap** in the yard. The traps are extremely good at attracting beetles — that is exactly the problem. A trap pulls in far more beetles from the surrounding area than it captures, and many of those beetles settle onto your plants on the way to the trap. Homeowners routinely find that a trap makes their beetle problem worse, not better, which is why extension specializts generally advise against using them anywhere near a garden you are trying to protect.
 
 The second problem is timing and scale on the grub side. People often try to treat grubs in spring or late fall, when the grubs are large and burrowing deep and far harder to affect, and skip the mid-to-late-summer window when the young grubs are small, near the surface, and vulnerable. Applied at the wrong time, a grub product can be almost entirely wasted. And any grub control only addresses your own turf — it does nothing about the adults flying in from the fields and neighbors, so people who kill their grubs are surprised to still see beetles on their roses.
 
@@ -109,7 +109,7 @@ On the **lawn and grub side**, healthy turf tolerates some grub feeding, and a w
 
 It also helps to know which plants you are fighting for. The beetle's short list of favorites — roses, grapes, raspberries, lindens and basswood, birch, crabapple, Norway maple, and beans — is where the worst damage concentrates, so those are the plants worth active protection. Plants the beetle largely ignores, including many conifers, lilacs, hydrangeas, and a range of other ornamentals, need little or none. On vegetable beds, lightweight floating row covers can shield a crop during the peak weeks in July, provided the crop does not need insect pollination during that stretch; covers over squash or cucumbers, which do, will cost you fruit set, so they suit leafy crops better. Matching effort to the plant, rather than trying to defend everything equally, is how a homeowner keeps a heavy beetle year from becoming a full-time job.
 
-For most rural properties, the realistic goal is not zero beetles — the surrounding land guarantees a summer population — but keeping the damage to your lawn, garden, and prized plantings within bounds through a combination of well-timed treatment and sensible garden practice.
+For most rural properties, the realiztic goal is not zero beetles — the surrounding land guarantees a summer population — but keeping the damage to your lawn, garden, and prized plantings within bounds through a combination of well-timed treatment and sensible garden practice.
 
 ## When to call BugBoss
 

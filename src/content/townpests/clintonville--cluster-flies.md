@@ -9,7 +9,7 @@ faqs:
   - q: "When should a Clintonville home be treated?"
     a: "Late August into the first half of September, before the flies start massing on the walls. Once they are into the soffits and wall voids the opportunity has passed for that year and everything after is cleanup. We schedule Clintonville properties early in the season precisely because we are in town — a same-day window is easy to find here in a way it is not for the outlying towns."
   - q: "Which side of the house do they gather on?"
-    a: "South and west, almost always, because they are following the afternoon sun on the warm siding. On the older two-storey homes around downtown that usually means the upper wall and the soffit line, which is also where the gaps are. If you want to know whether you have a problem building, stand on the south side of the house on a warm afternoon in late September and look up."
+    a: "South and west, almost always, because they are following the afternoon sun on the warm siding. On the older two-story homes around downtown that usually means the upper wall and the soffit line, which is also where the gaps are. If you want to know whether you have a problem building, stand on the south side of the house on a warm afternoon in late September and look up."
   - q: "Do they come back every year?"
     a: "Yes, unless the entry points are sealed, and often even then at reduced numbers — because the flies re-invade from the surrounding land every autumn regardless of what you do to the building. That is why most Clintonville properties do best on an annual early-fall exterior rather than a one-off. Sealing cuts how many get in; the annual treatment cuts how many are on the wall in the first place."
   - q: "They are showing up inside in February. Why?"
@@ -24,9 +24,9 @@ Clintonville is home base — the BugBoss storefront is at 600 S. Main St. — s
 
 ## The village houses
 
-The older homes around downtown and the mid-century neighbourhoods behind them are the harder buildings. Cluster flies do not need much: a gap at a soffit return, a worn seal on an original wood window, a crack where the frieze board meets the wall. A century-old Clintonville house has dozens of those, and balloon framing means once the flies are into a wall cavity they can travel almost the full height of the building.
+The older homes around downtown and the mid-century neighborhoods behind them are the harder buildings. Cluster flies do not need much: a gap at a soffit return, a worn seal on an original wood window, a crack where the frieze board meets the wall. A century-old Clintonville house has dozens of those, and balloon framing means once the flies are into a wall cavity they can travel almost the full height of the building.
 
-That is why people in the older parts of town describe finding them in an upstairs bedroom in February with no idea how they got there. They got in in September, three storeys of wall cavity away.
+That is why people in the older parts of town describe finding them in an upstairs bedroom in February with no idea how they got there. They got in in September, three stories of wall cavity away.
 
 ## The properties on the edge
 

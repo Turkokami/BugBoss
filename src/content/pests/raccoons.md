@@ -31,7 +31,7 @@ faqs:
     a: "Very possibly. Heavy thumping, scratching, and movement — and, in spring, chittering or crying sounds from young — coming from a chimney or attic at night point to a raccoon, often a mother with kits. Raccoons are nocturnal, so the noise typically starts around dusk. Squirrels are active in daytime and lighter; the heavy, deliberate nighttime movement is a raccoon tell. Have it inspected before lighting any fire."
   - q: "Does BugBoss handle raccoons in barns and outbuildings?"
     a: "Yes. Barns, sheds, pole barns, and other outbuildings are common raccoon den sites on rural properties around Clintonville, and outbuilding wildlife removal and exclusion is part of our core service. We remove the animals, seal or screen the access points, and clean up latrines and contamination, the same as we would in a house attic."
-  - q: "Should I call a pest company or a wildlife specialist for raccoons?"
+  - q: "Should I call a pest company or a wildlife specializt for raccoons?"
     a: "Both, ideally — and that's the point of BugBoss. Most pest-only companies in this area won't touch wildlife, and most trappers don't do the sealing and cleanup that actually solves the problem. We do pest control and wildlife work under one roof, so a raccoon job means removal, exclusion, and decontamination handled together, by the same people you can reach directly."
 ---
 

@@ -2,7 +2,7 @@
 title: "Warehouse & Distribution Center Pest Control in Wisconsin"
 industry: "Warehousing & Distribution"
 category: "Manufacturing & Industrial"
-answer: "BugBoss The X-Terminator builds documented, audit-ready pest programs for warehouses and distribution centers across Central and Northeast Wisconsin — perimeter rodent lines with mapped devices, loading-dock exclusion, high-bay bird management, and stored-product insect monitoring built to satisfy FSMA, AIB, and customer audits, scheduled around your operation, with no long-term contract."
+answer: "BugBoss The X-Terminator builds documented pest programs for warehouses and distribution centers across Central and Northeast Wisconsin — perimeter rodent lines with mapped devices, loading-dock exclusion, high-bay bird management, and stored-product insect monitoring built to satisfy FSMA, AIB, and customer audits, scheduled around your operation, with no long-term contract."
 order: 11
 faqs:
   - q: "What makes a warehouse harder to protect than other buildings?"
@@ -26,7 +26,7 @@ faqs:
   - q: "Will your service slow down our shipping and receiving?"
     a: "No. Most of the work — the perimeter line, dock exclusion, high-bay bird issues, monitoring devices, and stored-product traps — is serviced around your operation and does not touch active shipping lanes. When we need to work in a specific zone or at height in the high-bay, we coordinate it with your operations lead for a low-traffic window. You schedule directly with the owner, so it flexes around your dock schedule instead of a national dispatch queue."
   - q: "Do you provide the documentation for our customers' audits?"
-    a: "Yes. Every visit generates a service record, and the program maintains a pest trend log, device maps tied to your floor plan, corrective-action notes, product and label documentation, and the applicator's license — kept on-site in an audit binder or digital folder. When a customer's QA team or a third-party auditor arrives, the pest documentation is complete and current instead of something scrambled together the night before."
+    a: "Every visit produces a work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."
   - q: "Do you also handle wildlife on the property?"
     a: "Yes, and it is rare out here. Warehouses on the edge of town sit next to fields, woodlots, and drainage that bring raccoons, skunks, opossums, and birds onto the property and into truck courts, retention areas, and yard equipment. Most pest routes do not do wildlife. BugBoss does both, so the same local company handles the rodent line, the dock flies, the high-bay birds, and the raccoon denning under a modular office or trailer."
   - q: "Do we have to sign a long-term contract?"
@@ -121,9 +121,9 @@ The same OSHA sanitation standard that covers any workplace, **29 CFR 1910.141**
 
 ### AIB, SQF, ASI, and customer audits
 
-This is where the pressure is felt day to day. **AIB International's** consolidated standards — including the standard written specifically for **food distribution centers** — are a long-standing benchmark, and many food companies require their storage and **third-party logistics (3PL)** partners to hold an acceptable AIB score as a condition of the contract. **SQF (Safe Quality Food)** is a **GFSI**-recognized scheme many retailers require. **ASI Food Safety** is a widely used third-party auditor. And your own customers send **QA auditors** who flow their pest-program requirements down to you. Every one of these wants a written scope, a **pest trend analysis**, **device maps** tied to your floor plan, **corrective-action** records that actually get closed out, product and label documentation, and proof of applicator licensing. A warehouse that cannot produce that binder loses points regardless of how clean it looks that day.
+This is where the pressure is felt day to day. **AIB International's** consolidated standards — including the standard written specifically for **food distribution centers** — are a long-standing benchmark, and many food companies require their storage and **third-party logistics (3PL)** partners to hold an acceptable AIB score as a condition of the contract. **SQF (Safe Quality Food)** is a **GFSI**-recognized scheme many retailers require. **ASI Food Safety** is a widely used third-party auditor. And your own customers send **QA auditors** who flow their pest-program requirements down to you. Every one of these wants a written scope, a **pest trend analyzis**, **device maps** tied to your floor plan, **corrective-action** records that actually get closed out, product and label documentation, and proof of applicator licensing. A warehouse that cannot produce that binder loses points regardless of how clean it looks that day.
 
-## What an audit-ready warehouse program includes
+## What a documented warehouse program includes
 
 BugBoss builds every distribution-center program on the same backbone, scaled to the building:
 
@@ -134,7 +134,7 @@ BugBoss builds every distribution-center program on the same backbone, scaled to
 - **High-bay bird management** — entry-point sealing, netting or screening of roosts, and deterrents, handled as an exclusion project.
 - **Receiving-inspection support** — guidance and documentation for checking incoming freight.
 - **Seasonal fall-invader treatment** — timed exterior work before the October swarm.
-- **The documentation package** — service records, pest trend log, device maps, corrective-action notes, product labels and SDS, and Brian's **Wisconsin Commercial Applicator license (#103689)**, kept on-site in an audit binder or digital folder, current and ready.
+- **The documentation** — a work order for every visit as standard, plus Brian's Wisconsin Commercial Applicator license (#103689) and certificate of insurance on request. AIB and customer QA audits usually want a trend log, device maps and corrective-action records as well; tell us what yours requires and we will agree the record-keeping up front.
 - **Discreet scheduling** — serviced around your shipping and receiving, with zone or at-height work coordinated for low-traffic windows.
 
 ## The rural DC that the national routes underserve
@@ -162,7 +162,7 @@ Auditors are grading whether you run a controlled, documented, continuous system
 2. **Map and baseline** the perimeter line, interior monitors, and pheromone traps on your floor plan.
 3. **Exclude at the docks and roof line** — the seals, doors, and penetrations that actually cut pressure.
 4. **Monitor and inspect** incoming freight and stored product, reading traps every visit to catch problems early.
-5. **Document and close the loop** on every finding, keeping the audit binder current.
+5. **Document and close the loop** on every finding — a work order each visit, and whatever record-keeping your audit scheme requires on top, agreed in writing before the program starts.
 6. **Review the trend and tune** the interval and coverage as the data dictates.
 
 If your DC is preparing for an AIB, SQF, or customer audit, chasing a stored-product or rodent finding, or done with a distant route company, talk to us. Reach the owner directly at **866-BUGBOSS**, or through the [contact page](/contact/), and read more on our [about page](/about/). Related programs: [manufacturing and industrial](/commercial-pest-control/manufacturing/), [food processing](/commercial-pest-control/food-processing/), grain, feed, and seed, and [offices](/commercial-pest-control/offices/).

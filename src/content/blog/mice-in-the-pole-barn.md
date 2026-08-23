@@ -82,7 +82,7 @@ Sealing a pole barn against mice is methodical work, but the logic is simple. He
 
 **Then monitor.** Set monitoring so you know the sealing is holding and the building's actually clear, not just quiet for a week.
 
-This is the same discipline we bring to the [farmhouses](/guides/farmhouse-rodent-exclusion/) and the [seasonal cabins](/guides/cabin-seasonal-pest-control/) that get hit on the same fall schedule, all of it under our [residential pest control](/residential-pest-control/) work. On a working farm the field pressure never truly stops, so the realistic goal is a well-sealed building plus ongoing awareness — the landscape belongs to the mice, but your barn doesn't have to.
+This is the same discipline we bring to the [farmhouses](/guides/farmhouse-rodent-exclusion/) and the [seasonal cabins](/guides/cabin-seasonal-pest-control/) that get hit on the same fall schedule, all of it under our [residential pest control](/residential-pest-control/) work. On a working farm the field pressure never truly stops, so the realiztic goal is a well-sealed building plus ongoing awareness — the landscape belongs to the mice, but your barn doesn't have to.
 
 ## Why local matters on outbuildings
 

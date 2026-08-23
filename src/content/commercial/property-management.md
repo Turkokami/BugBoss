@@ -14,7 +14,7 @@ faqs:
   - q: "Who is responsible for pest control in a Wisconsin rental — landlord or tenant?"
     a: "As a general matter, Wisconsin landlords are responsible for keeping rental housing habitable, which includes controlling infestations, particularly building-wide pests like bed bugs and cockroaches that spread beyond any one tenant's unit. Specific responsibility can turn on the lease and the cause, but a whole-building pest is the owner's problem to solve. We're not attorneys; confirm specifics with yours."
   - q: "Do you provide documentation for owners and property managers?"
-    a: "Yes. Every visit generates a dated service record, a unit-by-unit inspection and treatment log, a device map, and corrective-action notes. Managers get a clear paper trail of what was found, what was treated, which units were prepped or refused, and what's outstanding — the record you need for owners, for turnover, and if a dispute arises."
+    a: "Every visit produces a work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."
   - q: "Can you coordinate with tenants directly?"
     a: "We can provide prep instructions and communicate with residents on treatment logistics when you want us to, and we keep our presence professional and low-key. You set the level of tenant contact — some managers handle all resident communication themselves, others want us to deliver prep sheets and answer questions at the door."
   - q: "How fast can you respond to a bed bug report in a unit?"
@@ -79,7 +79,7 @@ Multi-family pest work in Wisconsin runs alongside landlord-tenant law, and mana
 
 **Responsibility.** As a general matter, Wisconsin landlords are responsible for maintaining rental housing in habitable condition, and controlling a building-wide infestation — bed bugs and cockroaches especially — is an owner responsibility, not something you can push onto a single tenant, because those pests spread beyond any one unit regardless of that tenant's housekeeping. Exact responsibility for a given incident can depend on the lease and on the cause, and this isn't legal advice — confirm the specifics with your attorney. But the operational reality is simple: a pest that uses the shared walls is a building pest, and building pests are the owner's to solve.
 
-**Documentation is your protection.** In multi-family, records aren't just for inspections — they're your evidence in a tenant dispute, your handoff at turnover, and your reporting line to owners. We keep it thorough: a unit-by-unit inspection and treatment log, a device map, corrective-action notes, and a record of which units were prepped, treated, refused, or outstanding.
+**Documentation is your protection.** In multi-family, records aren't just for inspections — they're your evidence in a tenant dispute, your handoff at turnover, and your reporting line to owners. Every visit produces a work order covering what was inspected, treated and found. On a multi-unit job the useful extra is a unit-by-unit record of which units were prepped, treated, refused or outstanding — agree that with us at the start and it becomes part of the routine.
 
 ## Turnover is your best defense — and your biggest blind spot
 
@@ -107,7 +107,7 @@ We support that however you want it. We can provide plain-language prep instruct
 
 Occupied housing where people live full-time raises the stakes on minimizing chemical exposure, and it's a big reason our IPM-first, treat-the-source approach fits multi-family so well. Senior and accessible housing adds practical realities — residents with limited mobility who can't prep a unit alone, clutter that complicates a bed bug job, and health sensitivities that make low-residue methods like heat especially valuable. Subsidized and family housing often means tighter occupancy, more turnover, and inspection regimes with real consequences for pest findings. In all of it, thorough per-unit documentation isn't paperwork for its own sake — it's what demonstrates a working program to the owner, the agency, or the inspector who asks.
 
-## An audit-ready, whole-building IPM program
+## A whole-building IPM program
 
 BugBoss builds multi-family programs on **Integrated Pest Management** — inspection, monitoring, sanitation, and exclusion first, targeted treatment where warranted — applied at building scale. The [commercial pest control](/commercial-pest-control/) framework we use across industries is tuned here for occupied housing, where minimizing chemical exposure in units where families live and sleep is both good practice and the right thing to do.
 
@@ -135,7 +135,7 @@ Property management in Central and Northeast Wisconsin isn't glass apartment tow
 1. **Building assessment.** Brian inspects the reported unit, the ring of units around it, and the common areas, mechanical spaces, and exterior — mapping the migration paths and identifying every active and at-risk unit.
 2. **A whole-building plan.** We define which units are treated and which are inspected, the treatment method (heat or targeted for bed bugs, gel baiting and IPM for roaches, exclusion for rodents), the sequence, and the notice and prep schedule.
 3. **Treat in blocks, seal the paths.** We treat affected blocks of units together, address the sanitation and moisture conditions feeding the problem, and seal the shared-wall and utility-chase gaps that let pests migrate — so cleared units stay clear.
-4. **Document unit by unit.** Every unit's finding, treatment, prep, and access status goes into the record, with the device map and trend log kept current for owners and inspections.
+4. **Document unit by unit.** Every unit's finding, treatment, prep and access status goes into the record, so owners have a clear picture of what was done and what is still outstanding.
 5. **Follow up and confirm.** We re-inspect on schedule — critical for bed bugs and roaches, where eggs and stragglers cause rebounds — and don't consider a block resolved until the follow-up confirms it. You work with the owner throughout, so a new report is a direct call, not a claim to a regional office.
 
 All of it comes [without a long-term contract or cancellation fees](/no-contracts/).

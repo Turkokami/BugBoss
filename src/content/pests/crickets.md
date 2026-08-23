@@ -116,7 +116,7 @@ The common DIY gap is the same across both: it treats the visible crickets and i
 
 We work crickets as a ground-level entry problem, with a moisture component for camel crickets. The process:
 
-**Inspect and identify.** First we determine which cricket you have, because it changes the emphasis — chirping field crickets migrating in, silent camel crickets established in the damp, or both. We inspect the foundation, crawlspace, and basement for entry points, harborage, and (for camel crickets) the moisture sustaining them.
+**Inspect and identify.** First we determine which cricket you have, because it changes the emphasiz — chirping field crickets migrating in, silent camel crickets established in the damp, or both. We inspect the foundation, crawlspace, and basement for entry points, harborage, and (for camel crickets) the moisture sustaining them.
 
 **Treat harborage and the perimeter.** For field crickets we focus on the exterior harborage band around the foundation — the tall vegetation, mulch, and debris where they stage before entering — and the entry points, applying targeted materials where the crickets travel. For camel crickets we treat the harborage where they actually live, in the crawlspace, basement cracks, and voids.
 

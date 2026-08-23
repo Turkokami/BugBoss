@@ -2,7 +2,7 @@
 title: "Pest Control in East Side Appleton, WI"
 city: "Appleton"
 county: "Outagamie County"
-answer: "BugBoss The X-Terminator serves Appleton's older east side near the Fox River — the Old Third Ward, Colony Oaks, and the streets around Lawrence University where Victorian and mid-century homes meet the water. We're the Clintonville-based rural specialist covering the Fox Valley edge for carpenter ants, cluster flies, mosquitoes, mice, and attic bats. No contract, owner-direct."
+answer: "BugBoss The X-Terminator serves Appleton's older east side near the Fox River — the Old Third Ward, Colony Oaks, and the streets around Lawrence University where Victorian and mid-century homes meet the water. We're the Clintonville-based rural specializt covering the Fox Valley edge for carpenter ants, cluster flies, mosquitoes, mice, and attic bats. No contract, owner-direct."
 order: 4
 faqs:
   - q: "Does BugBoss do pest control on Appleton's east side?"
@@ -33,7 +33,7 @@ Appleton's east side is the oldest, most river-shaped part of the city. Appleton
 
 Two forces shape pest pressure on the east side, and they compound each other. The first is **age**: Victorian and early-1900s homes were built with no modern air-sealing and have had a century-plus to settle, opening gaps at the foundation, the sills, the soffits, and the additions. The second is **the river**: the Fox River corridor keeps the ground and the lower framing damp, feeds a strong summer mosquito population, and gives insects and wildlife a wet, wooded travel route right through the neighborhood. An old home is a leaky home; a damp old home is a leaky home with a moisture problem; and a damp old home next to a river is all of that with a mosquito season on top.
 
-BugBoss The X-Terminator is based up in Clintonville, in Waupaca County, and our home ground is the rural river-and-farm country north and west of the Fox Cities — plenty of it along rivers like the Wolf, the Little Wolf, and the Embarrass, so damp, older, riverfront housing is exactly what we know. On the Appleton east side we're honest about our role: not the volume-route company competing for downtown subscriptions, but the **older-home, river-corridor, and wildlife specialist** who comes for the specific job the national franchises handle poorly — carpenter ants traced to their source, a real mosquito program, cluster-fly exclusion, and bats handled on Wisconsin's legal timeline.
+BugBoss The X-Terminator is based up in Clintonville, in Waupaca County, and our home ground is the rural river-and-farm country north and west of the Fox Cities — plenty of it along rivers like the Wolf, the Little Wolf, and the Embarrass, so damp, older, riverfront housing is exactly what we know. On the Appleton east side we're honest about our role: not the volume-route company competing for downtown subscriptions, but the **older-home, river-corridor, and wildlife specializt** who comes for the specific job the national franchises handle poorly — carpenter ants traced to their source, a real mosquito program, cluster-fly exclusion, and bats handled on Wisconsin's legal timeline.
 
 ## The pests of an old riverfront neighborhood
 
@@ -63,9 +63,9 @@ Where it stops is the point most homeowners reach: carpenter ants whose parent n
 
 ## Where BugBoss fits on the east side
 
-The honest version: if you want a national brand to spray your east-side foundation on a quarterly subscription, that option exists and comes with a contract. BugBoss is different. We're a **Clintonville-based, family-owned specialist**, owner Brian Zahringer running the jobs personally, and our strength is the source-driven and wildlife work the volume operators do poorly — carpenter ants traced to the nest and the moisture, a real river-corridor mosquito program, cluster-fly exclusion timed to the season, and bats and raccoons handled on Wisconsin's legal terms.
+The honest version: if you want a national brand to spray your east-side foundation on a quarterly subscription, that option exists and comes with a contract. BugBoss is different. We're a **Clintonville-based, family-owned specializt**, owner Brian Zahringer running the jobs personally, and our strength is the source-driven and wildlife work the volume operators do poorly — carpenter ants traced to the nest and the moisture, a real river-corridor mosquito program, cluster-fly exclusion timed to the season, and bats and raccoons handled on Wisconsin's legal terms.
 
-The east side is on the **Fox Valley edge** of our regular service area, so we reach it on a route. What we bring that the franchises don't: **no long-term contract, no cancellation fee**, the owner on the phone and on the job, and both pest and wildlife under one roof. Call for the one problem that's beaten your DIY efforts — you're not committing to anything ongoing. That's the point of our [no-contract approach](/no-contracts/), and it's why edge-of-metro homeowners call the rural specialist.
+The east side is on the **Fox Valley edge** of our regular service area, so we reach it on a route. What we bring that the franchises don't: **no long-term contract, no cancellation fee**, the owner on the phone and on the job, and both pest and wildlife under one roof. Call for the one problem that's beaten your DIY efforts — you're not committing to anything ongoing. That's the point of our [no-contract approach](/no-contracts/), and it's why edge-of-metro homeowners call the rural specializt.
 
 ## How we work, and when to call
 

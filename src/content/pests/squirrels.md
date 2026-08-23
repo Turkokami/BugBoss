@@ -111,7 +111,7 @@ Keeping squirrels off a building is mostly about closing the roofline and cuttin
 
 Cut the **routes onto the roof** as well. Trim back any branches within roughly six to eight feet of the roofline — this single step removes the launch pads squirrels rely on and is often the highest-value prevention on a wooded lot. Keep firewood, trellises, and anything climbable away from the walls, and consider guards on downspouts squirrels are using as ladders. Around **cabins and outbuildings**, close the eave and gable gaps that reds exploit, and store any seed, feed, or cones-attracting material in sealed metal.
 
-Deny them a reason to stay, too. Bird feeders right against the house concentrate squirrels at the building and give them a food-anchored reason to probe the roofline; moving feeders well away from the structure lowers the pressure. On a wooded rural lot the squirrels own the landscape and always will — the realistic goal is a sealed, sound building plus the branch clearance that keeps them off the roof, not a squirrel-free property.
+Deny them a reason to stay, too. Bird feeders right against the house concentrate squirrels at the building and give them a food-anchored reason to probe the roofline; moving feeders well away from the structure lowers the pressure. On a wooded rural lot the squirrels own the landscape and always will — the realiztic goal is a sealed, sound building plus the branch clearance that keeps them off the roof, not a squirrel-free property.
 
 ## When to call BugBoss
 

@@ -2,11 +2,11 @@
 title: "Pest Control in East De Pere, WI"
 city: "De Pere"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems on the east side of De Pere, Brown County — the original riverfront city east of the Fox River, from the historic downtown out to the newer east-side neighborhoods. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems on the east side of De Pere, Brown County — the original riverfront city east of the Fox River, from the historic downtown out to the newer east-side neighborhoods. We're a Clintonville-based rural specializt reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
 order: 13
 faqs:
   - q: "Does BugBoss serve the east side of De Pere?"
-    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not the Green Bay metro, so we're not the closest truck to De Pere — we're the rural exclusion and wildlife specialist worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit for your problem."
+    a: "Yes, for the specialized jobs we do best. We're based in Clintonville, not the Green Bay metro, so we're not the closest truck to De Pere — we're the rural exclusion and wildlife specializt worth calling for fall cluster flies and boxelder bugs, mice, carpenter ants, and bats, squirrels, or raccoons in the attic. Call and we'll tell you honestly whether we're the right fit for your problem."
   - q: "Why do older east-side De Pere homes get cluster flies?"
     a: "The east side is the original De Pere, with older homes near the historic downtown and the Fox River that have settled foundations, soffit gaps, and complex rooflines. Cluster flies breed in soil, not garbage, so the river corridor and established lawns keep producing them. They mass on warm south and west walls each fall and push into wall voids and attics to overwinter."
   - q: "Can BugBoss remove bats from an east-side De Pere home legally?"
@@ -35,7 +35,7 @@ De Pere is split down the middle by the **Fox River**, and the two sides have di
 
 For pest control, the east side reads as two zones. Near the historic **downtown and the riverfront** you have the older, settled housing — homes from the late 1800s and early 1900s with the entry points that come with age. Extend away from the river and you reach the mid-century and newer east-side neighborhoods. Both get pests; they just let them in differently.
 
-**BugBoss The X-Terminator** is not a De Pere company. We run out of **Clintonville**, in rural Waupaca County, and the east side of De Pere sits at the edge of the metro area we reach. We won't pretend we're the nearest truck to a riverfront address. What we are is the rural exclusion and wildlife specialist worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the work we do every week on old farmhouses out in the country, and the work the metro franchises won't take without a contract.
+**BugBoss The X-Terminator** is not a De Pere company. We run out of **Clintonville**, in rural Waupaca County, and the east side of De Pere sits at the edge of the metro area we reach. We won't pretend we're the nearest truck to a riverfront address. What we are is the rural exclusion and wildlife specializt worth calling when the problem is one we're built for — **fall invaders, rodents, carpenter ants, and attic wildlife** — the work we do every week on old farmhouses out in the country, and the work the metro franchises won't take without a contract.
 
 ## Older riverfront homes: where the pests get in
 
@@ -61,7 +61,7 @@ The control that works is a **timed early-fall exterior treatment** on those sun
 
 ## Wildlife along the Fox River and the dam
 
-The **Fox River** and the greenway around the **De Pere dam** bring wildlife right up to east-side rooflines, and this is where a rural specialist earns the drive from Clintonville. Homes near the water see more attic and chimney intrusions than an interior lot.
+The **Fox River** and the greenway around the **De Pere dam** bring wildlife right up to east-side rooflines, and this is where a rural specializt earns the drive from Clintonville. Homes near the water see more attic and chimney intrusions than an interior lot.
 
 **Bats** roost in the older attics and behind loose fascia. Exclusion is legally restricted — Wisconsin protects its bats, and the **DNR keeps one-way exits open June 1 through July 31** during the maternity season, when flightless pups are in the roost. Sealing then traps and kills the pups, which is illegal and a worse mess. We do the work in the legal window: find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up the guano. The rules are in our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the process is on the [bats](/pest-library/bats/) and [bats in attic](/pest-problems/bats-in-attic/) pages.
 
@@ -81,7 +81,7 @@ Downtown De Pere near the dam is a genuine draw — a walkable business district
 
 Here's the straight version. BugBoss is **Clintonville-based and family-owned** — owner Brian Zahringer runs the truck and answers the phone. Our home ground is rural country out around [Pulaski](/service-area/pulaski/), [Bonduel](/service-area/bonduel/), and [Shawano](/service-area/shawano/). The east side of De Pere is the metro edge of what we reach, and for a quick one-off a company inside the metro is closer.
 
-Where we're the better call is the specialized, problem-first work: **older-home exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — with **no long-term contract and no cancellation fee**. You're hiring a specialist for a specific problem, not signing onto a route. That's the whole point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
+Where we're the better call is the specialized, problem-first work: **older-home exclusion, fall invaders, carpenter ants, and wildlife**. We do **pest control and wildlife removal both** — rare among the companies serving this area — with **no long-term contract and no cancellation fee**. You're hiring a specializt for a specific problem, not signing onto a route. That's the whole point of our [no-contracts](/no-contracts/) approach, whether it's a [residential](/residential-pest-control/) job or a [commercial](/commercial-pest-control/) building.
 
 Every job runs the same disciplined way: we **inspect** inside and out, **treat the source** rather than just what's visible, do the **exclusion** that keeps the next wave out, and **follow up** to confirm it's gone.
 

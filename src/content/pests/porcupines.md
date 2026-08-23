@@ -1,20 +1,20 @@
 ---
 pest: porcupines
 title: "Porcupines in Northeast Wisconsin: Salt-Chewed Decks, Girdled Trees & Quilled Dogs"
-answer: "Porcupines chew anything salty or sweaty — deck rails, plywood, tool handles, tyres, and brake lines — and girdle trees across rural Northeast Wisconsin. They den under sheds, barns, and porches. BugBoss handles removal and exclusion, and protects the structures and trees they keep returning to."
+answer: "Porcupines chew anything salty or sweaty — deck rails, plywood, tool handles, tires, and brake lines — and girdle trees across rural Northeast Wisconsin. They den under sheds, barns, and porches. BugBoss handles removal and exclusion, and protects the structures and trees they keep returning to."
 faqs:
   - q: "Can a porcupine throw its quills?"
     a: "No — this is the most persistent myth about them and it is entirely false. Quills cannot be launched, thrown, or shot. What creates the impression is how easily they detach: the quills are loosely rooted, and a porcupine that feels threatened raises them, turns its back, and lashes with its tail. Anything that makes contact comes away with quills embedded, which happens so fast that a dog can end up with a face full of them without anyone seeing the moment of contact. Keep your distance and a porcupine cannot quill you."
   - q: "Why is a porcupine chewing my deck, my tools, and my truck?"
-    a: "Salt. Porcupines have a strong physiological craving for sodium, and their winter diet of bark and conifer needles supplies almost none, so they actively seek it out. That puts a startling range of things on the menu: plywood, because many glues and adhesives contain sodium; tool handles and axe shafts soaked in years of hand sweat; deck rails and stair treads that people have gripped; road-salted vehicle undersides, tyres, and brake lines; boat seats, saddles, and leather tack. The chewing looks random until you realise it is precisely tracking the salt."
+    a: "Salt. Porcupines have a strong physiological craving for sodium, and their winter diet of bark and conifer needles supplies almost none, so they actively seek it out. That puts a startling range of things on the menu: plywood, because many glues and adhesives contain sodium; tool handles and axe shafts soaked in years of hand sweat; deck rails and stair treads that people have gripped; road-salted vehicle undersides, tires, and brake lines; boat seats, saddles, and leather tack. The chewing looks random until you realize it is precisely tracking the salt."
   - q: "What do I do if my dog gets quilled?"
     a: "Go to a vet, and do not attempt removal yourself. Quills carry microscopic backward-facing barbs that make them very difficult to withdraw cleanly, and they migrate deeper into tissue with time and with the animal's movement — a quill left in place can travel and reach joints, the chest cavity, or an eye. Removal generally requires sedation, both for the pain and because a struggling dog drives them further in. Pulling at them at home commonly snaps them, leaving barbed fragments buried. This is a same-day veterinary visit, not a wait-and-see."
   - q: "Are porcupines dangerous to people?"
-    a: "Not unless you touch one. Porcupines are slow, placid, largely nocturnal animals with no interest in confrontation and no ability to chase anything down. They do not attack, they cannot throw quills, and a person who keeps a few feet of distance is in no danger at all. The realistic risks are to curious dogs, to livestock that investigate, and to anyone who tries to move one. Give it room and it will amble away, though slowly — porcupines are in no hurry about anything."
+    a: "Not unless you touch one. Porcupines are slow, placid, largely nocturnal animals with no interest in confrontation and no ability to chase anything down. They do not attack, they cannot throw quills, and a person who keeps a few feet of distance is in no danger at all. The realiztic risks are to curious dogs, to livestock that investigate, and to anyone who tries to move one. Give it room and it will amble away, though slowly — porcupines are in no hurry about anything."
   - q: "How do I know it is a porcupine and not something else?"
     a: "Look at the tree damage first: porcupines strip bark in irregular patches from the upper trunk and larger branches, well off the ground, leaving pale exposed wood and coarse tooth grooves — quite different from the neat low-level work of rabbits or the ragged tearing of deer. Then look for the den, which will have a distinctive mound of scat outside, plus shed quills caught around the entrance. In winter, well-worn trails through snow leading to and from a den under a building are conclusive."
   - q: "Will a porcupine kill my trees?"
-    a: "It can, and the mechanism is girdling. A porcupine feeding on the upper trunk sometimes strips bark all the way around, which severs the tissue carrying nutrients between the canopy and the roots. Everything above that point dies. Partial stripping usually only weakens the tree and leaves it open to disease and insects, but complete girdling is fatal. They favour hemlock, pine, and other conifers in winter, and they often return to the same trees repeatedly, so a single porcupine using your woodlot can kill several trees over a few seasons."
+    a: "It can, and the mechanism is girdling. A porcupine feeding on the upper trunk sometimes strips bark all the way around, which severs the tissue carrying nutrients between the canopy and the roots. Everything above that point dies. Partial stripping usually only weakens the tree and leaves it open to disease and insects, but complete girdling is fatal. They favor hemlock, pine, and other conifers in winter, and they often return to the same trees repeatedly, so a single porcupine using your woodlot can kill several trees over a few seasons."
   - q: "Where do porcupines den?"
     a: "Rock crevices, hollow logs, brush piles, and the base of large trees are the natural sites, but around buildings they very readily move into the void beneath a shed, barn, porch, deck, or outbuilding. Those spaces are dry, sheltered, and inaccessible to predators — everything a porcupine wants. They tend to use the same den year after year, and the accumulation of scat outside the entrance becomes substantial and very obvious. Once a den is established under a structure it will keep being used until the void is closed."
   - q: "Are porcupines active in winter?"
@@ -39,11 +39,11 @@ faqs:
 
 Porcupine problems rarely announce themselves as wildlife problems. They start as something inexplicable.
 
-The plywood on the shed has been chewed away along one edge. The handle of a good axe left leaning in the barn is ruined. A section of deck rail looks like it has been attacked with a rasp. Someone finds the brake lines on a truck chewed through, or the seat of a boat torn up, or the leather on a saddle destroyed. None of it makes sense as animal behaviour, because none of it is food.
+The plywood on the shed has been chewed away along one edge. The handle of a good axe left leaning in the barn is ruined. A section of deck rail looks like it has been attacked with a rasp. Someone finds the brake lines on a truck chewed through, or the seat of a boat torn up, or the leather on a saddle destroyed. None of it makes sense as animal behavior, because none of it is food.
 
 Then you look at what the damaged items have in common, and there it is: **salt**. Sweat-soaked wood, sodium-containing glues, road salt on a vehicle underside, salt-cured leather. Once you see the pattern the whole thing resolves at once.
 
-That is a **porcupine**, and in rural Northeast Wisconsin it is a more common visitor than most property owners realise.
+That is a **porcupine**, and in rural Northeast Wisconsin it is a more common visitor than most property owners realize.
 
 ## What a porcupine is
 
@@ -66,7 +66,7 @@ What ends up on the list:
 - **Plywood and manufactured wood panels**, because many adhesives contain sodium compounds. Shed walls, barn sheathing, and subfloor edges get chewed away.
 - **Tool handles** — axes, shovels, hammers, anything with years of hand sweat soaked into the wood. A good axe handle is a delicacy.
 - **Deck rails, stair treads, and porch posts** that people have gripped repeatedly.
-- **Vehicle tyres, brake lines, hoses, and undercarriage components** carrying road salt. This one has genuine safety implications.
+- **Vehicle tires, brake lines, hoses, and undercarriage components** carrying road salt. This one has genuine safety implications.
 - **Leather** — saddles, tack, boots, boat seats — which is salt-cured and sweat-soaked.
 - **Livestock salt and mineral blocks**, an obvious and powerful draw.
 - **Outhouse and cabin timbers**, and plywood on seasonal properties generally, which is why cabin owners so often return to chewed structures.
@@ -81,7 +81,7 @@ In winter porcupines climb and feed on bark, stripping it in irregular patches f
 
 When the stripping goes all the way around the trunk, the tree is **girdled** — the tissue carrying nutrients between canopy and roots is severed, and everything above that point dies. Partial stripping is survivable but leaves the tree open to disease and insects.
 
-They favour hemlock, pine, and other conifers through the winter, and they show strong site fidelity: the same animal returns to the same trees, sometimes staying up in one for days at a time. One porcupine using a woodlot can kill several trees over a few seasons, which is why owners of managed woodland here take them more seriously than the average homeowner does.
+They favor hemlock, pine, and other conifers through the winter, and they show strong site fidelity: the same animal returns to the same trees, sometimes staying up in one for days at a time. One porcupine using a woodlot can kill several trees over a few seasons, which is why owners of managed woodland here take them more seriously than the average homeowner does.
 
 ## Denning under buildings
 
@@ -105,7 +105,7 @@ They are strongly attached to these sites and return year after year, which has 
 
 - Gnawed plywood, shed walls, or barn sheathing with broad coarse tooth grooves
 - Ruined tool handles, deck rails, or porch posts
-- Chewed tyres, brake lines, hoses, or undercarriage components on vehicles left outside
+- Chewed tires, brake lines, hoses, or undercarriage components on vehicles left outside
 - Damaged leather — saddles, tack, boat seats, boots
 - Bark stripped in patches from the upper trunk and branches of conifers, with nipped twigs on the ground below
 - A den entrance under a shed, barn, deck, or porch with a mound of pellet scat outside
