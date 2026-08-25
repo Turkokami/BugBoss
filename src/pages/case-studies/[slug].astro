@@ -13,11 +13,19 @@ import { getPest } from '@/data/pests';
 import { expertNote } from '@/data/expert-notes';
 import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
 
+const townSlugs = new Set((await getCollection('towns')).map((t) => t.slug));
+
 export async function getStaticPaths() {
   const items = await getCollection('caseStudies');
   return items.map((c) => ({ params: { slug: c.slug }, props: { c } }));
 }
 const { c } = Astro.props;
+
+// Only link the location when this build actually publishes a page for that
+// town. Green Bay and Menasha are served but have no page of their own, and
+// pointing at a nearby neighborhood would imply a precision we do not have.
+const townSlug = c.data.town?.split(',')[0].trim().toLowerCase().replace(/\s+/g, '-');
+const townPath = townSlug && townSlugs.has(townSlug) ? `/service-area/${townSlug}/` : null;
 const { Content } = await render(c);
 const pest = getPest(c.data.pest);
 const url = `${business.url}/case-studies/${c.slug}/`;
@@ -49,7 +57,9 @@ const pageNodes = [
       <dl class="facts">
         <div><dt>Pest</dt><dd>{c.data.pestLabel}</dd></div>
         <div><dt>Property</dt><dd>{c.data.propertyType}</dd></div>
-        {c.data.town && <div><dt>Location</dt><dd>{c.data.town}</dd></div>}
+        {c.data.town && (
+          <div><dt>Location</dt><dd>{townPath ? <a href={townPath}>{c.data.town}</a> : c.data.town}</dd></div>
+        )}
         <div><dt>Outcome</dt><dd>{c.data.outcome}</dd></div>
       </dl>
 

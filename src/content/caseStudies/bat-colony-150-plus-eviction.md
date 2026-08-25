@@ -2,10 +2,11 @@
 title: "A 150-Bat Colony Evicted, and the Attic Put Back Together"
 pest: bats
 pestLabel: "Bats"
+town: "Clintonville, WI"
 propertyType: "Single-family house with an occupied attic roost"
 outcome: "Colony evicted, house sealed, contaminated insulation removed, attic sanitized and reinsulated"
 order: 10
-answer: "A colony of over 150 bats was living in the attic of a Northeast Wisconsin house. BugBoss evicted the colony, sealed the building against re-entry, stripped out the contaminated insulation, sanitized the space, and reinsulated it. That last half is the part most companies leave to somebody else — and it is what makes the job finished rather than paused."
+answer: "A colony of over 150 bats was living in the attic of a house in Clintonville, Wisconsin. BugBoss evicted the colony, sealed the building against re-entry, stripped out the contaminated insulation, sanitized the space, and reinsulated it. That last half is the part most companies leave to somebody else — and it is what makes the job finished rather than paused."
 faqs:
   - q: "How does a house end up with 150 bats?"
     a: "Gradually, and quietly. A maternity colony returns to a roost it has used successfully and grows year on year, and because bats need only about a finger's width to get in, the entry point is usually a gap nobody would look twice at — a soffit return, a ridge junction, lifted flashing, a seam where an addition meets the original roof. Nothing about a colony that size happens overnight. By the time the numbers are obvious from the outside, the colony has typically been established for several seasons."

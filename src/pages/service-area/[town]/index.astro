@@ -28,6 +28,13 @@ const crossings = (await getCollection('townpests', (e) => e.data.town === t.slu
   .filter((c) => c.pest)
   .sort((a, b) => a.pest.name.localeCompare(b.pest.name));
 const deep = deepEntries[0];
+// §4.1 local proof: a real job done in this town beats any amount of
+// "we serve the area" copy. Matched on the case study's recorded location, so
+// a town only shows one if a job actually happened there.
+const townCases = (await getCollection('caseStudies'))
+  .filter((c) => c.data.town?.split(',')[0].trim().toLowerCase().replace(/\s+/g, '-') === t.slug)
+  .sort((a, b) => a.data.order - b.data.order);
+
 let Body: any = null;
 if (deep) Body = (await render(deep)).Content;
 
@@ -92,6 +99,19 @@ const pageNodes = [
         </>
       )}
 
+      {townCases.length > 0 && (
+        <>
+          <h2>A job we did in {t.name}</h2>
+          {townCases.map((c) => (
+            <a class="case-card" href={`/case-studies/${c.slug}/`}>
+              <span class="tag">{c.data.pestLabel}</span>
+              <strong>{c.data.title}</strong>
+              <span class="case-outcome">{c.data.outcome}</span>
+            </a>
+          ))}
+        </>
+      )}
+
       <div class="callout">
         <p class="mt0"><strong>Pest or wildlife problem in {t.name}?</strong> You’ll reach Brian directly — local, licensed, and no contract required.</p>
         <div class="cta-row">
@@ -106,5 +126,9 @@ const pageNodes = [
   <style>
     .eyebrow a { color: var(--green-600); text-decoration: none; }
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
+    .case-card { display: block; border: 1px solid var(--line); border-left: 4px solid var(--green-600); border-radius: var(--radius-lg); padding: 1rem 1.2rem; margin: 1rem 0 0; text-decoration: none; color: inherit; transition: box-shadow .15s ease; }
+    .case-card:hover { box-shadow: var(--shadow); }
+    .case-card strong { display: block; margin: .4rem 0 .3rem; }
+    .case-outcome { display: block; font-size: .93rem; color: var(--muted); }
   </style>
 </BaseLayout>

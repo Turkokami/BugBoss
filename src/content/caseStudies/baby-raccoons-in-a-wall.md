@@ -2,6 +2,7 @@
 title: "Baby Raccoons Removed From Inside a Wall"
 pest: raccoons
 pestLabel: "Raccoons"
+town: "Green Bay, WI"
 propertyType: "Residential house with a litter inside a wall cavity"
 outcome: "Young removed from the wall cavity"
 order: 40

@@ -2,6 +2,7 @@
 title: "An Eight-Plex With Years of Bed Bugs, Brought to Zero"
 pest: bed-bugs
 pestLabel: "Bed bugs"
+town: "Menasha, WI"
 propertyType: "Eight-unit apartment building with a multi-year infestation"
 outcome: "Whole building brought under control and bed bug free"
 order: 20

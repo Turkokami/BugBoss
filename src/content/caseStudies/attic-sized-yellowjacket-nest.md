@@ -2,6 +2,7 @@
 title: "A Yellowjacket Nest in an Attic, Roughly Eight Feet Across"
 pest: wasps-hornets
 pestLabel: "Yellowjackets"
+town: "Shawano, WI"
 propertyType: "House with a nest built inside the attic space"
 outcome: "Nest eliminated and removed"
 order: 30
