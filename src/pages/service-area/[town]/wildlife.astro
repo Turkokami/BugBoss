@@ -1,4 +1,5 @@
 ---
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
@@ -16,6 +17,14 @@ const { town } = Astro.params;
 const t = getTown(town!)!;
 const L = t.local!;
 const url = `${business.url}/service-area/${t.slug}/wildlife/`;
+
+// Deep body for this town + service, if one has been written. Where it exists
+// it supplies the answer and the FAQs too, so the page stops being a template
+// mad-lib on the town name.
+const deepEntries = await getCollection('townservices', (e) => e.data.town === t.slug && e.data.service === 'wildlife');
+const deep = deepEntries[0];
+let Body: any = null;
+if (deep) Body = (await render(deep)).Content;
 const answer = `BugBoss removes and excludes wildlife in ${t.name}, WI — bats, raccoons, squirrels, skunks, and more. Working on ${L.housing}, we evict humanely, seal every entry, and clean up. Bat work follows Wisconsin DNR maternity-season timing. Local, licensed, and no contract.`;
 const faqs = [
   { q: `Does BugBoss remove bats in ${t.name}?`, a: `Yes, and legally. Bats are protected in Wisconsin, so BugBoss uses humane exclusion within DNR maternity-season timing (restricted June 1 through July 31). Around ${t.name}, ${L.housing} often mean older structures where bats find their way in.` },
@@ -23,10 +32,12 @@ const faqs = [
   { q: `What’s the difference between removal and exclusion?`, a: `Removal takes the animal out; exclusion seals the building so nothing gets back in. In ${t.name}, lasting results require both, which is why BugBoss finds and closes every entry point, not just the obvious one.` },
   { q: `Do you clean up after wildlife in ${t.name}?`, a: `Yes. Droppings and contamination from bats and raccoons are health hazards, so cleanup and decontamination are part of a complete BugBoss wildlife job in ${t.name}.` },
 ];
+const answerFinal = deep?.data.answer ?? answer;
+const faqsFinal = deep?.data.faqs?.length ? deep.data.faqs : faqs;
 const pageNodes = [
-  webPageNode({ url, name: `Wildlife Removal in ${t.name}, WI`, description: answer, primaryEntityId: `${url}#service` }),
+  webPageNode({ url, name: `Wildlife Removal in ${t.name}, WI`, description: deep?.data.answer ?? answer, primaryEntityId: `${url}#service` }),
   townServiceNode(t, url),
-  faqPageNode(url, faqs),
+  faqPageNode(url, deep?.data.faqs?.length ? deep.data.faqs : faqs),
   breadcrumbNode(url, [
     { name: 'Home', url: business.url + '/' },
     { name: 'Service Area', url: business.url + '/service-area/' },
@@ -35,12 +46,12 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={`Wildlife Removal & Exclusion in ${t.name}, WI`} description={answer} path={`/service-area/${t.slug}/wildlife/`} pageNodes={pageNodes}>
+<BaseLayout title={`Wildlife Removal & Exclusion in ${t.name}, WI`} description={answerFinal} path={`/service-area/${t.slug}/wildlife/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Wildlife</p>
       <h1>Wildlife Removal &amp; Exclusion in {t.name}, WI</h1>
-      <AnswerBox text={answer} />
+      <AnswerBox text={answerFinal} />
       <p class="lead">{L.intro}</p>
       <p>Wildlife work in {t.name} is exclusion work, not a spray. On {L.housing}, animals get into attics, chimneys, soffits, barns, and crawlspaces — and the only lasting fix is to remove them and seal the structure. BugBoss does both, and handles the DNR-regulated bat work most companies out here won’t take on.</p>
       <h2>What BugBoss handles in {t.name}</h2>
@@ -51,13 +62,15 @@ const pageNodes = [
         <li>Permanent exclusion — sealing every entry point</li>
         <li>Cleanup and decontamination</li>
       </ul>
+      {Body && <article class="prose"><Body /></article>}
+
       <div class="callout">
         <p class="mt0"><strong>Something in the attic or barn in {t.name}?</strong> Call Brian — don’t corner the animal.</p>
         <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href="/wildlife-removal/" class="btn btn-ghost">About wildlife service →</a></div>
       </div>
     </div>
   </section>
-  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`Wildlife Removal in ${t.name}: FAQs`} /></div></section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqsFinal} heading={`Wildlife Removal in ${t.name}: FAQs`} /></div></section>
   <Cta />
   <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
 </BaseLayout>

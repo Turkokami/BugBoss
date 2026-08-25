@@ -1,4 +1,5 @@
 ---
+import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
@@ -16,6 +17,14 @@ const { town } = Astro.params;
 const t = getTown(town!)!;
 const L = t.local!;
 const url = `${business.url}/service-area/${t.slug}/residential/`;
+
+// Deep body for this town + service, if one has been written. Where it exists
+// it supplies the answer and the FAQs too, so the page stops being a template
+// mad-lib on the town name.
+const deepEntries = await getCollection('townservices', (e) => e.data.town === t.slug && e.data.service === 'residential');
+const deep = deepEntries[0];
+let Body: any = null;
+if (deep) Body = (await render(deep)).Content;
 const answer = `BugBoss provides residential pest control for ${t.name}, WI homes — treating ${L.pestPressures.slice(0, 3).join(', ')} and more. We inspect, treat the source, and seal entry points on ${L.housing}, with no long-term contract. Local to Clintonville and family-owned.`;
 const faqs = [
   { q: `How much does home pest control cost in ${t.name}?`, a: `It depends on the pest and the home, but BugBoss quotes ${t.name} homeowners up front with no obligation and no contract. ${L.housing.charAt(0).toUpperCase() + L.housing.slice(1)} each have their own needs, so we price the actual job.` },
@@ -23,10 +32,12 @@ const faqs = [
   { q: `Do you seal entry points or just spray in ${t.name}?`, a: `Both when needed. For rodents and fall invaders common to ${t.name}, sealing the entry points is what actually stops the problem returning — spraying alone only treats what’s already inside.` },
   { q: `Is there a contract for home service in ${t.name}?`, a: `No. ${t.name} homeowners get one-time or seasonal service with no long-term contract and no cancellation fee.` },
 ];
+const answerFinal = deep?.data.answer ?? answer;
+const faqsFinal = deep?.data.faqs?.length ? deep.data.faqs : faqs;
 const pageNodes = [
-  webPageNode({ url, name: `Residential Pest Control in ${t.name}, WI`, description: answer, primaryEntityId: `${url}#service` }),
+  webPageNode({ url, name: `Residential Pest Control in ${t.name}, WI`, description: deep?.data.answer ?? answer, primaryEntityId: `${url}#service` }),
   townServiceNode(t, url),
-  faqPageNode(url, faqs),
+  faqPageNode(url, deep?.data.faqs?.length ? deep.data.faqs : faqs),
   breadcrumbNode(url, [
     { name: 'Home', url: business.url + '/' },
     { name: 'Service Area', url: business.url + '/service-area/' },
@@ -35,12 +46,12 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={`Residential Pest Control in ${t.name}, WI`} description={answer} path={`/service-area/${t.slug}/residential/`} pageNodes={pageNodes}>
+<BaseLayout title={`Residential Pest Control in ${t.name}, WI`} description={answerFinal} path={`/service-area/${t.slug}/residential/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Residential</p>
       <h1>Residential Pest Control in {t.name}, WI</h1>
-      <AnswerBox text={answer} />
+      <AnswerBox text={answerFinal} />
       <p class="lead">{L.intro}</p>
       <p>Homes in {t.name} — {L.housing} — face a predictable seasonal pest calendar. BugBoss treats the specific problem and finds how it’s getting in, so you’re not calling about the same pest again next year. The heaviest local pressures we handle: {L.pestPressures.join(', ')}.</p>
       <h2>How BugBoss handles it</h2>
@@ -51,13 +62,15 @@ const pageNodes = [
         <li>Seasonal options for {t.name}’s fall invaders and rodents</li>
         <li>No long-term contract, no cancellation fee</li>
       </ul>
+      {Body && <article class="prose"><Body /></article>}
+
       <div class="callout">
         <p class="mt0"><strong>Home pest problem in {t.name}?</strong> Call Brian directly.</p>
         <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href={`/service-area/${t.slug}/`} class="btn btn-ghost">All {t.name} services →</a></div>
       </div>
     </div>
   </section>
-  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`Home Pest Control in ${t.name}: FAQs`} /></div></section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqsFinal} heading={`Home Pest Control in ${t.name}: FAQs`} /></div></section>
   <Cta />
   <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
 </BaseLayout>

@@ -164,4 +164,20 @@ const caseStudies = defineCollection({
   }),
 });
 
-export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance, townpests, caseStudies };
+// Deep bodies for the /service-area/{town}/{residential|commercial|wildlife}/
+// spokes. Without one, a spoke renders as a template mad-lib on the town name
+// -- around 400 words that competes with its own 3,700-word parent hub. The
+// template only renders the spoke's own copy as a fallback; where a body
+// exists here, it carries the page.
+const townservices = defineCollection({
+  type: 'content',
+  schema: z.object({
+    town: z.string(),
+    service: z.enum(['residential', 'commercial', 'wildlife']),
+    title: z.string(),
+    answer: z.string(),
+    faqs: faq.default([]),
+  }),
+});
+
+export const collections = { towns, pests, guides, blog, neighborhoods, problems, commercial, residential, compliance, townpests, caseStudies, townservices };
