@@ -12,6 +12,11 @@ const faqs = [
   { q: 'Why do the national pest companies push contracts?', a: 'Long-term contracts guarantee the company revenue regardless of results. The most common public complaints about the national brands are contract lock-in, cancellation fees, no-shows, and unreachable support. BugBoss is built as the opposite of that.' },
   { q: 'Can I still get recurring service without a contract?', a: 'Yes. Many customers choose a seasonal program because it works — fall invaders and rodents are predictable. You get the recurring benefit without being locked in.' },
   { q: 'What if I want to cancel?', a: 'You simply stop. There is no cancellation fee and no penalty. BugBoss keeps your business by doing good work, not by trapping you in an agreement.' },
+  { q: 'Is a one-time visit really enough for some problems?', a: 'For plenty of them, yes, and it is worth saying so on a page like this. A wasp nest is one visit. A dead animal in a crawlspace is one visit. A mouse problem is a visit plus the sealing that stops the next one — after which you should not need us again for that. What genuinely benefits from recurring service is a narrow list: heavy annual fall-invader pressure on an older house, mosquito and tick work through summer, and commercial buildings where the schedule is the point. If your situation is not on that list we will say so.' },
+  { q: 'Is a no-contract company more expensive per visit?', a: 'Not here, and there is no premium for the flexibility. Every job is quoted after looking at the property, so what you pay reflects the actual work rather than a position on a rate card. What a contract genuinely buys a customer elsewhere is a locked price over several years — which is worth something if you are confident you want several years of it, and worth nothing if the problem is solved in October.' },
+  { q: 'How is this different from a company that says "cancel anytime" in the ad?', a: 'Read what you actually sign, because those two things frequently coexist. The common patterns are an initial-term commitment before the cancel-anytime clause applies, a discounted first treatment that is clawed back if you leave early, an auto-renewing term, and a requirement to cancel in writing within a specific window. None of those exist here — there is nothing to sign, which is a simpler claim to verify than a promise about what the fine print means.' },
+  { q: 'Does the guarantee require a contract?', a: 'It requires quarterly service, which is not the same thing. You can be on quarterly service and stop whenever you want; while you are on it, the guarantee applies to a defined list of pests. The guarantee page sets out both the covered list and the exclusions plainly — the exclusions are real and worth reading before you book rather than after something is not covered.' },
+  { q: 'What about commercial accounts?', a: 'Same answer: no long-term contract and no cancellation fee. Commercial and multi-unit accounts are invoiced Net 30. Most commercial buildings do end up on a regular schedule because that is genuinely what the work requires, but they are on it because it is working. It also makes it easier for us to tell a business owner that their real problem is a dock seal rather than a monthly visit, which is a harder conversation to have when there is a service agreement on the table.' },
 ];
 const pageNodes = [
   webPageNode({ url, name: 'No Contracts', description: desc }),
@@ -34,6 +39,31 @@ const pageNodes = [
         <li>No cancellation fees or penalties</li>
         <li>You reach the owner directly, not a call center</li>
       </ul>
+
+      <h2>What the fine print usually says elsewhere</h2>
+      <p>Plenty of companies advertise flexibility and still bind you, and the mechanisms are consistent enough to list. If you are comparing quotes, these are the four clauses worth finding before you sign:</p>
+      <ul class="check">
+        <li><strong>An initial term.</strong> "Cancel anytime" that begins after twelve or twenty-four months of committed service.</li>
+        <li><strong>A clawback on the introductory price.</strong> The discounted or free first treatment becomes payable at full rate if you leave inside the term.</li>
+        <li><strong>Automatic renewal.</strong> The agreement rolls into a fresh term unless you cancel inside a specific window, which is frequently narrow and rarely reminded.</li>
+        <li><strong>A written-notice requirement.</strong> Cancelling by phone does not count, and the clock keeps running until the letter or the form arrives.</li>
+      </ul>
+      <p>None of those apply here, and the reason that is easy to verify is that there is nothing to sign. A promise about what fine print means is only as good as the fine print. No fine print is a simpler thing to check.</p>
+
+      <h2>Why we can actually afford to work this way</h2>
+      <p>A contract solves a real problem for a large company: it makes revenue predictable across a route with high customer turnover and technicians who change every season. That is a genuine business need and it is why the model exists.</p>
+      <p>A one-person operation in a small town has a different problem to solve. Out here, the thing that keeps the calendar full is that people tell their neighbors — which means the incentive is to fix the problem rather than to retain the account. Those two goals point in the same direction for us and in opposite directions for a route company, and that is the actual substance behind "no contracts." It is not generosity. It is what the business model rewards.</p>
+
+      <h2>Which means we will sometimes talk you out of buying something</h2>
+      <p>The practical consequence, and the one worth reading:</p>
+      <ul class="check">
+        <li><strong>Springtails or millipedes in a damp basement</strong> are a humidity problem. The honest answer is a dehumidifier and a downspout extension, not a program.</li>
+        <li><strong>Cluster flies at the window in February</strong> cannot be treated — they have been in the wall since September and they cannot breed indoors. Vacuum them, and let us come in late August.</li>
+        <li><strong>Wood cockroaches and most millipede invasions</strong> are outdoor insects that cannot establish indoors. They die off.</li>
+        <li><strong>A wasp nest high in a tree away from the house</strong> in late September will be dead at hard frost, and does not need anybody.</li>
+        <li><strong>Some things need somebody else</strong> — a honey bee swarm needs a beekeeper, a chewed wire needs an electrician, and a recurring moisture problem needs a contractor or an excavator.</li>
+      </ul>
+      <p>Being told you do not need us is a normal outcome of calling BugBoss, and it is considerably easier to say when there is no agreement waiting to be signed.</p>
     </div>
   </section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>

@@ -1,15 +1,47 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
 import { reviews } from '@/data/reviews';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/reviews/';
 const desc = `Read reviews for BugBoss The X-Terminator — rated ${business.rating.value}/5 from ${business.rating.count} reviews across Northeast Wisconsin.`;
 const stars = (n: number) => '★'.repeat(n) + '☆'.repeat(5 - n);
+const answer = `BugBoss The X-Terminator is rated ${business.rating.value} out of 5 from ${business.rating.count} reviews on its Google Business Profile. The reviews below are real and verbatim from that profile, lightly trimmed where they were long. What customers mention most often is response speed, fair pricing, and problems that actually stopped rather than being managed.`;
+
+const faqs = [
+  {
+    q: 'Are these reviews real?',
+    a: `Yes, and here is exactly what has and has not been done to them. Each one is transcribed verbatim from the public Google Business Profile. Longer reviews are trimmed to a representative excerpt, marked with an ellipsis, and punctuation is tidied — wording is not changed and nothing is paraphrased. The names are the public display names Google shows. No reviewer towns are listed, because Google does not publish them and we are not going to invent them. The full set is on the Google profile and you can check any of these against it.`,
+  },
+  {
+    q: 'Why do the star ratings here not show up in Google search results?',
+    a: 'Because we have deliberately not marked them up that way, and it is worth explaining rather than leaving it to look like an oversight. Google does not support self-serving Review and AggregateRating structured data on a business\u2019s own page for rich results, so a site that emits it is either being ignored or risking a manual action. The rating and the reviews are displayed honestly here for people to read; the stars you see in a search result come from the Google Business Profile itself, which is the correct source.',
+  },
+  {
+    q: 'How do I leave a review?',
+    a: `The button above opens the Google review box directly rather than the profile page, which saves a step. It takes about thirty seconds and you do need a Google account. If you would rather not use Google, Yelp and Facebook both work. What is genuinely useful in a review is the specifics — which pest, which town, and whether the problem actually stopped — because that is what the next person reading it is trying to work out.`,
+  },
+  {
+    q: 'What if I am not happy with the work?',
+    a: `Call ${business.phoneVanity} and say so, before you write anything. That is not us trying to head off a bad review — it is that a problem we do not know about is a problem we cannot fix, and most of what goes wrong in this trade is fixable on a return visit. You are dealing with the owner rather than a franchise complaints line, so there is nobody to escalate to and no script. If quarterly service is not holding on a covered pest, the guarantee page sets out what that entitles you to.`,
+  },
+  {
+    q: 'Why does a small business care this much about reviews?',
+    a: 'Because in a rural market they are close to the whole marketing budget. There is no billboard on Highway 45 that does what a neighbor saying "call Brian" does, and reviews are the online version of that. They are also the one part of this business a website genuinely cannot do for itself — we can write every page on this site, but we cannot write these, which is exactly why they are worth something.',
+  },
+  {
+    q: 'Do you offer anything in exchange for a review?',
+    a: 'No. No discount, no entry into a draw, no free service. Incentivised reviews violate Google\u2019s policies, they are usually obvious to readers, and a review somebody was paid for is worth nothing to the person trying to decide whether to call us. If you leave one it is because the work was worth mentioning.',
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'Reviews', description: desc }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Reviews', url }]),
 ];
 ---
@@ -18,7 +50,20 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow">Reviews</p>
       <h1>What Northeast Wisconsin says about BugBoss</h1>
+      <AnswerBox text={answer} />
       <p class="lead"><span class="stars">★★★★★</span> {business.rating.value} out of 5 from {business.rating.count} reviews across Google, Facebook, and Yelp.</p>
+
+      <div class="rv-intro">
+        <h2>What people actually mention</h2>
+        <p>Reading through them, the same four things come up far more than anything else — and notably, none of them are about products or programs.</p>
+        <ul class="check">
+          <li><strong>It got fixed.</strong> Not managed, not reduced — stopped. Several reviews specifically describe a problem ending after one visit rather than becoming a standing arrangement.</li>
+          <li><strong>He came quickly.</strong> Including a Saturday, and including jobs nobody enjoys — one of these is somebody crawling under a house to find a dead animal after new skirting went on.</li>
+          <li><strong>The price was fair and it was known up front.</strong> Every job is quoted after looking at the property, which is why there is no price list on this site.</li>
+          <li><strong>He was respectful of the house.</strong> Shoe covers, working around whether anyone is home, and treating the place as somebody\u2019s home rather than a job site.</li>
+        </ul>
+        <p>That is a fairly narrow set of expectations, and it is roughly what we would want a small local pest company to be judged on.</p>
+      </div>
 
       <div class="grid cols-2" style="margin-top:1.5rem">
         {reviews.map((r) => (
@@ -50,8 +95,15 @@ const pageNodes = [
       </div>
     </div>
   </section>
+  <section class="wrap narrow">
+    <h2>If something went wrong</h2>
+    <p>The other half of taking reviews seriously is being reachable when the work was not right. If a treatment has not held, if something was missed, or if the visit was not what you expected, <strong>call {business.phoneVanity} and say so</strong> — ideally before you write anything, because a problem we do not know about is one we cannot fix, and most of what goes wrong in this trade is sorted on a return visit.</p>
+    <p>There is no complaints department and no script. You are dealing with the owner, which cuts both ways: there is nobody to escalate to, and there is nobody who can pass you along either. If you are on quarterly service and a covered pest is not staying gone, the <a href="/our-guarantee/">guarantee</a> sets out plainly what that entitles you to — including the exclusions, which are worth reading before you need them.</p>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these reviews: FAQs" /></div></section>
   <Cta title="Ready to become the next 5-star review?" />
   <style>
+    .rv-intro { margin: 2rem 0 1rem; max-width: 68ch; }
     blockquote { margin: 0; } blockquote p { font-size: 1rem; } blockquote cite { font-style: normal; font-weight: 700; color: var(--ink); }
   </style>
 </BaseLayout>
