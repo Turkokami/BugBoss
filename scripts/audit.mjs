@@ -229,6 +229,21 @@ for (const file of walk('src/content', '.md')) {
   }
 }
 
+// The Wisconsin bat maternity window is a legally significant date -- sealing a
+// roost inside it kills flightless pups in the structure -- and the site stated
+// it two ways at once (July 31 in ~200 places, August 15 in two templates, one
+// of which rendered on every town wildlife page). It must be stated identically
+// everywhere or not at all.
+for (const file of [...walk('src/content', '.md'), ...walk('src/pages', '.astro'), ...walk('src/data', '.ts')]) {
+  for (const [i, line] of readFileSync(file, 'utf8').split('\n').entries()) {
+    if (!/\bJune\s*1\b/.test(line)) continue;
+    const end = line.match(/\b(July|Jul|August|Aug)\.?\s*(\d{1,2})\b/);
+    if (end && !(/^Jul/.test(end[1]) && end[2] === '31')) {
+      fail(`${file}:${i + 1}`, 'bat-maternity-date', `June 1 – ${end[0]} (site standard is July 31)`);
+    }
+  }
+}
+
 // --- Cross-page link checks -------------------------------------------------
 for (const [target, sources] of linkTargets) {
   if (!existingPaths.has(target)) {

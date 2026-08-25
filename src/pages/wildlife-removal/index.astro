@@ -15,12 +15,15 @@ const s = getService('wildlife-removal')!;
 const url = `${business.url}/${s.slug}/`;
 const wildlife = pestsByCategory('wildlife');
 const faqs = [
-  { q: 'Does BugBoss remove bats legally in Wisconsin?', a: 'Yes. Bats are protected in Wisconsin, so BugBoss uses humane exclusion within DNR maternity-season timing (exclusion restricted roughly June 1–August 15). We never trap bats inside — we let them out and seal them out.' },
+  { q: 'Does BugBoss remove bats legally in Wisconsin?', a: 'Yes. Bats are protected in Wisconsin, so BugBoss uses humane exclusion within DNR maternity-season timing (exclusion restricted June 1 through July 31). We never trap bats inside — we let them out and seal them out.' },
   { q: 'What wildlife does BugBoss handle?', a: 'Bats, raccoons, squirrels, skunks, groundhogs, moles, voles, snakes, and woodpeckers, plus the exclusion and cleanup that go with them. Few rural competitors offer full wildlife service alongside pest control.' },
   { q: 'What is the difference between removal and exclusion?', a: 'Removal takes the animal out; exclusion seals the building so it — and others — cannot get back in. Lasting results require both, which is why BugBoss focuses on finding and closing every entry point.' },
   { q: 'Do you clean up after wildlife?', a: 'Yes. Droppings, damaged insulation, and contamination from bats, raccoons, and other wildlife are health hazards. Cleanup and decontamination are part of a complete BugBoss wildlife job.' },
   { q: 'There is an animal in my attic right now — what do I do?', a: `Call ${business.phoneVanity}. Avoid cornering or handling the animal, especially bats and raccoons, which can carry rabies. We will assess the situation and the right timing for removal.` },
   { q: 'How do you keep the animal from coming back?', a: 'By sealing every entry point with durable materials after removal, not just the obvious one. Thorough exclusion is what separates a permanent fix from a temporary one.' },
+  { q: 'Why will my regular pest control company not handle this?', a: 'Because wildlife is a different trade. It needs ladders and roof work, building repair skills, knowledge of the protection rules for each species, and a willingness to schedule around an animal rather than a route. Most pest companies — including the metro franchises — treat insects and rodents and refer wildlife out, or decline it entirely. We do both because out in the rural corridor there has never been anybody to hand it to.' },
+  { q: 'Do you relocate the animal, or kill it?', a: 'Wherever it will work, neither — the best tool is usually a one-way door, which lets the animal leave on its own to forage and stops it getting back in. No handling, no trapping stress, and no relocation question at all. Where an animal does have to be taken, Wisconsin regulates what may be done with it and the rules differ by species and circumstance, so we work inside them and will tell you plainly what applies to your situation.' },
+  { q: 'How much of the cost is the repair rather than the animal?', a: 'Often most of it, and that is the honest shape of this work. Getting an animal out is frequently the quick part; sealing a roofline properly with hardware cloth and flashing, and cleaning up a latrine or a contaminated attic, is where the labor is. It is also the part that decides whether you are doing this again in two years, which is why we quote the whole job rather than the removal alone.' },
 ];
 const pageNodes = [
   webPageNode({ url, name: s.name, description: s.answer, primaryEntityId: `${business.url}/${s.slug}/#service` }),
@@ -40,10 +43,37 @@ const pageNodes = [
       <p class="lead">{s.summary}</p>
       <h2>What’s included</h2>
       <style>
+        .steps { padding-left: 1.2rem; }
+        .steps li { margin-bottom: .7rem; }
         .band-photo { margin: 1.4rem auto; max-width: 340px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
         .band-photo :global(img) { width: 100%; height: auto; display: block; }
       </style>
       <ul class="check">{s.bullets.map((b) => <li>{b}</li>)}</ul>
+
+      <h2>Removal is the easy half. The building is the job.</h2>
+      <p>Almost every wildlife call starts as a request to take an animal out of a building, and almost every one of them is really a request to close a hole. Those are not the same job, and confusing them is why people end up paying twice.</p>
+      <p>Trap tonight's raccoon and the torn soffit it climbed through is still open next week. So is the gap at the fascia the squirrels will find in October, the same joint the <a href="/residential-pest-control/stinging-insects/">wasps</a> will build in next July, and the opening every <a href="/residential-pest-control/fall-invaders/">fall invader</a> on the property will use in September. One repair closes all of it.</p>
+      <p>So what we sell is not really removal. It is <strong>getting the animals out and then closing the building</strong> — and then cleaning up what got left behind, because a latrine or an old roost is both a health problem and an advertisement to the next animal that comes past.</p>
+
+      <h2>How a wildlife job actually runs</h2>
+      <ol class="steps">
+        <li><strong>Inspect from the outside first.</strong> The entry point is found by reading the roofline and the sign around it — rub marks, staining, claw marks, disturbed insulation visible through a gap, droppings below an opening — not by starting in the attic. There is usually more than one, and the ones nobody found are what make a first attempt fail.</li>
+        <li><strong>Identify the species and the season.</strong> This decides what is legal and what is humane. <a href="/pest-library/bats/">Bats</a> have a maternity window in which exclusion is prohibited. Raccoons and squirrels have litters in spring, and a mother sealed out from dependent young is the worst outcome available.</li>
+        <li><strong>Get them out.</strong> Usually with one-way devices, so the animal leaves to forage and cannot return — no handling, no trapping stress. Where young are present, they are dealt with together with the mother rather than left behind.</li>
+        <li><strong>Confirm the space is empty</strong> before anything is closed. Sealing an occupied void is how animals die inside a ceiling.</li>
+        <li><strong>Exclude properly.</strong> Heavy-gauge hardware cloth and metal flashing, mechanically fastened — not expanding foam in a hole, which a determined animal removes in a night. Soffit and fascia repaired, vents rescreened, the whole roofline closed rather than just the one opening.</li>
+        <li><strong>Clean up, and say honestly what does not need cleaning.</strong> A raccoon latrine or an established bat roost needs removal and replacement of contaminated insulation. A squirrel that used one corner for three weeks does not need a full attic restoration, and you should be wary of anyone who quotes one before looking.</li>
+      </ol>
+
+      <h2>The law is part of the job here</h2>
+      <p>Two things are worth knowing before anyone sets a trap or a ladder.</p>
+      <p><strong>Bats are protected in Wisconsin</strong>, and exclusion is prohibited during the summer maternity season while flightless pups are in the roost. Sealing then kills the pups inside the structure — inhumane, illegal, and a far worse problem for you than the colony was. We work to that calendar, which sometimes means telling a customer in June that the right answer is to inspect now and book the work for August. The full picture is in our <a href="/guides/wisconsin-bat-exclusion-law/">Wisconsin bat exclusion law guide</a> and the post on <a href="/blog/wisconsin-bat-maternity-season-explained/">why you cannot evict bats in June and July</a>.</p>
+      <p><strong>Native woodpeckers and most native birds are federally protected</strong> under the Migratory Bird Treaty Act, which means the entire toolkit is deterrence, exclusion, insect control and repair — never removal. Anyone offering to get rid of a woodpecker by killing it is offering to break federal law and, separately, is not addressing whatever drew the bird.</p>
+      <p>Rules change and they differ by species and circumstance. Where a page here states one, it names the agency so you can check the current position at the source rather than relying on a date-stamped summary on a pest control website — including this one.</p>
+
+      <h2>What this looks like when it goes right</h2>
+      <p>A colony of over 150 bats was living in the attic of a house in Clintonville. We evicted the colony, sealed the building, stripped the contaminated insulation, sanitized the space and reinsulated it — and that second half is the part most companies leave to somebody else. In Green Bay, a mother raccoon had denned inside a wall and had her litter in the cavity; the obvious move, trapping the adult, would have sealed non-mobile kits inside the wall. Both are written up in full: <a href="/case-studies/">case studies</a>.</p>
+
       <h2>Wildlife we handle</h2>
       <div style="display:flex;flex-wrap:wrap;gap:.3rem;">
         {wildlife.map((p) => <a href={`/pest-library/${p.slug}/`} class="tag">{p.name}</a>)}
