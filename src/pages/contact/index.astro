@@ -12,6 +12,10 @@ const faqs = [
   { q: 'What payment methods do you take?', a: `${business.paymentMethods.slice(0, -1).join(', ')} and ${business.paymentMethods.slice(-1)}. Commercial accounts are invoiced ${business.commercialTerms}.` },
   { q: 'How fast will I hear back?', a: `Quickly — you are contacting a local family business, not a call center. Clintonville and the closest towns often get same-day attention, and the emergency line is answered around the clock. Office hours are ${business.hours.split(';')[1].trim()}.` },
   { q: 'Do you charge for a quote?', a: 'No. Tell us what you are dealing with and we will tell you what it takes to fix it. If the honest answer is that you do not need us — that it is a repair, or something you can handle yourself — that is what you will hear.' },
+  { q: 'What should I have ready when I call?', a: 'Four things make the first call twice as useful. What you are seeing and where in the building. When it started and whether it is getting worse. Roughly how old the house or building is, because the age decides how pests get in. And a photo if you have one — identification settles most calls in seconds, and a surprising number end with us telling you it is harmless.' },
+  { q: 'Can I just send a photo to get something identified?', a: 'Yes, and it is genuinely the most common thing we get asked. Send it through the form or text it, with something for scale if you can and a note about where you found it. Identification is free and carries no expectation that you book anything — a large share of these end with "that is a ground beetle, you are fine," which is a perfectly good outcome for everyone.' },
+  { q: 'Do I need to be home for the work?', a: 'Usually not for exterior work, which is most of what we do. Interior treatment and any inspection of the attic, basement or crawlspace does need access. Plenty of customers on a seasonal program are not home when we come — we do the work, leave the work order, and follow up if something needs saying.' },
+  { q: 'What counts as an emergency?', a: 'A stinging insect problem where somebody in the house has a known allergy. An animal loose in the living space. A bat in a room where somebody was sleeping. A commercial kitchen facing an inspection. Those get the 24-hour line and are treated as urgent. Most other things — a wasp nest on a shed, mice in the garage, ants in the kitchen — are genuinely fine to schedule, and it is worth saying so rather than charging you for urgency you do not need.' },
 ];
 const pageNodes = [
   webPageNode({ url, name: 'Contact BugBoss', description: desc }),
@@ -42,8 +46,30 @@ const pageNodes = [
       </div>
     </div>
   </section>
+  <section><div class="wrap narrow">
+    <h2>What happens after you get in touch</h2>
+    <ol class="steps">
+      <li><strong>You reach Brian, not a call center.</strong> That is the whole difference and it is worth naming. There is no script, no queue, and no transfer.</li>
+      <li><strong>We work out what you actually have</strong> — frequently on that first call, from a description and a photo. A meaningful share of calls end here, because what somebody found is harmless or is an outdoor insect that cannot establish indoors.</li>
+      <li><strong>You get a quote before anything starts.</strong> Every job is priced after looking at the property, which is why there is no price list on this site: a published number would be wrong for half the people reading it.</li>
+      <li><strong>The work gets done and you get a work order</strong> — what was inspected, what was found, what was treated and when.</li>
+      <li><strong>Nothing is signed.</strong> No contract, no cancellation fee, no auto-renewal. If you want us back next season you call, and if you do not, nothing happens.</li>
+    </ol>
+
+    <h2>Four things worth having ready</h2>
+    <p>None of these are required, and any one of them makes the first call twice as useful:</p>
+    <ul class="check">
+      <li><strong>What you are seeing, and where in the building.</strong> Where matters as much as what — a damp basement, a sunny upstairs window and the pantry each point somewhere different.</li>
+      <li><strong>When it started, and whether it is getting worse.</strong></li>
+      <li><strong>Roughly how old the building is.</strong> Age decides how pests get in more than almost anything else.</li>
+      <li><strong>A photo.</strong> With something for scale if you can manage it. Identification is free and settles most calls in seconds.</li>
+    </ul>
+    <p>If you would rather work it out yourself first, the <a href="/pest-library/">Pest Library</a> covers {'55'} species and the <a href="/pest-problems/">common problems</a> section is organized by symptom instead.</p>
+  </div></section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} /></div></section>
   <style>
+    .steps { padding-left: 1.2rem; max-width: 68ch; }
+    .steps li { margin-bottom: .7rem; }
     .contact-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; }
     .contact-card p { margin: .4rem 0; }
     @media (min-width: 820px) { .contact-grid { grid-template-columns: 1fr 1fr; } }
