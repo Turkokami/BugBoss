@@ -452,7 +452,31 @@ export const towns: Town[] = [
   // --- TIER 3 — METRO EDGE (35-55 mi). Long-tail only; areaServed for now. ---
   { slug: 'appleton', name: 'Appleton', county: 'Outagamie County', tier: 3, cluster: 'area', incorporated: true },
   { slug: 'neenah', name: 'Neenah', county: 'Winnebago County', tier: 3, cluster: 'area', incorporated: true },
-  { slug: 'menasha', name: 'Menasha', county: 'Winnebago County', tier: 3, cluster: 'area', incorporated: true },
+  {
+    slug: 'menasha',
+    name: 'Menasha',
+    county: 'Winnebago County',
+    tier: 3,
+    cluster: 'single',
+    incorporated: true,
+    lat: 44.2022,
+    lng: -88.4465,
+    local: {
+      distanceMi: 32,
+      direction: 'south',
+      intro:
+        'Menasha sits on the water at the north end of Lake Winnebago, and its older rental housing and mill-era building stock generate the multi-unit work — bed bugs, cockroaches, and shared-wall rodent problems — that a single-unit treatment never solves.',
+      pestPressures: [
+        'bed bugs in multi-unit and rental buildings',
+        'cockroaches in older shared-wall housing',
+        'rodents moving between units in converted and mill-era buildings',
+        'mosquitoes and midges off the lake and the channel',
+      ],
+      housing:
+        'older rental stock and converted mill-era buildings near the water, alongside postwar single-family neighborhoods',
+      landmarks: ['Lake Winnebago', 'the Fox River locks and channel', 'Doty Island'],
+    },
+  },
   { slug: 'kaukauna', name: 'Kaukauna', county: 'Outagamie County', tier: 3, cluster: 'area', incorporated: true },
   { slug: 'little-chute', name: 'Little Chute', county: 'Outagamie County', tier: 3, cluster: 'area', incorporated: true },
   { slug: 'kimberly', name: 'Kimberly', county: 'Outagamie County', tier: 3, cluster: 'area', incorporated: true },
@@ -462,7 +486,31 @@ export const towns: Town[] = [
   { slug: 'freedom', name: 'Freedom', county: 'Outagamie County', tier: 3, cluster: 'area', incorporated: false },
   { slug: 'wrightstown', name: 'Wrightstown', county: 'Brown County', tier: 3, cluster: 'area', incorporated: true },
   { slug: 'de-pere', name: 'De Pere', county: 'Brown County', tier: 3, cluster: 'area', incorporated: true },
-  { slug: 'green-bay', name: 'Green Bay', county: 'Brown County', tier: 3, cluster: 'area', incorporated: true },
+  {
+    slug: 'green-bay',
+    name: 'Green Bay',
+    county: 'Brown County',
+    tier: 3,
+    cluster: 'single',
+    incorporated: true,
+    lat: 44.5133,
+    lng: -88.0133,
+    local: {
+      distanceMi: 45,
+      direction: 'northeast',
+      intro:
+        'Green Bay is the largest city we serve and the one where we are most deliberately not competing on volume. What brings BugBoss down here is the work the metro pest routes will not take: wildlife in a structure, exclusion on older housing, and the jobs that need somebody who will get on the roof.',
+      pestPressures: [
+        'raccoons, squirrels and bats in older east-side and near-west housing',
+        'exclusion work on century-old homes with balloon framing',
+        'fall invaders on sunny walls near the bay and the river corridors',
+        'nuisance birds on commercial buildings and signage',
+      ],
+      housing:
+        'a wide range — century-old near-downtown neighborhoods, dense postwar east-side grids, and newer subdivisions pushing out to the edge',
+      landmarks: ['the Fox River corridor', 'the East River and Baird Creek greenways', 'the bay shore'],
+    },
+  },
   { slug: 'howard', name: 'Howard', county: 'Brown County', tier: 3, cluster: 'area', incorporated: true },
   { slug: 'suamico', name: 'Suamico', county: 'Brown County', tier: 3, cluster: 'area', incorporated: true },
   { slug: 'ashwaubenon', name: 'Ashwaubenon', county: 'Brown County', tier: 3, cluster: 'area', incorporated: true },

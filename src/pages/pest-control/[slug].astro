@@ -7,6 +7,8 @@ import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
+const townSlugs = new Set((await getCollection('towns')).map((e) => e.slug));
+
 export async function getStaticPaths() {
   const items = await getCollection('neighborhoods');
   return items.map((n) => ({ params: { slug: n.slug }, props: { n } }));
@@ -14,6 +16,12 @@ export async function getStaticPaths() {
 const { n } = Astro.props;
 const { Content } = await render(n);
 const url = `${business.url}/pest-control/${n.slug}/`;
+
+// Link the neighborhood up to its city hub where the build publishes one, so
+// the neighborhood pages are spokes rather than leaves. Most of these cities
+// (Appleton, De Pere, Allouez) have no page of their own, so those stay plain.
+const citySlug = n.data.city.trim().toLowerCase().replace(/\s+/g, '-');
+const cityPath = townSlugs.has(citySlug) ? `/service-area/${citySlug}/` : null;
 const pageNodes = [
   {
     '@type': 'Service',
@@ -36,7 +44,7 @@ const pageNodes = [
 <BaseLayout title={n.data.title} description={n.data.answer} path={`/pest-control/${n.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href="/pest-control/">Neighborhoods</a> · {n.data.city}, {n.data.county}</p>
+      <p class="eyebrow"><a href="/pest-control/">Neighborhoods</a> · {cityPath ? <a href={cityPath}>{n.data.city}</a> : n.data.city}, {n.data.county}</p>
       <h1>{n.data.title}</h1>
       <AnswerBox text={n.data.answer} />
       <article class="prose"><Content /></article>
