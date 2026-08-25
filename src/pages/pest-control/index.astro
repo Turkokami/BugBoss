@@ -2,16 +2,44 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/pest-control/';
 const items = (await getCollection('neighborhoods')).sort((a, b) => a.data.order - b.data.order);
 const byCity: Record<string, typeof items> = {};
 for (const n of items) (byCity[n.data.city] ??= []).push(n);
 const desc = 'Neighborhood-level pest control and wildlife removal for the Fox Valley and Green Bay edge — BugBoss serves the metro-area neighborhoods closest to our rural Northeast Wisconsin base.';
+const answer = `BugBoss serves Fox Valley and Green Bay neighborhoods from Clintonville, and does so selectively rather than at volume. What we are called into the metro for is the problem-first work most city pest routes decline — wildlife inside a structure, exclusion on older housing, and multi-unit bed bug and cockroach jobs that have to be scoped as one building rather than one apartment.`;
+
+const faqs = [
+  {
+    q: 'Are you actually local to the Fox Valley and Green Bay?',
+    a: 'No, and we would rather be straight about it. We are based at 600 S. Main St. in Clintonville, which is roughly 30 to 45 minutes from most of these neighborhoods. That is a real drive. It makes us a good fit for scheduled work — wildlife, exclusion, a bed bug or cockroach program, a properly timed fall invader treatment — and a poor fit for a same-hour emergency, where a company based in the metro will simply get there first.',
+  },
+  {
+    q: 'Then why would I call you instead of a metro company?',
+    a: 'For routine work, quite possibly you would not. Where it changes is wildlife and exclusion. Most pest companies serving these metros do not do wildlife at all — they will treat insects and rodents and refer an animal in a wall out to somebody else, or to nobody. We do both halves, including the sealing and the cleanup afterward, because out in the rural corridor there has never been anyone to hand it to. That is the specific gap, and it is the honest reason to call us.',
+  },
+  {
+    q: 'Why neighborhood pages instead of one page per city?',
+    a: 'Because a city this size is not one pest environment. A century-old Astor home with balloon-framed walls and a postwar Preble ranch on a slab have almost nothing in common structurally, and the pests get in completely differently. The neighborhood pages describe the actual building stock and the pressure that comes with it, which is more useful than a city page that has to average across all of it.',
+  },
+  {
+    q: 'My neighborhood is not listed. Do you still come out?',
+    a: 'Usually yes. The list below is where we have written the area up properly, not the limit of where we work — the service area runs roughly 60 miles from Clintonville, which takes in most of the Fox Valley and Green Bay. Call and describe the job and the address and you will get a straight answer, including if the answer is that somebody closer is a better fit.',
+  },
+  {
+    q: 'Do you charge more for coming into the metro?',
+    a: 'No travel surcharge. The quote is the quote and you get it before anything starts. What distance affects is scheduling rather than price — metro work gets grouped into runs rather than dropped into any open slot, so if you need a specific day it is worth calling with some notice.',
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'Neighborhood Pest Control', description: desc }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Neighborhoods', url }]),
 ];
 ---
@@ -20,7 +48,14 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow">Metro edge</p>
       <h1>Neighborhood Pest Control — Fox Valley &amp; Green Bay</h1>
+      <AnswerBox text={answer} />
       <p class="lead">BugBoss serves the neighborhoods on the metro edge for specific pest and wildlife problems — the hyperlocal, problem-first jobs the volume companies overlook.</p>
+
+      <div class="nb-intro">
+        <p>We are a Clintonville company, and these are not our home streets. It is worth saying that at the top rather than burying it, because it decides whether we are the right call for you.</p>
+        <p>What brings us into the Fox Valley and Green Bay is a narrow band of work: <a href="/wildlife-removal/">an animal inside a structure</a> and the exclusion and cleanup that finish the job, <a href="/residential-pest-control/fall-invaders/">exclusion on older housing</a>, and <a href="/pest-library/bed-bugs/">bed bug</a> and <a href="/pest-library/cockroaches/">cockroach</a> problems in multi-unit buildings, where treating one apartment at a time is the reason the problem has lasted years. Most of the metro pest routes will not take the wildlife side at all.</p>
+        <p>Each page below is written around the actual building stock of that neighborhood, because that is what determines how pests get in. The city hubs — where we have them — sit at <a href="/service-area/green-bay/">Green Bay</a> and the rest of the <a href="/service-area/">service area</a>.</p>
+      </div>
       {items.length === 0 ? <p>Neighborhood pages are being published.</p> : Object.entries(byCity).map(([city, list]) => (
         <>
           <h2>{city}</h2>
@@ -35,5 +70,7 @@ const pageNodes = [
       ))}
     </div>
   </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="Metro-area service: FAQs" /></div></section>
   <Cta />
+  <style>.nb-intro { margin: 1.6rem 0 2rem; max-width: 68ch; }</style>
 </BaseLayout>

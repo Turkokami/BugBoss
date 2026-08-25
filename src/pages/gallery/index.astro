@@ -2,8 +2,10 @@
 import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/gallery/';
 const desc = 'Real photos of BugBoss The X-Terminator on the job across Northeast Wisconsin — interior and exterior treatments, stinging-insect and wildlife work, and the owner in the field.';
@@ -36,8 +38,30 @@ const galleryNode = {
     caption: p.cap,
   })),
 };
+const answer = `These are real photographs of BugBoss work across Northeast Wisconsin — Brian Zahringer on actual jobs, not stock imagery. Interior and exterior treatments, stinging-insect and wildlife work, and the entry-point sealing that is usually what actually ends a problem.`;
+
+const faqs = [
+  {
+    q: 'Are these real photos of your work?',
+    a: 'Yes, all of them. Nothing here is a stock image, and that matters more than it sounds — a great deal of pest control marketing runs on purchased photography of technicians who work for nobody, in houses that are nowhere. What you are looking at is the owner, on jobs, in this part of Wisconsin. If you hire us, this is who arrives.',
+  },
+  {
+    q: 'Why the shoe covers?',
+    a: 'Because we are walking through somebody\u2019s house. It is a small thing and it is the kind of small thing that tells you what the rest of the visit will be like. Interior work means being in a kitchen, a nursery, a bedroom — treating that as somebody\u2019s home rather than a job site is not a policy, it is just how it should be done.',
+  },
+  {
+    q: 'Why is there so much photography of the outside of buildings?',
+    a: 'Because that is where most problems are actually solved. The interior treatment is the visible part, but the soffit gap, the torn vent screen, the unsealed utility penetration and the frost-heaved slab edge are what let the pest in — and until those are closed you are treating the same problem again next year. Exclusion is the unglamorous half of this trade and it is the half that lasts.',
+  },
+  {
+    q: 'Can I see written accounts of specific jobs?',
+    a: 'Yes, and they are more useful than photographs for deciding whether to hire somebody. The case studies section takes four real jobs — a 150-bat colony, an eight-plex with years of bed bugs, an eight-foot yellowjacket nest in an attic, and a raccoon litter inside a wall — and sets out what the problem was, what was done, and how it ended, with the town named in each case.',
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'In the Field — Photo Gallery', description: desc }),
+  faqPageNode(url, faqs),
   galleryNode,
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Gallery', url }]),
 ];
@@ -47,7 +71,9 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow">Gallery</p>
       <h1>BugBoss in the field</h1>
+      <AnswerBox text={answer} />
       <p class="lead">Real jobs across rural Northeast Wisconsin — no stock photos. This is Brian and the BugBoss team doing the work: interior and exterior treatments, stinging-insect and wildlife jobs, and the entry-point work that actually solves the problem.</p>
+      <p class="gal-note">A gallery only shows you so much, though. If you want to know what actually happens on a difficult job — the method, the sequence, and how it ended — the <a href="/case-studies/">case studies</a> set out four of them properly, each with the town named.</p>
       <div class="gallery">
         {photos.map((p) => (
           <figure>
@@ -58,8 +84,10 @@ const pageNodes = [
       </div>
     </div>
   </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these photos: FAQs" /></div></section>
   <Cta title="See a pest you recognize? Let's handle it." sub="Local, family-owned, licensed & insured — no long-term contracts. Call Brian." />
   <style>
+    .gal-note { max-width: 68ch; color: var(--muted); }
     .gallery { display: grid; gap: 1rem; grid-template-columns: 1fr 1fr; margin-top: 1.6rem; }
     .gallery figure { margin: 0; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); background: var(--bg-soft); }
     .gallery :global(img) { width: 100%; height: 100%; aspect-ratio: 3 / 4; object-fit: cover; display: block; }

@@ -3,16 +3,37 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/case-studies/';
 const items = (await getCollection('caseStudies')).sort((a, b) => a.data.order - b.data.order);
 const answer =
   'Real BugBoss jobs, written up properly: what the pest was, what kind of building it was in, what was actually done, and how it ended. These are the jobs other companies turned down or had already failed at — a 150-bat colony, an eight-plex with years of bed bugs, an attic-sized yellowjacket nest, and baby raccoons in a wall.';
 const desc = 'Real pest and wildlife jobs completed by BugBoss The X-Terminator in Northeast Wisconsin — the problem, the method, and the outcome.';
+const faqs = [
+  {
+    q: 'Why are there only a few case studies?',
+    a: 'Because these are real jobs with real locations attached, and we would rather publish four we can stand behind than twenty invented ones. Every write-up here names the town the work happened in. That is a claim a customer in that town can check, which is the entire point of publishing it — and it is why the list grows slowly rather than filling up with generic before-and-after copy.',
+  },
+  {
+    q: 'Are these your typical jobs?',
+    a: 'No, and it would be misleading to suggest otherwise. Most of what we do is ordinary — a mouse problem in October, wasps on an eave in August, a quarterly service on a farmhouse. What is collected here is the hard end: the jobs that were turned down elsewhere, or had already been attempted and failed, or were big enough that scale itself was the problem. They are here because they show what happens when the straightforward approach has already run out.',
+  },
+  {
+    q: 'What is the common thread?',
+    a: 'Scope. In every one of these, the reason the problem had persisted was that somebody had been solving a smaller version of it. Eight units treated one at a time instead of as one building. A raccoon trapped without checking for a litter in the wall. A colony removed without sealing the roof edge it came through. The animal or the insect was never the durable part of the problem — the building and the scope were.',
+  },
+  {
+    q: 'Will you write up my job?',
+    a: 'Only if you want us to, and only with what you are comfortable having published. We name the town rather than the address, we do not name customers, and nothing goes up without agreement. If you would rather it stayed private, that is the default and no one will ask twice.',
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'Case Studies', description: desc }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Case Studies', url }]),
 ];
 ---
@@ -26,6 +47,10 @@ const pageNodes = [
         A gallery shows you photos. A case study tells you what the problem actually was and
         what fixing it involved — which is the part worth knowing before you hire anybody.
       </p>
+      <p class="lead">
+        Each one names the town it happened in — {[...new Set(items.map((c) => c.data.town?.split(',')[0]).filter(Boolean))].join(', ')} —
+        because a job you can locate is worth more than a testimonial you cannot.
+      </p>
       <div class="grid cols-2">
         {items.map((c) => (
           <a class="card" href={`/case-studies/${c.slug}/`}>
@@ -38,5 +63,12 @@ const pageNodes = [
       </div>
     </div>
   </section>
+  <section class="wrap narrow">
+    <h2>What these four have in common</h2>
+    <p>Every one of them had been going on for a while before we were called, and in every case the reason was the same: somebody had been solving a smaller version of the problem than the one that existed.</p>
+    <p>The eight-plex had been treated unit by unit for years, so the bed bugs simply moved next door and came back. The bat colony had been an eviction problem that nobody followed with sealing and cleanup, so the attic stayed attractive. The raccoon in the wall was about to be trapped as an adult, which would have left a litter sealed in a cavity. The yellowjacket nest had a full season to reach eight feet across inside a void nobody opens.</p>
+    <p>None of those were failures of product. They were failures of scope — and scope is decided before anyone opens a truck.</p>
+  </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these case studies: FAQs" /></div></section>
   <Cta />
 </BaseLayout>

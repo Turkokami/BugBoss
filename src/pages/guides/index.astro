@@ -2,14 +2,42 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/guides/';
 const guides = (await getCollection('guides')).sort((a, b) => a.data.order - b.data.order);
 const desc = 'In-depth BugBoss guides to the pest and wildlife problems specific to rural Northeast & Central Wisconsin — cluster flies, bat exclusion law, farmhouse rodents, cabin pests, tick programs, and more.';
+const answer = `The BugBoss guides are long-form references on the handful of problems that actually define pest and wildlife work in rural Northeast and Central Wisconsin — cluster flies in farmhouses, bat exclusion and the law around it, farmhouse rodent proofing, cabin and seasonal closing, tick programs, and dairy operations. Each one is the full method, not a summary.`;
+
+const faqs = [
+  {
+    q: 'What is the difference between a guide and a pest library page?',
+    a: 'A Pest Library page is about an animal — what it is, how to identify it, when it is active here. A guide is about a job. It takes one recurring rural Wisconsin problem and walks the whole method end to end: what causes it, what the timing has to be, what you can do yourself, what needs equipment or a license, and what a finished result looks like. If you want to know what a cluster fly is, use the library. If you want to know how to stop getting them, use the guide.',
+  },
+  {
+    q: 'Are these written so a homeowner can actually do the work?',
+    a: 'Partly, and each guide is explicit about which parts those are. A great deal of durable pest control out here is carpentry and housekeeping rather than chemistry — sealing a soffit gap, extending a downspout, moving a woodpile off the wall, fitting a door sweep, getting feed into metal cans. Those parts are written so you can do them. The parts that need a certified applicator, a ladder, or protective equipment are marked as such, and we would rather you skip those than get hurt proving a point.',
+  },
+  {
+    q: 'Why is there a guide about the law?',
+    a: 'Because in Wisconsin the calendar is legally binding for bats, and getting it wrong kills animals inside your ceiling and creates a far worse problem than the colony was. Exclusion has to be timed around the maternity season when flightless pups are in the roost. That is not a technicality a homeowner can reasonably be expected to know, so it gets its own guide, and the broader rules — landlord obligations, food-service requirements, applicator licensing — are covered in the compliance section.',
+  },
+  {
+    q: 'Do these apply if I am not on a farm?',
+    a: 'Most of them, yes. The guides are written around rural and small-town Wisconsin building stock because that is where our work is, but a village home, a lake cabin, and a subdivision house on former farmland all share the relevant features: a roofline that can open up, a foundation that frost moves every winter, and open ground somewhere nearby producing the pressure. The dairy and campground guides are the genuinely specialised ones.',
+  },
+  {
+    q: 'How current are they?',
+    a: `Each guide carries a review date and is checked by Brian Zahringer, a certified Wisconsin Commercial Pesticide Applicator (#${business.owner.licenseNumber}), rather than being written once and left. Where a guide states a rule administered by an agency — the DNR, DATCP, a health department — it names the agency so you can check the current position yourself rather than relying on a date-stamped summary on a pest control website, including this one.`,
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'Guides', description: desc }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Guides', url }]),
 ];
 ---
@@ -18,7 +46,14 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow">Guides</p>
       <h1>Rural Wisconsin Pest &amp; Wildlife Guides</h1>
+      <AnswerBox text={answer} />
       <p class="lead">Deep, local references on the problems that actually define pest and wildlife work out here — written by the people who do it.</p>
+
+      <div class="g-intro">
+        <p>There are only so many problems that genuinely define pest and wildlife work in this part of Wisconsin, and they are not the ones a national pest site leads with. They are the fall invaders that pour into farmhouses every September, the rodents that move in off the fields the same month, the bat colonies in century-old attics, the cabins that sit empty for eight months, and the ticks in the woodland edge.</p>
+        <p>Each guide below takes one of those and goes all the way through it — the cause, the timing, the part you can do yourself, the part that needs a license or a ladder, and what finished actually looks like. They are long because the short version is what everybody already tried.</p>
+        <p>If you are trying to identify something instead, start with the <a href="/pest-library/">Pest Library</a>. If you want the rule rather than the method — who is responsible in a rental, what an inspector requires, how to check an applicator's license — that is the <a href="/compliance/">compliance section</a>. And the <a href="/blog/">blog</a> carries the seasonal, timely version of the same material.</p>
+      </div>
       <div class="grid cols-2">
         {guides.map((g) => (
           <a class="card" href={`/guides/${g.slug}/`}>
@@ -30,5 +65,7 @@ const pageNodes = [
       </div>
     </div>
   </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these guides: FAQs" /></div></section>
   <Cta />
+  <style>.g-intro { margin: 1.6rem 0 2rem; max-width: 68ch; }</style>
 </BaseLayout>

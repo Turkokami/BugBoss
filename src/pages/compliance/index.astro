@@ -3,8 +3,9 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Cta from '@/components/Cta.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/compliance/';
 const pages = (await getCollection('compliance')).sort((a, b) => a.data.order - b.data.order);
@@ -12,8 +13,32 @@ const answer =
   'Wisconsin pest control comes with rules: what a landlord owes a tenant, what a restaurant has to show an inspector, and what license the person spraying your home is required to hold. These pages state each rule plainly, say who it applies to, and cite the agency that administers it.';
 const desc =
   'Plain-English guides to the Wisconsin rules around pest control — landlord and tenant responsibility, bed bugs in rentals, applicator licensing, and food-service requirements. Sourced and dated.';
+const faqs = [
+  {
+    q: 'Is this legal advice?',
+    a: 'No. It is a plain-English summary of rules we work under every day, written so you can find out roughly where you stand before you spend money on anyone — us included. Each page names the agency that administers the rule and carries a review date, so you can check the current position at the source. For an actual dispute, a citation, or anything with money or a tenancy on the line, talk to a lawyer.',
+  },
+  {
+    q: 'Why does a pest control company publish this?',
+    a: 'Because it is usually the actual question. Somebody searching about bed bugs in a rental mostly wants to know who has to pay; a restaurant owner wants to know what an inspector will ask for. Answering that is more useful than a page selling a service, and being straight about the rule sometimes means telling you that you do not need to hire anybody. We would rather be the site that told you where you stand.',
+  },
+  {
+    q: 'How do I check that a pest control company is actually licensed?',
+    a: 'You can verify it, and you should — a lapsed certification is a real and reasonably common problem, and somebody certified five years ago is not necessarily certified today. Ask for the certification number and the expiry date rather than just a number, and check it with DATCP. Our applicator licensing page explains what the categories mean and what to ask. Brian Zahringer holds Wisconsin Commercial Applicator certification #' + business.owner.licenseNumber + ', in the aquatic and mosquito and structural categories.',
+  },
+  {
+    q: 'My landlord and I disagree about who pays. What should I do first?',
+    a: 'Report it in writing immediately and keep a copy, before the argument starts. Wisconsin has no bed-bug-specific statute, so responsibility comes out of the habitability duty, the lease, and who introduced the problem — which with bed bugs is essentially never provable. What is certain is that the infestation spreads while the argument runs, and a one-unit problem becomes a building problem. Document early, allow access, and do not attempt a retail treatment yourself.',
+  },
+  {
+    q: 'Does any of this apply to a farm?',
+    a: 'Some of it. Applicator licensing applies to anyone applying restricted-use products, and food-safety rules reach any operation selling into the food chain — a dairy answering to DATCP under the PMO is in scope in ways a hobby farm is not. Our dairy farm guide covers the agricultural side in more detail than these pages do.',
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'Wisconsin Pest Control Compliance', description: desc }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Compliance', url }]),
 ];
 ---
@@ -45,6 +70,7 @@ const pageNodes = [
       </p>
     </div>
   </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="Wisconsin pest control rules: FAQs" /></div></section>
   <Cta />
   <style>
     .note { margin-top: 1.8rem; font-size: .9rem; color: var(--muted); }

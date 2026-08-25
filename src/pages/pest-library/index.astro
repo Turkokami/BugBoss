@@ -2,9 +2,11 @@
 import Photo from '@/components/Photo.astro';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import Cta from '@/components/Cta.astro';
+import AnswerBox from '@/components/AnswerBox.astro';
+import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
 import { pests, pestsByCategory } from '@/data/pests';
-import { webPageNode, breadcrumbNode } from '@/lib/schema';
+import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 const url = business.url + '/pest-library/';
 const desc = 'The BugBoss Pest Library — straight answers on the pests and wildlife of Northeast Wisconsin: what they are, why they’re here, and how to deal with them.';
@@ -13,8 +15,38 @@ const groups: { key: 'insect' | 'rodent' | 'wildlife'; label: string }[] = [
   { key: 'rodent', label: 'Rodents' },
   { key: 'wildlife', label: 'Wildlife' },
 ];
+const answer = `The BugBoss Pest Library covers ${pests.length} pests and wildlife species found in Northeast and Central Wisconsin. Every profile opens with a direct answer, then covers identification, the local season, the signs, and what actually works — written for this climate and this building stock rather than copied from a national chain.`;
+
+const faqs = [
+  {
+    q: 'How do I identify a bug I found in my house?',
+    a: `Start with where and when you found it, not just what it looks like — those two facts narrow it faster than color does. Something at a sunny upstairs window in February is almost certainly an overwintering fall invader. Something fast in a damp basement is usually a moisture pest. Something in the pantry came in with the food. Then use the group pages above to confirm. If you are still unsure, photograph it against something for scale and send it to ${business.phoneVanity} — identification is free and it is genuinely the most common call we take.`,
+  },
+  {
+    q: 'Which pests actually matter in Northeast Wisconsin?',
+    a: 'Far fewer than the internet suggests, because most national pest content is written for warmer states. Out here the work concentrates on fall invaders — cluster flies, boxelder bugs, Asian lady beetles and stink bugs — plus rodents moving in from fields every autumn, carpenter ants in wet wood, stinging insects from July through September, ticks and mosquitoes through summer, and wildlife in attics and outbuildings year-round. Termites, in contrast, are a marginal concern in this part of the state and are widely oversold.',
+  },
+  {
+    q: 'Is this pest dangerous, or just a nuisance?',
+    a: 'Most of what people find is a nuisance, and every profile says so plainly where that is the case. Cluster flies, boxelder bugs, lady beetles, millipedes, sowbugs and springtails cannot bite, sting, breed indoors or damage anything. The ones that genuinely warrant urgency are stinging insects around anyone with an allergy, rodents where wiring is being chewed, ticks because of Lyme, bats and raccoons for health reasons, and carpenter ants because of what the moisture behind them is doing to the structure.',
+  },
+  {
+    q: 'Do I need to treat, or will it go away on its own?',
+    a: 'Several of these genuinely resolve themselves, and we would rather tell you that than sell you a program. Overwintering insects die off by spring and cannot multiply indoors. Wood cockroaches and most millipede and sowbug invasions are outdoor animals that cannot establish inside. Wasp colonies die at hard frost. What does not resolve on its own is anything breeding indoors — rodents, German cockroaches, bed bugs, pantry pests — plus wildlife in a structure and carpenter ants, because the moisture feeding them is still there.',
+  },
+  {
+    q: 'Why are the seasons on these pages so specific?',
+    a: 'Because timing is most of the outcome for the pests that define work in this region. A fall invader treatment applied in late August or early September, before the insects mass on the siding, works well; the identical treatment applied in late October, after they are in the wall, does very little. Bat exclusion has a legally significant closed season. Wasp nests are trivial in May and dangerous in August. The season line on each profile is there because acting at the wrong time is the most common reason people conclude that treatment does not work.',
+  },
+  {
+    q: 'How is this different from a national pest company\u2019s website?',
+    a: `It is written for one place. The building stock here — century-old farmhouses with balloon framing, pole barns, seasonal cabins, mill-era rentals — determines how pests get in and what stops them, and a page written for a national audience cannot account for any of it. Every profile is reviewed by Brian Zahringer, a certified Wisconsin Commercial Pesticide Applicator (#${business.owner.licenseNumber}), and says plainly where you do not need to hire anybody.`,
+  },
+];
+
 const pageNodes = [
   webPageNode({ url, name: 'Pest Library', description: desc }),
+  faqPageNode(url, faqs),
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Pest Library', url }]),
 ];
 ---
@@ -27,7 +59,25 @@ const pageNodes = [
     <div class="wrap">
       <p class="eyebrow">Pest Library</p>
       <h1>Know Your Pest</h1>
+      <AnswerBox text={answer} />
       <p class="lead">{pests.length} pests and wildlife of Northeast Wisconsin — with a straight answer at the top of every page and detailed FAQs below. This is the most complete local pest reference in the rural corridor, and it’s growing.</p>
+
+      <div class="pl-intro">
+        <h2>Start with where you found it</h2>
+        <p>Most people arrive here trying to name something they just saw, and the fastest route is usually not the color or the shape. It is <strong>where and when</strong>. Four situations cover the large majority of what turns up in a Wisconsin home:</p>
+        <ul class="check">
+          <li><strong>At a sunny upstairs window, on a warm day in winter.</strong> An overwintering fall invader that got in last September — <a href="/pest-library/cluster-flies/">cluster flies</a>, <a href="/pest-library/asian-lady-beetles/">Asian lady beetles</a>, <a href="/pest-library/boxelder-bugs/">boxelder bugs</a> or <a href="/pest-library/brown-marmorated-stink-bugs/">stink bugs</a>. It has been in your wall since fall. <a href="/blog/bugs-indoors-in-january/">Why that happens</a>.</li>
+          <li><strong>In a damp basement, garage or bathroom.</strong> A moisture pest: <a href="/pest-library/springtails/">springtails</a>, <a href="/pest-library/millipedes/">millipedes</a>, <a href="/pest-library/sowbugs-pillbugs/">sowbugs</a>, <a href="/pest-library/centipedes/">centipedes</a>. These are damp indicators before they are insect problems, and the honest fix is usually a dehumidifier and a downspout rather than a treatment.</li>
+          <li><strong>In the pantry, in the flour or the dog food.</strong> <a href="/pest-library/pantry-pests/">Stored product pests</a>, which almost always came home in a package rather than in from outdoors.</li>
+          <li><strong>Noise overhead, or something in the attic.</strong> Wildlife. The time of day it happens identifies the animal before anyone goes up there — <a href="/blog/squirrels-raccoons-in-the-attic/">reading the noise</a>.</li>
+        </ul>
+        <p>If none of those fit, work down the groups below, or just <a href="/contact/">send a photo</a>. Identification costs nothing and it is the most common call we take.</p>
+
+        <h2>What this library is, and what it is not</h2>
+        <p>It is written for one place. The pests that matter in Northeast and Central Wisconsin are a much shorter list than a national pest site implies, and the building stock out here — century-old farmhouses with balloon-framed walls, pole barns, seasonal cabins on the lakes, mill-era rentals in the river towns — decides how they get in and what actually stops them.</p>
+        <p>So each profile says what the animal is, when it is active <em>here</em>, how it gets into <em>these</em> buildings, and what works. It also says, on plenty of pages, that you do not need to hire anybody — because a great deal of what people find indoors is harmless, cannot breed indoors, and will be gone by spring. Every page is reviewed by Brian Zahringer, a certified Wisconsin Commercial Pesticide Applicator (#{business.owner.licenseNumber}).</p>
+        <p>If you would rather start from the symptom than the species, the <a href="/pest-problems/">common problems</a> section is organized that way instead.</p>
+      </div>
       {groups.map((g) => (
         <>
           <h2>{g.label}</h2>
@@ -43,8 +93,11 @@ const pageNodes = [
       ))}
     </div>
   </section>
+  <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="Using the Pest Library: FAQs" /></div></section>
   <Cta title="Not sure what you’re dealing with?" sub="Send Brian a photo and a description — he’ll tell you what it is and what it takes." />
   <style>
+    .pl-intro { margin: 2rem 0 1rem; }
+    .pl-intro h2 { margin-top: 1.8rem; }
     .pl-banner { margin: 0; background: #0d0d0d; text-align: center; }
     .pl-banner :global(img) { width: 100%; max-width: 1100px; height: auto; display: inline-block; }
   </style>
