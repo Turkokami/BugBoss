@@ -34,9 +34,9 @@ That is not a positioning exercise. It is a consequence of where we came from. O
 
 The city is not one pest environment, and which one you are in decides almost everything.
 
-**The century-old near-downtown and near-east neighborhoods.** Balloon framing, original soffit runs, settled trim, deep attics, and a hundred years of small openings nobody has fully closed. In a balloon-framed wall the cavity runs open from sill plate to attic, so anything that gets in at the foundation has a clear route to the second floor. This is why [cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) turn up at an upstairs window in February in a house where nothing visibly gets in downstairs. The [Astor neighborhood page](/pest-control/green-bay-astor/) goes further into this.
+**The century-old near-downtown and near-east neighborhoods.** Balloon framing, original soffit runs, settled trim, deep attics, and a hundred years of small openings nobody has fully closed. In a balloon-framed wall the cavity runs open from sill plate to attic, so anything that gets in at the foundation has a clear route to the second floor. This is why [cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) turn up at an upstairs window in February in a house where nothing visibly gets in downstairs. The [Astor neighborhood page](/neighborhoods/green-bay-astor/) goes further into this.
 
-**The postwar east-side grid.** Ranches and capes on smaller lots — generally tighter shells with predictable rather than pervasive weak points: the attached garage that was never sealed at the slab joint, soffit vents with failed screening, and the utility penetrations behind the meter. Out toward the Baird Creek greenway the woodland edge pushes [mice](/pest-library/mice/), [squirrels](/pest-library/squirrels/) and fall invaders straight into the neighborhood. See [Preble](/pest-control/green-bay-preble/).
+**The postwar east-side grid.** Ranches and capes on smaller lots — generally tighter shells with predictable rather than pervasive weak points: the attached garage that was never sealed at the slab joint, soffit vents with failed screening, and the utility penetrations behind the meter. Out toward the Baird Creek greenway the woodland edge pushes [mice](/pest-library/mice/), [squirrels](/pest-library/squirrels/) and fall invaders straight into the neighborhood. See [Preble](/neighborhoods/green-bay-preble/).
 
 **The newer subdivisions on the edge.** Built on what was recently farmland, which produces heavy first-few-autumns rodent and cluster fly pressure. New construction is often *worse* in that window, not better — the field population has not adjusted to the buildings and nobody sealed the penetrations when the house went up.
 
@@ -78,4 +78,4 @@ We would rather tell you this than take a job we are the wrong fit for.
 
 - [Wildlife removal and exclusion](/service-area/green-bay/wildlife/) — the thing most metro pest routes will not touch.
 - [Commercial pest control](/service-area/green-bay/commercial/) — food service, property management, warehousing and distribution.
-- The full [Green Bay service page](/service-area/green-bay/), and the neighborhood pages for [Astor](/pest-control/green-bay-astor/) and [Preble](/pest-control/green-bay-preble/).
+- The full [Green Bay service page](/service-area/green-bay/), and the neighborhood pages for [Astor](/neighborhoods/green-bay-astor/) and [Preble](/neighborhoods/green-bay-preble/).

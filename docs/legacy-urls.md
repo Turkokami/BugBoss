@@ -1,92 +1,79 @@
-# Legacy bugbosswi.com URLs — search-harvested, INCOMPLETE
+# Legacy bugbosswi.com URLs and the 301 map
 
-**How this was gathered.** The live domain is blocked from the build environment
-(the agent proxy answers 403 CONNECT for both `bugbosswi.com` and
-`www.bugbosswi.com`, and archive.org is not on the egress allowlist), so
-`sitemap.xml` could not be fetched directly. These URLs come from web search
-results, August 2026.
+## Source
 
-**Therefore: this list is a starting point, not an inventory.** Search only
-surfaces indexed pages that ranked for the queries I ran. The real set is
-certainly larger — blog posts in particular are almost entirely missing (only
-one turned up). Before launch, get the authoritative list from one of:
+The authoritative list is `https://www.bugbosswi.com/sitemap.xml`, supplied by the
+owner in August 2026 — **116 URLs**. The live domain is blocked from the build
+environment (the agent proxy answers 403 CONNECT for both apex and www, and
+archive.org is not on the egress allowlist), so it could not be fetched here.
 
-- `https://bugbosswi.com/sitemap.xml` (open it in a browser and save it)
-- Google Search Console → Indexing → Pages → Export
-- Any site crawler (Screaming Frog free tier does 500 URLs)
+Before that, 36 URLs were harvested from web search. **12 of those are NOT in the
+sitemap** — they are indexed but unlisted, which usually means orphaned pages from
+an earlier build of the site. They still hold index presence and inbound links, so
+they are redirected too. See "Orphans" below.
 
-## Patterns observed on the live site
+## What the sitemap showed
 
-The live site does **not** use one taxonomy. At least five coexist:
+The live site runs several URL patterns at once:
 
-1. `/{town}-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial`
-2. `/{town}-pest-control`
-3. `/{town}-residential-pest-control` · `/{town}-commercial-pest-control`
-4. `/{town}-wisconsin-residential-pest-control-management` · `/{town}-wisconsin-commercial-pest-control`
-5. Bare vertical slugs: `/warehouses`, `/manufacturing`, `/colleges`, `/agricultural`
-   — which ALSO exist as `/retail-shops-pest-control-service`,
-   `/colleges-pest-control-service`, `/agricultural-pest-control`
+- `/{pest}-control` and `/{animal}-removal` — 35 pest pages
+- `/{vertical}-pest-control` — 15 commercial verticals
+- `/{town}-pest-control`, plus `-residential-`, `-commercial-`, `-wildlife-removal`
+  variants for the larger towns — 15 towns
+- 24 blog posts at flat root-level slugs
+- Hubs: `/pest-control`, `/residential-pest-control`, `/commercial-pest-control`,
+  `/wildlife-removal`, `/pest-library`, `/service-area`, `/blog`, `/contact`,
+  `/terms-conditions`, `/privacy-policy`
 
-Several towns therefore have three or more live URLs describing the same thing.
-Green Bay alone has at least four. This is exactly the failure the Smart Site
-Master Plan §3.3 calls a P0 blocker ("four incompatible URL patterns coexisting
-on one domain").
+Plus the orphans, which use a *sixth* pattern:
+`/{town}-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial`.
 
-**Both `www.` and apex are indexed**, which splits authority for the same entity
-and needs a canonical decision plus a host-level redirect regardless of anything
-else here.
+Both `www.` and apex resolve. The sitemap declares `www.`, so **www is canonical
+on the live site** — the new deployment needs a host-level decision and redirect
+either way, which is separate from the path redirects here.
 
-## Harvested URLs
+## Coverage
 
-### Core / service
-- /
-- /pest-control
-- /home-pest-control
-- /commercial-pest-control
-- /agricultural-pest-control
-- /agricultural
-- /service-area
-- /contact-bugboss
+All 116 sitemap URLs are handled:
 
-### Commercial verticals (duplicated across two patterns)
-- /restaurant-pest-control-service
-- /retail-shops-pest-control-service
-- /colleges-pest-control-service
-- /colleges
-- /warehouses
-- /manufacturing
+- **109** get an explicit 301 in `vercel.json`
+- **8** keep the same path in the new build (`/residential-pest-control`,
+  `/commercial-pest-control`, `/wildlife-removal`, `/pest-library`,
+  `/service-area`, `/blog`, `/contact`, and `/pest-control` — see below).
+  `trailingSlash: 'always'` means Vercel resolves the slashless form.
+- **0** unhandled
 
-### Town pages — long pattern
-- /clintonville-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /new-london-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /green-bay-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /appleton-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /menasha-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /de-pere-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /suamico-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /hortonville-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /howard-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
-- /kaukauna-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial
+Plus 12 orphan redirects, for **165 total**.
 
-### Town pages — short pattern
-- /green-bay-pest-control
-- /shawano-pest-control
-- /howard-pest-control
-- /hortonville-pest-control
-- /suamico-pest-control
+## The /pest-control collision
 
-### Town × service
-- /shawano-residential-pest-control
-- /shawano-commercial-pest-control
-- /new-london-commercial-pest-control
-- /green-bay-wisconsin-residential-pest-control-management
-- /green-bay-wisconsin-commercial-pest-control
-- /appleton-wisconsin-residential-pest-control-management
+The legacy `/pest-control` is a *services* hub. Our build had a **neighborhoods**
+hub at `/pest-control/` — two unrelated pages one trailing slash apart, on the
+same domain, with a legacy redirect pointing at one of them.
 
-### Blog (almost certainly incomplete — only one surfaced)
-- /battling-ant-infestations-in-wisconsin-how-bugboss-the-x-terminator-can-help
+That is the taxonomy inconsistency flagged earlier (a top-level segment whose name
+collides with the three service hubs, flattening pages that belong under a city).
+The neighborhoods hub moved to **`/neighborhoods/`**, which removes the collision
+and lets `/pest-control` redirect cleanly to `/residential-pest-control/`.
 
-## Towns named in live copy but with no URL harvested yet
+## Judgement calls in the mapping
 
-Neenah, Bonduel, Marion, Little Chute, Wrightstown. Each may have one or more
-pages under any of the five patterns above.
+- **Pest pages** go to a residential service spoke where we have one
+  (`/ant-control` → `/residential-pest-control/ant-control/`), because the old page
+  was selling a service rather than describing an animal. Everything else goes to
+  the Pest Library profile.
+- **`/rose-chafer-control`** → Japanese beetles. No rose chafer profile; both are
+  scarab garden beetles handled the same way.
+- **`/beetle-control`** → the Pest Library hub. It is the generic page and the site
+  lists the specific beetles separately, so the hub is the honest destination.
+- **Towns with no page yet** (Neenah, Suamico, Howard, Kaukauna) → `/service-area/`.
+  **De Pere and Appleton** → `/neighborhoods/`, where their neighborhood pages live.
+  Re-point these if those towns get built.
+- **Blog posts** go to the closest equivalent new post, or to the relevant pest or
+  service page where no equivalent exists.
+
+## Maintenance
+
+`scripts/audit.mjs` fails the build on `redirect-target-missing`, so a later rename
+cannot silently turn a 301 into a 404 — which is worse than no redirect, because it
+wastes the link equity the redirect existed to preserve.

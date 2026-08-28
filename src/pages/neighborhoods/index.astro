@@ -7,7 +7,7 @@ import Faq from '@/components/Faq.astro';
 import { business } from '@/data/business';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
-const url = business.url + '/pest-control/';
+const url = business.url + '/neighborhoods/';
 const items = (await getCollection('neighborhoods')).sort((a, b) => a.data.order - b.data.order);
 const byCity: Record<string, typeof items> = {};
 for (const n of items) (byCity[n.data.city] ??= []).push(n);
@@ -43,7 +43,7 @@ const pageNodes = [
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Neighborhoods', url }]),
 ];
 ---
-<BaseLayout title="Neighborhood Pest Control — Fox Valley & Green Bay" description={desc} path="/pest-control/" pageNodes={pageNodes}>
+<BaseLayout title="Neighborhood Pest Control — Fox Valley & Green Bay" description={desc} path="/neighborhoods/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
       <p class="eyebrow">Metro edge</p>
@@ -61,7 +61,7 @@ const pageNodes = [
           <h2>{city}</h2>
           <div class="grid cols-3">
             {list.map((n) => (
-              <a class="card" href={`/pest-control/${n.slug}/`}>
+              <a class="card" href={`/neighborhoods/${n.slug}/`}>
                 <h3 style="font-size:1.05rem;margin-top:0">{n.data.title}</h3>
               </a>
             ))}
