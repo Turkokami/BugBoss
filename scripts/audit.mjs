@@ -231,9 +231,17 @@ for (const file of walk('src/content', '.md')) {
 
 // The Wisconsin bat maternity window is a legally significant date -- sealing a
 // roost inside it kills flightless pups in the structure -- and the site stated
-// it two ways at once (July 31 in ~200 places, August 15 in two templates, one
-// of which rendered on every town wildlife page). It must be stated identically
-// everywhere or not at all.
+// it two ways at once: July 31 in ~200 places, August 15 in two older templates,
+// one of which rendered on every town wildlife page.
+//
+// The August 15 was not a typo. It was the PREVIOUS rule. The DNR has since
+// revised the window so exclusion can resume August 1, which is why the newer
+// sourced pages (the exclusion-law guide, the maternity-season post) all say
+// July 31. Owner re-checked and confirmed the current end date, August 2026.
+//
+// So do not "correct" this back to August 15 on the strength of an older
+// document or a stale search result -- check the DNR directly. It must be
+// stated identically everywhere or not at all.
 for (const file of [...walk('src/content', '.md'), ...walk('src/pages', '.astro'), ...walk('src/data', '.ts')]) {
   for (const [i, line] of readFileSync(file, 'utf8').split('\n').entries()) {
     if (!/\bJune\s*1\b/.test(line)) continue;
