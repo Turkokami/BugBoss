@@ -252,6 +252,20 @@ for (const file of [...walk('src/content', '.md'), ...walk('src/pages', '.astro'
   }
 }
 
+// Redirect targets must exist. A 301 map is written against a build, and a
+// later rename silently turns a redirect into a 404 -- which is worse than no
+// redirect, because it wastes the link equity it was meant to preserve.
+try {
+  const cfg = JSON.parse(readFileSync('vercel.json', 'utf8'));
+  for (const r of cfg.redirects ?? []) {
+    if (!existingPaths.has(r.destination)) {
+      fail('vercel.json', 'redirect-target-missing', `${r.source} -> ${r.destination}`);
+    }
+  }
+} catch (e) {
+  if (e.code !== 'ENOENT') fail('vercel.json', 'redirect-config-unreadable', e.message);
+}
+
 // --- Cross-page link checks -------------------------------------------------
 for (const [target, sources] of linkTargets) {
   if (!existingPaths.has(target)) {

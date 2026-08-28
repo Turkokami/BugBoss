@@ -1,1 +1,178 @@
-{"$schema":"https://openapi.vercel.sh/vercel.json","framework":"astro","buildCommand":"astro build","outputDirectory":"dist"}
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "buildCommand": "astro build",
+  "outputDirectory": "dist",
+  "redirects": [
+    {
+      "source": "/pest-control",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/home-pest-control",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/agricultural-pest-control",
+      "destination": "/guides/dairy-farm-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/agricultural",
+      "destination": "/guides/dairy-farm-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/service-area",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/contact-bugboss",
+      "destination": "/contact/",
+      "permanent": true
+    },
+    {
+      "source": "/restaurant-pest-control-service",
+      "destination": "/commercial-pest-control/restaurants-food-service/",
+      "permanent": true
+    },
+    {
+      "source": "/retail-shops-pest-control-service",
+      "destination": "/commercial-pest-control/retail-stores/",
+      "permanent": true
+    },
+    {
+      "source": "/colleges-pest-control-service",
+      "destination": "/commercial-pest-control/schools-education/",
+      "permanent": true
+    },
+    {
+      "source": "/colleges",
+      "destination": "/commercial-pest-control/schools-education/",
+      "permanent": true
+    },
+    {
+      "source": "/warehouses",
+      "destination": "/commercial-pest-control/warehousing-distribution/",
+      "permanent": true
+    },
+    {
+      "source": "/manufacturing",
+      "destination": "/commercial-pest-control/manufacturing/",
+      "permanent": true
+    },
+    {
+      "source": "/clintonville-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/clintonville/",
+      "permanent": true
+    },
+    {
+      "source": "/new-london-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/green-bay-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/green-bay/",
+      "permanent": true
+    },
+    {
+      "source": "/menasha-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/menasha/",
+      "permanent": true
+    },
+    {
+      "source": "/hortonville-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/hortonville/",
+      "permanent": true
+    },
+    {
+      "source": "/de-pere-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/pest-control/de-pere-east-side/",
+      "permanent": true
+    },
+    {
+      "source": "/appleton-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/suamico-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/howard-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/kaukauna-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/howard-pest-control",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/suamico-pest-control",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/green-bay-pest-control",
+      "destination": "/service-area/green-bay/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-pest-control",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/hortonville-pest-control",
+      "destination": "/service-area/hortonville/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-residential-pest-control",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-commercial-pest-control",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/new-london-commercial-pest-control",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/green-bay-wisconsin-residential-pest-control-management",
+      "destination": "/service-area/green-bay/residential/",
+      "permanent": true
+    },
+    {
+      "source": "/green-bay-wisconsin-commercial-pest-control",
+      "destination": "/service-area/green-bay/commercial/",
+      "permanent": true
+    },
+    {
+      "source": "/appleton-wisconsin-residential-pest-control-management",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/battling-ant-infestations-in-wisconsin-how-bugboss-the-x-terminator-can-help",
+      "destination": "/pest-library/ants/",
+      "permanent": true
+    }
+  ]
+}
