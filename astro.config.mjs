@@ -7,6 +7,10 @@ export default defineConfig({
   trailingSlash: 'always',
   build: {
     format: 'directory',
+    // The whole site's CSS is ~12 KB. Fetching it costs a round trip (~150ms on
+    // Lighthouse's Slow 4G) to save less than it costs, and it render-blocks
+    // while it happens. Inlining removes the request entirely.
+    inlineStylesheets: 'always',
   },
   integrations: [sitemap()],
 });

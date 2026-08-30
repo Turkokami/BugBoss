@@ -139,6 +139,24 @@ for (const file of files) {
 
   // --- Content & performance -----------------------------------------------
   const imgs = html.match(/<img\b[^>]*>/g) ?? [];
+
+  // An LCP preload must agree with the <img> it preloads. If srcset or sizes
+  // differ by even a character the browser picks a different candidate and
+  // downloads the image twice -- worse than not preloading at all.
+  const preload = html.match(/<link rel="preload"[^>]*as="image"[^>]*>/);
+  if (preload) {
+    const pget = (a) => preload[0].match(new RegExp(`${a}="([^"]*)"`))?.[1];
+    const target = imgs.find((i) => i.includes(pget('href') ?? '\u0000'));
+    if (!target) {
+      fail(page, 'preload-no-matching-img', pget('href') ?? '(no href)');
+    } else {
+      const iget = (a) => target.match(new RegExp(`${a}="([^"]*)"`))?.[1];
+      for (const [pa, ia] of [['imagesrcset', 'srcset'], ['imagesizes', 'sizes']]) {
+        if (pget(pa) !== iget(ia)) fail(page, 'preload-img-mismatch', `${pa} vs ${ia}`);
+      }
+    }
+  }
+
   for (const img of imgs) {
     // Rule 4: every image has descriptive alt text.
     if (!/\salt="[^"]+"/.test(img)) fail(page, 'img-alt', img.slice(0, 90));

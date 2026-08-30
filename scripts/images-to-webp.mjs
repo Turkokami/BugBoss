@@ -23,10 +23,12 @@ import { readdirSync, statSync, unlinkSync, writeFileSync } from 'node:fs';
 import { join, extname, basename } from 'node:path';
 
 const DIR = 'public/images';
+// 600 exists because a 412px phone at DPR 1.5 needs ~620px and would
+// otherwise jump to the 800 file.
 // 200 covers the header logo (renders ~65px) and the expert-block thumbnail
 // (72px) at 2x DPR; the rest cover phone, tablet and desktop columns.
-const WIDTHS = [200, 400, 800, 1200];
-const QUALITY = 80;
+const WIDTHS = [200, 400, 600, 800, 1200];
+const QUALITY = 72;
 const replace = process.argv.includes('--replace');
 const kb = (n) => Math.round(n / 1024);
 
