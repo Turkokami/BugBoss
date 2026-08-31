@@ -12,5 +12,13 @@ export default defineConfig({
     // while it happens. Inlining removes the request entirely.
     inlineStylesheets: 'always',
   },
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      // A noindex page in the sitemap is a contradiction: it asks Google to
+      // crawl something the page itself tells it not to index, and Search
+      // Console reports it as an error. /thank-you/ is reached by a form
+      // redirect and is deliberately noindex, so it does not belong here.
+      filter: (page) => !page.includes('/thank-you/'),
+    }),
+  ],
 });
