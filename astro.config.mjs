@@ -1,9 +1,15 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 
-// Production domain. Update if the new build launches on a different host.
+// Production domain, and the canonical host. www rather than apex because
+// every legacy URL that carries index equity is www — so a legacy URL
+// redirects in one hop (path only) rather than two (host, then path).
+//
+// This MUST match `url` in src/data/business.ts, which supplies the canonical
+// tags and every schema @id. This one supplies the sitemap and robots.txt.
+// scripts/audit.mjs fails the build if they disagree.
 export default defineConfig({
-  site: 'https://bugbosswi.com',
+  site: 'https://www.bugbosswi.com',
   trailingSlash: 'always',
   build: {
     format: 'directory',

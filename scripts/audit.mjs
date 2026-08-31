@@ -284,6 +284,23 @@ try {
   if (e.code !== 'ENOENT') fail('vercel.json', 'redirect-config-unreadable', e.message);
 }
 
+// Canonical host consistency. Three places declare it independently and they
+// silently disagreed once: `site` in astro.config.mjs (sitemap + robots.txt),
+// `url` in src/data/business.ts (canonical tags + every schema @id), and the
+// Sitemap: line in public/robots.txt. A sitemap listing a host that redirects
+// points every entry at a redirect rather than a final URL, which wastes crawl
+// budget and muddies the canonical signal.
+{
+  const astroSite = readFileSync('astro.config.mjs', 'utf8').match(/site:\s*'([^']+)'/)?.[1];
+  const bizUrl = readFileSync('src/data/business.ts', 'utf8').match(/^\s*url:\s*'([^']+)'/m)?.[1];
+  const robotsMap = readFileSync('public/robots.txt', 'utf8').match(/Sitemap:\s*(https?:\/\/[^/\s]+)/)?.[1];
+  const hosts = { 'astro.config.mjs site': astroSite, 'business.ts url': bizUrl, 'robots.txt Sitemap': robotsMap };
+  const distinct = [...new Set(Object.values(hosts).filter(Boolean))];
+  if (distinct.length > 1) {
+    for (const [where, v] of Object.entries(hosts)) fail(where, 'canonical-host-mismatch', v ?? '(unreadable)');
+  }
+}
+
 // --- Cross-page link checks -------------------------------------------------
 for (const [target, sources] of linkTargets) {
   if (!existingPaths.has(target)) {

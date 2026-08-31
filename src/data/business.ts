@@ -139,7 +139,9 @@ export const business = {
   contentReviewDateDisplay: 'August 2026',
 
   // --- Web / social ---
-  url: 'https://bugbosswi.com',
+  // Canonical host. Must match `site` in astro.config.mjs — see the note
+  // there. Supplies the canonical tags and every schema @id.
+  url: 'https://www.bugbosswi.com',
   social: {
     facebook: 'https://www.facebook.com/BugBossTheXTerminator',
     tiktok: 'https://www.tiktok.com/@bugbossbrian',
