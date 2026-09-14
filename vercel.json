@@ -15,6 +15,16 @@
       "permanent": true
     },
     {
+      "source": "/agricultural-pest-control-service",
+      "destination": "/guides/dairy-farm-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/american-cockroach",
+      "destination": "/residential-pest-control/cockroach-control/",
+      "permanent": true
+    },
+    {
       "source": "/american-cockroach-control",
       "destination": "/residential-pest-control/cockroach-control/",
       "permanent": true
@@ -26,6 +36,11 @@
     },
     {
       "source": "/ant-invasions-in-spring-prevention-tactics-that-work",
+      "destination": "/residential-pest-control/ant-control/",
+      "permanent": true
+    },
+    {
+      "source": "/ants",
       "destination": "/residential-pest-control/ant-control/",
       "permanent": true
     },
@@ -50,7 +65,22 @@
       "permanent": true
     },
     {
+      "source": "/appleton-wisconsin-commercial-business-industrial-pest-control-company",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/appleton-wisconsin-commercial-pest-control",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
       "source": "/appleton-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/appleton-wisconsin-residential-home-pest-control-exterminator",
       "destination": "/neighborhoods/",
       "permanent": true
     },
@@ -60,7 +90,17 @@
       "permanent": true
     },
     {
+      "source": "/appleton-wisconsin-wildlife-control-removal",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
       "source": "/bat-removal",
+      "destination": "/pest-library/bats/",
+      "permanent": true
+    },
+    {
+      "source": "/bats",
       "destination": "/pest-library/bats/",
       "permanent": true
     },
@@ -85,6 +125,11 @@
       "permanent": true
     },
     {
+      "source": "/bed-bugs",
+      "destination": "/residential-pest-control/bed-bug-treatment/",
+      "permanent": true
+    },
+    {
       "source": "/beetle-control",
       "destination": "/pest-library/",
       "permanent": true
@@ -97,6 +142,11 @@
     {
       "source": "/beetle-lifecycle-breakdown-stopping-infestations-before-they-hatch",
       "destination": "/pest-library/japanese-beetles/",
+      "permanent": true
+    },
+    {
+      "source": "/beetles",
+      "destination": "/pest-library/",
       "permanent": true
     },
     {
@@ -130,7 +180,22 @@
       "permanent": true
     },
     {
+      "source": "/boxelder-bugs",
+      "destination": "/pest-library/boxelder-bugs/",
+      "permanent": true
+    },
+    {
+      "source": "/brown-marmorated-stink-bug",
+      "destination": "/pest-library/brown-marmorated-stink-bugs/",
+      "permanent": true
+    },
+    {
       "source": "/centipede-control",
+      "destination": "/pest-library/centipedes/",
+      "permanent": true
+    },
+    {
+      "source": "/centipedes",
       "destination": "/pest-library/centipedes/",
       "permanent": true
     },
@@ -200,7 +265,32 @@
       "permanent": true
     },
     {
+      "source": "/de-pere-wisconsin-commercial-business-industrial-pest-control-company",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/de-pere-wisconsin-commercial-pest-control",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
       "source": "/de-pere-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/de-pere-wisconsin-residential-home-pest-control-exterminator",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/de-pere-wisconsin-residential-pest-control-management",
+      "destination": "/neighborhoods/",
+      "permanent": true
+    },
+    {
+      "source": "/de-pere-wisconsin-wildlife-control-removal",
       "destination": "/neighborhoods/",
       "permanent": true
     },
@@ -215,12 +305,27 @@
       "permanent": true
     },
     {
+      "source": "/earwigs",
+      "destination": "/pest-library/earwigs/",
+      "permanent": true
+    },
+    {
       "source": "/enjoy-a-mosquito-free-summer-in-wisconsin-the-benefits-of-hiring-bugboss-the-x-terminator",
       "destination": "/residential-pest-control/mosquito-tick/",
       "permanent": true
     },
     {
+      "source": "/fitness-facility",
+      "destination": "/commercial-pest-control/offices/",
+      "permanent": true
+    },
+    {
       "source": "/fitness-facility-pest-control",
+      "destination": "/commercial-pest-control/offices/",
+      "permanent": true
+    },
+    {
+      "source": "/fitness-facility-pest-control-service",
       "destination": "/commercial-pest-control/offices/",
       "permanent": true
     },
@@ -230,8 +335,28 @@
       "permanent": true
     },
     {
+      "source": "/fleas",
+      "destination": "/pest-library/fleas/",
+      "permanent": true
+    },
+    {
+      "source": "/flies",
+      "destination": "/pest-library/flies/",
+      "permanent": true
+    },
+    {
       "source": "/fly-control",
       "destination": "/pest-library/flies/",
+      "permanent": true
+    },
+    {
+      "source": "/food-processing-facility",
+      "destination": "/commercial-pest-control/food-processing/",
+      "permanent": true
+    },
+    {
+      "source": "/food-processing-facility-pest-control-service",
+      "destination": "/commercial-pest-control/food-processing/",
       "permanent": true
     },
     {
@@ -245,12 +370,27 @@
       "permanent": true
     },
     {
+      "source": "/german-cockroaches",
+      "destination": "/residential-pest-control/cockroach-control/",
+      "permanent": true
+    },
+    {
       "source": "/gnat-control",
       "destination": "/pest-library/gnats/",
       "permanent": true
     },
     {
+      "source": "/gnats",
+      "destination": "/pest-library/gnats/",
+      "permanent": true
+    },
+    {
       "source": "/grasshopper-cricket-control",
+      "destination": "/pest-library/crickets/",
+      "permanent": true
+    },
+    {
+      "source": "/grasshoppers---crickets",
       "destination": "/pest-library/crickets/",
       "permanent": true
     },
@@ -275,6 +415,11 @@
       "permanent": true
     },
     {
+      "source": "/green-bay-wisconsin-commercial-business-industrial-pest-control-company",
+      "destination": "/service-area/green-bay/commercial/",
+      "permanent": true
+    },
+    {
       "source": "/green-bay-wisconsin-commercial-pest-control",
       "destination": "/service-area/green-bay/commercial/",
       "permanent": true
@@ -285,12 +430,32 @@
       "permanent": true
     },
     {
+      "source": "/green-bay-wisconsin-residential-home-pest-control-exterminator",
+      "destination": "/service-area/green-bay/residential/",
+      "permanent": true
+    },
+    {
       "source": "/green-bay-wisconsin-residential-pest-control-management",
       "destination": "/service-area/green-bay/residential/",
       "permanent": true
     },
     {
+      "source": "/green-bay-wisconsin-wildlife-control-removal",
+      "destination": "/service-area/green-bay/wildlife/",
+      "permanent": true
+    },
+    {
       "source": "/grocery-store-pest-control",
+      "destination": "/commercial-pest-control/grocery-convenience/",
+      "permanent": true
+    },
+    {
+      "source": "/grocery-stores",
+      "destination": "/commercial-pest-control/grocery-convenience/",
+      "permanent": true
+    },
+    {
+      "source": "/grocery-stores-pest-control-service",
       "destination": "/commercial-pest-control/grocery-convenience/",
       "permanent": true
     },
@@ -300,7 +465,22 @@
       "permanent": true
     },
     {
+      "source": "/groundhogs",
+      "destination": "/pest-library/groundhogs/",
+      "permanent": true
+    },
+    {
       "source": "/health-care-pest-control",
+      "destination": "/commercial-pest-control/healthcare-senior-living/",
+      "permanent": true
+    },
+    {
+      "source": "/heath-care",
+      "destination": "/commercial-pest-control/healthcare-senior-living/",
+      "permanent": true
+    },
+    {
+      "source": "/heath-care-pest-control-service",
       "destination": "/commercial-pest-control/healthcare-senior-living/",
       "permanent": true
     },
@@ -311,6 +491,11 @@
     },
     {
       "source": "/home-pest-control",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/home-pest-control-wisconsin",
       "destination": "/residential-pest-control/",
       "permanent": true
     },
@@ -375,6 +560,11 @@
       "permanent": true
     },
     {
+      "source": "/japanese-beetles",
+      "destination": "/pest-library/japanese-beetles/",
+      "permanent": true
+    },
+    {
       "source": "/kaukauna-commercial-pest-control",
       "destination": "/service-area/",
       "permanent": true
@@ -400,12 +590,32 @@
       "permanent": true
     },
     {
+      "source": "/knock-knock-its-a-woodpecker-preventing-and-repairing-woodpecker-damage-in-wisconsin",
+      "destination": "/pest-library/woodpeckers/",
+      "permanent": true
+    },
+    {
       "source": "/lady-beetle-control",
       "destination": "/pest-library/asian-lady-beetles/",
       "permanent": true
     },
     {
+      "source": "/lady-beetles",
+      "destination": "/pest-library/asian-lady-beetles/",
+      "permanent": true
+    },
+    {
+      "source": "/lodging",
+      "destination": "/commercial-pest-control/hotels-lodging/",
+      "permanent": true
+    },
+    {
       "source": "/lodging-pest-control",
+      "destination": "/commercial-pest-control/hotels-lodging/",
+      "permanent": true
+    },
+    {
+      "source": "/lodging-pest-control-service",
       "destination": "/commercial-pest-control/hotels-lodging/",
       "permanent": true
     },
@@ -441,6 +651,11 @@
     },
     {
       "source": "/manufacturing-pest-control",
+      "destination": "/commercial-pest-control/manufacturing/",
+      "permanent": true
+    },
+    {
+      "source": "/manufacturing-pest-control-service",
       "destination": "/commercial-pest-control/manufacturing/",
       "permanent": true
     },
@@ -495,6 +710,11 @@
       "permanent": true
     },
     {
+      "source": "/mice",
+      "destination": "/residential-pest-control/rodent-control/",
+      "permanent": true
+    },
+    {
       "source": "/mice-control",
       "destination": "/residential-pest-control/rodent-control/",
       "permanent": true
@@ -505,7 +725,17 @@
       "permanent": true
     },
     {
+      "source": "/moles",
+      "destination": "/pest-library/moles/",
+      "permanent": true
+    },
+    {
       "source": "/mosquito-control",
+      "destination": "/residential-pest-control/mosquito-tick/",
+      "permanent": true
+    },
+    {
+      "source": "/mosquitos",
       "destination": "/residential-pest-control/mosquito-tick/",
       "permanent": true
     },
@@ -515,12 +745,47 @@
       "permanent": true
     },
     {
+      "source": "/moths",
+      "destination": "/pest-library/moths/",
+      "permanent": true
+    },
+    {
+      "source": "/multi-family-housing",
+      "destination": "/commercial-pest-control/property-management/",
+      "permanent": true
+    },
+    {
+      "source": "/multi-family-housing-pest-control-service",
+      "destination": "/commercial-pest-control/property-management/",
+      "permanent": true
+    },
+    {
       "source": "/multi-family-pest-control",
       "destination": "/commercial-pest-control/property-management/",
       "permanent": true
     },
     {
       "source": "/museum-pest-control",
+      "destination": "/commercial-pest-control/museums-cultural/",
+      "permanent": true
+    },
+    {
+      "source": "/museums---cultural-centers",
+      "destination": "/commercial-pest-control/museums-cultural/",
+      "permanent": true
+    },
+    {
+      "source": "/museums---cultural-centers-pest-control-service",
+      "destination": "/commercial-pest-control/museums-cultural/",
+      "permanent": true
+    },
+    {
+      "source": "/museums-cultural-centers",
+      "destination": "/commercial-pest-control/museums-cultural/",
+      "permanent": true
+    },
+    {
+      "source": "/museums-cultural-centers-pest-control-service",
       "destination": "/commercial-pest-control/museums-cultural/",
       "permanent": true
     },
@@ -545,7 +810,32 @@
       "permanent": true
     },
     {
+      "source": "/neenah-wisconsin-commercial-business-industrial-pest-control-company",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/neenah-wisconsin-commercial-pest-control",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
       "source": "/neenah-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/neenah-wisconsin-residential-home-pest-control-exterminator",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/neenah-wisconsin-residential-pest-control-management",
+      "destination": "/service-area/",
+      "permanent": true
+    },
+    {
+      "source": "/neenah-wisconsin-wildlife-control-removal",
       "destination": "/service-area/",
       "permanent": true
     },
@@ -570,8 +860,43 @@
       "permanent": true
     },
     {
+      "source": "/new-london-wisconsin-commercial-business-industrial-pest-control-company",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/new-london-wisconsin-commercial-pest-control",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
       "source": "/new-london-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
       "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/new-london-wisconsin-residential-home-pest-control-exterminator",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/new-london-wisconsin-residential-pest-control-management",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/new-london-wisconsin-wildlife-control-removal",
+      "destination": "/service-area/new-london/",
+      "permanent": true
+    },
+    {
+      "source": "/office-buildings",
+      "destination": "/commercial-pest-control/offices/",
+      "permanent": true
+    },
+    {
+      "source": "/office-buildings-pest-control-service",
+      "destination": "/commercial-pest-control/offices/",
       "permanent": true
     },
     {
@@ -581,6 +906,11 @@
     },
     {
       "source": "/pest-control",
+      "destination": "/residential-pest-control/",
+      "permanent": true
+    },
+    {
+      "source": "/pest-control-services",
       "destination": "/residential-pest-control/",
       "permanent": true
     },
@@ -605,7 +935,17 @@
       "permanent": true
     },
     {
+      "source": "/raccoons",
+      "destination": "/pest-library/raccoons/",
+      "permanent": true
+    },
+    {
       "source": "/rat-control",
+      "destination": "/residential-pest-control/rodent-control/",
+      "permanent": true
+    },
+    {
+      "source": "/rats",
       "destination": "/residential-pest-control/rodent-control/",
       "permanent": true
     },
@@ -625,6 +965,11 @@
       "permanent": true
     },
     {
+      "source": "/retail-shops",
+      "destination": "/commercial-pest-control/retail-stores/",
+      "permanent": true
+    },
+    {
       "source": "/retail-shops-pest-control-service",
       "destination": "/commercial-pest-control/retail-stores/",
       "permanent": true
@@ -640,7 +985,22 @@
       "permanent": true
     },
     {
+      "source": "/rose-chafers",
+      "destination": "/pest-library/japanese-beetles/",
+      "permanent": true
+    },
+    {
       "source": "/school-pest-control",
+      "destination": "/commercial-pest-control/schools-education/",
+      "permanent": true
+    },
+    {
+      "source": "/schools",
+      "destination": "/commercial-pest-control/schools-education/",
+      "permanent": true
+    },
+    {
+      "source": "/schools-pest-control-service",
       "destination": "/commercial-pest-control/schools-education/",
       "permanent": true
     },
@@ -665,13 +1025,48 @@
       "permanent": true
     },
     {
+      "source": "/shawano-wisconsin-commercial-business-industrial-pest-control-company",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-wisconsin-commercial-pest-control",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
       "source": "/shawano-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-wisconsin-residential-home-pest-control-exterminator",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-wisconsin-residential-pest-control-management",
+      "destination": "/service-area/shawano/",
+      "permanent": true
+    },
+    {
+      "source": "/shawano-wisconsin-wildlife-control-removal",
       "destination": "/service-area/shawano/",
       "permanent": true
     },
     {
       "source": "/shrew-control",
       "destination": "/pest-library/shrews/",
+      "permanent": true
+    },
+    {
+      "source": "/shrews",
+      "destination": "/pest-library/shrews/",
+      "permanent": true
+    },
+    {
+      "source": "/silverfish",
+      "destination": "/pest-library/silverfish/",
       "permanent": true
     },
     {
@@ -685,7 +1080,17 @@
       "permanent": true
     },
     {
+      "source": "/skunks",
+      "destination": "/pest-library/skunks/",
+      "permanent": true
+    },
+    {
       "source": "/snake-control",
+      "destination": "/pest-library/snakes/",
+      "permanent": true
+    },
+    {
+      "source": "/snakes",
       "destination": "/pest-library/snakes/",
       "permanent": true
     },
@@ -695,7 +1100,17 @@
       "permanent": true
     },
     {
+      "source": "/spiders",
+      "destination": "/pest-library/spiders/",
+      "permanent": true
+    },
+    {
       "source": "/squirrel-removal",
+      "destination": "/pest-library/squirrels/",
+      "permanent": true
+    },
+    {
+      "source": "/squirrels",
       "destination": "/pest-library/squirrels/",
       "permanent": true
     },
@@ -755,6 +1170,11 @@
       "permanent": true
     },
     {
+      "source": "/ticks",
+      "destination": "/residential-pest-control/mosquito-tick/",
+      "permanent": true
+    },
+    {
       "source": "/top-10-summer-pests-in-northern-wisconsinand-how-to-stop-them",
       "destination": "/pest-library/",
       "permanent": true
@@ -775,6 +1195,11 @@
       "permanent": true
     },
     {
+      "source": "/voles",
+      "destination": "/pest-library/voles/",
+      "permanent": true
+    },
+    {
       "source": "/warehouse-pest-control",
       "destination": "/commercial-pest-control/warehousing-distribution/",
       "permanent": true
@@ -785,8 +1210,23 @@
       "permanent": true
     },
     {
+      "source": "/warehouses-pest-control-service",
+      "destination": "/commercial-pest-control/warehousing-distribution/",
+      "permanent": true
+    },
+    {
       "source": "/wasp-hornet-yellow-jacket-control",
       "destination": "/residential-pest-control/stinging-insects/",
+      "permanent": true
+    },
+    {
+      "source": "/wasps--hornets---yellowjackets",
+      "destination": "/residential-pest-control/stinging-insects/",
+      "permanent": true
+    },
+    {
+      "source": "/wester-conifer-seed-bug",
+      "destination": "/pest-library/western-conifer-seed-bugs/",
       "permanent": true
     },
     {
@@ -802,6 +1242,11 @@
     {
       "source": "/why-you-should-have-an-exterminator-inspect-your-home-before-winter",
       "destination": "/residential-pest-control/fall-invaders/",
+      "permanent": true
+    },
+    {
+      "source": "/wildlife-control",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
@@ -826,6 +1271,11 @@
     },
     {
       "source": "/woodpecker-damage-prevention-before-the-pecking-season",
+      "destination": "/pest-library/woodpeckers/",
+      "permanent": true
+    },
+    {
+      "source": "/woodpeckers",
       "destination": "/pest-library/woodpeckers/",
       "permanent": true
     }
