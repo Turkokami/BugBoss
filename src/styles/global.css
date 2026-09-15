@@ -179,3 +179,42 @@ a.tag:hover { background: var(--grad-neon); color: #0b1f00; border-color: transp
 .prose th, .prose td { text-align: left; padding: .6rem .7rem; border-bottom: 1px solid var(--line); vertical-align: top; }
 .prose th { background: var(--green-050); color: var(--green-800); font-weight: 700; }
 .prose hr { border: 0; height: 1px; background: var(--line); margin: 2.4em 0; }
+
+/* --------------------------------------------------------------------------
+   ACCESSIBILITY — Keystone v3.2 Dimension 14.
+   Two named items the build had no answer for. Both are global rather than
+   per-component so a new template inherits them rather than having to
+   remember them.
+   -------------------------------------------------------------------------- */
+
+/* Keyboard focus. There were no focus styles at all, so keyboard users were
+   relying on each browser's default ring — which on our filled neon buttons
+   and dark bands is frequently invisible. :focus-visible rather than :focus so
+   a mouse click does not leave a ring behind. */
+:focus-visible {
+  outline: 3px solid var(--ink);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+/* The dark bands and the footer need the inverse, or the ring disappears into
+   the background it is drawn on. */
+.dark :focus-visible,
+.site-footer :focus-visible,
+.phonebar :focus-visible {
+  outline-color: #fff;
+}
+
+/* Reduced motion. Honour the OS-level setting rather than overriding it —
+   vestibular disorders and motion sensitivity are the reason this exists.
+   Animation is not removed outright, it is collapsed to effectively instant,
+   which keeps any transitionend handler firing. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

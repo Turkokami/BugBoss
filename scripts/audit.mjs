@@ -137,6 +137,20 @@ for (const file of files) {
     }
   }
 
+  // Keystone v3.2 named check: social tags. These went missing sitewide once
+  // (og:image and twitter:card) and nothing noticed, because a share card only
+  // fails where nobody building the site is looking. og:image must also be an
+  // absolute URL — scrapers do not resolve relative paths.
+  const SOCIAL = ['og:title', 'og:description', 'og:image', 'og:url', 'og:type', 'twitter:card'];
+  for (const tag of SOCIAL) {
+    const re = new RegExp(`(property|name)="${tag}"\\s+content="([^"]*)"`);
+    const m = html.match(re);
+    if (!m || !m[2].trim()) fail(page, 'social-tag-missing', tag);
+    else if (tag === 'og:image' && !/^https?:\/\//.test(m[2])) {
+      fail(page, 'social-tag-relative', `og:image ${m[2]}`);
+    }
+  }
+
   // --- Content & performance -----------------------------------------------
   const imgs = html.match(/<img\b[^>]*>/g) ?? [];
 
