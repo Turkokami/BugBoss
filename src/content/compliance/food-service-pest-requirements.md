@@ -6,6 +6,11 @@ order: 40
 answer: "Wisconsin retail food establishments must keep the premises free of insects and rodents, control pests using approved methods, and be able to show it. Inspectors look for live activity, evidence like droppings and gnaw marks, gaps that let pests in, and your pest control records. Findings are common and mostly preventable."
 source: "Wis. Admin. Code ch. ATCP 75 and the Wisconsin Food Code, administered by the Wisconsin Department of Agriculture, Trade and Consumer Protection (DATCP) and by agent health departments at county and municipal level."
 sourceUrl: "https://datcp.wi.gov/Pages/Programs_Services/FoodSafety.aspx"
+summary:
+  who: "Every licensed retail food establishment in Wisconsin — restaurants, bars, taverns, cafés, groceries, convenience stores, mobile units and temporary events."
+  obligation: "Keep the premises free of insects, rodents and other pests, exclude them from the building, and use approved methods applied by a certified applicator where pesticides are involved. The conditions that produce pests are cited as readily as the pests themselves."
+  penalty: "A written violation with a correction deadline and a follow-up inspection is by far the most common outcome. Repeat or uncorrected findings escalate, and conditions amounting to an imminent health hazard can close a premises."
+  act: "Keep the service records current, fix the conducive condition rather than re-treating, and correct before the follow-up rather than after it."
 reviewed: "August 2026"
 faqs:
   - q: "What does the Wisconsin Food Code say about pests?"

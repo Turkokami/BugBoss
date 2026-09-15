@@ -66,6 +66,20 @@ We treat boxelder bugs as part of the timed [fall-invader program](/guides/clust
 
 Prevention comes down to hitting the timing and keeping the envelope tight. **Schedule the exterior treatment for late August**, because waiting until the bugs are inside means the window has already closed. **Keep sealing** the soffits, frames, and foundation line as the building ages. **Vacuum the indoor bugs and hose the outdoor ones with soapy water** rather than crushing them, to avoid the stains. If a **female boxelder tree is right up against the house**, removing it is worth weighing — it can cut the local numbers — but don't expect it to solve the problem alone, since the bugs travel from trees well beyond your lot. Pale siding with a big south exposure on an older rural home is a magnet, which is exactly the kind of house the annual barrier is built for.
 
+## What to do now
+
+1. **Hose them off the wall rather than spraying them.** A strong jet of water clears a mass off the siding today and costs nothing.
+
+2. **Do not treat indoors.** The ones you see inside came through the wall in autumn, and an indoor spray reaches none of the rest.
+
+3. **Vacuum what gets in and empty the canister outside.** Crushing them spots light surfaces, and on some finishes the staining is permanent.
+
+4. **Walk the south and west walls and list every gap** — window and door frames, siding joints, utility penetrations, soffit and fascia.
+
+5. **Book the exterior barrier treatment for late August or early September.** Applied in late October it does very little, and that timing gap is the whole story.
+
+6. **If there is a boxelder, maple or ash on the property, recognize it as the source.** It does not have to come out, but it explains why your house and not the neighbor's.
+
 ## When to call
 
 Call BugBoss in **summer or early fall** to get the exterior treatment on the calendar before the siding fills up — that's the call that actually prevents the problem. Call if the walls are covered now and you want the building sealed and a plan set for next season. And call if the warm-day comebacks indoors have become a winter-long nuisance; the answer isn't a stronger indoor spray, it's the fall barrier and sealing done at the right time.

@@ -44,15 +44,15 @@ The rural corridor is exceptionally good habitat for exactly one reason: there i
 
 ## What to do now
 
-**Get underneath and look up.** Searching from above misses nearly everything. Take a torch along the underside of rails, joists, fascia and rafters and count the holes — there are usually more than the two you noticed from the deck.
+1. **Get underneath and look up.** Searching from above misses nearly everything. Take a torch along the underside of rails, joists, fascia and rafters and count the holes — there are usually more than the two you noticed from the deck.
 
-**Note whether there is fresh sawdust.** That tells you which galleries are active this season.
+2. **Note whether there is fresh sawdust.** That tells you which galleries are active this season.
 
-**Do not plug anything yet.** Sealing before treatment traps live bees and larvae, and they chew out somewhere new.
+3. **Do not plug anything yet.** Sealing before treatment traps live bees and larvae, and they chew out somewhere new.
 
-**Do not bother swatting the hovering bee.** He is the male, he has no stinger, and he was never the one drilling.
+4. **Do not bother swatting the hovering bee.** He is the male, he has no stinger, and he was never the one drilling.
 
-**Look for woodpecker damage.** If a bird has started working the same board, the problem has escalated and the timeline is shorter.
+5. **Look for woodpecker damage.** If a bird has started working the same board, the problem has escalated and the timeline is shorter.
 
 ## When to call
 

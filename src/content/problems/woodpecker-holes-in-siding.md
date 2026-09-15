@@ -40,15 +40,15 @@ Cedar and other soft natural siding takes the worst of it — easy to excavate, 
 
 ## What to do now
 
-**Look at the wood, not the bird.** Are there perfectly round half-inch holes on the underside of nearby fascia or trim? Coarse sawdust? Yellowish staining? That is carpenter bees, and it is your answer.
+1. **Look at the wood, not the bird.** Are there perfectly round half-inch holes on the underside of nearby fascia or trim? Coarse sawdust? Yellowish staining? That is carpenter bees, and it is your answer.
 
-**Note the pattern.** Damage concentrated on one board while the rest of the wall is untouched means something is in that board. Damage spread thinly over a resonant surface is more likely drumming.
+2. **Note the pattern.** Damage concentrated on one board while the rest of the wall is untouched means something is in that board. Damage spread thinly over a resonant surface is more likely drumming.
 
-**Do not fill the holes yet.** Repairing while the larvae are still in there means the bird reopens them.
+3. **Do not fill the holes yet.** Repairing while the larvae are still in there means the bird reopens them.
 
-**Do not attempt anything targeting the bird.** Native woodpeckers are protected and the options that involve harming them are not available.
+4. **Do not attempt anything targeting the bird.** Native woodpeckers are protected and the options that involve harming them are not available.
 
-**Try deterrents only as a stopgap**, and deploy them the day damage starts rather than weeks in. Move them frequently. Expect days, not weeks, of effect.
+5. **Try deterrents only as a stopgap**, and deploy them the day damage starts rather than weeks in. Move them frequently. Expect days, not weeks, of effect.
 
 ## When to call
 

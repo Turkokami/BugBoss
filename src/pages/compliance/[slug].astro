@@ -10,6 +10,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
+import FactTable from '@/components/FactTable.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
 import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
@@ -52,6 +53,17 @@ const pageNodes = [
         check the current text of the rule and talk to a lawyer or the agency
         that administers it.</p>
       </aside>
+
+      <FactTable
+        heading="The rule in four lines"
+        caption={`Who ${c.data.short} applies to, what it obliges, what non-compliance costs, and what to do first`}
+        rows={[
+          { label: 'Who it applies to', value: c.data.summary.who },
+          { label: 'What it obliges', value: c.data.summary.obligation },
+          { label: 'What non-compliance costs', value: c.data.summary.penalty },
+          { label: 'Do this first', value: c.data.summary.act },
+        ]}
+      />
 
       <article class="prose"><Content /></article>
 

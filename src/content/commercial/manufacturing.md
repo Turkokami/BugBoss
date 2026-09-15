@@ -137,7 +137,7 @@ Auditors and customer QA teams tend to write up the same handful of pest issues,
 - **Evidence of rodent activity** — droppings, gnawing, or a catch on an interior device. Prevented by the perimeter interception line and dock exclusion that stop rodents before they reach the floor.
 - **Gaps at doors and penetrations** — daylight under a dock door or an unsealed conduit is an automatic finding whether or not a pest is present. Prevented by the exclusion work that is the backbone of the program.
 - **Bird activity or droppings in the high-bay** — a housekeeping and contamination finding. Prevented by exclusion and roost management up top.
-- **Missing, unmapped, or undocumented devices** — a station with no number, no map, and no service record fails on paperwork alone. Prevented by mapped devices and a logged visit every time.
+- **Missing, unmapped, or undocumented devices** — a station with no number, no map, and no service record fails on paperwork alone. This is the category to raise with us first, because what the deliverable has to be depends on which scheme you answer to. Prevented by mapped devices and a logged visit every time.
 - **Corrective actions with no follow-through** — a finding noted but never closed. Prevented by tracking each item to closure in the service log.
 - **Trend data that only goes one direction — up** — rising activity with no response. Prevented by reading the trend every visit and tightening the program before it becomes a finding.
 
@@ -147,9 +147,9 @@ The theme is consistent: auditors are not really grading how many bugs they see 
 
 BugBoss builds every manufacturing program around the same backbone, then scales and tunes it to the building.
 
-**A mapped perimeter rodent line.** Tamper-resistant, numbered, and mapped bait or monitoring stations around the building exterior, placed at audit-appropriate intervals along the foundation, docks, and dumpster areas, each one on a **device map** keyed to a facility floor plan. Every station gets checked and documented every visit, and activity is logged so a trend appears over time rather than a one-off note.
+**A disciplined perimeter rodent line.** Tamper-resistant, numbered bait or monitoring stations around the building exterior, placed at audit-appropriate intervals along the foundation, docks, and dumpster areas. Every station gets checked and recorded every visit, so activity reads as a direction of travel rather than a one-off note.
 
-**Interior monitoring on a plan.** Mechanical rodent monitoring (snap and multi-catch devices — no toxicant inside a food-contact or production space), monitored **insect light traps** positioned to pull flying insects away from lines and packaging, and **pheromone monitoring traps** for stored-product insects where packaging or food-grade material sits. All of it numbered and mapped.
+**Interior monitoring on a plan.** Mechanical rodent monitoring (snap and multi-catch devices — no toxicant inside a food-contact or production space), monitored **insect light traps** positioned to pull flying insects away from lines and packaging, and **pheromone monitoring traps** for stored-product insects where packaging or food-grade material sits. All of it numbered and read at every visit.
 
 **Dock and door exclusion.** The docks are where the building leaks, so we inspect and address dock seals and levelers, overhead-door bottoms and side gaps, personnel doors and sweeps, and the utility penetrations around them. Exclusion is the part of the program that actually reduces pest pressure instead of just recording it.
 
@@ -172,10 +172,10 @@ A **local, owner-operated** company changes that math. BugBoss is close enough t
 ## The BugBoss process for an industrial facility
 
 1. **Walk the building with your team.** We start with a full survey — exterior perimeter, docks, roof line and high-bay, production and packaging areas, warehouse, break rooms, and utility spaces — and talk with your maintenance and QA leads about the audits you answer to and the problems you have seen.
-2. **Map and baseline.** We build the device map on your floor plan, set the perimeter line and interior monitoring, and record a baseline so future visits show a trend.
+2. **Place and baseline.** We set the perimeter line and interior monitoring and record a baseline, so later visits show a direction of travel. If your audit requires that placement documented as a device map against your floor plan, we agree at this point who builds and maintains it.
 3. **Exclude at the openings.** Dock seals, door sweeps, penetrations, roof-line and high-bay gaps — we prioritize the exclusion that actually cuts pest pressure, and flag structural fixes for your maintenance crew.
 4. **Treat targeted, not broadcast.** Crack-and-crevice, baiting, monitored light traps, seasonal exterior treatment — product goes where the label and the food-safety rules allow it, never over a line or near packaging.
 5. **Document and close the loop.** Every visit produces a work order logging findings, actions, and the corrective steps the plant needs to take. If a customer QA audit or a scheme like SQF or AIB wants records beyond that, tell us what your auditor asks for before we start so we can agree who keeps what.
-6. **Review the trend and adjust.** We use the trend data to tighten the program where pressure is showing and to prove control where it is not.
+6. **Review and adjust.** We read the device counts across visits to tighten the program where pressure is showing and to leave it alone where it is not.
 
 If your plant is preparing for a customer audit, chasing a repeat rodent or bird finding, or simply tired of a route company that treats a factory like a big house, talk to us. Reach the owner directly at **866-BUGBOSS**, or through the [contact page](/contact/). Learn more about Brian and the company on our [about page](/about/), and see the neighboring markets we cover in [Clintonville](/service-area/clintonville/), [New London](/service-area/new-london/), [Shawano](/service-area/shawano/), [Waupaca](/service-area/waupaca/), [Wausau](/service-area/wausau/), and [Stevens Point](/service-area/stevens-point/). Related programs: [warehousing and distribution](/commercial-pest-control/warehousing-distribution/), [food processing](/commercial-pest-control/food-processing/), grain, feed, and seed, and [offices](/commercial-pest-control/offices/).

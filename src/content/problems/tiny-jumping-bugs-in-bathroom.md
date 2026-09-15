@@ -42,17 +42,17 @@ So a persistent indoor population is not really an insect problem. It is a **moi
 
 ## What to do now
 
-**Check for bites before anything else.** If nobody has any, you can stop worrying about fleas and stop spending money on them.
+1. **Check for bites before anything else.** If nobody has any, you can stop worrying about fleas and stop spending money on them.
 
-**Follow the concentration.** Springtails cluster where the water is. Where they are thickest is where to look — behind the toilet, under the vanity, along a basement wall, around the sump, at the base of a shower surround.
+2. **Follow the concentration.** Springtails cluster where the water is. Where they are thickest is where to look — behind the toilet, under the vanity, along a basement wall, around the sump, at the base of a shower surround.
 
-**Look behind the fixtures.** A slow leak keeping framing wet is the classic bathroom source and it is invisible until someone looks.
+3. **Look behind the fixtures.** A slow leak keeping framing wet is the classic bathroom source and it is invisible until someone looks.
 
-**Vacuum rather than spray.** They die on their own in dry air; a vacuum handles the ones you can see today.
+4. **Vacuum rather than spray.** They die on their own in dry air; a vacuum handles the ones you can see today.
 
-**Check the houseplants**, especially in winter. Overwatered soil is the commonest indoor reservoir and the hardest to guess.
+5. **Check the houseplants**, especially in winter. Overwatered soil is the commonest indoor reservoir and the hardest to guess.
 
-**Walk the outside.** Downspouts discharging at the foundation, ground sloping toward the house, a dripping hose bib behind a shrub, mulch piled against the siding. Any of those keeps a wet strip exactly where you least want one.
+6. **Walk the outside.** Downspouts discharging at the foundation, ground sloping toward the house, a dripping hose bib behind a shrub, mulch piled against the siding. Any of those keeps a wet strip exactly where you least want one.
 
 ## When to call
 

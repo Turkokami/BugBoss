@@ -74,6 +74,20 @@ There's an ecological piece too. This is insect-rich country — rivers, lakes, 
 
 We handle the whole thing under one roof: the inspection and dusk watch, the one-way exclusion done within the DNR calendar, the waiting period we don't shortcut, comprehensive sealing so it's permanent, and the guano cleanup and insulation work after. Because [wildlife exclusion](/wildlife-removal/) is our core trade, you're not getting the bats out with one company and hunting for a cleanup crew with another. It's [no contracts](/no-contracts/), and you deal with Brian directly.
 
+## What to do now
+
+1. **Check the date first.** Through the summer maternity season, flightless pups are in the roost and exclusion is prohibited — a June call books an inspection and a date, not a sealing job.
+
+2. **Do not seal the entry, however obvious it is.** Sealing a roost with young inside kills them in your ceiling: illegal, and a far worse problem than the colony.
+
+3. **Stand outside at dusk and watch where they come out,** and roughly how many. That one observation shapes the entire job.
+
+4. **Close the interior route.** Keep the attic hatch shut and the gaps around it sealed so a bat cannot drop into living space.
+
+5. **If a bat has been in a room with a sleeping person, a child, or anyone who cannot say whether contact occurred, do not release it.** Contain it and call your county health department about rabies testing.
+
+6. **Book the inspection now even for a late-summer date.** The post-maternity window is short and it fills.
+
 ## When to call
 
 Call as soon as you suspect a colony — the sooner we inspect, the better we can time the exclusion to the legal window rather than scrambling. If you're seeing guano piles, hearing the dusk-and-dawn chittering, catching the musky smell, or watching bats stream out at sunset, that's a colony, not a stray. And if a single bat is loose in your living space, don't seal anything or assume it's the only one — call and we'll sort out whether there's a roost behind it. BugBoss serves [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Waupaca](/service-area/waupaca/), [Shawano](/service-area/shawano/) and the surrounding area. [Get in touch](/contact/) and we'll come look.

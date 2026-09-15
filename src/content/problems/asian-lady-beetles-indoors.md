@@ -66,6 +66,20 @@ We handle Asian lady beetles as one strand of the timed [fall-invader program](/
 
 Prevention is the timing plus a tight envelope. **Book the exterior treatment for late August**, since waiting until the beetles are indoors means the window has already closed. **Keep sealing** soffits, frames, and the foundation line as the building settles. **Vacuum, never crush**, the beetles that get in, to avoid the yellow staining. Recognize that a **pale, sun-facing house near crop fields and gardens** is a prime target — the more aphid habitat around you, the bigger the fall wave — which is exactly why an annual barrier makes the difference on rural and edge-of-town homes. And there's no need to wage war on the beetles out in the fields; they're doing useful aphid work there. The goal is only to keep them out of the house.
 
+## What to do now
+
+1. **Vacuum them; do not crush or swat.** Crushing releases the yellow defensive fluid that stains, and the odor draws more of them to the same spot.
+
+2. **Empty the canister outside immediately,** or put a nylon stocking over the wand so the beetles never reach the vacuum at all.
+
+3. **Skip the indoor fogger.** The rest of the population is in the wall voids where a fogger does not reach, and the ones it does kill stay in the cavity and feed carpet beetles later.
+
+4. **Write the date down.** Beetles at the window in February entered in late September, and late September is the only window worth acting in.
+
+5. **Book the exterior treatment for late August or the first week of September,** before they mass on the siding rather than after.
+
+6. **Seal what you can reach in the meantime** — window and door frames, utility penetrations, soffit and fascia gaps, and failed screening on vents.
+
 ## When to call
 
 Call BugBoss in **summer or early fall** to get the exterior treatment scheduled before the beetles mass in October — the call that actually keeps them out. Call if they're on the siding or already inside now and you want the building sealed and a plan for next season. And call if the warm-day comebacks and the yellow stains have made a long winter of it; the fix isn't a fogger, it's the fall barrier and sealing done on time.

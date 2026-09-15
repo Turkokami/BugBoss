@@ -66,6 +66,20 @@ A note on the dead nest left behind: in most homes it's not a concern. A treated
 
 Preventing wall-void colonies is really about **exclusion**, the same sealing work that keeps out the fall invaders. Walk the exterior and close the gaps a founding queen would use: caulk around window and door frames, seal utility and cable penetrations, repair loose or cupped siding, and tighten soffit and fascia gaps that connect down into the walls. In **late spring**, before workers arrive, keep an eye out for early traffic at any exterior gap and deal with a starter nest while it's still just a queen and a few cells — the easiest possible time to stop one. The same gap-sealing that shuts wasps out of your walls also blocks the [cluster flies](/pest-library/cluster-flies/), [Asian lady beetles](/pest-library/asian-lady-beetles/), and [mice](/pest-library/mice/) that exploit those openings in fall, so it's worth doing thoroughly. For older homes, a full exclusion pass is the kind of thing our [farmhouse rodent exclusion](/guides/farmhouse-rodent-exclusion/) work already targets.
 
+## What to do now
+
+1. **Do not seal the entry hole.** It is the instinct everyone has, and it drives the colony through the drywall into the room.
+
+2. **Do not spray into the hole from outside either.** It reaches the guards and not the nest, and it produces the same inward push.
+
+3. **Work out which room backs onto that wall and keep it shut,** with the gap under the door blocked, until the job is done.
+
+4. **Check the interior wall for a damp patch or a stain.** A large colony in a void produces enough moisture to show through.
+
+5. **Say so when you call if anyone in the household has a sting allergy.** It changes how the job is scheduled.
+
+6. **Have the void treated properly and the entry closed only once the colony is confirmed dead** — with hardware cloth or sealant rather than expanding foam.
+
 ## When to call
 
 Call promptly for any wasp or yellowjacket colony inside a wall void — it's one of the more urgent stinging-insect situations because the colony can break through into the house, and because the entry must not be sealed in the meantime. Call right away if anyone in the household has a sting allergy, or if wasps have already started appearing inside the living space. Whatever you do, resist the urge to plug the hole first; that's the single most common way this problem gets worse. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/) — [no contracts](/no-contracts/), owner-direct, fast local response. We serve [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns.

@@ -4,6 +4,7 @@ pest: bats
 pestLabel: "Bats"
 town: "Clintonville, WI"
 propertyType: "Single-family house with an occupied attic roost"
+method: "One-way exclusion devices outside the maternity season, full-perimeter sealing, then contaminated insulation removed, the space sanitized, and the attic reinsulated."
 outcome: "Colony evicted, house sealed, contaminated insulation removed, attic sanitized and reinsulated"
 order: 10
 answer: "A colony of over 150 bats was living in the attic of a house in Clintonville, Wisconsin. BugBoss evicted the colony, sealed the building against re-entry, stripped out the contaminated insulation, sanitized the space, and reinsulated it. That last half is the part most companies leave to somebody else — and it is what makes the job finished rather than paused."

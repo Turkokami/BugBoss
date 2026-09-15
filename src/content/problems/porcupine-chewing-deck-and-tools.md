@@ -42,17 +42,17 @@ They den in the void under sheds, barns, porches and outbuildings — dry, shelt
 
 ## What to do now
 
-**Deal with a quilled dog first.** If that has happened, it is a same-day veterinary visit and it outranks everything else on this page. Do not attempt removal at home.
+1. **Deal with a quilled dog first.** If that has happened, it is a same-day veterinary visit and it outranks everything else on this page. Do not attempt removal at home.
 
-**Follow the salt.** Look at what has been chewed and you will usually be able to predict what gets hit next. Move it.
+2. **Follow the salt.** Look at what has been chewed and you will usually be able to predict what gets hit next. Move it.
 
-**Find the den.** Under the shed, barn, deck or porch, marked by a mound of pellet scat at the entrance and shed quills nearby. In snow, follow the worn trails.
+3. **Find the den.** Under the shed, barn, deck or porch, marked by a mound of pellet scat at the entrance and shed quills nearby. In snow, follow the worn trails.
 
-**Check your trees.** Bark stripped in patches high on the trunk and out on branches, with coarse tooth grooves and nipped twigs on the ground below. If a trunk is stripped all the way round, that tree is finished.
+4. **Check your trees.** Bark stripped in patches high on the trunk and out on branches, with coarse tooth grooves and nipped twigs on the ground below. If a trunk is stripped all the way round, that tree is finished.
 
-**Check vehicle brake lines and hoses** if anything has been parked outside. This one is a genuine safety issue, not an inconvenience.
+5. **Check vehicle brake lines and hoses** if anything has been parked outside. This one is a genuine safety issue, not an inconvenience.
 
-**Keep dogs leashed at dusk** on rural property in winter. That is when most quillings happen, and dogs that have been quilled once frequently do it again.
+6. **Keep dogs leashed at dusk** on rural property in winter. That is when most quillings happen, and dogs that have been quilled once frequently do it again.
 
 ## When to call
 

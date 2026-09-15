@@ -82,6 +82,20 @@ Rat control on a farm is never one thing; it's several done together.
 
 We start with a full inspection to map burrows, runways, and entry points, then work the program above in the order that makes sense for your property, and we come back to follow up — because with an animal that breeds year-round and takes time to accept traps, follow-up is where a rat job is actually won. If the outbuildings have more going on — mice alongside the rats, bats in the loft, a raccoon or skunk denning under a slab — we handle that too, since BugBoss does [pest control](/residential-pest-control/) and [wildlife removal](/wildlife-removal/) both. It's one crew, not a referral to somebody else. And it's [no contracts](/no-contracts/), owner-direct.
 
+## What to do now
+
+1. **Confirm rats rather than large mice.** Droppings the size of an olive pit, a thick scaly tail shorter than the body, and smooth worn burrow entrances along a foundation.
+
+2. **Find the burrows.** Rats live outside the building and commute in, so the burrow system along the foundation, under the slab or beneath a pallet stack is the real target.
+
+3. **Cut the food off first.** Spilled grain, open feed, pet food and an unmanaged compost pile will out-compete any bait or trap you set.
+
+4. **Clear the harborage** — pallet stacks, scrap piles, old tires, weeds growing against the wall. A rat needs cover within a short run of food.
+
+5. **Do not set a handful of traps and wait.** Rats avoid new objects for days, so traps go out unset and baited first and get armed once they are being fed at.
+
+6. **Treat the whole site rather than the one building.** A rat population on a farm works several buildings, and clearing one just redistributes it.
+
 ## When to call
 
 Don't wait on rats. If you're seeing burrow holes along a foundation, big capsule droppings, gnawed feed bags and wiring, or an actual rat in daylight — which often means the colony has outgrown its cover — call now, while it's still a small job. BugBoss serves the farm country around [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Shawano](/service-area/shawano/), and [Waupaca](/service-area/waupaca/). [Get in touch](/contact/) and we'll come assess the buildings.

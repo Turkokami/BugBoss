@@ -66,6 +66,20 @@ This is standard [residential pest control](/residential-pest-control/) work, an
 
 There's less you can do to prevent aerial hornet nests than ground or soffit nests, because bald-faced hornets build out in the open on branches and building faces rather than in cavities you can seal. The most useful habit is a **springtime check**: in late spring, before the workers arrive, look over the eaves, gable peaks, porch ceilings, and low shrubs near the house for the small starter nests a founding queen builds alone, and knock those down while it's still just a queen and a handful of cells — by far the easiest point to stop a colony. Beyond that, keeping an eye on the tree lines and building corners through the summer lets you catch a growing nest and deal with it before it reaches its August peak and its full defensive strength.
 
+## What to do now
+
+1. **Measure the distance to the door, the deck and the path.** Proximity decides urgency far more than the size of the nest does.
+
+2. **Keep the mower, the string trimmer and the leaf blower away from it.** Vibration is what turns an ignorable nest into a stinging incident.
+
+3. **Do not throw anything at it, spray it from a ladder, or approach it at midday,** when most of the colony is out and returning.
+
+4. **Check whether anyone in the household has a sting allergy.** That single fact moves this from a nuisance to a medical risk.
+
+5. **If it is high, well clear of traffic, and it is late September, consider leaving it.** The colony dies at hard frost and the nest is never reused.
+
+6. **If it is near the house or at head height, have it handled rather than attempting it.** A bald-faced hornet nest is defended at a considerable radius.
+
 ## When to call
 
 Call for any bald-faced hornet nest near a doorway, deck, patio, walkway, or play area; any nest low enough to be disturbed accidentally or at head height in a shrub; any nest high on a tree or building that would put you on a ladder; and any nest at all if someone in the household has a sting allergy. A nest hanging high and far from where people go can often be left to die at frost — location and traffic are what decide. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/). No [long-term contracts](/no-contracts/), and you deal with the owner. We cover [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the rural towns around them.

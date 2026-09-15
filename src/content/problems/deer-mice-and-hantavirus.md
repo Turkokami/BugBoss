@@ -70,6 +70,22 @@ Hantavirus risk isn't spread evenly. It concentrates in exactly the buildings an
 
 The high-risk moments are just as predictable: opening a cabin in spring after it sat closed all winter with mice in it; cleaning out a shed or feed room in the first warm days; pulling apart a nest that turned up in a stored boat, tractor cab, or woodpile; sweeping out a granary before harvest. In each case, months of accumulated, dried contamination meets a broom and poor ventilation. Knowing that the risk clusters in these specific spots and tasks is more than half the battle — it tells you exactly when to slow down and do the cleanup properly instead of on autopilot.
 
+## What to do now
+
+1. **Do not sweep and do not vacuum.** Dry disturbance is the mechanism of exposure, and this step matters more than the rest of the list combined.
+
+2. **Open the building and leave it.** Doors and windows open, you outside, thirty minutes minimum before anyone goes back in.
+
+3. **Put on rubber gloves and an N95 or better respirator** before you start. A cloth or paper dust mask is not the same thing.
+
+4. **Wet everything down** with a disinfectant or a fresh 1:10 bleach solution, and let it stand for five minutes before you touch it.
+
+5. **Wipe up with paper towel, bag it, and seal the bag.** Do not shake out nesting material, bedding or cushions at any point.
+
+6. **Wash your gloved hands before removing the gloves, and your bare hands afterward.**
+
+7. **Stop and call if the contamination is heavy, enclosed, or older than you can date.** That is the situation this procedure is not written for.
+
 ## When to call instead of clean
 
 There's a fair line here. Light contamination in a ventilated home is a reasonable do-it-yourself job with the right precautions. But a **cabin, shed, crawlspace, or outbuilding with a winter's worth of deer mouse droppings and nests** is where it's worth calling — partly for safe handling of a heavy mess in a poorly ventilated space, and partly because cleaning without addressing the mice is only half the job. If you clean and don't seal, the deer mice come right back and you're facing the same contaminated mess next spring. That's the trap a lot of cabin and farm owners fall into: they clean every year and never fix why.

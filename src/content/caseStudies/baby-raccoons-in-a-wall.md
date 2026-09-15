@@ -4,6 +4,7 @@ pest: raccoons
 pestLabel: "Raccoons"
 town: "Green Bay, WI"
 propertyType: "Residential house with a litter inside a wall cavity"
+method: "Litter located and removed from the wall cavity by hand — rather than trapping the female and leaving non-mobile kits sealed inside."
 outcome: "Young removed from the wall cavity"
 order: 40
 answer: "A mother raccoon had denned inside the wall of a house and had her litter there. BugBoss removed the young from the wall cavity. This is the situation where trapping the adult alone is exactly the wrong move — it leaves non-mobile kits sealed inside a wall, which is both inhumane and a far worse problem for the homeowner."

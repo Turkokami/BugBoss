@@ -119,7 +119,7 @@ Anyone can spray a baseboard. What a food service operation actually needs is a 
 
 IPM means we don't lead with chemicals. We lead with **inspection, monitoring, sanitation, and exclusion**, and use targeted treatment where it's needed and where the label allows. In a kitchen that's both more effective and safer — less material around food, better long-term results, and a program an inspector recognizes as professional. Broadcast spraying over prep areas is exactly what IPM is designed to replace.
 
-### Monitoring and device maps
+### Monitoring, and where the device map fits
 
 We install and maintain **monitoring devices** — insect monitors, rodent stations, and insect light traps — placed deliberately at the entry points, harborage, and runways that matter in your specific building. Where a program warrants it we will map those placements, which makes service consistent from visit to visit and gives an inspector a clear picture of the monitoring network — worth agreeing at the outset if your operation is audited. Reading those devices at each visit is how we catch a developing problem early instead of after it's visible on the line.
 

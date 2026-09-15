@@ -86,6 +86,20 @@ Since moisture is the whole game, prevention is really deck maintenance:
 
 Sound, dry, well-drained wood, with no easy bridge from an outdoor nest to your deck and walls, is the best long-term defense — and it's part of every carpenter ant job we do.
 
+## What to do now
+
+1. **Find the water first.** Carpenter ants excavate wood that is or has been wet, so the ants are the symptom and a leak, a splash zone or trapped moisture is the cause.
+
+2. **Check the three places it usually is** — the ledger board where the deck meets the house, the post bases at grade, and anywhere a joist bears on concrete.
+
+3. **Do not spray the trails.** Killing foragers leaves the nest untouched, and a repellent spray can split one colony into several satellites.
+
+4. **Look for frass:** coarse sawdust with insect parts in it, usually in a small cone below a slit in the wood. It locates the gallery better than anything else.
+
+5. **Watch at dusk for a trail running between the deck and a tree or stump.** The parent colony is usually outdoors and the deck is only a satellite.
+
+6. **Fix the moisture source at the same time as the treatment,** because treating without fixing the water means doing it again next year.
+
 ## When to call
 
 Call when you're consistently seeing large black ants on the deck or porch, when you find coarse frass below the framing, when winged ants appear around or inside the structure in spring, or when you spot softened, hollow-sounding wood in posts, joists, or stringers. Call promptly if the deck is attached to the house at a ledger, since that's the bridge a satellite nest uses to move indoors, and if large black ants are turning up inside the house in winter. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/) — owner-direct, no contracts. We serve [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns and lake communities.

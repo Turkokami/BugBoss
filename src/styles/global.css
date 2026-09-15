@@ -218,3 +218,11 @@ a.tag:hover { background: var(--grad-neon); color: #0b1f00; border-color: transp
     scroll-behavior: auto !important;
   }
 }
+
+/* Available to assistive technology, absent from the visual layout. Used for
+   <caption> on the §4.3 fact tables, where the caption would duplicate the
+   heading immediately above it for a sighted reader. */
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap; border: 0;
+}

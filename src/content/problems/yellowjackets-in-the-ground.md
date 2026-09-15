@@ -68,6 +68,20 @@ Once the colony is confirmed dead, filling in the burrow or cavity keeps a new q
 
 You can't prevent every ground nest on a rural property, but you can cut the odds. After any nest is treated, **fill in the abandoned rodent burrows and cavities** near the house, lawn, garden, and walkways where ground yellowjackets like to set up — controlling the rodents that dig those burrows in the first place helps too. From midsummer on, **keep garbage covered, clean up fallen fruit and pet food, and cover food and drinks at outdoor gatherings** so you're not feeding a colony. And early in the season, a quick scan of the yard on warm afternoons can catch a new nest's traffic while the colony is still small and easy to deal with, long before it becomes an August hazard.
 
+## What to do now
+
+1. **Mark the hole from a distance and keep everyone away.** Flag the area or set a bucket nearby — not over the hole itself.
+
+2. **Stop mowing and trimming anywhere near it.** Vibration is what triggers a mass response from a ground nest.
+
+3. **Rule out ground-nesting bees first.** Bees come and go singly from many small holes; yellowjackets stream in and out of one.
+
+4. **Skip the home remedies.** Gasoline, boiling water and a shop-vac at the hole are all well-documented ways to get badly stung, and two of them are environmental damage besides.
+
+5. **If it is being handled at all, it happens at dusk or after dark,** when the whole colony is home and the light is low.
+
+6. **Know that the colony dies at hard frost and the nest is never reused.** A late-September nest well clear of traffic can often simply be left.
+
 ## When to call
 
 Call for any ground yellowjacket nest near the house, the mowed lawn, the garden, a walkway, a play area, or anywhere people and pets regularly pass — and call right away if anyone in the household has a sting allergy. A nest far out in an unused back corner can sometimes be left to die at frost, but anything near activity is too much of a hazard to wait out through peak season. If you've already disturbed a nest and people or pets are being stung, get everyone inside and away first; the nest can be dealt with once no one's in the line of fire. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/) — [no contracts](/no-contracts/), owner-direct. We serve [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns.

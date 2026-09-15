@@ -72,6 +72,20 @@ For the bugs already inside when you call, the guidance is simple and low-tech: 
 
 Prevention is exclusion plus timing, and the best time to start is the summer before you expect them. Walk the outside of the house and seal what you find: caulk window and door frames, close utility penetrations, fix screens, replace failed weatherstripping, and screen vents and the chimney. At the roofline, tighten soffit and fascia gaps — the same openings that let stink bugs, cluster flies, and lady beetles in are usually the ones that matter most on an older home. Then schedule the exterior treatment for late summer, before the first cool nights send the bugs to the walls. Do those two things and the annual stink bug show at your windows gets smaller instead of bigger.
 
+## What to do now
+
+1. **Vacuum rather than crush or swat** — and put a stocking over the wand, because drawing them through will scent the canister for weeks.
+
+2. **Skip the indoor spray entirely.** They are overwintering in the wall voids, and indoors they do not feed, breed or bite.
+
+3. **Check the window frames, the sash channels and behind the trim.** That is where they sit, and where they come out on a warm day.
+
+4. **Note which wall they are on.** It will be the south or the west, and it is the wall the exterior work has to cover.
+
+5. **Book the exterior treatment for the last week of August or the first of September,** before they gather.
+
+6. **Repair failed screening on soffit, gable and bath vents before then.** Those are the entries nobody checks.
+
 ## When to call
 
 Call BugBoss when you're seeing stink bugs indoors in any real number, when the problem is worse than last year, or — best of all — in **late summer, before** they start clustering on the house, so we can time the exterior treatment right. If you've got an older farmhouse or a seasonal cabin with a lot of gaps at the roofline and around the windows, an exclusion inspection is worth it, because that same work protects you from the whole fall-invader lineup and from mice come November. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/). We cover [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns.

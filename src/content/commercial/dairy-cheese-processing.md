@@ -103,7 +103,9 @@ Integrated Pest Management (IPM) is the required and expected framework in a foo
 
 ### Monitoring and mapping
 
-The program is built on **devices that are numbered, mapped, and serviced on a schedule**: exterior rodent bait stations, interior mechanical rodent monitors and traps, insect light traps, and pheromone monitors for stored-product pests where dry goods are held. Every device has a location on a **site map**, and every service visit records what was found at each one. That map and the catch data are the backbone of the trend analysis an auditor wants to see — not "we didn't find anything" but a documented record over time that shows the program is working and flags a spike before it becomes an infestation.
+The program is built on **devices that are numbered, placed deliberately, and serviced on a schedule**: exterior rodent bait stations, interior mechanical rodent monitors and traps, insect light traps, and pheromone monitors for stored-product pests where dry goods are held. Every visit records what was found at each one, because the value is in the numbers over time rather than in any single visit — a documented record that shows the program is working, and flags a spike before it becomes an infestation.
+
+A **site map** of those placements and a formal trend log are what an SQF, BRCGS or DATCP-facing plant is usually expected to hold. Which of them we maintain and which your QA team keeps is worth settling in writing before the program starts.
 
 ### Sanitation and harborage — the part that does the real work
 

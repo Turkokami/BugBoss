@@ -42,15 +42,15 @@ Out here the pressure is higher than in town. Farmsteads and village properties 
 
 ## What to do now
 
-**Stop using the dryer** until the vent is cleared, if the vent is a dryer line and you have any reason to think it is blocked. This is the one urgent step on this page.
+1. **Stop using the dryer** until the vent is cleared, if the vent is a dryer line and you have any reason to think it is blocked. This is the one urgent step on this page.
 
-**Check the other vents while you are at it.** Bathroom exhausts, stove and range hood vents, and any unused capped vent. If one is occupied, others usually have history.
+2. **Check the other vents while you are at it.** Bathroom exhausts, stove and range hood vents, and any unused capped vent. If one is occupied, others usually have history.
 
-**Look, do not reach.** Identify the species and work out whether there are live chicks before anything is pulled. Pulling a nest with nestlings in it leaves you with a dead-animal problem inside a duct you cannot easily reach.
+3. **Look, do not reach.** Identify the species and work out whether there are live chicks before anything is pulled. Pulling a nest with nestlings in it leaves you with a dead-animal problem inside a duct you cannot easily reach.
 
-**Do not screen it with insect mesh.** It clogs with lint and recreates the blockage.
+4. **Do not screen it with insect mesh.** It clogs with lint and recreates the blockage.
 
-**Note the date.** If biting starts in the house a few days after a nest is cleared, that is mites dispersing — it is a known sequence and it needs the site treating, not the bedroom.
+5. **Note the date.** If biting starts in the house a few days after a nest is cleared, that is mites dispersing — it is a known sequence and it needs the site treating, not the bedroom.
 
 ## When to call
 

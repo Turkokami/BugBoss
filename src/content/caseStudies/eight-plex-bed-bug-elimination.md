@@ -4,6 +4,7 @@ pest: bed-bugs
 pestLabel: "Bed bugs"
 town: "Menasha, WI"
 propertyType: "Eight-unit apartment building with a multi-year infestation"
+method: "Inspected and scheduled as one structure rather than eight units, every involved unit treated on the same schedule, with follow-up timed to egg hatch."
 outcome: "Whole building brought under control and bed bug free"
 order: 20
 answer: "An eight-unit apartment building had been infested with bed bugs for years before BugBoss took it on. It was treated as one building rather than eight separate units — which is the only approach that works in a shared structure — and brought under control and bed bug free."

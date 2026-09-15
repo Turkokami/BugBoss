@@ -111,12 +111,9 @@ Occupied housing where people live full-time raises the stakes on minimizing che
 
 BugBoss builds multi-family programs on **Integrated Pest Management** — inspection, monitoring, sanitation, and exclusion first, targeted treatment where warranted — applied at building scale. The [commercial pest control](/commercial-pest-control/) framework we use across industries is tuned here for occupied housing, where minimizing chemical exposure in units where families live and sleep is both good practice and the right thing to do.
 
-Every property gets documentation built for owners and managers:
+**Every visit produces a work order.** On a multi-unit building that means the thing owners and managers actually need: which units were inspected and treated, what was found in each, the status of every unit in an affected block, the conducive conditions maintenance has to close, and any prep or access problem that held the job up. On a bed bug or cockroach job across several units, that unit-by-unit record is what keeps the scope honest from one visit to the next.
 
-- **A unit-by-unit inspection and treatment log** — what was found and done in each unit, and the status of every unit in an affected block.
-- **A device map** locating rodent stations and insect monitors across the building's common areas and mechanical spaces.
-- **A pest sighting and trend log** that tracks activity across units over time, so a recurring source unit or a spreading front gets caught early.
-- **Corrective-action and access notes** tying findings to fixes, flagging conducive conditions maintenance must close (a leaking trap, a failed door sweep, an open chase), and recording prep and access issues for your file.
+**Where a building answers to more than that** — an insurer, a housing authority, a lender's condition, a corporate owner's standard — the requirement is usually a written scope, a device map, a trend record and corrective-action notes kept to a set format. Tell us which apply before the program starts so we can agree in writing who maintains which piece. That is worth settling early on a building where the records may end up in front of a tenant's lawyer rather than an auditor.
 
 **Resident communication** is handled the way you want it. Some managers run all tenant contact themselves; others want us to deliver prep instructions, answer questions at the door on treatment day, and keep residents informed on logistics. Either way we keep it professional and low-key — a pest treatment shouldn't feel like an event to the rest of the building. And when one un-prepped or inaccessible unit threatens to re-seed the whole job, we document it so the responsibility is clear and you can act on it through your lease and notice process.
 

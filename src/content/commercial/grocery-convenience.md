@@ -2,7 +2,7 @@
 title: "Grocery & Convenience Store Pest Control in Northeast Wisconsin"
 industry: "Grocery & Convenience"
 category: "Food & Beverage"
-answer: "Grocery and convenience store pest control in northeast Wisconsin means passing Wisconsin Food Code (ATCP 75) health inspections and AIB-style facility audits across a building that combines a receiving dock, back-of-house storage, and open retail floor. BugBoss The X-Terminator runs documented, IPM-based programs — device maps, dock and stockroom monitoring, exclusion, and trend records — for grocers and c-stores, with no long-term contract."
+answer: "Grocery and convenience store pest control in northeast Wisconsin means passing Wisconsin Food Code (ATCP 75) health inspections and AIB-style facility audits across a building that combines a receiving dock, back-of-house storage, and open retail floor. BugBoss The X-Terminator runs IPM-based programs for grocers and c-stores — dock and stockroom monitoring, exclusion, and a work order for every visit — with no long-term contract."
 order: 3
 faqs:
   - q: "What rules apply to pest control in a Wisconsin grocery or convenience store?"
@@ -24,7 +24,7 @@ faqs:
   - q: "Do you service the store without disrupting shoppers?"
     a: "Yes. We schedule around your hours and traffic — early mornings, off-peak times, or overnight for 24-hour c-stores — and work discreetly on the sales floor so customers don't notice pest management happening. Monitoring devices on the retail floor are placed to be unobtrusive, and back-of-house work is done out of customer view."
   - q: "What documentation do you leave for inspections and audits?"
-    a: "Every visit is documented: findings, treatments and placements, a mapped device network, pest-activity trends over time, sanitation and exclusion recommendations, and corrective actions. That record stays on-site, current and ready for a health inspector or an AIB-style auditor. It's the paperwork that turns a pest sighting into evidence your program is working rather than a violation."
+    a: "A work order for every visit: what was inspected, what was found, device readings, what was treated and with what, and the sanitation and exclusion work the store needs to do next. That record stays on-site and current, and it is what a health inspector normally asks to see. If your banner or supplier audit wants more than that — a device map, a formal trend log, written corrective-action records — tell us before the program starts so we can agree who keeps which piece, rather than finding the gap mid-audit."
   - q: "Do you require a long-term contract?"
     a: "No. BugBoss doesn't lock grocers or c-stores into multi-year agreements or charge cancellation fees. Stores run best on regular scheduled service because pest pressure at the dock and in storage is constant, but you stay because the program works and the records are clean. You also deal directly with the owner, Brian Zahringer, a certified Wisconsin Commercial Pesticide Applicator."
   - q: "How often should a grocery or convenience store be serviced?"
@@ -109,9 +109,11 @@ A store needs a program that covers all three of its environments and documents 
 
 The program leads with **inspection, monitoring, sanitation, and exclusion**, with targeted treatment used precisely and documented — and it's tailored zone by zone. The dock and back room get the heaviest monitoring and exclusion focus; the produce and deli areas get source-driven sanitation attention; the sales floor gets discreet monitoring and treatment that keeps material away from open product. Broadcast spraying across a retail floor full of open food is exactly what IPM replaces.
 
-### Device maps and unobtrusive monitoring
+### Unobtrusive monitoring, placed where the pressure is
 
-Every device — exterior rodent stations, interior traps, insect light traps, and pheromone monitors — is **numbered, placed deliberately, and mapped**, with a maintained inventory. On the sales floor, devices are placed to be **unobtrusive** so shoppers don't notice them; in the back room and at the dock they're positioned where the pressure actually is. The **device map** is a core audit document and keeps service consistent visit to visit.
+Every device — exterior rodent stations, interior traps, insect light traps, and pheromone monitors — is **numbered and placed deliberately**, and read at each visit. On the sales floor they go where shoppers will not notice them; in the back room and at the dock they go where the pressure actually is.
+
+Where a banner or supplier audit requires those placements documented as a **device map** against your floor plan, that is worth agreeing at the outset rather than mid-audit — it is a core audit document, and it is the piece most often missing when a store changes vendors.
 
 ### Sanitation and exclusion driven at the source
 

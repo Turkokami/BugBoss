@@ -4,9 +4,11 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import ExpertBlock from '@/components/ExpertBlock.astro';
 import Faq from '@/components/Faq.astro';
+import FactTable from '@/components/FactTable.astro';
 import Cta from '@/components/Cta.astro';
 import { business, cityState } from '@/data/business';
 import { pests, getPest, type PestCategory } from '@/data/pests';
+import { getPestId } from '@/data/pest-id';
 import { getTown } from '@/data/towns';
 import { expertNote } from '@/data/expert-notes';
 import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
@@ -41,6 +43,26 @@ const catService: Record<PestCategory, { label: string; href: string }> = {
 };
 const svc = catService[pest.category];
 const note = expertNote(pest.slug);
+// Keystone v3.2 §4.3 — T6 declares its snippet shape as TABLE. Every pest
+// profile carries the same five-row identification table plus the signs list,
+// above the long-form body, so the extractable block sits in a predictable
+// place and a reader who only wants "what is it, and have I got it" can stop
+// after thirty seconds.
+//
+// About half the deep bodies also discuss signs in prose further down. That
+// repetition is deliberate and conventional — this is an at-a-glance summary,
+// which is why it is headed as one and uses an h3 rather than competing with
+// the body's own h2.
+const ident = getPestId(pest.slug);
+const identRows = ident
+  ? [
+      { label: 'Size', value: ident.size },
+      { label: 'How to tell it apart', value: ident.look },
+      { label: 'Active in Wisconsin', value: pest.season },
+      { label: 'Where you find it', value: ident.where },
+      { label: 'What it actually does', value: ident.risk },
+    ]
+  : [];
 const catLabel: Record<PestCategory, string> = {
   insect: 'Insects',
   rodent: 'Rodents',
@@ -72,14 +94,20 @@ const pageNodes = [
       <AnswerBox text={answer} />
       {note && <ExpertBlock note={note} />}
 
+      <div class="at-a-glance">
+        <h2 id="at-a-glance">{pest.name} at a glance</h2>
+        <FactTable
+          caption={`Size, appearance, season, location and risk for ${pest.name.toLowerCase()} in Northeast Wisconsin`}
+          rows={identRows}
+        />
+        <h3>Signs you have {pest.name.toLowerCase()}</h3>
+        <ul class="check">{pest.signs.map((s) => <li>{s}</li>)}</ul>
+      </div>
+
       {Body ? (
         <article class="prose"><Body /></article>
       ) : (
-        <>
-          <p class="lead">{pest.overview}</p>
-          <h2>Signs of {pest.name.toLowerCase()}</h2>
-          <ul class="check">{pest.signs.map((s) => <li>{s}</li>)}</ul>
-        </>
+        <p class="lead">{pest.overview}</p>
       )}
 
       {studies.length > 0 && (
@@ -124,6 +152,8 @@ const pageNodes = [
     .eyebrow a { color: var(--green-600); text-decoration: none; }
     .study-line { margin-top: 1.6rem; padding: 1rem 1.2rem; background: var(--green-050); border-radius: var(--radius); font-size: .95rem; }
     .study-line p + p { margin-top: .5rem; }
+    .at-a-glance { margin: 2rem 0 2.4rem; }
+    .at-a-glance h3 { margin-top: 1.6rem; }
     .towns-line { margin-top: 1.6rem; padding: .9rem 1.1rem; background: var(--bg-soft); border-radius: var(--radius); font-size: .95rem; }
   </style>
 </BaseLayout>

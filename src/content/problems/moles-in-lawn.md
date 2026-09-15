@@ -72,6 +72,20 @@ Because BugBoss handles [wildlife](/wildlife-removal/) and [pest control](/resid
 
 Prevention is mostly about making the lawn a little less irresistible and catching new activity fast. **Reducing the grub load** with well-timed control trims one food source and helps the turf on its own. **Improving drainage** on chronically soggy, worm-heavy sections can make them less attractive, especially against star-nosed moles in low ground. **Collapsing old runs** by rolling or tamping removes the ready-made highway a new mole would inherit. And the single most useful habit is a **quick weekly walk of the lawn in spring and fall** — the active seasons — so a fresh ridge is spotted and dealt with while it's one new mole, not a summer's worth of damage. Perfection isn't the goal; staying ahead of it is.
 
+## What to do now
+
+1. **Get the diagnosis right before spending anything.** Soil mounds plus raised ridges is a mole; runways with no mounds is a vole; irregular dead patches with loose turf is grubs.
+
+2. **Tread the ridges flat and mark them.** Whichever are pushed up again within a day or two are the active runs, and those are the only ones worth working.
+
+3. **Skip the repellents, the ultrasonic stakes and the chewing gum.** None of them has been shown to move a mole out of a lawn.
+
+4. **Do not treat for grubs as a mole strategy.** Moles eat earthworms too, and a lawn with no grubs still supports them.
+
+5. **Keep dogs and children off the marked runs** while the work is underway.
+
+6. **Roll or tread the surface tunnels flat once it is finished.** The turf normally recovers on its own without reseeding.
+
 ## When to call
 
 Call BugBoss when fresh ridges and mounds are spreading and the store-bought remedies aren't holding — which is usually where people are by the time they've tried the sonic spikes and poison peanuts. Call early in spring or fall, the active windows, when trapping is most productive. And call if you're not certain what you're even fighting: a lawn that's being lifted, eaten, and dug all at once is often moles, voles, grubs, and grub-hunting wildlife stacked together, and untangling that is the fastest way to stop losing your turf.

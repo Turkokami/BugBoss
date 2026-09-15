@@ -6,6 +6,11 @@ order: 30
 answer: "Anyone applying pesticides commercially in Wisconsin has to be certified by DATCP in the categories covering the work, and the business needs to be licensed. You are entitled to ask for the certification number, the categories it covers, and the expiry date before anyone treats your property — and to verify it with DATCP rather than taking their word for it."
 source: "Wis. Stat. ch. 94 and Wis. Admin. Code ch. ATCP 29 (Pesticide Use and Control), administered by the Wisconsin Department of Agriculture, Trade and Consumer Protection (DATCP), Bureau of Agrichemical Management."
 sourceUrl: "https://datcp.wi.gov/Pages/Programs_Services/PesticideApplicators.aspx"
+summary:
+  who: "Anyone applying pesticides commercially in Wisconsin, and — practically — every homeowner or business hiring one."
+  obligation: "Commercial applicators must hold current DATCP certification in the categories they work in, and the business must be licensed. Applications must follow the product label, which is enforceable law rather than guidance."
+  penalty: "DATCP enforcement against the applicator for uncertified or off-label application. For the customer the real exposure is different: an uncertified operator is usually uninsured, so property damage or harm to the household has no backstop."
+  act: "Ask for the certification number and the certificate of insurance before work starts, and verify the number with DATCP rather than taking it on trust."
 reviewed: "August 2026"
 faqs:
   - q: "Does a pest control company need a license in Wisconsin?"

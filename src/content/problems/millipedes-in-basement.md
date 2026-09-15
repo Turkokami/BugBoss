@@ -44,17 +44,17 @@ Millipedes also live several years, which is why populations build gradually in 
 
 ## What to do now
 
-**Sweep or vacuum, do not crush.** The defensive secretion stains light flooring and smells unpleasant. A vacuum is quicker anyway.
+1. **Sweep or vacuum, do not crush.** The defensive secretion stains light flooring and smells unpleasant. A vacuum is quicker anyway.
 
-**Do not spray indoors.** They are dying already. It adds nothing.
+2. **Do not spray indoors.** They are dying already. It adds nothing.
 
-**Check the window wells.** Frequently the single biggest concentration on the property, and almost always overlooked until someone goes and looks in one.
+3. **Check the window wells.** Frequently the single biggest concentration on the property, and almost always overlooked until someone goes and looks in one.
 
-**Look at what is against the foundation.** Thatch, mulch depth, leaf litter, boards and timbers lying on soil, and which side of the house stays damp. That is where the population lives and it is usually within a few feet of where you are sweeping.
+4. **Look at what is against the foundation.** Thatch, mulch depth, leaf litter, boards and timbers lying on soil, and which side of the house stays damp. That is where the population lives and it is usually within a few feet of where you are sweeping.
 
-**Expect it to stop.** It will. The wave ends. Escalating treatment mid-event is money spent on a problem that is already resolving.
+5. **Expect it to stop.** It will. The wave ends. Escalating treatment mid-event is money spent on a problem that is already resolving.
 
-**Put a note in the calendar for late August.** That is the useful action, and it is the one nobody takes.
+6. **Put a note in the calendar for late August.** That is the useful action, and it is the one nobody takes.
 
 ## When to call
 

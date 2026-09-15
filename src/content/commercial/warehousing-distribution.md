@@ -2,7 +2,7 @@
 title: "Warehouse & Distribution Center Pest Control in Wisconsin"
 industry: "Warehousing & Distribution"
 category: "Manufacturing & Industrial"
-answer: "BugBoss The X-Terminator builds documented pest programs for warehouses and distribution centers across Central and Northeast Wisconsin — perimeter rodent lines with mapped devices, loading-dock exclusion, high-bay bird management, and stored-product insect monitoring built to satisfy FSMA, AIB, and customer audits, scheduled around your operation, with no long-term contract."
+answer: "BugBoss The X-Terminator builds documented pest programs for warehouses and distribution centers across Central and Northeast Wisconsin — numbered perimeter rodent lines, loading-dock exclusion, high-bay bird management, and stored-product insect monitoring built around FSMA, AIB, and customer audit expectations, scheduled around your operation, with no long-term contract."
 order: 11
 faqs:
   - q: "What makes a warehouse harder to protect than other buildings?"
@@ -12,7 +12,7 @@ faqs:
   - q: "What are stored-product pests and why do they matter in a warehouse?"
     a: "Stored-product pests are insects that infest packaged and bulk goods — Indianmeal moths, cigarette and warehouse beetles, sawtoothed grain and flour beetles, and similar. In a warehouse they infest food, pet food, birdseed, grain-based product, and even the paper and packaging itself. They often arrive inside incoming goods and then spread to nearby stock. They matter because they turn saleable inventory into a customer complaint or a rejected shipment, and finding them in an outbound load is far worse than catching them on a monitor first."
   - q: "How do you catch stored-product insects before they spread?"
-    a: "Pheromone monitoring traps. We place species-specific pheromone traps through storage areas on a device map and read them every visit; a rising catch on a particular trap tells us both that a population is building and roughly where it is, so we can find and pull the source lot before it spreads. Combined with receiving inspection, disciplined stock rotation, and cleaning residue out of dead corners and under racking, that turns a potential recall into a minor, documented event."
+    a: "Pheromone monitoring traps. We place species-specific pheromone traps through storage areas and read them every visit; a rising catch on a particular trap tells us both that a population is building and roughly where it is, so we can find and pull the source lot before it spreads. Combined with receiving inspection, disciplined stock rotation, and cleaning residue out of dead corners and under racking, that turns a potential recall into a minor, documented event."
   - q: "We have birds living in the rafters and high-bay. What can be done?"
     a: "Pigeons, house sparrows, and starlings get into high-bay space through open dock doors, roof-line and louver gaps, and wall penetrations, then roost in the rafters, racking tops, and light fixtures overhead. Droppings contaminate product and pallets below, create slip and OSHA housekeeping problems, and carry parasites. Control is exclusion first — sealing the entry points, netting or screening off roost areas high up, adding deterrents where birds land — plus the dock discipline that stops them re-entering. It is patient work, and it is a core part of our wildlife exclusion trade."
   - q: "Does FSMA apply to a warehouse, or just to food plants?"
@@ -59,7 +59,7 @@ The commodity a warehouse holds decides its pest risk profile, and the storage s
 
 ### Rodents and the perimeter program
 
-Rodents are the pest a warehouse loses the most audit points on, and the answer is a **mapped perimeter program**. Tamper-resistant, numbered bait or monitoring stations ring the building along the foundation, docks, and dumpster areas, each one placed on a **device map** keyed to your site plan and checked and documented every visit. The exterior line intercepts rodents *before* they reach the building. Inside, non-toxic mechanical monitoring devices sit near dock doors and along interior walls to catch anything that gets through and to generate the trend data an auditor expects. Trapping inside alone is a losing game in a building this size; the perimeter and the exclusion are what actually hold the line.
+Rodents are the pest a warehouse loses the most audit points on, and the answer is a **disciplined perimeter program**. Tamper-resistant, numbered bait or monitoring stations ring the building along the foundation, docks, and dumpster areas, each one placed on a **device map** keyed to your site plan and checked and documented every visit. The exterior line intercepts rodents *before* they reach the building. Inside, non-toxic mechanical monitoring devices sit near dock doors and along interior walls to catch anything that gets through and to generate the trend data an auditor expects. Trapping inside alone is a losing game in a building this size; the perimeter and the exclusion are what actually hold the line.
 
 ### Birds in the high-bay and rafters
 
@@ -127,8 +127,8 @@ This is where the pressure is felt day to day. **AIB International's** consolida
 
 BugBoss builds every distribution-center program on the same backbone, scaled to the building:
 
-- **A mapped perimeter rodent line** — numbered, tamper-resistant stations on a device map, checked and documented every visit, with a running trend record.
-- **Interior mechanical monitoring** — non-toxic devices near dock doors and along walls, mapped and logged.
+- **A perimeter rodent line** — numbered, tamper-resistant stations placed deliberately along the foundation, docks and dumpster areas, checked and recorded every visit.
+- **Interior mechanical monitoring** — non-toxic devices near dock doors and along walls, numbered and read at each visit.
 - **Pheromone stored-product monitoring** — species-specific traps through storage areas, read every visit to catch and locate insect activity early.
 - **Dock and door exclusion** — seals, levelers, door bottoms and sweeps, and penetrations addressed at the docks, the highest-value work in the building, plus dock-discipline guidance.
 - **High-bay bird management** — entry-point sealing, netting or screening of roosts, and deterrents, handled as an exclusion project.
@@ -152,14 +152,14 @@ Warehouse audits — AIB, SQF, and customer QA alike — tend to write up the sa
 - **Bird activity or droppings in the high-bay** — a contamination and housekeeping finding. Prevented by roost exclusion up top.
 - **Stored-product insects in stock** — the finding nobody wants, because it can mean product disposition. Prevented by pheromone monitoring, receiving inspection, and stock rotation catching it before it spreads.
 - **Spillage and residue under and behind racking** — harborage that breeds insects and feeds rodents. Prevented by housekeeping feedback tied to the pest program.
-- **Devices unmapped or unlogged, and corrective actions left open** — paperwork failures that sink an otherwise clean facility. Prevented by mapped devices, a logged visit every time, and tracking each finding to closure.
+- **Devices unmapped or unlogged, and corrective actions left open** — paperwork failures that sink an otherwise clean facility. This is the category to talk to us about first, because it is the one where the deliverable depends on which scheme you answer to.
 
 Auditors are grading whether you run a controlled, documented, continuous system — not the bug count on the day. That is exactly what the program is built to prove.
 
 ## The BugBoss process for a warehouse
 
 1. **Survey the whole building** — perimeter, docks, high-bay, racking, receiving, and staging — with your operations and QA leads, and identify the audits you answer to.
-2. **Map and baseline** the perimeter line, interior monitors, and pheromone traps on your floor plan.
+2. **Place and baseline** the perimeter line, interior monitors, and pheromone traps, and record a starting point so later visits show a direction of travel.
 3. **Exclude at the docks and roof line** — the seals, doors, and penetrations that actually cut pressure.
 4. **Monitor and inspect** incoming freight and stored product, reading traps every visit to catch problems early.
 5. **Document and close the loop** on every finding — a work order each visit, and whatever record-keeping your audit scheme requires on top, agreed in writing before the program starts.

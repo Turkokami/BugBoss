@@ -40,17 +40,17 @@ Winter is the peak. Natural prey is harder to find, weasels range further, they 
 
 ## What to do now
 
-**Do not restock yet.** The single most important thing on this page. The animal treats the coop as a cache site and will return, and the gap is still there.
+1. **Do not restock yet.** The single most important thing on this page. The animal treats the coop as a cache site and will return, and the gap is still there.
 
-**Do the torch test tonight.** Inside the coop, lights off, look for anywhere light shows through from outside. That is your complete repair list and it takes twenty minutes.
+2. **Do the torch test tonight.** Inside the coop, lights off, look for anywhere light shows through from outside. That is your complete repair list and it takes twenty minutes.
 
-**Look at what the entry tells you.** A very small opening with several birds killed and left confirms weasel or mink rather than raccoon or fox, which matters because the responses differ.
+3. **Look at what the entry tells you.** A very small opening with several birds killed and left confirms weasel or mink rather than raccoon or fox, which matters because the responses differ.
 
-**Check the outbuildings.** The animal is probably denning in one — hay stacks, stacked lumber, rock piles, and the voids in barns and machine sheds are all favored.
+4. **Check the outbuildings.** The animal is probably denning in one — hay stacks, stacked lumber, rock piles, and the voids in barns and machine sheds are all favored.
 
-**Think about the rodents.** If your mouse problem quietly stopped a few weeks ago, that was probably the same animal, and the rodents are why it is on your property.
+5. **Think about the rodents.** If your mouse problem quietly stopped a few weeks ago, that was probably the same animal, and the rodents are why it is on your property.
 
-**Do not reach into any space where a cornered animal might be.**
+6. **Do not reach into any space where a cornered animal might be.**
 
 ## When to call
 

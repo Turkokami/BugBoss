@@ -254,7 +254,15 @@ for (const file of walk('src/content', '.md')) {
   const body = readFileSync(file, 'utf8').split(/^---$/m).slice(2).join('---');
   for (const para of body.split(/\n\s*\n/)) {
     const p = para.trim();
-    if (p.length < 140 || /^[#\-*|>]/.test(p)) continue;
+    // Skip headings, blockquotes, tables and list items -- but NOT a
+    // bold-led paragraph. The original `^[#\-*|>]` skipped anything starting
+    // with `*`, which on this site is most of the prose, so the rule was
+    // blind to exactly the paragraphs most likely to be copy-pasted.
+    if (p.length < 140) continue;
+    if (/^(#|>|\||\d+\.\s|[-*+]\s)/.test(p)) continue;
+    // A whole-paragraph italic is the source/reviewer footer convention here
+    // (*Source: ... Reviewed by ...*). Those are meant to be identical.
+    if (/^\*[^*]/.test(p)) continue;
     const key = p.replace(/\s+/g, ' ');
     if (seenPara.has(key)) fail(file, 'duplicate-paragraph', `also in ${seenPara.get(key)}`);
     else seenPara.set(key, file);
@@ -346,6 +354,37 @@ for (const path of existingPaths) {
   if (!inboundLinks.get(path)) fail(path, 'orphaned-page', 'no inbound internal links');
   else if (!reachable.has(path)) {
     fail(path, 'unreachable-from-home', 'linked, but not reachable by following links from /');
+  }
+}
+
+// Keystone v3.2 §4.3 — the snippet-shape contract. Each page type declares one
+// shape, and the shape has to be real markup rather than a visual imitation of
+// it: a <table> with header cells, an <ol>, a <ul>. A bold-led paragraph that
+// reads like a numbered step is not a numbered step, and it was what most of
+// these pages had before.
+//
+// Declared deviation: T2 (service spoke) wants a price table. BugBoss does not
+// publish prices -- every job is quoted after looking at the property, and
+// business.publishPricing is false -- so T2 carries no table by decision. If
+// that ever changes, add the rule here rather than leaving it undeclared.
+const SHAPES = [
+  { prefix: '/pest-library/', shape: ['<table', '<ul'], label: 'T6 pest profile' },
+  { prefix: '/pest-problems/', shape: ['<ol'], label: 'T3 problem page' },
+  { prefix: '/case-studies/', shape: ['<table'], label: 'T9 case study' },
+  { prefix: '/commercial-pest-control/', shape: ['<table'], label: 'T7 industry vertical' },
+  { prefix: '/compliance/', shape: ['<table'], label: 'T8 compliance' },
+];
+for (const file of files) {
+  const page = '/' + relative(DIST, file).replace(/index\.html$/, '');
+  const rule = SHAPES.find((r) => page.startsWith(r.prefix) && page !== r.prefix);
+  if (!rule) continue;
+  const html = readFileSync(file, 'utf8');
+  for (const el of rule.shape) {
+    if (!html.includes(el)) fail(page, 'snippet-shape-missing', `${rule.label} wants ${el}>`);
+  }
+  // A table without header cells is a layout grid, not a data table.
+  if (rule.shape.includes('<table') && !/<th[ >]/.test(html)) {
+    fail(page, 'snippet-shape-missing', `${rule.label} has a table with no <th>`);
   }
 }
 

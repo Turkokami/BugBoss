@@ -3,8 +3,10 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import Faq from '@/components/Faq.astro';
+import FactTable from '@/components/FactTable.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
+import { getAuditRows } from '@/data/commercial-audit';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
 export async function getStaticPaths() {
@@ -16,6 +18,10 @@ const { Content } = await render(c);
 const url = `${business.url}/commercial-pest-control/${c.slug}/`;
 // Sibling industries for cross-linking
 const all = (await getCollection('commercial')).sort((a, b) => a.data.order - b.data.order);
+// Keystone v3.2 §4.3 — T7 declares its snippet shape as TABLE. This one
+// describes what a third party checks at the reader's facility; it is not a
+// list of deliverables, and it should not be edited into one.
+const auditRows = getAuditRows(c.slug).map((r) => ({ label: r.area, value: r.checks }));
 const siblings = all.filter((x) => x.slug !== c.slug && x.data.category === c.data.category).slice(0, 4);
 const pageNodes = [
   {
@@ -43,6 +49,13 @@ const pageNodes = [
       <h1>{c.data.title}</h1>
       <AnswerBox text={c.data.answer} />
       <article class="prose"><Content /></article>
+
+      <FactTable
+        heading={`What an inspector or auditor actually looks at in ${c.data.industry.toLowerCase()}`}
+        caption={`Areas an inspector or auditor examines in a ${c.data.industry.toLowerCase()} facility, and what they are checking for in each`}
+        columns={['Where they look', "What they're checking"]}
+        rows={auditRows}
+      />
 
       {siblings.length > 0 && (
         <>

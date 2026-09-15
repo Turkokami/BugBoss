@@ -4,6 +4,7 @@ pest: wasps-hornets
 pestLabel: "Yellowjackets"
 town: "Shawano, WI"
 propertyType: "House with a nest built inside the attic space"
+method: "Colony dealt with as a whole inside the void rather than sprayed at the entrance, the nest mass physically removed, and the entry sealed."
 outcome: "Nest eliminated and removed"
 order: 30
 answer: "A yellowjacket colony had built a nest inside an attic measuring roughly eight feet wide by three feet tall — far beyond anything a homeowner should approach. BugBoss eliminated and removed it. A nest reaches that size because it has been building undisturbed for a full season inside a void nobody opens."

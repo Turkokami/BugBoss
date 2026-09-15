@@ -1,0 +1,82 @@
+---
+// Keystone v3.2 §4.3 — the snippet-shape contract.
+//
+// A two-column fact table with row headers. Several page templates declare
+// `table` as their snippet shape; this is the markup they all use, so the
+// shape is identical everywhere and there is one place to fix it.
+//
+// Why two columns with <th scope="row"> rather than the four-column layout
+// the spec sketches: a four-column table with one data row is unreadable on a
+// phone, and the spec's own hard rule forbids hiding columns to cope. A
+// vertical table carries the same label/value pairs, is the standard
+// accessible pattern, and extracts the same way.
+interface Row { label: string; value: string }
+interface Props {
+  caption: string;
+  /** Column headers. With them the table gains a <thead>; without, it is a
+   *  plain label/value table whose row headers carry the meaning. */
+  columns?: [string, string];
+  rows: (Row | null | undefined | false)[];
+  /** Rendered above the table as the section heading. Omit for no heading. */
+  heading?: string;
+  /** Heading level, so the table slots into the page outline correctly. */
+  level?: 2 | 3;
+}
+const { caption, rows, heading, level = 2, columns } = Astro.props as Props;
+const clean = rows.filter((r): r is Row => Boolean(r && r.value));
+const Heading = `h${level}` as 'h2' | 'h3';
+---
+{clean.length > 0 && (
+  <div class="fact-table">
+    {heading && <Heading>{heading}</Heading>}
+    <div class="fact-scroll">
+      <table>
+        <caption class="sr-only">{caption}</caption>
+        {columns && (
+          <thead>
+            <tr><th scope="col">{columns[0]}</th><th scope="col">{columns[1]}</th></tr>
+          </thead>
+        )}
+        <tbody>
+          {clean.map((r) => (
+            <tr>
+              <th scope="row">{r.label}</th>
+              <td set:html={r.value} />
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </div>
+)}
+<style>
+  .fact-table { margin: 1.8rem 0; }
+  .fact-table :global(h2), .fact-table :global(h3) { margin-bottom: .6rem; }
+  /* Never display:none a column — overflow-scroll instead (§4.3 hard rule). */
+  .fact-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .fact-table table {
+    width: 100%; border-collapse: collapse; font-size: .97rem;
+    border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden;
+  }
+  .fact-table th, .fact-table td {
+    text-align: left; padding: .7rem .85rem; vertical-align: top;
+    border-bottom: 1px solid var(--line); line-height: 1.55;
+  }
+  .fact-table tr:last-child th, .fact-table tr:last-child td { border-bottom: 0; }
+  .fact-table th {
+    background: var(--green-050); color: var(--green-800); font-weight: 700;
+    white-space: nowrap; width: 1%;
+  }
+  .fact-table thead th {
+    white-space: normal; width: auto; font-size: .82rem;
+    text-transform: uppercase; letter-spacing: .05em;
+    border-bottom: 2px solid var(--line);
+  }
+  .fact-table thead th:first-child { width: 30%; }
+  .fact-table td :global(a) { color: var(--green-700); }
+  @media (max-width: 34rem) {
+    .fact-table th { white-space: normal; width: 34%; }
+    .fact-table thead th:first-child { width: 34%; }
+    .fact-table th, .fact-table td { padding: .6rem .65rem; font-size: .93rem; }
+  }
+</style>

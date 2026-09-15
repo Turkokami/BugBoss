@@ -7,6 +7,7 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
 import AnswerBox from '@/components/AnswerBox.astro';
 import ExpertBlock from '@/components/ExpertBlock.astro';
 import Faq from '@/components/Faq.astro';
+import FactTable from '@/components/FactTable.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
 import { getPest } from '@/data/pests';
@@ -54,14 +55,21 @@ const pageNodes = [
       <h1>{c.data.title}</h1>
       <AnswerBox text={c.data.answer} />
 
-      <dl class="facts">
-        <div><dt>Pest</dt><dd>{c.data.pestLabel}</dd></div>
-        <div><dt>Property</dt><dd>{c.data.propertyType}</dd></div>
-        {c.data.town && (
-          <div><dt>Location</dt><dd>{townPath ? <a href={townPath}>{c.data.town}</a> : c.data.town}</dd></div>
-        )}
-        <div><dt>Outcome</dt><dd>{c.data.outcome}</dd></div>
-      </dl>
+      <FactTable
+        caption={`Property, pest, location, method and outcome for this job`}
+        rows={[
+          { label: 'Property', value: c.data.propertyType },
+          { label: 'Pest', value: c.data.pestLabel },
+          c.data.town && {
+            label: 'Location',
+            value: townPath
+              ? `<a href="${townPath}">${c.data.town}</a>`
+              : c.data.town,
+          },
+          { label: 'Method', value: c.data.method },
+          { label: 'Outcome', value: c.data.outcome },
+        ]}
+      />
 
       {note && <ExpertBlock note={note} />}
       <article class="prose"><Content /></article>
@@ -81,12 +89,6 @@ const pageNodes = [
   <Cta title={`Dealing with something similar?`} />
   <style>
     .eyebrow a { color: var(--green-600); text-decoration: none; }
-    .facts { display: grid; gap: 0; margin: 1.6rem 0 0; border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; }
-    .facts > div { display: grid; grid-template-columns: 8rem 1fr; gap: 1rem; padding: .75rem 1.1rem; border-bottom: 1px solid var(--line); }
-    .facts > div:last-child { border-bottom: 0; }
-    .facts dt { font-weight: 800; font-size: .85rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
-    .facts dd { margin: 0; }
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.2rem 1.4rem; margin: 2rem 0 0; }
-    @media (max-width: 520px) { .facts > div { grid-template-columns: 1fr; gap: .1rem; } }
   </style>
 </BaseLayout>

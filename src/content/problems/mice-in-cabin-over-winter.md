@@ -76,7 +76,19 @@ No contracts, no cancellation fees, and you're dealing with Brian directly, not 
 
 ## What to do the day you arrive
 
-If you're pulling up to a cabin you haven't seen since fall, a little discipline at the door saves you grief. Before you carry anything in or start cleaning, prop the doors and windows open and let the place air out — thirty minutes at least — and step back outside while it does. That single habit addresses the biggest risk, the airborne dust from deer mouse droppings, before you've stirred anything up. Only then go in, assess where the activity was, and clean the way described above: wet everything down, wipe rather than sweep, gloves and a respirator on. Check the obvious targets — silverware and towel drawers, the pantry, under the sinks, mattresses and cushions, the backs of closets — because that's where the nests and contamination concentrate. If what you find is heavy, that's the signal to stop and call rather than push through it yourself.
+If you're pulling up to a cabin you haven't seen since fall, a little discipline at the door saves you a great deal of grief. The order matters more than the effort.
+
+1. **Before you carry anything in, prop the doors and windows open and step back outside.** Thirty minutes at minimum, and do not start cleaning while it airs — that single habit addresses the biggest risk, airborne dust from deer mouse droppings, before anything has been stirred up.
+
+2. **Put on rubber gloves and an N95 or better respirator** before you go back in.
+
+3. **Assess where the activity actually was** rather than starting where you happen to be standing: silverware and towel drawers, the pantry, under the sinks, mattresses and cushions, the backs of closets. That is where the nests and the contamination concentrate.
+
+4. **Wet everything down with disinfectant and let it stand** before you touch it. Wipe rather than sweep, and never vacuum dry.
+
+5. **Bag and seal what you remove,** and wash your gloved hands before taking the gloves off.
+
+6. **If what you find is heavy, enclosed, or older than you can date, stop and call** rather than pushing through it yourself.
 
 ## When to call
 

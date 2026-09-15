@@ -72,6 +72,20 @@ Then, and only then, comes the part that matters most for keeping the problem fr
 
 The highest-leverage prevention is timing plus sealing. In **late spring**, before workers arrive, walk the eaves, soffits, porch ceilings, and outbuilding rooflines and knock down the tiny starter nests a founding queen builds alone — that's the easiest moment in the whole season to stop a colony, when it's one queen and a handful of cells. Then close the openings: seal soffit, fascia, and siding gaps, replace loose or damaged soffit panels, and screen any roofline vents. The same sealing work that keeps wasps out of the soffit also blocks the [cluster flies](/pest-library/cluster-flies/), [Asian lady beetles](/pest-library/asian-lady-beetles/), and [mice](/pest-library/mice/) that use those same roofline gaps in fall, so it pays off well beyond wasps.
 
+## What to do now
+
+1. **Watch the traffic for a minute from a safe distance and find the exact entry.** There is usually one, and it is usually smaller than you expect.
+
+2. **Do not spray into the hole and then seal it.** The colony drives deeper and frequently opens a new exit into the room below.
+
+3. **Do not seal it at all, even after the traffic stops.** A sealed nest pushes inward.
+
+4. **Keep ladders, pressure washers and window cleaning off that elevation** until it has been dealt with.
+
+5. **Note how close it is to a door, an opening window, or a bedroom.** That is what decides how urgent it is.
+
+6. **Have the void treated rather than the entrance,** and close the entry only once the colony is confirmed dead.
+
 ## When to call
 
 Call for any yellowjacket or hornet nest in a soffit or eave, any nest you can't see the size of, any nest near a door, deck, upstairs window, or other spot where people pass, and any nest on a second story or outbuilding that would put you on a ladder. Call right away if anyone in the household has a stinging-insect allergy — a hidden colony by a doorway is exactly the kind of repeated-exposure risk not worth gambling on. And whatever you do, don't seal the hole first. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/) — [no contracts](/no-contracts/), and you deal with the owner, not a call center. We cover [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns.

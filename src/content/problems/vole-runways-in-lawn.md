@@ -44,17 +44,17 @@ Out here the pressure is high because so many properties border fields, pasture,
 
 ## What to do now
 
-**Check the base of every young tree and shrub.** Gnawed bark with fine tooth grooves at or just above ground level is vole work. If the bark is stripped all the way around, that plant is finished — knowing now is better than wondering in July.
+1. **Check the base of every young tree and shrub.** Gnawed bark with fine tooth grooves at or just above ground level is vole work. If the bark is stripped all the way around, that plant is finished — knowing now is better than wondering in July.
 
-**Look for mounds before blaming moles.** No soil pushed up means it is not a mole, and treating for moles will do nothing.
+2. **Look for mounds before blaming moles.** No soil pushed up means it is not a mole, and treating for moles will do nothing.
 
-**Rake the loose debris out** and leave the lawn alone otherwise. Give it until the grass is growing properly before deciding whether any repair is needed. Overseed the worst patches then, not now.
+3. **Rake the loose debris out** and leave the lawn alone otherwise. Give it until the grass is growing properly before deciding whether any repair is needed. Overseed the worst patches then, not now.
 
-**Pull mulch and ground cover back** from tree trunks to leave a bare collar. Voles will not work where they can be seen.
+4. **Pull mulch and ground cover back** from tree trunks to leave a bare collar. Voles will not work where they can be seen.
 
-**Note where the runways come from.** They usually lead back to a field edge, a brush pile, or a thick bed. That is the source, and it is where the habitat work goes.
+5. **Note where the runways come from.** They usually lead back to a field edge, a brush pile, or a thick bed. That is the source, and it is where the habitat work goes.
 
-**Plan for autumn now.** Hardware cloth on the trunks before the first snow is the entire solution to the expensive half of this problem.
+6. **Plan for autumn now.** Hardware cloth on the trunks before the first snow is the entire solution to the expensive half of this problem.
 
 ## When to call
 

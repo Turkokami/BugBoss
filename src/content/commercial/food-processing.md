@@ -109,19 +109,21 @@ Even a climate-controlled plant feels the Wisconsin seasons. **Spring and summer
 
 ## What a documented BugBoss plant program includes
 
-A processing plant needs more than treatment — it needs a **documented, mapped, trended, corrective-action-driven IPM program** that a federal inspector or a third-party auditor can walk through and sign off on. Here's what ours delivers.
+A processing plant needs more than treatment — it needs a **documented, mapped, trended, corrective-action-driven IPM program** that a federal inspector or a third-party auditor can walk through and sign off on. That is a shared piece of work: some of it is ours, some of it is your QA team's, and which is which depends on the scheme you answer to. Here is what the program looks like, and where the line normally falls.
 
 ### IPM built for a food plant
 
 The program leads with **inspection, monitoring, sanitation, and exclusion**, with targeted treatment used precisely and documented. In a plant that isn't just best practice — it's what the rules and the auditors expect. Broadcast application over lines, ingredients, or allergen zones is what IPM is designed to eliminate; placement in production areas is crack-and-crevice, monitoring, light traps, and exclusion, coordinated around production and sanitation cycles and kept away from product-contact surfaces.
 
-### Device maps and a device inventory
+### The device network, and who documents it
 
-Every monitoring device — exterior rodent stations, interior traps, insect light traps, and pheromone monitors — is **numbered, placed deliberately, and mapped**, with a maintained inventory. The **device map** is a core audit document: it shows the auditor the whole monitoring network at a glance and makes service consistent from visit to visit and tech to tech. When an auditor asks to see your device map and inventory, it exists, it's current, and it matches what's actually on the walls.
+Every monitoring device — exterior rodent stations, interior traps, insect light traps, and pheromone monitors — is **numbered and placed deliberately**, and read at every visit. Placement is not arbitrary: it follows the doors, the runways, the harborage and the product zones in your specific building.
+
+A **device map and inventory** keyed to your floor plan is a core audit document, and it is one of the things an SQF, BRCGS or AIB auditor will ask to see. It is also the single most common gap when a plant changes pest vendors. Tell us at the outset whether your scheme requires one and who is expected to hold it, and we will agree that in writing before the program starts — rather than both parties assuming the other has it.
 
 ### Pheromone monitoring and trend analysis
 
-For stored-product pests we deploy **pheromone monitors** baited with species-specific attractants to detect moths and beetles before they're visible in product. But monitoring is only half of it — the value is in **trend analysis**. We count devices each visit, track the numbers over time, and read them for patterns: a rising count in one zone, a seasonal spike, a recurring hot spot near a specific door or line. That trending turns the device network into an early-warning system and directs sanitation and treatment to where the pressure actually is. It's also precisely the evidence SQF, BRCGS, and AIB auditors want: proof the program is being **managed and analyzed**, not just serviced.
+For stored-product pests we deploy **pheromone monitors** baited with species-specific attractants to detect moths and beetles before they're visible in product. But monitoring is only half of it — the value is in **trend analysis**. We count devices each visit, track the numbers over time, and read them for patterns: a rising count in one zone, a seasonal spike, a recurring hot spot near a specific door or line. That trending turns the device network into an early-warning system and directs sanitation and treatment to where the pressure actually is. Reading the numbers rather than just collecting them is what separates a managed program from a serviced one. Where your scheme requires that reading kept as a formal trend record, say so up front so we can agree who maintains it.
 
 ### Sanitation and exclusion as the backbone
 

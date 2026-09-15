@@ -125,12 +125,9 @@ Getting the exterior right is what makes the interior program hold. Seal the doc
 
 BugBoss builds retail programs on **Integrated Pest Management (IPM)** — inspection, monitoring, sanitation, and exclusion first, with targeted treatment only where it's warranted — which is both the most effective approach in an occupied store and the standard an inspector wants to see. Our broader [commercial pest control](/commercial-pest-control/) framework carries across every industry we serve; for retail it's tuned to the back-of-house realities above.
 
-Every retail account gets documentation designed to pass inspection:
+**Every visit produces a work order** — what was inspected, what was found, what was treated and when, plus the sanitation and exclusion issues that need your maintenance attention. Kept current, that is the record a health inspector normally asks to see.
 
-- **Dated service records** for each visit, kept on-site, detailing what was inspected, found, and done.
-- **A device map** for every rodent station, insect monitor, pheromone trap, and fly light, so coverage is verifiable at a glance.
-- **A pest sighting and trend log** — the running record that turns one droppings find into a tracked pattern you act on before it becomes shrink or a violation.
-- **Corrective-action notes** linking each finding to its fix and to any facility issue — an open dock gap, a failed door sweep, a dirty drain — that maintenance needs to close.
+**If your store answers to a banner or supplier audit**, expect it to want more than the work order: a written scope, a device map against your floor plan, a trend record, corrective-action notes with follow-through, and product labels and safety data sheets. Say which of those yours actually asks for before the program starts, and we will put in writing who keeps each one. That is a five-minute conversation now and a failed audit section later.
 
 **Discreet scheduling** is standard. We service around your hours — early mornings, after close, low-traffic windows — and can work receiving and the back room without ever crossing the sales floor in front of customers. Nobody shopping your store needs to know pest service is happening.
 

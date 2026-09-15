@@ -118,6 +118,15 @@ const compliance = defineCollection({
     order: z.number().default(100),
     source: z.string(),         // authority the rule comes from
     sourceUrl: z.string().optional(),
+    // Keystone v3.2 §4.3 — T8 declares its snippet shape as TABLE: who the rule
+    // binds, what it obliges, what non-compliance costs, and the one thing to
+    // do about it. The page body then argues each row out at length.
+    summary: z.object({
+      who: z.string(),
+      obligation: z.string(),
+      penalty: z.string(),
+      act: z.string(),
+    }),
     reviewed: z.string(),       // display date of last review
     faqs: faq.default([]),
   }),
@@ -157,6 +166,10 @@ const caseStudies = defineCollection({
     pestLabel: z.string(),
     propertyType: z.string(),
     town: z.string().optional(),
+    // Keystone v3.2 §4.3 — T9 declares its snippet shape as TABLE, and the
+    // spec's columns are property / pest / method / outcome. Required, not
+    // optional: a case study without a method line is an assertion, not a case.
+    method: z.string(),
     outcome: z.string(),       // one-line result, shown on the card
     answer: z.string(),
     order: z.number().default(100),

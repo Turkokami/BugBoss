@@ -46,17 +46,17 @@ Chipmunks are territorial, so a burrow usually holds one adult — but a good si
 
 ## What to do now
 
-**Count the entrance holes** rather than the animals. Clean, round, roughly two inches, no soil mound. That gives you a far better sense of scale, and it maps the network.
+1. **Count the entrance holes** rather than the animals. Clean, round, roughly two inches, no soil mound. That gives you a far better sense of scale, and it maps the network.
 
-**Look for movement in the structure.** Settling at a patio edge, a paver that has started to tilt, a crack in a stoop, a bulge or lean in a retaining wall. That tells you whether this is early or late.
+2. **Look for movement in the structure.** Settling at a patio edge, a paver that has started to tilt, a crack in a stoop, a bulge or lean in a retaining wall. That tells you whether this is early or late.
 
-**Deal with the bird feeder.** Move it well away from the structure, fit a catch tray, or take it down for a season. This is the single highest-value change on most properties and people are always reluctant to make it.
+3. **Deal with the bird feeder.** Move it well away from the structure, fit a catch tray, or take it down for a season. This is the single highest-value change on most properties and people are always reluctant to make it.
 
-**Clear the cover** — woodpiles away from the wall, dense plantings thinned back from the structure.
+4. **Clear the cover** — woodpiles away from the wall, dense plantings thinned back from the structure.
 
-**Do not flood the burrows.** You would be putting water into the exact backfill you are trying to keep stable, and washing out fines makes settling worse.
+5. **Do not flood the burrows.** You would be putting water into the exact backfill you are trying to keep stable, and washing out fines makes settling worse.
 
-**Do not wait for it to resolve.** It does not. The animals go dormant in winter and come back in spring, and the tunnel network persists either way.
+6. **Do not wait for it to resolve.** It does not. The animals go dormant in winter and come back in spring, and the tunnel network persists either way.
 
 ## When to call
 

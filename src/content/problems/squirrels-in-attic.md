@@ -75,6 +75,20 @@ Then we deal with what they left behind. **Chewed wiring gets flagged** for insp
 
 Sealing in steel is most of prevention, but a few things keep the roofline from becoming an invitation again. **Trim back branches** that overhang or reach within jumping distance of the roof — six to eight feet is the rule of thumb — so squirrels can't launch onto the eaves. **Screen gable, ridge, and soffit vents** with metal mesh. **Cap the chimney**, which does double duty against squirrels and raccoons. And walk the roofline once a year, especially on older homes, because settlement and weather constantly open new gaps at the eaves and fascia; closing a small gap before an animal finds it is far cheaper than another exclusion. For cabin owners, folding this into a [seasonal closing routine](/guides/cabin-seasonal-pest-control/) catches problems before a winter of unattended chewing.
 
+## What to do now
+
+1. **Note the time of day the noise happens.** Scratching and a rolling sound at dawn and dusk with silence overnight is squirrels; heavy movement after dark is a raccoon.
+
+2. **Do not seal the hole yet.** In spring and again in late summer there is likely a litter, and sealing the adult out leaves the young to die in the ceiling.
+
+3. **Do not put poison in the attic.** It kills the animal inside a void you then have to open up to find it.
+
+4. **Look at the roofline from the ground for the entry** — torn soffit, a lifted shingle edge at the gable, a gap where the roof meets a dormer or an addition.
+
+5. **Cut back any limb within about ten feet of the roof,** and look at where a power line or a fence rail lands on the building.
+
+6. **Plan for one-way exclusion plus repair rather than trapping.** Trapping empties the attic; only the sealing keeps it empty.
+
 ## When to call
 
 Call BugBoss the moment you're hearing daytime activity overhead — the earlier a female is intercepted, the better the odds of resolving it before a litter complicates the timeline. Call right away if you smell a dead-animal odor from the attic or ceiling, if you see chewed wiring, or if the racket suddenly stops after you've tried to seal a hole yourself (that can mean an animal is trapped, or a litter has been abandoned). And call if you're a seasonal owner opening a cabin to signs of a nest — those long-running infestations do the most damage and need the fullest cleanup.

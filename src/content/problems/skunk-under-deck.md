@@ -70,6 +70,20 @@ Because BugBoss does both pest and [wildlife work](/wildlife-removal/), anything
 
 The buried barrier is the backbone of prevention, but a few habits keep your yard from advertising itself. **Close the gaps** under decks, porches, sheds, and steps with buried hardware cloth before an animal claims them. **Cut off the food** where you can: a lawn with a heavy grub load is a skunk magnet, so grub management reduces both the foraging divots and the draw. **Secure the buffet** — bring in pet food at night, secure garbage and compost, and pick up fallen fruit under trees. And **don't leave inviting cover**: woodpiles, brush, and junk against a foundation give a skunk a staging spot. Walk the perimeter of decks and outbuildings each spring, since a fresh dig at the base in March is the earliest warning that a female is prospecting for a maternal den.
 
+## What to do now
+
+1. **Establish whether the den is active** before anything else: crumple newspaper loosely into the opening and check it for two dry nights. Undisturbed means empty.
+
+2. **Do not seal it in spring or early summer without checking.** Kits are born in May, and sealing the female out leaves them under your deck.
+
+3. **Turn off the motion light at the den entrance and stop feeding pets outdoors.** Both are prolonging the problem.
+
+4. **Give the dog a different route to the yard,** and keep a de-skunking mix on hand — hydrogen peroxide, baking soda and dish soap, not tomato juice.
+
+5. **Look at the lawn.** Cone-shaped divots mean grubs, and the grubs are why the skunk is at your deck rather than the neighbor's.
+
+6. **Plan the permanent fix as a dig-proof barrier** — hardware cloth buried and turned outward in an L. The void is what keeps attracting them, not this particular animal.
+
 ## When to call
 
 Call BugBoss as soon as you've confirmed a skunk is denning — the earlier in late winter you act, the more likely it's before kits arrive and the simpler the eviction. Call promptly if you smell a persistent musk under the deck or in the crawlspace, if a dog has been sprayed and keeps finding the source, or if you're a cabin owner opening up to signs of a den. And treat a skunk that's out in daylight, staggering, or unafraid as a possible **rabies** concern — keep people and pets back and report it rather than approaching.

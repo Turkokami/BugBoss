@@ -76,6 +76,20 @@ Development pressure nudges them toward chimneys, too. As natural den trees get 
 
 We handle the whole sequence: confirm what's down there, remove the mother and kits humanely as a unit, clean and disinfect the den area, address any damper or flue damage, and cap the chimney so it doesn't recur. Because we do [wildlife removal](/wildlife-removal/) and the exclusion repairs both, it's one company from the raccoon to the cap — not a trapper who leaves and a chimney company you have to chase down separately. It's [no contracts](/no-contracts/), owner-direct with Brian, and a chimney raccoon is a defined job with a clear end, not a recurring plan.
 
+## What to do now
+
+1. **Do not light a fire.** It is the most common instinct and it is the worst available outcome, particularly in spring when there are almost certainly kits on the smoke shelf.
+
+2. **Do not open the damper.** A raccoon that drops into the firebox is then loose in the house.
+
+3. **Assume young from March through June.** A female chose the chimney because it is a hollow tree, and removing her alone leaves non-mobile kits to die in the flue.
+
+4. **Listen from the fireplace for chittering or crying rather than heavy movement.** That is the sound of kits, and it usually comes from one fixed spot.
+
+5. **Keep the damper closed, the room shut off, and pets out of it** until the work is done.
+
+6. **Have the removal and the cap quoted together.** The cap is the actual fix; without it the next raccoon uses the same chimney next spring.
+
 ## When to call
 
 Call as soon as you hear heavy activity in the chimney, especially in spring — and call **before** you light anything or try to flush them out. If you're hearing the crying of kits, that's your confirmation there's a litter, and it's a job to handle carefully and soon. If you have raccoons elsewhere on the house — in the attic, under a deck — we handle those too. BugBoss serves [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Waupaca](/service-area/waupaca/), [Shawano](/service-area/shawano/) and the surrounding area. [Get in touch](/contact/) and we'll get them out and cap it right.

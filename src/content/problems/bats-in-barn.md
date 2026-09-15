@@ -72,6 +72,20 @@ The other half of prevention is deciding, ahead of time, where you'd rather the 
 
 We handle barn bat work end to end — the assessment and the exclude-or-relocate decision, the legally-timed one-way exclusion, the patient wait, the sealing, and the guano cleanup and any bat-house setup. Because [wildlife exclusion](/wildlife-removal/) is our core trade and we know farm buildings, you get one crew for the whole project rather than a bat guy and a separate cleanup outfit. On a working dairy or livestock operation it fits into the broader rodent-and-wildlife picture in our [dairy farm pest control guide](/guides/dairy-farm-pest-control/). It's [no contracts](/no-contracts/), owner-direct with Brian.
 
+## What to do now
+
+1. **Decide the goal before the method.** A barn colony eats an enormous number of insects, and the usual complaint is where the guano lands rather than the bats themselves.
+
+2. **If the guano is the problem, look first at catching or redirecting it** — sheeting, a collection tray, or simply moving what is stored underneath.
+
+3. **If exclusion is the goal, the same maternity-season calendar applies.** The law does not make an exception for agricultural buildings.
+
+4. **Stop dry-sweeping the accumulation.** Wet it down and wipe it up, in gloves and a respirator.
+
+5. **Note every emergence point at dusk.** Barns usually have several, and a partial exclusion on a barn achieves nothing at all.
+
+6. **Plan the sealing for late summer or early fall, after the young fly,** and budget it as carpentry rather than as pest control.
+
 ## When to call
 
 Call when guano is landing where it shouldn't — over feed, in stalls, in work or living space — or building up to where you're worried about the dust, and call early enough that we can time the exclusion to the legal window rather than waiting out the summer. If you just want to know whether the colony in your loft is worth leaving, that's a fair question and we'll give you a straight answer. BugBoss serves the farm country around [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Shawano](/service-area/shawano/), and [Waupaca](/service-area/waupaca/). [Reach out](/contact/) and we'll come assess the barn.

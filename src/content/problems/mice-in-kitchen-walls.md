@@ -78,6 +78,20 @@ Then we knock down the active population with a proper trapping setup placed on 
 
 Once it's sealed, a few habits keep it that way. Wipe up crumbs and grease, store dry goods and pet food in sealed containers rather than boxes and bags, and don't leave pet food out overnight. Keep an eye on the usual re-openers — a chewed or worn garage door sweep, a dryer vent flap that stopped closing — and re-check them each fall before the cold-weather push. Clutter against exterior walls gives cover right at the entry line, so keep a clear band around the foundation.
 
+## What to do now
+
+1. **Confirm it is mice before buying anything.** Droppings the size of a rice grain, a musty smell and fast light scratching at night are the tell; rat droppings are several times the size.
+
+2. **Pull the stove and the refrigerator out and look behind and underneath.** That is where the evidence is, and usually where the gap is too.
+
+3. **Get food off the counters and out of cardboard, and lift the pet bowl overnight.** It fixes nothing on its own, but it stops feeding the population.
+
+4. **Look under the sink at the pipe and cable penetrations.** An unsealed one is the single most common route from a wall void into a kitchen.
+
+5. **Set traps against the wall, perpendicular to it, trigger toward the baseboard — and set more than feels necessary.** Mice run walls, not open floor.
+
+6. **Then find the exterior entry,** because that is what stops the next ones. A quarter inch is enough, and last winter's frost gaps are still open.
+
 ## When to call
 
 Fresh droppings you keep finding, scratching in the walls at night, gnawed packaging, a musky smell, or the sense that you've been trapping the same mice for weeks without winning — any of those is the point to call. Mice chew wiring, which is a fire risk you can't see, and they contaminate food-prep areas, so it's worth ending properly. BugBoss serves [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Waupaca](/service-area/waupaca/), [Shawano](/service-area/shawano/) and the surrounding area — no contracts, owner-direct. [Contact us](/contact/) and we'll trace it to the source.

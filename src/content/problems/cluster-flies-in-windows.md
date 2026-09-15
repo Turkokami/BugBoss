@@ -72,6 +72,20 @@ We run this as a timed program, not a reactive spray call. In **late summer and 
 
 Prevention is really just doing the two moves on time, every year the house needs it. **Mark the calendar for late August**, because the single most common mistake is waiting until the flies are inside — by then the treatment window has closed. **Keep sealing** as the building ages; a gap that opens at the fascia over the summer is next fall's entry point. **Vacuum, don't spray**, the ones that get in. And recognize that a prominent, pale, multi-story house on open ground near lawn and fields is close to a worst case for cluster flies — not a defect, just the ecology of living here — which means it's exactly the kind of building that benefits most from an annual exterior barrier.
 
+## What to do now
+
+1. **Vacuum them off the glass and the sill.** It is the fastest thing that works, and there is nothing in the wall left to kill.
+
+2. **Do not spray indoors.** They have been in the void since September, they cannot breed indoors, and the number that got in is the maximum you will ever have.
+
+3. **Expect more on the next warm, sunny day.** That is the cycle, and it ends when the weather settles.
+
+4. **Note which windows, and which side of the house.** It will be the south or the west, and it tells you where the exterior work goes.
+
+5. **Book the exterior treatment for late August or early September** — before they gather on the siding, not after.
+
+6. **Seal the soffit, fascia, window frames and utility penetrations on those walls** in the meantime. It is the same repair that stops mice in November.
+
 ## When to call
 
 Call BugBoss in **summer or very early fall** to get the exterior treatment scheduled before the flies mass — that's the call that actually solves it. Call if you're seeing them at the windows now and want the building assessed and sealed and a plan set for next season. And call if the winter comebacks have worn you down; there's a real fix, but it's laid down in August, not chased with a spray can in February.

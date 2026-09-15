@@ -109,13 +109,11 @@ That is where most rural properties are exposed — not because they don't care,
 
 BugBoss builds every commercial program on **Integrated Pest Management (IPM)** — inspection, monitoring, sanitation, and exclusion first, with targeted treatment applied only where and when it's warranted. IPM is not a buzzword here; it is what actually works in an occupied building full of guests, and it is what keeps chemical use minimal in spaces where people sleep and eat. See our full [commercial pest control](/commercial-pest-control/) approach for the framework we apply across industries.
 
-For a lodging property, the program includes documentation designed to survive scrutiny:
+For a lodging property, **every visit produces a work order** — what was inspected, what was found, what was done, and the facility issues that need maintenance follow-up. Kept on-site and current, that is the record an inspector normally asks for.
 
-- **Dated service records** for every visit, kept on-site, showing what was inspected, what was found, and what was done.
-- **A device map** locating every rodent station, insect monitor, and fly light, so an inspector or auditor can see the coverage at a glance and you can verify nothing has been moved or lost.
-- **A pest sighting and trend log** — the running record that turns isolated incidents into a pattern you can act on before it becomes an outbreak.
-- **Corrective-action notes** tying each finding to the fix and to any facility issue (a failed door sweep, a wet drain, a gap at a line set) that needs maintenance follow-up.
-- **A bed bug response protocol** on file, so your staff know exactly what to do when a guest reports a bite — isolate the room, don't move linens to adjacent rooms, call us — before the situation spreads or goes public.
+We will also agree **a bed bug response protocol** with you and leave it on file, so your staff know exactly what to do when a guest reports a bite — isolate the room, do not move linens to adjacent rooms, call us — before the situation spreads or goes public. That one page is worth more to a hotel than any amount of paperwork after the fact.
+
+**If your facility answers to more than that** — a third-party scheme, a brand standard, a customer QA requirement — those programs typically want a defined package on top: a written scope, a device map keyed to your floor plan, a trend record, corrective-action records with follow-through, product labels and safety data sheets. Tell us what yours actually requires before the program starts so we can agree in writing who maintains which piece. Discovering that gap during an audit is the outcome worth avoiding, and one conversation at the outset avoids it.
 
 **Discreet scheduling** is built into all of it. We work around check-in and check-out windows, high-occupancy nights, and event bookings. We can arrive low-profile, badge in through back-of-house, and keep our presence off the guest floor's radar. In lodging, part of doing the job well is doing it invisibly.
 

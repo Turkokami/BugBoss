@@ -75,6 +75,20 @@ We run bat decontamination as the back half of a single, DNR-compliant job. The 
 
 Once the attic is decontaminated and sealed, staying clean is mostly a matter of keeping the building tight. **Walk the roofline periodically** — soffits, fascia, gable and ridge vents, chimney flashing — and close any gap that opens up as the structure ages, before a bat finds it. **Screen the vents** and **maintain a chimney cap**. On barns and older farmhouses, whose high, complex rooflines offer the most potential entries, an annual look is worth the trouble. And if you value the mosquito control a nearby bat colony provides — which around here is considerable — a **bat house set well away from the building** gives them a roost that isn't your attic. One timing caution: any roofline sealing must still respect the June-to-July maternity restriction if there's any chance bats are present, so confirm the building is clear before closing gaps in summer.
 
+## What to do now
+
+1. **Do not sweep it and do not vacuum it dry.** Both hazards in old guano are airborne, and dry disturbance is exactly what puts them in the air.
+
+2. **Find out whether bats are still using the space before anything else.** Cleaning an active roost is money spent twice, and during maternity season it cannot be followed by sealing.
+
+3. **Get the exclusion scheduled first,** then the cleanup. In that order, always.
+
+4. **Keep the attic hatch shut,** and if the space shares air with the house, tape the perimeter until the work starts.
+
+5. **Photograph the area from the hatch rather than going in.** It sizes the job without anyone standing in it.
+
+6. **Have the insulation assessed rather than assumed.** Soiled, compacted insulation has lost most of its R-value, so removal is usually a heating decision as much as a health one.
+
 ## When to call
 
 Call BugBoss once the bats are out and you're facing the cleanup — or, better, call at the start so the exclusion and decontamination are planned as one job. Call if you're smelling ammonia from the attic, seeing stains bleed through an upstairs ceiling, or finding guano and beetle activity after a colony has left. And call before you climb up with a broom and a shop vac: dry-sweeping old guano is the single most common way homeowners turn a manageable cleanup into a histoplasmosis exposure.

@@ -78,6 +78,20 @@ If the inspection turns up more than mice — rats working the same building, ba
 
 Once a barn is sealed, keeping it mouse-free is mostly discipline. Store all feed and seed in sealed metal containers and sweep up spills the day they happen. Keep a clear band around the base of the building — no stacked pallets, lumber, or brush tight against the walls, since clutter gives cover right at the entry line. Re-check door sweeps every fall before harvest, because that's the one component that wears and gets chewed. And walk the ground line once a year with a light; settling and equipment bumps open new gaps over time.
 
+## What to do now
+
+1. **Walk the outside and look at the base of the metal skirting.** The gap between the steel and the concrete is the way in on most pole barns.
+
+2. **Check the overhead door seals** along the bottom edge and at the corners where the track meets the jamb.
+
+3. **Get the feed into metal or hard plastic with a lid.** Feed left in bags is the reason the population is the size it is.
+
+4. **Clear a strip of bare ground around the building.** Grass and weeds growing to the skirting give cover right up to the door.
+
+5. **Work out whether it is house mice or deer mice,** because it changes the cleanup — deer mice are sharply two-toned with a white belly, and their droppings get wetted down rather than swept.
+
+6. **Then seal:** hardware cloth and closure strip at the skirting, brush seals on the overhead doors, screening on the gable vents. Traps alone have never finished a pole barn.
+
 ## When to call
 
 If you're finding fresh droppings along the walls, hearing gnawing in the equipment, seeing chewed wiring or torn feed bags, or you've been trapping the same barn for months without winning, it's time. Rodent-damaged wiring is a fire risk you can't see, and a deer mouse mess is a health matter, not just a nuisance. BugBoss serves Clintonville, [Marion](/service-area/marion/), [Shawano](/service-area/shawano/), [Waupaca](/service-area/waupaca/) and the surrounding farm country — no contracts, owner-direct. [Get in touch](/contact/) and we'll come look at the building.
