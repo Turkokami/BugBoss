@@ -1,5 +1,6 @@
 ---
 title: "Something's in the Attic: Reading the Noise Before You Call Anyone"
+seoTitle: "Something's in the Attic: Reading the Noise First"
 description: "Scratching at dawn is a squirrel. Heavy thumps at midnight are a raccoon. Fast skittering overhead is mice. What you hear, and when, narrows it down before anybody sets foot on your roof — and it changes what has to happen next."
 pubDate: "2025-10-14"
 cluster: "wildlife-removal"

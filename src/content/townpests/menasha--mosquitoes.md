@@ -1,7 +1,7 @@
 ---
 town: menasha
 pest: mosquitoes
-title: "Mosquito Control in Menasha, WI — the One Lake Insect You Can Actually Treat"
+title: "Mosquito Control in Menasha, WI — Not Lake Flies"
 answer: "Menasha gets two completely different insect problems off the water and they need opposite answers. The midge and mayfly hatches off Lake Winnebago cannot be treated and nobody should sell you a treatment for them. Mosquitoes can, because they breed in standing water on land — in your gutters, your containers and the sheltered margins — and that is work with a real result."
 metaDescription: "Mosquito control in Menasha, WI — the lake hatch cannot be treated and nobody should sell you a treatment for it. Mosquitoes can, because they breed on land."
 faqs:

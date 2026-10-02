@@ -1,5 +1,6 @@
 ---
 title: "Home From a Trip: The Twenty Minutes That Keep Bed Bugs Out of Your House"
+seoTitle: "Home From a Trip: Keeping Bed Bugs Out of the House"
 description: "Bed bugs travel in luggage, not in dirt. What to do at the hotel, what to do in the garage before the suitcase comes inside, and how to tell a real bite pattern from three weeks of worrying about nothing."
 metaDescription: "Home from a trip — the twenty minutes that keep bed bugs out. Where to inspect the luggage, what to do with the clothes, and what not to bother with."
 pubDate: "2026-06-16"

@@ -410,6 +410,18 @@ for (const file of files) {
   // none does now, so a new one means a new page shipped without a written
   // description. Write one rather than relaxing this.
   if (d.endsWith('\u2026')) fail(page, 'meta-description-not-written', 'falling back to a trimmed answer');
+
+  // Title budget. A result clips around 60 characters, and BaseLayout already
+  // drops the " | BugBoss" suffix rather than let it push a title over. Past
+  // that, the title itself is too long and wants shortening -- or, where the
+  // headline is the asset (blog), a separate `seoTitle`.
+  const t = html.match(/<title>([^<]*)<\/title>/);
+  if (!t) fail(page, 'title-missing', 'no <title>');
+  else {
+    // Count what a reader sees: &amp; is one character, not five.
+    const shown = t[1].replace(/&(amp|lt|gt|quot|#39|apos|nbsp);/g, 'x');
+    if (shown.length > 60) fail(page, 'title-too-long', `${shown.length} chars`);
+  }
 }
 
 // --- Report ----------------------------------------------------------------

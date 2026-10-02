@@ -1,7 +1,7 @@
 ---
 town: de-pere
 pest: mosquitoes
-title: "Mosquito Control in De Pere, WI — the Fox River, the Dam Pool & the East River"
+title: "Mosquito Control in De Pere, WI — the Fox River"
 answer: "De Pere has the Fox River running straight through the middle of it and the East River joining just downstream, which gives the city more still-water edge than its size suggests. BugBoss comes down from Clintonville, so this is scheduled work rather than a same-hour call. What we treat is the shaded harborage and the water inside your own lot line — not the river, which is not what is breeding them."
 metaDescription: "Mosquito control in De Pere, WI — the dam pool margin and the East River corridor, not the channel. Scheduled work from Clintonville, timed to the weather."
 faqs:

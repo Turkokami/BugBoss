@@ -1,7 +1,7 @@
 ---
 town: suamico
 pest: mosquitoes
-title: "Mosquito Control in Suamico, WI — Bay Marsh, the Suamico River & Honest Limits"
+title: "Mosquito Control in Suamico, WI — Bay Marsh"
 answer: "Suamico and Little Suamico sit on low ground where two rivers meet the bay, with wetland running along most of the shore. That is the heaviest mosquito landscape we work in, and it sets a ceiling no treatment removes. What a program here buys is a usable evening on your own lot, not a mosquito-free property — and we would rather say that in May than argue about it in July."
 metaDescription: "Mosquito control in Suamico and Little Suamico — the heaviest landscape we work. What a program buys on bay-marsh ground, and the ceiling it will not clear."
 faqs:

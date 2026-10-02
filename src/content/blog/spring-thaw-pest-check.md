@@ -1,5 +1,6 @@
 ---
 title: "The Spring Thaw Walk-Around: What to Check on a Wisconsin Property in March"
+seoTitle: "The Spring Thaw Walk-Around: What to Check in March"
 description: "Snowmelt exposes every pest problem the winter hid — rodent runs in the flattened grass, ice-damaged soffits, frost-heaved foundation gaps. One hour in March saves the whole season. Here's the walk, in order."
 pubDate: "2026-03-17"
 cluster: "general-pest-control"

@@ -1,5 +1,5 @@
 ---
-title: "Fall Invaders in Wisconsin: Cluster Flies, Boxelder Bugs & Asian Lady Beetles"
+title: "Cluster Flies & Fall Invaders in Wisconsin"
 answer: "Cluster flies, boxelder bugs, and Asian lady beetles are Wisconsin's fall invaders: insects that mass on warm south and west walls in September and October, then overwinter in attics and wall voids. They reappear on warm winter days. The fix is early-fall exterior treatment plus sealing, not indoor spraying."
 metaDescription: "Cluster fly control in Wisconsin — the whole thing turns on one two-week window in late summer. Why October treatment fails and what sealing actually fixes."
 category: "Seasonal"

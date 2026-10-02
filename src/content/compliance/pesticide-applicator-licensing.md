@@ -1,5 +1,5 @@
 ---
-title: "Is Your Pest Control Company Licensed? How to Check a Wisconsin Applicator"
+title: "Is Your Pest Control Company Licensed in Wisconsin?"
 short: "Applicator licensing & how to verify it"
 audience: "Homeowners & businesses"
 order: 30

@@ -1,7 +1,7 @@
 ---
 town: new-london
 pest: mosquitoes
-title: "Mosquito Control in New London, WI — the Wolf & Embarrass Floodplain"
+title: "Mosquito Control in New London, WI — Floodplain"
 answer: "New London sits where the Embarrass River meets the Wolf, and the floodplain either side of that confluence is the reason mosquito pressure here is among the heaviest in the corridor. The town has a nature center called Mosquito Hill, which tells you the problem predates all of us. The flowing rivers are not the source — the backwaters and the flood pulse are, and your own lot is the part we can change."
 metaDescription: "Mosquito control in New London, WI — where the Wolf and Embarrass meet. Floodplain pools are the engine, and the spring pulse decides the whole season."
 faqs:

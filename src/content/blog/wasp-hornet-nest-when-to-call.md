@@ -1,5 +1,6 @@
 ---
 title: "That Nest on Your Eave: When a Wisconsin Wasp Nest Can Wait and When It Can't"
+seoTitle: "When a Wisconsin Wasp Nest Can Wait, and When It Cannot"
 description: "By August a Wisconsin wasp nest holds hundreds of workers and the colony is at its most defensive. Here's how to tell a paper wasp from a bald-faced hornet from a ground nest of yellowjackets, and which ones you should not go near."
 pubDate: "2026-07-14"
 cluster: "stinging-insects"

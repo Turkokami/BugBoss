@@ -1,5 +1,5 @@
 ---
-title: "Cabin & Seasonal Property Pest Control: Chain O' Lakes & the Northwoods"
+title: "Cabin & Seasonal Pest Control: Chain O' Lakes"
 answer: "Seasonal cabins around the Waupaca Chain O' Lakes and the Northwoods sit empty for months, which invites mice, cluster flies, bats, and wasps to move in undisturbed. Vacant properties need a different approach built on exclusion plus opening and closing service. BugBoss handles cabin pest and wildlife work with no contract."
 metaDescription: "Closing or opening a Wisconsin cabin — mice, cluster flies and bats in a building nobody watches for five days a week. What to do, and in what order."
 category: "Seasonal"

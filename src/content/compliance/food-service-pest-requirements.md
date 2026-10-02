@@ -1,5 +1,5 @@
 ---
-title: "Wisconsin Food Code Pest Requirements: What an Inspector Looks For"
+title: "Wisconsin Food Code Pest Requirements (ATCP 75)"
 short: "Food service pest requirements"
 audience: "Restaurants & retail food"
 order: 40

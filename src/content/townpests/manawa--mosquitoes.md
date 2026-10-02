@@ -1,7 +1,7 @@
 ---
 town: manawa
 pest: mosquitoes
-title: "Mosquito Control in Manawa, WI — the Little Wolf River & Bear Lake"
+title: "Mosquito Control in Manawa, WI — the Little Wolf"
 answer: "Manawa sits on the Little Wolf River with Bear Lake just outside town, and that water is why mosquito pressure here is heavier than in the drier towns north of us. Moving water is not the problem — the standing water on your own property is. BugBoss walks the property for breeding sites first, then treats the resting harborage rather than fogging the open yard."
 metaDescription: "Mosquito control in Manawa, WI — the Little Wolf and Bear Lake raise the baseline, but the controllable water is all inside your own lot line."
 faqs:

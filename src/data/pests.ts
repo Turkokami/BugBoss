@@ -716,7 +716,7 @@ export const pests: Pest[] = [
     ],
   },
   {
-    slug: 'nuisance-birds', name: 'Nuisance Birds (Starlings, Pigeons & Sparrows)', category: 'wildlife',
+    slug: 'nuisance-birds', name: 'Nuisance Birds (Starlings & Pigeons)', category: 'wildlife',
     season: 'Year-round',
     answer: 'Starlings, pigeons, and house sparrows nest in Northeast Wisconsin vents, barns, signs, and eaves, and their droppings damage structures and pose a health risk. BugBoss excludes nuisance birds with netting, screening, and deterrents, and cleans up the contaminated nesting sites they leave behind.',
     overview: 'The non-native starling, pigeon, and house sparrow are the birds that cause real building conflicts — nesting in dryer and stove vents, barn eaves, signage, and ledges, where their nests block airflow and their acidic droppings corrode surfaces and carry disease. Control is exclusion: physically denying access to the nesting sites.',

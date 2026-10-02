@@ -1,7 +1,7 @@
 ---
 town: kaukauna
 pest: mosquitoes
-title: "Mosquito Control in Kaukauna, WI — the Lock Pools & the River Islands"
+title: "Mosquito Control in Kaukauna, WI — the Locks"
 answer: "Kaukauna has the Fox dropping through a run of locks and a stretch of wooded river island inside the city, which gives it more sheltered, shaded, slow-water edge than most Fox Valley towns. The moving river is not breeding mosquitoes. The quiet pools, the island margins and the containers in your own yard are, and two of those three are treatable."
 metaDescription: "Mosquito control in Kaukauna, WI — locks turn a fast river into slow pools, and the wooded island corridor supplies the daytime shade. Both are treatable."
 faqs:

@@ -1,5 +1,6 @@
 ---
 title: "Carpenter Ants vs. Termites in Northern Wisconsin: How to Tell the Difference"
+seoTitle: "Carpenter Ants vs. Termites in Northern Wisconsin"
 description: "See winged insects swarming indoors this spring? In northern Wisconsin it's almost always carpenter ants, not termites. Here's how to tell them apart and what each one means for your home."
 pubDate: "2026-04-14"
 cluster: "ant-control"

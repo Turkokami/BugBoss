@@ -1,5 +1,5 @@
 ---
-title: "Wisconsin Bat Exclusion Law: When You Can (and Can't) Remove Bats"
+title: "Wisconsin Bat Exclusion Law & Maternity Season"
 answer: "In Wisconsin, all cave bats are state-threatened, so you must evict them by humane exclusion, never by killing or sealing them in. The DNR bans restricting bat exits June 1 through July 31 during maternity season. BugBoss handles legal, guaranteed exclusion in the Clintonville area."
 category: "Wildlife"
 order: 1

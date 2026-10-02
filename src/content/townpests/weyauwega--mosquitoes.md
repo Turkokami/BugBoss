@@ -1,7 +1,7 @@
 ---
 town: weyauwega
 pest: mosquitoes
-title: "Mosquito Control in Weyauwega, WI — the Millpond & the Waupaca River"
+title: "Mosquito Control in Weyauwega, WI — the Millpond"
 answer: "Weyauwega is built around a millpond on the Waupaca River, and a shallow impoundment with a weedy margin is a better mosquito producer than the river feeding it. Add the low, wet ground either side of the valley and you get pressure out of proportion to the size of the place. Your own lot is still where most of the controllable production is."
 metaDescription: "Mosquito control in Weyauwega, WI — a shallow millpond margin out-produces the river feeding it. Why the valley runs worse than the higher ground."
 faqs:

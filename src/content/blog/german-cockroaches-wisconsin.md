@@ -1,5 +1,6 @@
 ---
 title: "German Cockroaches in Wisconsin: Why They're the One Roach That Actually Matters"
+seoTitle: "German Cockroaches in Wisconsin: the Roach That Matters"
 description: "Most 'roaches' people find in a Wisconsin basement are harmless outdoor insects that wandered in. German cockroaches are different — they breed indoors, they double fast, and bug bombs make them worse. How to tell which one you have."
 pubDate: "2026-02-17"
 cluster: "cockroach-control"

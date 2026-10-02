@@ -1,7 +1,7 @@
 ---
 town: howard
 pest: mosquitoes
-title: "Mosquito Control in Howard, WI — Duck Creek & the New Subdivisions"
+title: "Mosquito Control in Howard, WI — Duck Creek"
 answer: "Howard combines two things that each raise mosquito pressure: the Duck Creek corridor with its low wet margins, and a lot of recent subdivision built on former farmland where the drainage has not settled yet. New construction is frequently worse than older neighborhoods for the first few seasons, which surprises people. Both problems respond to the same work."
 metaDescription: "Mosquito control in Howard, WI — the Duck Creek corridor plus new subdivisions where the grading has not settled. New builds are often worse, not better."
 faqs:

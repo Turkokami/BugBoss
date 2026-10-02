@@ -1,5 +1,5 @@
 ---
-title: "Wildlife in the Attic: Bats, Squirrels & Raccoons in Rural Wisconsin"
+title: "Wildlife in the Attic: Bats, Squirrels & Raccoons"
 answer: "Bats, squirrels, and raccoons get into rural Wisconsin attics through gaps in older farmhouses and homes. You tell them apart by noise timing and droppings: bats at dusk, squirrels by day, raccoons heavy at night. The fix is humane exclusion plus cleanup — never poison or trap-and-forget. BugBoss The X-Terminator handles it, on the legal timeline for bats."
 category: "Wildlife"
 order: 8

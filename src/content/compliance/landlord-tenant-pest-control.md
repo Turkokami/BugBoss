@@ -1,5 +1,5 @@
 ---
-title: "Who Pays for Pest Control in a Wisconsin Rental? Landlord and Tenant Responsibility"
+title: "Who Pays for Pest Control in a Wisconsin Rental?"
 short: "Landlord & tenant pest responsibility"
 audience: "Landlords & tenants"
 order: 10

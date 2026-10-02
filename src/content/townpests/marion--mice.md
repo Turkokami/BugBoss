@@ -1,7 +1,7 @@
 ---
 town: marion
 pest: mice
-title: "Mouse Control in Marion, WI — Farmhouses, Pole Barns & Grain Storage"
+title: "Mouse Control in Marion, WI — Farms & Pole Barns"
 answer: "Marion sits in dairy country on the Waupaca–Shawano county line, where the mouse problem is not really a house problem — it is a farm problem that reaches the house. Pole barns, grain storage and feed rooms hold the population; the farmhouse is where it becomes visible each October. BugBoss treats the whole property and seals the buildings, because baiting the kitchen never works here."
 metaDescription: "Mice in Marion, WI — in dairy country this is not really a house problem. Where they come from, why trapping alone never finishes it, and what does."
 faqs:

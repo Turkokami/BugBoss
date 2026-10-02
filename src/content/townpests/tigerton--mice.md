@@ -1,7 +1,7 @@
 ---
 town: tigerton
 pest: mice
-title: "Mouse Control in Tigerton, WI — Farmhouse & Pole Barn Exclusion"
+title: "Mouse Control in Tigerton, WI — Pole Barns"
 answer: "Tigerton is a small Shawano County village on the Embarrass River, ringed by farmland and woodlots, and rodent exclusion is the primary pest work here. The woodlots matter as much as the farms — properties backing onto timber get pressure from both sides. BugBoss seals the buildings rather than baiting them indefinitely."
 faqs:
   - q: "Why does a Tigerton property get mice from two directions?"

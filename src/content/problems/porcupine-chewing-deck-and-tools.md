@@ -1,5 +1,5 @@
 ---
-title: "Something Is Chewing My Deck Rails, Tool Handles and Truck Tires"
+title: "Something Is Chewing My Deck Rails and Tools"
 answer: "Chewing that makes no sense as animal behavior — plywood, axe handles, deck rails, tires, brake lines — is a porcupine after the salt in them. They den under sheds and barns and return to the same site for years, so closing the void properly matters as much as removing the animal. And a quilled dog is a same-day vet visit, not a home job."
 category: "Wildlife"
 order: 45

@@ -1,5 +1,6 @@
 ---
 title: "Mice in the Pole Barn: A Rural Wisconsin Rodent Exclusion Guide"
+seoTitle: "Mice in the Pole Barn: a Rural Wisconsin Guide"
 description: "Pole barns are built for mice — a perimeter gap, big doors that don't seal, and stored feed. Here's how mice get into your outbuildings every fall and how to seal them out for good."
 pubDate: "2025-11-03"
 cluster: "rodent-control"

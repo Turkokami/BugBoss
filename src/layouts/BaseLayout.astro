@@ -57,7 +57,19 @@ const canonical = new URL(path, business.url).href;
 // 1200x630 JPEG built from the brand banner. Pages can override it.
 const shareImage = new URL(ogImage ?? '/images/og-default.jpg', business.url).href;
 const graph = buildGraph(pageNodes);
-const fullTitle = title.includes('BugBoss') ? title : `${title} | ${business.shortName}`;
+// Title budget. A search result shows roughly 60 characters of a title before
+// clipping it, and the " | BugBoss" suffix costs 10 of them on every page.
+// Google appends the site name to a result itself, so paying for the brand a
+// second time is only worth it when it is free -- append the suffix when the
+// whole thing still fits, and drop it when it would push the title past the
+// budget and clip the part that describes the page.
+const TITLE_MAX = 60;
+const suffixed = `${title} | ${business.shortName}`;
+const fullTitle = title.includes('BugBoss')
+  ? title
+  : suffixed.length <= TITLE_MAX
+    ? suffixed
+    : title;
 ---
 <!doctype html>
 <html lang="en-US">

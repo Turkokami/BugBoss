@@ -1,7 +1,7 @@
 ---
 town: embarrass
 pest: bats
-title: "Bat Removal in Embarrass, WI — Attics, Barns & River Properties"
+title: "Bat Removal in Embarrass, WI — Attics & Barns"
 answer: "Embarrass sits just north of Clintonville on the Embarrass River, close enough for genuine same-day response on wildlife calls. Bats here use older attics and barn spaces, and the river corridor keeps the insect supply that sustains them. Wisconsin exclusion is legally timed around the pup season, so the window matters more than the technique."
 faqs:
   - q: "How quickly can you get to Embarrass?"

@@ -1,5 +1,6 @@
 ---
 title: "Why There Are Bugs on Your Windows in January (When It's 10 Below Outside)"
+seoTitle: "Why There Are Bugs on Your Windows in January"
 description: "Ladybugs on the ceiling in February, flies at the south window on a thaw day, stink bugs in the bathroom sink. They didn't come in from the cold — they've been in your walls since October. Here's what's happening and what actually helps now."
 pubDate: "2026-01-20"
 cluster: "fall-invaders"

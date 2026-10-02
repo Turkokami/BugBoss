@@ -1,5 +1,5 @@
 ---
-title: "Bed Bugs in Wisconsin Rentals: Who Is Responsible, and What Actually Has to Happen"
+title: "Bed Bugs in Wisconsin Rentals: Who Is Responsible?"
 short: "Bed bugs in rentals"
 audience: "Landlords & tenants"
 order: 20

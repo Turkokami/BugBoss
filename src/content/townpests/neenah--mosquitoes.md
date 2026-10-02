@@ -1,7 +1,7 @@
 ---
 town: neenah
 pest: mosquitoes
-title: "Mosquito Control in Neenah, WI — Lake Winnebago, Little Lake Butte des Morts & the Channel"
+title: "Mosquito Control in Neenah, WI — Lake Winnebago"
 answer: "Neenah sits between Lake Winnebago and Little Lake Butte des Morts with the Fox channel running between them, so almost every property here is near water of some kind. Very little of that open water is breeding mosquitoes. The weedy sheltered margins are, and so is the container in your own yard — and the second one is the half anybody can fix."
 metaDescription: "Mosquito control in Neenah, WI — open Winnebago is a poor nursery. The sheltered weedy margins are, and so is your own yard. Lake flies are a separate thing."
 faqs:

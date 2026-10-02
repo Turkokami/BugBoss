@@ -1,7 +1,7 @@
 ---
 town: bear-creek
 pest: mosquitoes
-title: "Mosquito Control in Bear Creek, WI — a Small Village in Wet Farm Country"
+title: "Mosquito Control in Bear Creek, WI"
 answer: "Bear Creek is about as small as a village gets, and the mosquito pressure here has almost nothing to do with the village and everything to do with the drained farm ground around it. On a lot this size the walk-round frequently settles the problem without a treatment, and we will tell you when that is the case rather than sell you a program."
 metaDescription: "Mosquito control in Bear Creek, WI — on a lot this size the walk-round is usually the whole answer, and we will say when a treatment is not worth buying."
 faqs:

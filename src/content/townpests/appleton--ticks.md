@@ -1,7 +1,7 @@
 ---
 town: appleton
 pest: ticks
-title: "Tick Control in Appleton, WI — the Ravine and Creek Corridors"
+title: "Tick Control in Appleton, WI — the Ravines"
 answer: "Appleton's tick exposure is not out in the countryside. It is in the ravine and creek corridors cut through the city, which run up to the back of residential lots, apartment grounds and school campuses. Ticks sit in the narrow band where mown turf meets brush, not in the open lawn and not deep in the woods — which is good news, because a defined band is treatable."
 metaDescription: "Tick control in Appleton, WI — the risk is the ravine and creek corridors, not the countryside. The narrow boundary band where ticks actually sit."
 faqs:

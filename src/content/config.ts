@@ -42,6 +42,10 @@ const guides = defineCollection({
 const blog = defineCollection({
   type: 'content',
   schema: z.object({
+    // A search result clips a title around 60 characters, but a blog headline
+    // is the asset on the page and should not be cut to fit a meta budget.
+    // Where the two conflict, `title` stays the H1 and this becomes <title>.
+    seoTitle: z.string().max(60).optional(),
     // Search-result description, <=158 chars. Without one the layout trims
     // `answer`, which is written for the page rather than for a result.
     metaDescription: z.string().max(158).optional(),

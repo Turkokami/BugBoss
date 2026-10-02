@@ -1,7 +1,7 @@
 ---
 town: green-bay
 pest: mosquitoes
-title: "Mosquito Control in Green Bay, WI — the Creek Corridors, Not the Bay"
+title: "Mosquito Control in Green Bay, WI — Not the Bay"
 answer: "People assume Green Bay's mosquitoes come off the bay. They mostly do not. The city's mosquito geography is its creek and greenway corridors — the East River, Baird Creek, Duck Creek and the wooded strips between neighborhoods — which supply both standing water and the daytime shade adults need. BugBoss comes down from Clintonville for scheduled work on that."
 metaDescription: "Mosquito control in Green Bay, WI — it is the creek and greenway corridors, not the bay. Where the East River, Baird Creek and Duck Creek put the pressure."
 faqs:

@@ -1,7 +1,7 @@
 ---
 town: clintonville
 pest: mosquitoes
-title: "Mosquito Control in Clintonville, WI — the Pigeon River & the Field Edge"
+title: "Mosquito Control in Clintonville, WI"
 answer: "Clintonville is home base for BugBoss, so a mosquito call here is a same-town walk-round rather than a truck sent up from the Fox Valley. The Pigeon River running through the village is not what is breeding them. What breeds them is standing water inside your own lot line, and on most Clintonville properties it comes down to about six things."
 metaDescription: "Mosquito control in Clintonville — the Pigeon River is not breeding them. The containers on your own lot are, and why treatment timing beats frequency."
 faqs:

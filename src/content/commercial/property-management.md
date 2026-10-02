@@ -1,5 +1,5 @@
 ---
-title: "Property Management & Multi-Family Housing Pest Control in Wisconsin"
+title: "Property Management & Multi-Family Pest Control"
 industry: "Property Management & Multi-Family"
 category: "Institutional & Healthcare"
 answer: "BugBoss provides whole-building pest control for property managers and multi-family housing across Central and Northeast Wisconsin. We stop unit-to-unit spread of bed bugs and German cockroaches, seal the shared walls and utility chases they travel, document everything for owners, and coordinate the tenant notice Wisconsin's ATCP 134 requires — with no long-term contract."
