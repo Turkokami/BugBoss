@@ -17,6 +17,7 @@ export const townMeta: Record<string, string> = {
   amherst: 'Pest control and wildlife removal in Amherst, WI — farmhouse mice, cluster flies, millpond mosquitoes and barn bats. Owner-direct, no long-term contract.',
   angelica: 'Pest and wildlife work across the Town of Angelica, Shawano County — field mice and deer mice, cluster flies, farmhouse carpenter ants, barn and attic bats.',
   antigo: 'Pest control and wildlife removal in Antigo, the Langlade County seat — about an hour north of our Clintonville shop. Scheduled work, no long-term contract.',
+  appleton: 'Pest control and wildlife removal in Appleton, WI — older-home exclusion, ravine-corridor ticks and mosquitoes, commercial work, and wildlife in a structure.',
   'bear-creek': 'Pest control and wildlife removal in Bear Creek, WI — pole-barn mice, cluster flies, wasps and attic bats. We are nine miles south in Clintonville.',
   'bear-creek-township': 'Ag-outbuilding pest work across Bear Creek Township, Outagamie County — rodents around barns, feed and machine sheds, cluster flies, attic bats and raccoons.',
   berlin: 'Pest control and wildlife removal in Berlin, WI — the old Fox River city in Green Lake County. Older-home exclusion, fall invaders, attic wildlife.',

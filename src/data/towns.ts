@@ -450,7 +450,31 @@ export const towns: Town[] = [
   { slug: 'leopolis', name: 'Leopolis', county: 'Shawano County', tier: 2, cluster: 'single', incorporated: false },
 
   // --- TIER 3 — METRO EDGE (35-55 mi). Long-tail only; areaServed for now. ---
-  { slug: 'appleton', name: 'Appleton', county: 'Outagamie County', tier: 3, cluster: 'area', incorporated: true },
+  {
+    slug: 'appleton',
+    name: 'Appleton',
+    county: 'Outagamie County',
+    tier: 3,
+    cluster: 'full',
+    incorporated: true,
+    lat: 44.2619,
+    lng: -88.4154,
+    local: {
+      distanceMi: 30,
+      direction: 'south',
+      intro:
+        'Appleton is the largest city in the Fox Valley and the one where we are most explicit about not competing on speed. A local company will beat us to a same-day call. What brings BugBoss down here is commercial work that wants the owner rather than a route tech, exclusion on older housing, and wildlife in a structure.',
+      pestPressures: [
+        'commercial food service, property management and retail along the river corridor',
+        'ticks on the ravine and creek corridors that run up to the back of residential lots',
+        'squirrels and bats in the older central and east-side housing stock',
+        'fall invaders on the warm elevations, and rodents in new north-side subdivisions',
+      ],
+      housing:
+        'balloon-framed historic central homes, dense postwar east-side blocks, larger wooded Highlands lots, and newer north-side subdivisions on former farmland',
+      landmarks: ['the Fox River gorge and the locks', 'the ravine and creek corridors', 'Apple Creek on the north edge'],
+    },
+  },
   { slug: 'neenah', name: 'Neenah', county: 'Winnebago County', tier: 3, cluster: 'area', incorporated: true },
   {
     slug: 'menasha',
