@@ -388,6 +388,25 @@ for (const file of files) {
   }
 }
 
+// Meta description budget. A search result clips around 158 characters, and
+// the templates pass the on-page Quick Answer through as the description --
+// which in the October 2026 GSC export meant 219 of 255 pages shipping over
+// 300 characters, losing the whole second half of the text in every result.
+// BaseLayout now trims, so over-budget is a hard failure; a trim that had to
+// fall back to an ellipsis is reported separately, because that page wants a
+// hand-written `metaDescription` rather than a machine cut.
+for (const file of files) {
+  const page = '/' + relative(DIST, file).replace(/index\.html$/, '');
+  const html = readFileSync(file, 'utf8');
+  // /404.html is not a search result and has no description budget.
+  if (page === '/404.html') continue;
+  const m = html.match(/<meta name="description" content="([^"]*)"/);
+  if (!m) { fail(page, 'meta-description-missing', 'no description tag'); continue; }
+  const d = m[1];
+  if (d.length > 158) fail(page, 'meta-description-too-long', `${d.length} chars`);
+  if (d.length < 70) fail(page, 'meta-description-too-short', `${d.length} chars`);
+}
+
 // --- Report ----------------------------------------------------------------
 const byCheck = failures.reduce((acc, f) => ((acc[f.check] ??= []).push(f), acc), {});
 console.log(`\nAcceptance gate — ${counts.pages} pages checked\n`);

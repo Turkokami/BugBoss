@@ -5,6 +5,7 @@ import Header from '@/components/Header.astro';
 import Footer from '@/components/Footer.astro';
 import PhoneBar from '@/components/PhoneBar.astro';
 import { business } from '@/data/business';
+import { metaDescription } from '@/lib/meta';
 import { buildGraph } from '@/lib/schema';
 
 interface Props {
@@ -13,7 +14,11 @@ interface Props {
   /** Override the default social share card. Absolute path under /images/. */
   ogImage?: string;
   title: string;
+  /** On-page framing. Also the fallback for the meta description, trimmed. */
   description: string;
+  /** Hand-written search-result description, <=158 chars. Worth setting on any
+   *  page earning real impressions; otherwise `description` is trimmed. */
+  metaDescription?: string;
   /** Extra JSON-LD nodes (WebPage / FAQPage / BreadcrumbList / Service). */
   pageNodes?: object[];
   /** Path only, e.g. "/about/". Canonical is derived from business.url. */
@@ -21,7 +26,14 @@ interface Props {
   noindex?: boolean;
 }
 
-const { title, description, pageNodes = [], path = '/', noindex = false, lcpImage, ogImage } = Astro.props;
+const {
+  title, description, pageNodes = [], path = '/', noindex = false,
+  lcpImage, ogImage, metaDescription: metaOverride,
+} = Astro.props;
+// The Quick Answer is written to be read on the page and runs well past what a
+// search result shows. Trim it to whole sentences for the meta tags; see
+// src/lib/meta.ts for why, and prefer an explicit metaDescription where it matters.
+const meta = metaOverride ?? metaDescription(description);
 
 // Preload the LCP image. Without this the browser cannot discover it until it
 // has parsed the HTML down to the <img>, which on a slow connection is well
@@ -53,14 +65,14 @@ const fullTitle = title.includes('BugBoss') ? title : `${title} | ${business.sho
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
-    <meta name="description" content={description} />
+    <meta name="description" content={meta} />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex,follow" />}
 
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content={business.name} />
     <meta property="og:title" content={fullTitle} />
-    <meta property="og:description" content={description} />
+    <meta property="og:description" content={meta} />
     <meta property="og:url" content={canonical} />
     <meta property="og:image" content={shareImage} />
     <meta property="og:image:width" content="1200" />
@@ -69,7 +81,7 @@ const fullTitle = title.includes('BugBoss') ? title : `${title} | ${business.sho
     <meta property="og:locale" content="en_US" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={fullTitle} />
-    <meta name="twitter:description" content={description} />
+    <meta name="twitter:description" content={meta} />
     <meta name="twitter:image" content={shareImage} />
     <meta name="theme-color" content="#0d0d0d" />
     <meta name="geo.region" content="US-WI" />
