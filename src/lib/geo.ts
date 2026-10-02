@@ -26,6 +26,18 @@ export function genericLocal(t: Town): NonNullable<Town['local']> {
   };
 }
 
+// Short proximity clause for a CTA subheading, where proximityLine() is too
+// long. Towns below Tier 2 carry no `local` block, and reading distanceMi off
+// it produced the literal string "about undefined miles away in Clintonville"
+// on every pest x city page for such a town. Guard here rather than at each
+// call site, so the next template to want this phrase cannot reintroduce it.
+export function proximityClause(t: Town): string {
+  const mi = t.local?.distanceMi;
+  if (mi === 0) return 'right here in town';
+  if (typeof mi === 'number') return `about ${mi} miles away in Clintonville`;
+  return 'based in Clintonville and out this way regularly';
+}
+
 export function proximityLine(t: Town): string {
   if (!t.local) {
     return `${t.name} is part of BugBoss's ${t.county} service area, reached from our Clintonville home base.`;

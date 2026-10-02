@@ -147,6 +147,12 @@ export const pestId: Record<string, PestId> = {
     where: 'Roses, lindens, birch, grapes and raspberries from late June through August; the grub stage lives in lawn thatch.',
     risk: 'Skeletonises the leaves of ornamentals and fruit. The grubs damage turf and draw skunks and raccoons that dig the lawn up to get at them.',
   },
+  grasshoppers: {
+    size: '20–45 mm depending on species and sex; females are the larger.',
+    look: 'Short, stout antennae and powerful hind legs, active in daylight. A cricket has long thread-like antennae and works at night — that antenna length is the quickest way to separate them.',
+    where: 'Ditch banks, fence rows, field margins, pasture, roadsides and gardens. Indoors only by accident, and never as a breeding population.',
+    risk: 'Feeds on garden plants, alfalfa, soybeans and small grains, worst at the property edge facing open ground. No bite, no disease, no damage to the building.',
+  },
   centipedes: {
     size: 'House centipede: 25–40 mm body with 15 pairs of very long legs, so it looks considerably bigger than it is.',
     look: 'Yellow-gray with three dark stripes down the back and banded legs. Very fast. A millipede is cylindrical, slow, and has two pairs of legs per segment.',

@@ -39,6 +39,12 @@ What they share is the reason they end up indoors: the **fall push toward warm, 
 
 The useful reframe: crickets indoors are a **ground-level entry problem**, and in the case of camel crickets, a **moisture problem** on top of it. You don't beat them by chasing individual crickets around the basement — you beat them by drying the space, cutting the harborage around the foundation, and sealing the gaps they walk in through.
 
+## Is it a cricket or a grasshopper?
+
+The quickest check is the antennae. **Crickets have long, thread-like antennae** often as long as the body, and they are mostly active at night. **[Grasshoppers](/pest-library/grasshoppers/) have short, stout antennae**, feed on plants, and work in daylight out in the open.
+
+The behavior separates them just as reliably. A cricket is the one that gets into the basement, the crawlspace and the garage in fall and chirps through the night. A grasshopper is an outdoor field and garden insect that cannot establish indoors at all — the one you find inside in August wandered through an open door and will be dead in a few days.
+
 ## How do you identify crickets?
 
 **Field crickets** are what most people picture: robust, black to dark brown, about a half inch to a bit over an inch long, with long antennae, large jumping hind legs, and wings folded flat over the back. The males chirp by rubbing their wings together — a behavior only field (and related) crickets do — and the females have a long, needle-like ovipositor projecting from the rear for laying eggs in soil. They're strong jumpers and can fly short distances. Indoors, you usually hear a field cricket before you see it.

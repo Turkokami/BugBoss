@@ -460,6 +460,32 @@ export const pests: Pest[] = [
     ],
   },
   {
+    slug: 'grasshoppers',
+    name: 'Grasshoppers',
+    category: 'insect',
+    season: 'July–September, worst in hot dry summers',
+    answer:
+      'Grasshoppers are a field and garden pest in Northeast Wisconsin rather than a household one — they do not breed indoors and the ones that get inside wandered in by accident. Numbers explode in hot, dry summers because drought suppresses the fungal disease that normally keeps them in check. Yard treatment has real limits, and we will tell you where they are.',
+    overview:
+      'Wisconsin has several hundred grasshopper species and only a handful matter: the differential, redlegged, twostriped and migratory grasshoppers do nearly all the damage. Females lay egg pods in undisturbed soil — ditch banks, fence rows, field margins, pasture, roadsides — in late summer, and those eggs overwinter and hatch the following spring. That is why damage shows up at the edges of a property first and works inward, and why the problem is really a question about the land next door. Outbreak years follow hot, dry summers, because the fungal pathogens that usually crash grasshopper populations need humidity to work. In a wet year you will barely notice them; two dry summers in a row and a garden on a field margin can be stripped.',
+    signs: [
+      'Ragged, chewed leaf margins on garden plants, working inward from the field edge',
+      'Large numbers flushing ahead of you as you walk the lawn edge or ditch bank',
+      'Damage concentrated on the side of the property facing pasture, hay or roadside',
+      'Occasional individuals indoors in late summer, usually near a door — never a breeding population',
+    ],
+    faqs: [
+      { q: 'Why are there so many grasshoppers this year?', a: 'Almost always the weather. Grasshopper populations are normally held down by fungal diseases that need humidity to spread, so a hot, dry summer lets numbers climb that would otherwise have crashed. Two dry summers back to back produce the years people remember. A wet June does more to control grasshoppers than anything anyone can spray.' },
+      { q: 'Can you spray my yard and get rid of them?', a: 'We can treat, and you should know the limit before paying for it. Grasshoppers are strong fliers that reinvade from surrounding land continuously, so a treated yard surrounded by hay, pasture or roadside is being restocked daily. Treatment can protect a specific planting or knock down a heavy edge, and in an outbreak year on an exposed property it will not deliver a grasshopper-free lawn. Anyone promising that is overselling.' },
+      { q: 'Where do they actually come from?', a: 'Undisturbed soil nearby. Females lay egg pods in late summer in ground that will not be tilled — ditch banks, fence rows, field margins, pasture, roadsides, the unmown strip at the back of the lot. The eggs overwinter there and hatch in spring. That is why damage appears at the property edge and moves inward, and why the single most useful thing on a rural lot is knowing which margin they are coming off.' },
+      { q: 'Do grasshoppers get into the house?', a: 'Only by accident, and they cannot establish indoors. They do not breed in buildings, they do not feed on anything in a house, and an individual that comes through an open door in August will be dead within days. If you are finding numbers of them inside, the useful response is a door sweep rather than a treatment.' },
+      { q: 'Are they the same thing as crickets?', a: 'Related but different, and the distinction matters for what to do. Grasshoppers are daytime, outdoor, plant-feeding insects with short antennae that rarely come inside. Crickets have long antennae, are mostly active at night, and genuinely do move into basements, crawlspaces and garages in fall looking for warmth and moisture. If what you have is indoors and chirping, see our crickets page instead.' },
+      { q: 'What damage do they actually do?', a: 'Chewed, ragged leaf margins on garden and ornamental plants, working inward from whichever edge they are arriving from. On agricultural ground they take alfalfa, soybeans and small grains, and in an outbreak year the losses at a field margin can be severe. They do not damage buildings, bite people, or carry disease.' },
+      { q: 'Is there anything that works other than spraying?', a: 'Timing and habitat, mostly. Nymphs are far easier to affect than adults, so an outbreak dealt with in early summer goes better than the same outbreak in August. Mowing and managing the margins where eggs are laid reduces next year\'s hatch on your own ground, though not on the neighbour\'s. Row cover protects a specific planting outright. On a small garden, physical protection beats chemistry.' },
+      { q: 'Should I treat the field edge?', a: 'If it is your ground and the hatch is coming off it, treating the margin band early in the season is the highest-value application available — far better than treating the lawn the adults have already flown into. If it is not your ground, that is the honest limit of what can be done, and it should be factored into the expectation before any money changes hands.' },
+    ],
+  },
+  {
     slug: 'crickets', name: 'Crickets', category: 'insect',
     season: 'Late summer–fall',
     answer: 'Field and camel crickets move into Northeast Wisconsin basements, crawlspaces, and garages in late summer and fall seeking warmth and moisture. Field crickets chirp; camel crickets are humpbacked and silent. BugBoss controls crickets by treating harborage and sealing the ground-level gaps they enter through.',

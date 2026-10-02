@@ -9,6 +9,7 @@ import Reviews from '@/components/Reviews.astro';
 import ClusterPosts from '@/components/ClusterPosts.astro';
 import { business } from '@/data/business';
 import { residentialServices, getResidentialService } from '@/data/residential-services';
+import { getTown } from '@/data/towns';
 import { getPest } from '@/data/pests';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
@@ -22,6 +23,17 @@ const url = `${business.url}/residential-pest-control/${s.slug}/`;
 const hubUrl = `${business.url}/residential-pest-control/`;
 
 const pests = s.pests.map((ps) => getPest(ps)).filter(Boolean);
+
+// Town x pest pages belonging to this spoke. The mosquito set is the reason
+// this exists: GSC shows "<town> mosquito control" is the heaviest query
+// cluster the site touches, and those pages need a parent that is the service
+// rather than only the pest-library entry. Any spoke whose pests have crossing
+// pages picks them up automatically.
+const spokePests = new Set(s.pests);
+const townCrossings = (await getCollection('townpests', (e) => spokePests.has(e.data.pest)))
+  .map((e) => ({ town: getTown(e.data.town)!, pest: e.data.pest }))
+  .filter((c) => c.town)
+  .sort((a, b) => a.town.name.localeCompare(b.town.name));
 
 // Deep long-form body (src/content/residential/<slug>.md), if present.
 const deepEntries = await getCollection('residential', (e) => e.data.service === s.slug);
@@ -77,6 +89,19 @@ const pageNodes = [
             {pests.map((p) => <a href={`/pest-library/${p!.slug}/`} class="tag">{p!.name}</a>)}
           </div>
           <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>
+        </>
+      )}
+
+      {townCrossings.length > 0 && (
+        <>
+          <h2>{s.short} where you are</h2>
+          <p>Water geography is local, and so is the answer. These pages cover what
+            actually drives the problem town by town.</p>
+          <div class="tag-grid">
+            {townCrossings.map((c) => (
+              <a href={`/service-area/${c.town.slug}/${c.pest}/`} class="tag">{c.town.name}</a>
+            ))}
+          </div>
         </>
       )}
 

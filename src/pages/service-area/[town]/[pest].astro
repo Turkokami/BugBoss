@@ -18,11 +18,11 @@ import ExpertBlock from '@/components/ExpertBlock.astro';
 import Faq from '@/components/Faq.astro';
 import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
-import { getTown } from '@/data/towns';
+import { getTown, townsWithPages } from '@/data/towns';
 import { getPest } from '@/data/pests';
 import { expertNote } from '@/data/expert-notes';
 import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
-import { townServiceNode } from '@/lib/geo';
+import { townServiceNode, proximityClause } from '@/lib/geo';
 
 export async function getStaticPaths() {
   // Declared inside: Astro hoists getStaticPaths, so it cannot see consts
@@ -40,6 +40,13 @@ const t = getTown(e.data.town)!;
 const p = getPest(e.data.pest)!;
 const url = `${business.url}/service-area/${t.slug}/${p.slug}/`;
 const note = expertNote(p.slug);
+// Towns below Tier 2 carry cluster 'area' and get no hub page, but they can
+// still earn a pest x city page where the demand justifies writing one. When
+// there is no hub, link and breadcrumb up to the service-area index instead --
+// otherwise every such page ships a link to a URL that was never built.
+const hasHub = townsWithPages.some((x) => x.slug === t.slug);
+const townHref = hasHub ? `/service-area/${t.slug}/` : '/service-area/';
+const townCrumb = { name: t.name, url: business.url + townHref };
 
 const pageNodes = [
   webPageNode({ url, name: e.data.title, description: e.data.answer, primaryEntityId: `${url}#service` }),
@@ -55,7 +62,7 @@ const pageNodes = [
   breadcrumbNode(url, [
     { name: 'Home', url: business.url + '/' },
     { name: 'Service Area', url: business.url + '/service-area/' },
-    { name: t.name, url: `${business.url}/service-area/${t.slug}/` },
+    townCrumb,
     { name: p.name, url },
   ]),
 ];
@@ -63,7 +70,7 @@ const pageNodes = [
 <BaseLayout title={e.data.title} description={e.data.answer} path={`/service-area/${t.slug}/${p.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · {p.name}</p>
+      <p class="eyebrow"><a href={townHref}>{t.name}</a> · {p.name}</p>
       <h1>{e.data.title}</h1>
       <AnswerBox text={e.data.answer} />
       {note && <ExpertBlock note={note} />}
@@ -72,8 +79,10 @@ const pageNodes = [
       <div class="callout">
         <p class="mt0">
           <strong>More on this:</strong> the full <a href={`/pest-library/${p.slug}/`}>{p.name.toLowerCase()} profile</a>
-          covers identification, biology and treatment in depth, and
-          <a href={`/service-area/${t.slug}/`}>{t.name} pest control</a> covers everything else we handle in town.
+          covers identification, biology and treatment in depth{hasHub ? ', and ' : '. '}
+          {hasHub
+            ? <><a href={townHref}>{t.name} pest control</a> covers everything else we handle in town.</>
+            : <>Our <a href="/residential-pest-control/mosquito-tick/">mosquito and tick control</a> page covers the service itself, and the <a href="/service-area/">service area</a> lists everywhere we work.</>}
         </p>
       </div>
     </div>
@@ -85,7 +94,7 @@ const pageNodes = [
   )}
   <Cta
     title={`${p.name} problem in ${t.name}?`}
-    sub={`Brian is ${t.local?.distanceMi === 0 ? 'right here in town' : `about ${t.local?.distanceMi} miles away in Clintonville`} — licensed, insured, and no long-term contract.`}
+    sub={`Brian is ${proximityClause(t)} — licensed, insured, and no long-term contract.`}
   />
   <style>
     .eyebrow a { color: var(--green-600); text-decoration: none; }

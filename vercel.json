@@ -386,7 +386,7 @@
     },
     {
       "source": "/grasshopper-cricket-control",
-      "destination": "/pest-library/crickets/",
+      "destination": "/pest-library/grasshoppers/",
       "permanent": true
     },
     {
