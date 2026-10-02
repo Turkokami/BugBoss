@@ -1,6 +1,7 @@
 ---
 title: "Winding Trails All Over My Lawn After the Snow Melted"
 answer: "Shallow surface runways appearing across a Northeast Wisconsin lawn at snowmelt are voles, not moles — voles tunnel at grass level under the snow all winter, moles push up soil ridges and mounds. Vole damage looks alarming in March and most lawns recover. What does not recover is a young tree they girdled under the snow. BugBoss handles control and the habitat changes that stop it recurring."
+metaDescription: "Vole runways in a Wisconsin lawn, revealed the week the snow melts. How to tell them from moles, what to do now, and the autumn fix for girdled trees."
 category: "Wildlife"
 order: 43
 faqs:

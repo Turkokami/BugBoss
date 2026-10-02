@@ -3,6 +3,7 @@ town: shawano
 pest: mosquitoes
 title: "Mosquito Control in Shawano, WI — Lake Properties & the Wolf River"
 answer: "Shawano has more surface water than anywhere else we work: Shawano Lake east of the city, the Wolf River through it, and a lot of marshy shoreline in between. That raises the baseline and it sets a ceiling. What we can change is the water on your own lot and the shaded harborage where the adults wait out the day — and on most Shawano properties that is enough to make the yard usable."
+metaDescription: "Mosquito control in Shawano, WI — lake and Wolf River property. What a treatment can do on a lakeshore lot, and the ceiling it will not get past."
 faqs:
   - q: "I'm on Shawano Lake. Is there any point treating?"
     a: "Yes, but go in with the right expectation. We cannot treat a 6,000-acre lake and nobody can. What we can do is remove the production happening on your own lot — which on lake properties is usually substantial and usually invisible to the owner — and treat the shaded vegetation where adults rest between feeds. On a typical lake lot that is the difference between unusable and pleasant, not between bad and perfect. Anybody promising you perfect on a lakeshore property is overselling."

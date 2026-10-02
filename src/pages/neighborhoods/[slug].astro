@@ -41,7 +41,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={n.data.title} description={n.data.answer} path={`/neighborhoods/${n.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={n.data.title} description={n.data.answer} metaDescription={n.data.metaDescription} path={`/neighborhoods/${n.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/neighborhoods/">Neighborhoods</a> · {cityPath ? <a href={cityPath}>{n.data.city}</a> : n.data.city}, {n.data.county}</p>

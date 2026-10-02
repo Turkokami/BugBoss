@@ -39,7 +39,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={c.data.title} description={c.data.answer} path={`/compliance/${c.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={c.data.title} description={c.data.answer} metaDescription={c.data.metaDescription} path={`/compliance/${c.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/compliance/">Compliance</a> · {c.data.audience}</p>

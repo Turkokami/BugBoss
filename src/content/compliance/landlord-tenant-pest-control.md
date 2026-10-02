@@ -4,6 +4,7 @@ short: "Landlord & tenant pest responsibility"
 audience: "Landlords & tenants"
 order: 10
 answer: "In Wisconsin, a landlord generally has to keep a rental fit to live in, and a serious infestation that was not the tenant's doing usually falls to the landlord to fix. Where the tenant caused or worsened it, the cost can shift. Wisconsin has no pest-specific statute — responsibility comes from habitability duties, ATCP 134, and your lease."
+metaDescription: "Who pays for pest control in a Wisconsin rental — the landlord’s habitability duty, the tenant’s access duty, and where the line actually falls."
 source: "Wisconsin Statutes ch. 704 (Landlord and Tenant) and Wis. Admin. Code ch. ATCP 134 (Residential Rental Practices), administered by the Wisconsin Department of Agriculture, Trade and Consumer Protection (DATCP). Local housing codes may impose stricter duties."
 sourceUrl: "https://datcp.wi.gov/Pages/Programs_Services/LandlordTenant.aspx"
 summary:

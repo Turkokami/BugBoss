@@ -3,6 +3,7 @@ town: bonduel
 pest: mosquitoes
 title: "Mosquito Control in Bonduel, WI — Farmyard Water & the Field Edge"
 answer: "Bonduel is a small village surrounded by dairy ground, and that shapes the mosquito problem more than anything in the village itself. The productive water here is agricultural — ditches, tire-weighted bunker covers, stock tanks, the low corner that never dries — and the harborage is the fence row. Work that stops at the lawn edge gets undone by the farmyard within a fortnight."
+metaDescription: "Mosquito control in Bonduel, WI — the farmyard is the hatchery. Bunker-cover tires, stock tanks and ditches, and why the lagoon is usually innocent."
 faqs:
   - q: "Why does a village this small have a mosquito problem at all?"
     a: "Because mosquito pressure tracks water and shade, not population. Bonduel has farmland on every side, and working agricultural ground holds standing water in more places than a subdivision does — field ditches, tile outlets, equipment, tanks, the corner that never drains. It also has fence rows and treelines, which is where adults spend daylight. A village of this size sitting in that landscape sees pressure a much larger town with less surrounding agriculture would not."

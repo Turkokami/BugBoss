@@ -3,6 +3,7 @@ title: "Pest Control in Allouez, WI"
 city: "Allouez"
 county: "Brown County"
 answer: "BugBoss The X-Terminator handles pest and wildlife problems in the Village of Allouez, Brown County — the established residential village on the Fox River between Green Bay and De Pere. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts, owner-direct."
+metaDescription: "Pest control and wildlife removal in Allouez, Green Bay — older established housing, mature trees, and the East River corridor behind a lot of the lots."
 order: 12
 faqs:
   - q: "Does BugBoss serve the Village of Allouez?"

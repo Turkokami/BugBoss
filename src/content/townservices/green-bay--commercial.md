@@ -3,6 +3,7 @@ town: green-bay
 service: commercial
 title: "Commercial Pest Control in Green Bay, WI"
 answer: "BugBoss takes commercial work in Green Bay selectively — property management and multi-unit buildings, food service, warehousing and distribution, and bird work on signage and parapets. Every visit produces a work order, anything a scheme wants on top is agreed before the program starts, and there is no long-term contract. Commercial accounts are invoiced Net 30."
+metaDescription: "Commercial pest control in Green Bay, taken selectively — property management and multi-unit, food service, warehousing. Work order every visit, no contract."
 faqs:
   - q: "Why would a Brown County business hire a company from Clintonville?"
     a: "For most routine accounts, it would not, and we would rather say that than win a job we are the wrong fit for. Where it changes is buildings with a wildlife or exclusion component, multi-unit property where the problem has run for years because it was scoped one unit at a time, and owners who want the person doing the work to be the person accountable for it. If what you need is a monthly walk-through with a sprayer, somebody closer will do that cheaper."

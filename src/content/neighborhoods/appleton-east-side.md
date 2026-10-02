@@ -3,6 +3,7 @@ title: "Pest Control in East Side Appleton, WI"
 city: "Appleton"
 county: "Outagamie County"
 answer: "BugBoss The X-Terminator serves Appleton's older east side near the Fox River — the Old Third Ward, Colony Oaks, and the streets around Lawrence University where Victorian and mid-century homes meet the water. We're the Clintonville-based rural specialist covering the Fox Valley edge for carpenter ants, cluster flies, mosquitoes, mice, and attic bats. No contract, owner-direct."
+metaDescription: "Pest control in Appleton’s east side — postwar housing, mature plantings and the creek and ravine corridors that drive the mosquito and fall-invader load."
 order: 4
 faqs:
   - q: "Does BugBoss do pest control on Appleton's east side?"

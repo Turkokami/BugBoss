@@ -3,6 +3,7 @@ title: "Pest Control in Historic Central, Appleton, WI"
 city: "Appleton"
 county: "Outagamie County"
 answer: "BugBoss The X-Terminator handles pest and wildlife problems in Appleton's Historic Central neighborhood, the older housing just north of downtown where the median home dates to the 1880s. We're the Clintonville-based rural specialist that also works the Fox Valley edge — carpenter ants, boxelder bugs, mice, and attic bats in century-old homes, with no contract."
+metaDescription: "Pest control in historic central Appleton — balloon-framed homes where an insect entering at the foundation has a clear route to a second-floor window."
 order: 1
 faqs:
   - q: "Does BugBoss do pest control in Historic Central Appleton?"

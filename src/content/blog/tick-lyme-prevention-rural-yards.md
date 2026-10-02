@@ -1,6 +1,7 @@
 ---
 title: "Tick & Lyme Prevention for Rural Wisconsin Yards"
 description: "Blacklegged ticks thrive where your lawn meets the woods. Here's how to make a rural Wisconsin yard less hospitable to ticks and cut your family's Lyme disease risk this spring and summer."
+metaDescription: "Lyme prevention in a rural Wisconsin yard — the deer tick, the 24-36 hour window, and the yard-edge band where the risk and the treatment both sit."
 pubDate: "2026-05-19"
 cluster: "mosquito-tick"
 window: "May–Jun"

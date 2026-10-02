@@ -3,6 +3,7 @@ town: manawa
 service: residential
 title: "Residential Pest Control in Manawa, WI"
 answer: "Manawa sits on the Little Wolf River with Bear Lake just north, and water is what shapes the home pest work here: mosquitoes off the low ground, cluster flies on river-facing walls, and the moisture pests that come with a high water table. Village homes, lake and river properties and surrounding farms each need something different. BugBoss is 14 miles northeast in Clintonville."
+metaDescription: "Residential pest control in Manawa, WI — the Little Wolf River and Bear Lake shape it: mosquitoes, moisture pests, fall cluster flies and farmhouse mice."
 faqs:
   - q: "Why are the mosquitoes so bad here, and can anything be done?"
     a: "The river corridor, Bear Lake and the low ground hold water and produce them — but the ones biting you in your own yard are mostly breeding in your own yard, in containers. Gutters, tarps, tires, boat covers, wheelbarrows, saucers under planters, the low spot that holds water a week after rain. Source reduction there plus treating the shaded resting sites where adults spend the day does considerably more than anything aimed at the open water, which is neither practical nor legal to treat wholesale."

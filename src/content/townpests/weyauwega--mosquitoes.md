@@ -3,6 +3,7 @@ town: weyauwega
 pest: mosquitoes
 title: "Mosquito Control in Weyauwega, WI — the Millpond & the Waupaca River"
 answer: "Weyauwega is built around a millpond on the Waupaca River, and a shallow impoundment with a weedy margin is a better mosquito producer than the river feeding it. Add the low, wet ground either side of the valley and you get pressure out of proportion to the size of the place. Your own lot is still where most of the controllable production is."
+metaDescription: "Mosquito control in Weyauwega, WI — a shallow millpond margin out-produces the river feeding it. Why the valley runs worse than the higher ground."
 faqs:
   - q: "Is the millpond the source?"
     a: "Partly, and specifically its edges rather than its middle. Open water with wind across it and fish in it is poor habitat for larvae. The weedy, sheltered margin is a different story — water standing undisturbed among vegetation, out of the wind and out of reach of fish, is close to ideal. So yes, the pond edge contributes, and no, there is nothing anyone should be doing to a public impoundment about it. What it means practically is that properties near the pond carry a raised baseline."

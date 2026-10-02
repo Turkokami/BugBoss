@@ -1,6 +1,7 @@
 ---
 title: "Chipmunks Have Tunnelled Under My Patio and Retaining Wall"
 answer: "One chipmunk is charming. Six of them tunnelling under a stoop, patio or retaining wall is a structural problem — the burrow network undermines the slab and the wall, and it does not resolve on its own. The entrance holes are clean and about two inches across with no soil mound, which is what tells you it is chipmunks. BugBoss handles removal and the barrier work that stops re-colonisation."
+metaDescription: "Chipmunks under a patio or steps — clean five-centimetre holes with no soil mound. What the tunnelling does to a slab, and how to close it for good."
 category: "Wildlife"
 order: 46
 faqs:

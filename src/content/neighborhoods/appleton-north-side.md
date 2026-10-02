@@ -3,6 +3,7 @@ title: "Pest Control in North Appleton, WI"
 city: "Appleton"
 county: "Outagamie County"
 answer: "BugBoss The X-Terminator serves North Appleton, the mixed residential area north of downtown where established streets meet new subdivisions along Ballard Road toward Grand Chute. We're the Clintonville-based rural specialist covering the Fox Valley edge — mice off former farm fields, cluster flies, carpenter ants, wasps, and attic wildlife. No contract, owner-direct."
+metaDescription: "Pest control on Appleton’s north side — newer subdivisions on former farmland, where first-few-autumn rodent and cluster fly pressure runs high."
 order: 3
 faqs:
   - q: "Does BugBoss cover the north side of Appleton?"

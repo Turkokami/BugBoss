@@ -3,6 +3,7 @@ town: marion
 service: wildlife
 title: "Wildlife Removal & Exclusion in Marion, WI"
 answer: "Wildlife work in Marion is barn work as much as house work. Bats in barn lofts and farmhouse attics, raccoons in outbuildings and chimneys, squirrels in soffits, skunks under decks and granary floors. BugBoss does the removal and the sealing and cleanup that follow — the two halves most companies split up — from 12 miles away in Clintonville."
+metaDescription: "Wildlife removal in Marion, WI — barn work as much as house work. Bats in lofts and attics, raccoons in outbuildings, and the exclusion that keeps them out."
 faqs:
   - q: "There are bats in my barn. Is that different from bats in a house?"
     a: "Legally, no — Wisconsin protects its bats wherever they roost, and exclusion is prohibited during the summer maternity season while flightless pups are present. Practically, a barn is harder: it has far more entry points than a house, the roost is often high in a loft, and the structure was never built to be sealed. That usually means a staged job, prioritizing the areas that matter to you rather than pretending an old barn can be made airtight."

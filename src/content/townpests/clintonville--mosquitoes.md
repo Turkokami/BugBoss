@@ -3,6 +3,7 @@ town: clintonville
 pest: mosquitoes
 title: "Mosquito Control in Clintonville, WI — the Pigeon River & the Field Edge"
 answer: "Clintonville is home base for BugBoss, so a mosquito call here is a same-town walk-round rather than a truck sent up from the Fox Valley. The Pigeon River running through the village is not what is breeding them. What breeds them is standing water inside your own lot line, and on most Clintonville properties it comes down to about six things."
+metaDescription: "Mosquito control in Clintonville — the Pigeon River is not breeding them. The containers on your own lot are, and why treatment timing beats frequency."
 faqs:
   - q: "Does the Pigeon River cause the mosquito problem in town?"
     a: "Not directly, and this is the single most useful thing to understand before spending money. Mosquitoes cannot breed in moving water — the larvae need water that stands undisturbed for the better part of a week. The Pigeon is doing nothing except raising humidity and providing shade, both of which help adults survive longer. What is producing the mosquitoes biting you on your deck is almost always water on your own property, within a short flight of where you are standing."

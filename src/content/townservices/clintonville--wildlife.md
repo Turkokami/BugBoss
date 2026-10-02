@@ -3,6 +3,7 @@ town: clintonville
 service: wildlife
 title: "Wildlife Removal & Exclusion in Clintonville, WI"
 answer: "BugBoss does wildlife work out of Clintonville itself — bats, raccoons, squirrels, skunks and the rest — including the two halves most companies split up: getting the animal out, and then sealing and cleaning the building so the next one cannot move in. The village's older housing stock, with its deep attics and original soffit runs, is why there is so much of this work here."
+metaDescription: "Wildlife removal in Clintonville — bats, raccoons, squirrels and skunks, plus the sealing and cleanup most companies leave to somebody else. Same-town call."
 faqs:
   - q: "There is something in my attic right now. What should I do first?"
     a: "Note the time of day it is active before you do anything else, because that identifies the animal better than anything you would see up there. Scratching and rolling at dawn and dusk with silence overnight is squirrels. Heavy, deliberate thumping after dark is a raccoon. Fast light skittering at night is mice. Squeaking and rustling at dusk from a wall or soffit is bats. Then call — and do not go up to look, particularly if it might be a raccoon or bats."

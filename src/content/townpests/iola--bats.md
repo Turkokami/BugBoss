@@ -3,6 +3,7 @@ town: iola
 pest: bats
 title: "Bat Removal in Iola, WI — Cabins, Cottages & the Chain O' Lakes"
 answer: "Iola sits in the middle of Chain O' Lakes cabin country, and seasonal cottages are close to ideal bat roosts — quiet, undisturbed, and empty for the months a maternity colony needs. Wisconsin bat exclusion is legally timed around the pup season, so the window matters more here than the method. BugBoss inspects, times the work lawfully, and seals the roofline."
+metaDescription: "Bats in Iola, WI — Chain O’ Lakes cabins are close to ideal roosts: quiet, unoccupied and warm. Wisconsin’s exclusion calendar and what it means for you."
 faqs:
   - q: "Why do cabins around Iola get bats so often?"
     a: "Because a seasonal property offers exactly what a maternity colony wants: quiet, undisturbed, warm under the roof, and nobody there for months at a stretch. A cabin closed from October and reopened at Memorial Day is unoccupied through the entire period a colony forms and raises pups. Add the wooded lots and water of the Chain O' Lakes region, which support the insects bats feed on, and you have as good a set of conditions as exists in this part of Wisconsin."

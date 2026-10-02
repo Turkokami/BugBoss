@@ -405,6 +405,11 @@ for (const file of files) {
   const d = m[1];
   if (d.length > 158) fail(page, 'meta-description-too-long', `${d.length} chars`);
   if (d.length < 70) fail(page, 'meta-description-too-short', `${d.length} chars`);
+  // A trailing ellipsis means the layout had to machine-cut the Quick Answer
+  // because no metaDescription was written. Every page had one of these once;
+  // none does now, so a new one means a new page shipped without a written
+  // description. Write one rather than relaxing this.
+  if (d.endsWith('\u2026')) fail(page, 'meta-description-not-written', 'falling back to a trimmed answer');
 }
 
 // --- Report ----------------------------------------------------------------

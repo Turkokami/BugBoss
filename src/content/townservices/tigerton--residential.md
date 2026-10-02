@@ -3,6 +3,7 @@ town: tigerton
 service: residential
 title: "Residential Pest Control in Tigerton, WI"
 answer: "Tigerton is a Shawano County village on the Embarrass River, ringed by farmland and woodlots, and the home pest work here is dominated by two things: rodents coming off the fields every autumn, and fall invaders overwintering in the walls of older farmhouses and village homes. Both are solved by timing and sealing rather than by spraying. BugBoss is 17 miles south in Clintonville."
+metaDescription: "Residential pest control in Tigerton, WI — an Embarrass River village ringed by farmland and woodlots. Fall mice, cluster flies, carpenter ants, attic bats."
 faqs:
   - q: "Why do the mice come back every single fall no matter what I do?"
     a: "Because the source is the section around your house, not the house itself. Fields, fencerows, woodlot edges and the outbuildings all hold populations that reload every October, and trapping indoors removes the ones you caught rather than the ones producing them. What changes the outcome is sealing the building — a mouse needs about a quarter inch — and dealing with the outbuildings and feed at the same time, so the pole barn stops refilling the house."

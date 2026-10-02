@@ -3,6 +3,7 @@ town: green-bay
 service: wildlife
 title: "Wildlife Removal & Exclusion in Green Bay, WI"
 answer: "This is the reason a Clintonville company drives into Green Bay at all. Most pest firms serving the metro do not do wildlife — they treat insects and rodents and refer an animal in a wall out to somebody else, or to nobody. BugBoss does the eviction, the sealing and the cleanup as one job, and has the Green Bay case study to point at."
+metaDescription: "Wildlife removal in Green Bay — the work most metro pest firms will not touch. Animals out, building sealed, attic cleaned and reinsulated."
 faqs:
   - q: "Why won't my Green Bay pest company deal with the raccoon in my wall?"
     a: "Because wildlife is a different trade from pest control. It needs roof and ladder work, building repair skills, knowledge of the protection rules for each species, and a willingness to schedule around an animal rather than a route. Most metro pest companies are built around recurring chemical service, and an animal in a structure does not fit that model — so it gets referred out, often to a trapper who removes the animal and leaves the hole."

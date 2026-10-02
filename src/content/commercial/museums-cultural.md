@@ -3,6 +3,7 @@ title: "Museum & Cultural Institution Pest Control in Wisconsin"
 industry: "Museums & Cultural"
 category: "Specialty"
 answer: "Museum pest control protects irreplaceable collections from carpet beetles, clothes moths, silverfish, booklice, and powderpost and cigarette beetles using monitoring, inspection, and quarantine — not broadcast pesticides near artifacts. BugBoss The X-Terminator brings true collections-grade IPM, still rare in Central and Northeast Wisconsin, to museums, historical societies, libraries, and archives from Clintonville."
+metaDescription: "Collections pest management — carpet beetles, clothes moths, silverfish and powderpost beetles. Monitoring and quarantine, not spraying near artifacts."
 order: 50
 faqs:
   - q: "Why can't a museum use the same pest control as a store or office?"

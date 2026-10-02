@@ -1,6 +1,7 @@
 ---
 title: "Campground, RV Park & Marina Pest Control in the Waupaca Lakes Region"
 answer: "Campgrounds, RV parks, and marinas in the Waupaca lakes region face mosquitoes and ticks from the wooded, watery terrain, wasps around sites and buildings, rodents in seasonal cabins and stored equipment, and bed bugs in rentals. BugBoss The X-Terminator builds documented, guest-focused programs for these seasonal operations across the Chain O' Lakes corridor."
+metaDescription: "Pest management for Wisconsin campgrounds, RV parks and marinas — refuse, bathhouses, firewood, shoreline mosquitoes and wildlife around sites."
 category: "Commercial"
 order: 7
 faqs:

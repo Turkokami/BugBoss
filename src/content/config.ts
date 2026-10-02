@@ -28,6 +28,9 @@ const pests = defineCollection({
 const guides = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     title: z.string(),
     answer: z.string(),
     category: z.string().default('Guide'),
@@ -39,6 +42,9 @@ const guides = defineCollection({
 const blog = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     title: z.string(),
     description: z.string(),
     pubDate: z.string(),
@@ -58,6 +64,9 @@ const blog = defineCollection({
 const neighborhoods = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     title: z.string(),
     city: z.string(),
     county: z.string(),
@@ -71,6 +80,9 @@ const neighborhoods = defineCollection({
 const problems = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     title: z.string(),
     answer: z.string(),
     category: z.string().default('Problem'),
@@ -83,6 +95,9 @@ const problems = defineCollection({
 const commercial = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     title: z.string(),
     industry: z.string(),      // short label for cards/nav
     category: z.string(),      // group heading on the hub
@@ -97,6 +112,9 @@ const commercial = defineCollection({
 const residential = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     service: z.string(),
     title: z.string(),
     answer: z.string(),
@@ -111,6 +129,9 @@ const residential = defineCollection({
 const compliance = defineCollection({
   type: 'content',
   schema: z.object({
+    // Search-result description, <=158 chars. Without one the layout trims
+    // `answer`, which is written for the page rather than for a result.
+    metaDescription: z.string().max(158).optional(),
     title: z.string(),
     short: z.string(),          // nav/card label
     audience: z.string(),       // who the rule applies to, for the card
@@ -145,6 +166,10 @@ const townpests = defineCollection({
     pest: z.string(),           // pest slug, must exist in pests.ts
     title: z.string(),
     answer: z.string(),
+    // Search-result description. The `answer` is written to be read on the
+    // page and runs well past the ~158 characters a result shows, so without
+    // this the layout trims it mid-thought. See src/lib/meta.ts.
+    metaDescription: z.string().max(158).optional(),
     faqs: faq.default([]),
   }),
 });
@@ -189,6 +214,8 @@ const townservices = defineCollection({
     service: z.enum(['residential', 'commercial', 'wildlife']),
     title: z.string(),
     answer: z.string(),
+    // See townpests above -- same reason, same budget.
+    metaDescription: z.string().max(158).optional(),
     faqs: faq.default([]),
   }),
 });

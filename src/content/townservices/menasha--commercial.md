@@ -3,6 +3,7 @@ town: menasha
 service: commercial
 title: "Commercial Pest Control in Menasha, WI"
 answer: "Commercial work in Menasha is mostly property management. The town's older rental and mill-era stock generates multi-unit bed bug, cockroach and rodent problems that only end when the building is scoped as one job rather than unit by unit. BugBoss took an eight-plex here from a multi-year infestation to zero. No long-term contract; Net 30."
+metaDescription: "Commercial pest control in Menasha — mostly property management. Older rental and mill-era stock, where bed bugs and roaches need the building scoped as one."
 faqs:
   - q: "We have treated the same building for years and it never clears. Why?"
     a: "Almost certainly because it has been treated unit by unit. Bed bugs and cockroaches move along plumbing chases, electrical runs, shared wall voids and hallways, so a population treated in one apartment relocates to its neighbors and returns later. Each individual treatment works, which is what makes it so frustrating — the product was never the problem. A building with activity in more than one unit has to be inspected and scheduled as a single job."

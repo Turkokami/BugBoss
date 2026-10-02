@@ -3,6 +3,7 @@ title: "Grocery & Convenience Store Pest Control in Northeast Wisconsin"
 industry: "Grocery & Convenience"
 category: "Food & Beverage"
 answer: "Grocery and convenience store pest control in northeast Wisconsin means passing Wisconsin Food Code (ATCP 75) health inspections and AIB-style facility audits across a building that combines a receiving dock, back-of-house storage, and open retail floor. BugBoss The X-Terminator runs IPM-based programs for grocers and c-stores — dock and stockroom monitoring, exclusion, and a work order for every visit — with no long-term contract."
+metaDescription: "Pest control for Wisconsin grocers and c-stores — the dock, the baler, the bulk aisle and the produce drains. ATCP 75 inspections, AIB audits, no contract."
 order: 3
 faqs:
   - q: "What rules apply to pest control in a Wisconsin grocery or convenience store?"

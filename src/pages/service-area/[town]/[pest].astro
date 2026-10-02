@@ -67,7 +67,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={e.data.title} description={e.data.answer} path={`/service-area/${t.slug}/${p.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={e.data.title} description={e.data.answer} metaDescription={e.data.metaDescription} path={`/service-area/${t.slug}/${p.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href={townHref}>{t.name}</a> · {p.name}</p>

@@ -1,6 +1,7 @@
 ---
 title: "Carpenter Ants in the Deck or Porch"
 answer: "Big black ants swarming a deck or porch mean carpenter ants are tunneling moisture-softened wood — posts, joists, ledger boards, and stair stringers where water collects. They don't eat the wood; they hollow it for nests. BugBoss locates the parent and satellite nests, treats the colony at its source, and pinpoints the moisture feeding it."
+metaDescription: "Carpenter ants in a deck mean wet wood before they mean ants. Where to look — ledger, post bases, joist bearings — and why spraying the trail fails."
 category: "Ants & Other"
 order: 40
 faqs:

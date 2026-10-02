@@ -3,6 +3,7 @@ town: iola
 service: wildlife
 title: "Wildlife Removal & Exclusion in Iola, WI"
 answer: "Wildlife work around Iola is cabin and cottage work. Bats in cottage attics are the most common call by a distance — older seasonal buildings with open soffits are ideal roosts, and an undisturbed building gets colonized. BugBoss does the eviction, the sealing, and the guano and insulation cleanup, working to the DNR's maternity calendar rather than the customer's schedule."
+metaDescription: "Wildlife removal in Iola, WI — cabin and cottage work in Chain O’ Lakes country. Bats in cottage attics are the most common call here by a wide margin."
 faqs:
   - q: "I found bats when I opened the cabin. Can you get them out now?"
     a: "Possibly not immediately, and this is the awkward collision at the heart of cabin bat work. Wisconsin protects its bats and exclusion is prohibited during the summer maternity season, which is exactly when you are at the property to discover them. A June or July discovery normally means a full inspection now — finding every exit, sizing the colony, planning the seal — with the exclusion booked for the first legal date. Sealing during the closed period kills flightless pups inside your ceiling."

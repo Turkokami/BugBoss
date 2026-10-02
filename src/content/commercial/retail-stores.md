@@ -3,6 +3,7 @@ title: "Retail Store Pest Control in Northeast Wisconsin"
 industry: "Retail Stores"
 category: "Retail & Hospitality"
 answer: "BugBoss provides discreet, documented pest control for retail stores across Central and Northeast Wisconsin — from Main Street shops to grocery and convenience stores. We target rodents, stored-product insects, storefront fly and bird pressure, and the receiving-dock and back-room activity that drives shrink, product damage, and food-code violations. No long-term contract."
+metaDescription: "Pest control for Wisconsin retail — receiving dock, stockroom cardboard, stored-product insects and the sales floor. Serviced around your hours, no contract."
 order: 20
 faqs:
   - q: "What are the most common pests in Wisconsin retail stores?"

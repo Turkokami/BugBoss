@@ -3,6 +3,7 @@ town: green-bay
 service: residential
 title: "Residential Pest Control in Green Bay, WI"
 answer: "BugBoss serves Green Bay homes from Clintonville, about 45 minutes southwest. For a routine call in the middle of the city a Brown County company will reach you sooner, and we will say so. Where we are the better choice is older-home exclusion, wildlife in a structure, and the problems that keep coming back because nobody closed the way in. No long-term contract."
+metaDescription: "Residential pest control in Green Bay from Clintonville, 45 minutes out. Best for older-home exclusion and problems nobody ever closed the way in on."
 faqs:
   - q: "Are you actually going to drive to Green Bay for a house call?"
     a: "Yes, and it is a real 45 minutes rather than a marketing radius, so it is worth being straight about what that means. Scheduled work is a good fit: exclusion, a fall invader program, a wildlife job, a bed bug or cockroach treatment. A same-hour emergency is not — a company based in Brown County will be there first, and you should call them rather than lose an afternoon waiting on us."

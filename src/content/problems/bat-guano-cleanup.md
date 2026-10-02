@@ -1,6 +1,7 @@
 ---
 title: "Bat Guano Cleanup and Attic Decontamination"
 answer: "After bats are gone, an attic full of guano is a health and structural problem: droppings can harbor the histoplasmosis fungus, ruin insulation, and hold odor. In Wisconsin the cleanup follows a DNR-compliant exclusion done outside the June 1–July 31 maternity window. BugBoss removes and disinfects the guano, replaces fouled insulation, and seals the roofline."
+metaDescription: "Bat guano cleanup in a Wisconsin attic — never swept or vacuumed dry. Why the exclusion has to happen first, and when the insulation has to come out."
 category: "Wildlife"
 order: 16
 faqs:

@@ -3,6 +3,7 @@ town: manawa
 service: wildlife
 title: "Wildlife Removal & Exclusion in Manawa, WI"
 answer: "Manawa's wildlife work splits between structures and water. Bats, raccoons and squirrels in village and lake-property attics, plus the Little Wolf River and Bear Lake corridor animals — muskrats undermining banks, beavers plugging culverts and flooding low ground, and skunks and groundhogs under decks. BugBoss does the removal, the sealing and the cleanup."
+metaDescription: "Wildlife removal in Manawa, WI — bats, raccoons and squirrels in village and lake-property attics, plus the water-side animals the Little Wolf brings in."
 faqs:
   - q: "Something is denning under my lake cottage. What is it?"
     a: "Usually a skunk, a groundhog or a raccoon, and the opening tends to identify it. A four-to-six-inch hole with a fan of excavated soil is a groundhog; a skunk uses something similar and eventually makes itself known; a raccoon needs a bigger gap and tends to exploit a damaged corner or skirt rather than dig. Before you close anything, work out whether there are young inside — between roughly March and June there is a real chance, and a sealed burrow with a litter in it is the worst available outcome."

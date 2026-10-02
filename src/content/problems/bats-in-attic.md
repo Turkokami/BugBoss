@@ -1,6 +1,7 @@
 ---
 title: "Bats in the Attic: What to Do in Wisconsin"
 answer: "Bats in a Wisconsin attic get removed by humane exclusion — one-way doors at the exits so bats leave to feed and can't return — never by sealing them in or spraying. It's timing-sensitive: state law bars closing exits June 1–July 31, when flightless pups are inside. BugBoss does legal bat exclusion and guano cleanup across Waupaca and Shawano counties."
+metaDescription: "Bats in a Wisconsin attic — the maternity-season rule decides the whole job. Why sealing the entry yourself is illegal, and what the exclusion involves."
 category: "Wildlife"
 order: 10
 faqs:

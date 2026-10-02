@@ -3,6 +3,7 @@ town: howard
 pest: mosquitoes
 title: "Mosquito Control in Howard, WI — Duck Creek & the New Subdivisions"
 answer: "Howard combines two things that each raise mosquito pressure: the Duck Creek corridor with its low wet margins, and a lot of recent subdivision built on former farmland where the drainage has not settled yet. New construction is frequently worse than older neighborhoods for the first few seasons, which surprises people. Both problems respond to the same work."
+metaDescription: "Mosquito control in Howard, WI — the Duck Creek corridor plus new subdivisions where the grading has not settled. New builds are often worse, not better."
 faqs:
   - q: "My subdivision is almost new. Why is it worse than my parents' older street?"
     a: "Because the ground has not settled and the landscape has not grown in. New construction leaves grade imperfections, compacted soil that sheds water into low spots, unestablished drainage, and often a retention basin doing its job by holding water. Add builder-grade gutter and downspout work that nobody has yet discovered is holding water, and a three-year-old subdivision can out-produce a fifty-year-old street comfortably. It usually improves as grading settles and planting matures."

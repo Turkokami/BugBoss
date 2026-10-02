@@ -1,6 +1,7 @@
 ---
 title: "Squirrels in the Attic"
 answer: "Squirrels get into Northeast Wisconsin attics through soffit gaps, gable vents, and chewed fascia, usually to den and raise litters born in late winter and midsummer. The fix is a one-way door to let them out, then sealing every entry with steel — not poison or a single trap. BugBoss excludes them and repairs the openings."
+metaDescription: "Squirrels in a Wisconsin attic — dawn and dusk scratching, silence overnight. Why you must not seal the hole yet, and why exclusion beats trapping."
 category: "Wildlife"
 order: 13
 faqs:

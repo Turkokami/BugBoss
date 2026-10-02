@@ -2,6 +2,7 @@
 service: ant-control
 title: "Ant & Carpenter Ant Control in Northeast Wisconsin: Nuisance Trails vs. Structural Damage"
 answer: "Most ants in Northeast Wisconsin homes are nuisance species trailing in for food and moisture, but carpenter ants are a structural threat that hollows out moist wood in framing, trim, and decks. Spraying trails only kills foragers while the nest keeps producing. BugBoss identifies the species, treats the colony at its source, finds the parent and satellite nests, and corrects the moisture that feeds carpenter ants."
+metaDescription: "Ant control in Northeast Wisconsin — telling pavement and odorous house ants from carpenter ants, and why spraying the trail usually makes it worse."
 faqs:
   - q: "How do I tell carpenter ants apart from regular nuisance ants?"
     a: "Size and season are the two best clues. Carpenter ants are large — workers run up to about half an inch, and they are usually black or very dark, sometimes with a reddish tint. Nuisance ants like pavement ants and odorous house ants are small, roughly an eighth of an inch. The timing matters just as much: if you are seeing big black ants walking across the kitchen floor in January or February, when everything outdoors is frozen and dormant, that points to a colony living inside the heated structure rather than foraging in from the yard. Coarse sawdust-like frass and springtime winged swarmers seal the identification."

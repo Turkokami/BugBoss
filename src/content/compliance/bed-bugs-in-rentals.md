@@ -4,6 +4,7 @@ short: "Bed bugs in rentals"
 audience: "Landlords & tenants"
 order: 20
 answer: "Wisconsin has no bed-bug-specific statute. Responsibility comes from the landlord's duty to keep the property habitable, the lease, and who caused the infestation — which is usually impossible to prove. In practice the landlord normally has to arrange treatment, the tenant has to prepare the unit and allow access, and arguing about blame just lets the bugs spread."
+metaDescription: "Bed bugs in a Wisconsin rental — no statute names them, so it falls to habitability, the lease and access. Who normally pays, and what to do first."
 source: "Wisconsin Statutes ch. 704 (Landlord and Tenant) and Wis. Admin. Code ch. ATCP 134 (Residential Rental Practices), administered by DATCP. Local housing codes may impose additional duties. No Wisconsin statute addresses bed bugs specifically."
 sourceUrl: "https://datcp.wi.gov/Pages/Programs_Services/LandlordTenant.aspx"
 summary:

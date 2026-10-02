@@ -3,6 +3,7 @@ town: clintonville
 service: commercial
 title: "Commercial Pest Control in Clintonville, WI"
 answer: "BugBoss handles commercial pest control in Clintonville from a storefront on Main Street — restaurants and bars downtown, the grocery and convenience trade, rental property, schools and care facilities, and the manufacturing and agricultural buildings around the village. Every visit produces a work order. No long-term contract, and commercial accounts are invoiced Net 30."
+metaDescription: "Commercial pest control in Clintonville from a Main Street storefront. Restaurants, rental property, schools and ag buildings. Work order every visit, Net 30."
 faqs:
   - q: "What documentation do I get after a visit?"
     a: "A work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme or a franchise brand standard, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."

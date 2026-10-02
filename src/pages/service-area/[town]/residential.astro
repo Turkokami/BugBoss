@@ -33,6 +33,8 @@ const faqs = [
   { q: `Is there a contract for home service in ${t.name}?`, a: `No. ${t.name} homeowners get one-time or seasonal service with no long-term contract and no cancellation fee.` },
 ];
 const answerFinal = deep?.data.answer ?? answer;
+// Search-result description, where the spoke's content file supplies one.
+const metaFinal = deep?.data.metaDescription;
 const faqsFinal = deep?.data.faqs?.length ? deep.data.faqs : faqs;
 const pageNodes = [
   webPageNode({ url, name: `Residential Pest Control in ${t.name}, WI`, description: deep?.data.answer ?? answer, primaryEntityId: `${url}#service` }),
@@ -46,7 +48,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={`Residential Pest Control in ${t.name}, WI`} description={answerFinal} path={`/service-area/${t.slug}/residential/`} pageNodes={pageNodes}>
+<BaseLayout title={`Residential Pest Control in ${t.name}, WI`} description={answerFinal} metaDescription={metaFinal} path={`/service-area/${t.slug}/residential/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Residential</p>

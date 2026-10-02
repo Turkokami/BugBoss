@@ -1,6 +1,7 @@
 ---
 title: "Bats in the Barn"
 answer: "Bats in a barn are usually a maternity colony roosting in the loft or peak, and they're doing you a favor eating insects — but guano buildup over feed, stalls, and equipment is the problem. The fix is the same legal exclusion as a house, timed around the June 1–July 31 maternity window. BugBoss handles barn bat exclusion and cleanup across the region's farms."
+metaDescription: "Bats in a Wisconsin barn — often working for you until the guano piles up. Catching it, redirecting it, or excluding, and the calendar that still applies."
 category: "Wildlife"
 order: 11
 faqs:

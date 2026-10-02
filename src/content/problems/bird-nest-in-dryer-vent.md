@@ -1,6 +1,7 @@
 ---
 title: "A Bird Has Nested in My Dryer Vent"
 answer: "Starlings and house sparrows nest in Northeast Wisconsin dryer, bath and stove vents every spring, and the packed nest blocks airflow — which is a genuine fire risk on a dryer line, not just a nuisance. Clearing it is only half the job: without a proper vent guard the same opening is reoccupied within weeks. BugBoss removes the nest, cleans the duct, and fits a guard that still lets the vent operate."
+metaDescription: "A bird nest in a dryer vent is a fire risk and a mite problem. What to do first, when it is legal to clear, and the damper that stops it repeating."
 category: "Wildlife"
 order: 40
 faqs:

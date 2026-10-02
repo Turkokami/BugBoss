@@ -2,6 +2,7 @@
 service: bed-bug-treatment
 title: "Bed Bug Treatment in Northeast Wisconsin: Inspection, Preparation & Follow-Up"
 answer: "Bed bugs are hitchhikers, not a verdict on your housekeeping. They ride home in luggage and used furniture, hide in mattress seams and headboards, and feed at night. They resist over-the-counter sprays, so DIY usually fails and lets them rebound. BugBoss inspects, confirms, and treats thoroughly, gives you clear preparation steps, and follows up. Discreet service, no contract, free up-front quote."
+metaDescription: "Bed bug treatment in Northeast Wisconsin — preparation, follow-up timed to egg hatch, and why a shared building has to be scoped as one job, not one unit."
 faqs:
   - q: "How did I get bed bugs — is it because my house is dirty?"
     a: "No. Bed bugs are hitchhikers, not a sign of a dirty home, and they turn up in spotless houses, high-end hotels, and brand-new apartments alike. They travel in luggage, in the seams of a bag set down in an infested room, on used furniture and mattresses, in secondhand clothing, and sometimes through shared walls in multi-family buildings. What they need is a warm host to feed on and cracks to hide in, and every home has both. Getting bed bugs says nothing about how clean or careful you are. It usually just means you slept somewhere, sat somewhere, or brought something home that already had them."

@@ -1,6 +1,7 @@
 ---
 title: "Dairy Farm & Agricultural Pest Management in Northeast Wisconsin"
 answer: "Dairy and ag pest management in northeast Wisconsin means controlling stable, house, and face flies at their manure and spoiled-feed breeding sites, keeping rodents out of feed rooms and silage, and protecting the milkhouse. BugBoss The X-Terminator builds documented, farm-specific IPM programs for barns and outbuildings — not a residential spray route."
+metaDescription: "Pest control on a Wisconsin dairy — stable and house flies, parlor and feed-room rodents, bunker-cover mosquitoes, and bats in the barn. Label and feed rules."
 category: "Agricultural"
 order: 5
 faqs:

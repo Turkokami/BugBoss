@@ -3,6 +3,7 @@ town: hortonville
 pest: mosquitoes
 title: "Mosquito Control in Hortonville, WI — Black Otter Lake & the Farm Margin"
 answer: "Hortonville is a small village with one body of still water sitting in the middle of it and farmland on every side. That combination — a shallow impoundment plus agricultural drainage — is why mosquito pressure here runs ahead of what a village this size would suggest. The fix is the same as anywhere: find the water on your own lot first, then treat the shade where the adults wait."
+metaDescription: "Mosquito control in Hortonville, WI — Black Otter Lake’s weedy margin plus farm drainage. Why a village this size sees pressure a bigger town would not."
 faqs:
   - q: "Is Black Otter Lake breeding the mosquitoes in the village?"
     a: "Less than people assume, and the distinction is worth understanding. Open water with wind on it and fish in it is poor larval habitat. What produces around a shallow impoundment is the vegetated margin — the still, weedy edge where water sits undisturbed out of the wind. So some production is genuinely coming off the lake edge, but on most village properties the larger share is on the property itself, and that is the half you can actually do something about."

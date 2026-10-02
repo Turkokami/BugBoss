@@ -3,6 +3,7 @@ title: "Warehouse & Distribution Center Pest Control in Wisconsin"
 industry: "Warehousing & Distribution"
 category: "Manufacturing & Industrial"
 answer: "BugBoss The X-Terminator builds documented pest programs for warehouses and distribution centers across Central and Northeast Wisconsin — numbered perimeter rodent lines, loading-dock exclusion, high-bay bird management, and stored-product insect monitoring built around FSMA, AIB, and customer audit expectations, scheduled around your operation, with no long-term contract."
+metaDescription: "Pest control for Wisconsin warehouses and DCs — the dock bank, perimeter rodent line, racking spillage, stored-product monitoring and high-bay birds."
 order: 11
 faqs:
   - q: "What makes a warehouse harder to protect than other buildings?"

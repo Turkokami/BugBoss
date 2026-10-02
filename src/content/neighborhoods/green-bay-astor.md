@@ -3,6 +3,7 @@ title: "Pest Control in Astor, WI"
 city: "Green Bay"
 county: "Brown County"
 answer: "BugBoss The X-Terminator handles pest and wildlife problems in Green Bay's historic Astor neighborhood, Brown County — the older homes near the Fox River and downtown. We're a Clintonville-based rural specialist reaching the metro edge for problem-first jobs: cluster flies, mice, carpenter ants, and bats in old attics. No contracts."
+metaDescription: "Pest control in the Astor neighborhood, Green Bay — century-old balloon-framed homes, deep attics, and the fall invaders that turn up upstairs in February."
 order: 10
 faqs:
   - q: "Does BugBoss cover the Astor neighborhood in Green Bay?"

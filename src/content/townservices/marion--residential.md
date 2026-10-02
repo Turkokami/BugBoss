@@ -3,6 +3,7 @@ town: marion
 service: residential
 title: "Residential Pest Control in Marion, WI"
 answer: "Marion sits on the Waupaca–Shawano county line in dairy country, and that is what drives the home pest work here: farmhouses and village homes ringed by fields, pole barns and grain storage. The pressure arrives from outside the house rather than being generated inside it, which is why treating the house alone rarely holds. BugBoss is 12 miles southeast in Clintonville."
+metaDescription: "Residential pest control in Marion, WI — dairy country on the county line, so farmhouse mice off the fields, cluster flies, carpenter ants and attic bats."
 faqs:
   - q: "Why do I keep getting mice back after treating?"
     a: "Because in Marion the mice are not coming from your house, they are coming from the section around it. Fields, fencerows, ditches, the pole barn, and the grain storage all hold populations that reload every autumn no matter how many you catch indoors. Trapping is harvesting, not control. What ends the cycle is sealing the building — a mouse needs about a quarter inch — and dealing with the outbuildings and feed at the same time, or the barn simply refills the house."

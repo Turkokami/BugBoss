@@ -9,6 +9,7 @@ import Cta from '@/components/Cta.astro';
 import { business, cityState } from '@/data/business';
 import { pests, getPest, type PestCategory } from '@/data/pests';
 import { getPestId } from '@/data/pest-id';
+import { pestMeta } from '@/data/pest-meta';
 import { getTown } from '@/data/towns';
 import { expertNote } from '@/data/expert-notes';
 import { webPageNode, faqPageNode, breadcrumbNode, articleNode } from '@/lib/schema';
@@ -86,7 +87,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={`${pest.name} in Northeast Wisconsin`} description={answer} path={`/pest-library/${pest.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={`${pest.name} in Northeast Wisconsin`} description={answer} metaDescription={pestMeta[pest.slug]} path={`/pest-library/${pest.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/pest-library/">Pest Library</a> · {pest.season}</p>

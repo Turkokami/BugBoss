@@ -1,6 +1,7 @@
 ---
 title: "Deer Mice and Hantavirus: Safe Cleanup in Rural Wisconsin"
 answer: "Deer mice are the primary hantavirus carrier, and the risk comes from breathing dust when dried droppings and nests are stirred up — sweeping a cabin, cleaning a shed. The rule is never dry-sweep or vacuum: ventilate first, wet everything with disinfectant, wipe up in gloves and a respirator. BugBoss handles safe cleanup and exclusion across rural Waupaca County."
+metaDescription: "Deer mouse droppings in a Wisconsin cabin or shed. The disease is rare; the mistake that spreads it is common. The safe cleanup procedure, step by step."
 category: "Rodents"
 order: 5
 faqs:

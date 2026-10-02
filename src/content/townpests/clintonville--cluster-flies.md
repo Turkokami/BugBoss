@@ -3,6 +3,7 @@ town: clintonville
 pest: cluster-flies
 title: "Cluster Fly Control in Clintonville, WI"
 answer: "Clintonville's older Main Street homes and the farm properties on the edge of town are prime cluster fly territory — the larvae develop in earthworms in the surrounding lawn and pasture, so the pressure comes from the land itself. BugBoss is based at 600 S. Main St., so treatment here is a same-town call timed to early September, before they get into the walls."
+metaDescription: "Cluster flies in Clintonville — older Main Street homes and farm properties are prime territory. Why September treatment works and October treatment does not."
 faqs:
   - q: "Why does Clintonville get cluster flies so badly?"
     a: "Because of what surrounds the town rather than anything about the houses. Cluster fly larvae parasitise earthworms in the soil, so the population is produced by lawn, pasture and field — and Clintonville is a small village with farmland starting almost immediately past the last street. Properties on the edge of town and along the Pigeon River corridor get the heaviest pressure, but even downtown homes with mature lawns produce plenty locally. It has nothing to do with how clean the house is."

@@ -3,6 +3,7 @@ title: "Manufacturing & Industrial Pest Control in Northeast Wisconsin"
 industry: "Manufacturing & Industrial"
 category: "Manufacturing & Industrial"
 answer: "BugBoss The X-Terminator provides documented pest control for manufacturing and industrial plants across Central and Northeast Wisconsin — perimeter rodent programs, loading-dock and high-bay exclusion, bird management, and fly control built to satisfy OSHA sanitation rules and customer QA audits, scheduled around your shifts, with no long-term contract."
+metaDescription: "Pest control for Wisconsin plants and machine shops — dock exclusion, perimeter rodent lines, high-bay birds, break rooms. Built around customer audits."
 order: 10
 faqs:
   - q: "Do you understand large industrial facilities, or just small shops?"

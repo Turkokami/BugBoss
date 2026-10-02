@@ -3,6 +3,7 @@ town: tigerton
 service: wildlife
 title: "Wildlife Removal & Exclusion in Tigerton, WI"
 answer: "Wildlife work around Tigerton means older structures — farmhouses with deep attics, barns, granaries and machine sheds ringed by woodlots that supply the animals. Bats and squirrels are the most common, raccoons the most destructive. BugBoss does the eviction, the sealing and the cleanup, because out here there is generally nobody else to hand the second half to."
+metaDescription: "Wildlife removal in Tigerton, WI — older structures, deep farmhouse attics, barns, granaries and machine sheds. Animals out, building sealed, mess cleaned up."
 faqs:
   - q: "Why won't my pest control company deal with the animal in my attic?"
     a: "Because wildlife is a different trade. It needs roof work, building repair skills, knowledge of the protection rules for each species, and a willingness to schedule around an animal rather than a route. Most pest companies treat insects and rodents and refer wildlife out — which out in Shawano County frequently means referring it to nobody. That gap is why we do both halves."

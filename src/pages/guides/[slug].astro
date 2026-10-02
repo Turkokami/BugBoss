@@ -24,7 +24,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={g.data.title} description={g.data.answer} path={`/guides/${g.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={g.data.title} description={g.data.answer} metaDescription={g.data.metaDescription} path={`/guides/${g.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/guides/">Guides</a> · {g.data.category}</p>

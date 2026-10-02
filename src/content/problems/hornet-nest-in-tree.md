@@ -1,6 +1,7 @@
 ---
 title: "Bald-Faced Hornet Nest in a Tree or on the House"
 answer: "The big gray, football-shaped paper nest hanging in a tree or on your house is a bald-faced hornet colony — a large, aggressive black-and-white yellowjacket relative. A mature nest holds hundreds of workers that defend it hard. BugBoss reaches high nests safely and treats so the product penetrates the envelope and reaches the colony inside, not just the surface."
+metaDescription: "A bald-faced hornet nest in a tree — distance from the door matters more than size. Which can be left until frost, and which cannot wait."
 category: "Stinging Insects"
 order: 32
 faqs:

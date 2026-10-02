@@ -3,6 +3,7 @@ town: appleton
 pest: mosquitoes
 title: "Mosquito Control in Appleton, WI — Ravines, Creek Corridors & the Fox"
 answer: "Appleton's mosquito geography is not really the Fox River. It is the ravines and creek corridors cut into the city — shaded, damp, vegetated, and running right up to the back of residential lots. BugBoss comes down from Clintonville for scheduled work; a Fox Valley company will be faster for an emergency. What we treat is your harborage and your standing water, which is the part anybody can actually change."
+metaDescription: "Mosquito control in Appleton, WI — the ravines and creek corridors, not the Fox. Why a lot backing onto one runs worse, and why a lawn fog does little."
 faqs:
   - q: "Should I use a Clintonville company in Appleton at all?"
     a: "For planned seasonal work, yes, and we are straight about where the line falls. An Appleton or Fox Valley company will reach you sooner if you need somebody today. The reasons to use us are a program somebody actually walks rather than fogs, honesty about what will and will not work on your specific lot, and the fact that we do wildlife and exclusion as well — so one person covers the mosquitoes, the bats and the squirrel in the soffit. If speed is the priority, call someone closer."

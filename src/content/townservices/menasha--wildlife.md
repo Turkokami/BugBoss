@@ -3,6 +3,7 @@ town: menasha
 service: wildlife
 title: "Wildlife Removal & Exclusion in Menasha, WI"
 answer: "Menasha's wildlife work is mostly older buildings and water. Bats in mill-era and converted structures, squirrels and raccoons in the postwar neighborhoods, nuisance birds on commercial buildings, and muskrats undermining banks along the channel and the lakefront. BugBoss does the eviction, the sealing and the cleanup — which most Fox Valley pest routes will not."
+metaDescription: "Wildlife removal in Menasha — bats in mill-era and converted buildings, squirrels and raccoons in older attics, plus the sealing and cleanup that finish it."
 faqs:
   - q: "Why won't my regular pest company handle the animal in my attic?"
     a: "Because wildlife is a different trade from pest control. It needs roof and ladder work, building repair skills, species-by-species legal knowledge, and a willingness to schedule around an animal rather than a route. Most Fox Valley pest companies are built around recurring chemical service and refer wildlife out — to a trapper who removes the animal and leaves the hole, or to nobody at all."

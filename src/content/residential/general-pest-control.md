@@ -2,6 +2,7 @@
 service: general-pest-control
 title: "General & Recurring Pest Control in Northeast Wisconsin: One Service That Keeps the Everyday Bugs Out"
 answer: "General pest control is the backbone service that keeps the everyday nuisance insects out of your home — ants, spiders, crickets, silverfish, centipedes, earwigs, flies, and gnats. BugBoss treats the interior problem areas, lays an exterior barrier, and targets the source instead of blanket spraying. Choose a one-time visit or a recurring seasonal plan; there is never a long-term contract."
+metaDescription: "General pest control for Northeast Wisconsin homes — quarterly or one-time, your call. What the guarantee covers, what it excludes, and no long-term contract."
 faqs:
   - q: "What does general pest control actually cover?"
     a: "It covers the common household insects that turn up in almost every home — ants, spiders, crickets, silverfish, centipedes, earwigs, nuisance flies, and the small flies people call gnats. The service pairs a targeted interior treatment with an exterior barrier around the foundation and entry points, so it handles both the bugs you are seeing now and the pressure pushing in from outside. It does not cover the specialty problems that need their own approach — rodents, cockroaches, bed bugs, stinging insects, and the fall-invader complex each have a dedicated service. When you call, we will tell you plainly whether general pest control is the right fit or whether what you have needs one of the specialty services instead."

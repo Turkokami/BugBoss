@@ -3,6 +3,7 @@ title: "Restaurant & Food Service Pest Control in Northeast Wisconsin"
 industry: "Restaurants & Food Service"
 category: "Food & Beverage"
 answer: "Restaurant and food service pest control in northeast Wisconsin means meeting the Wisconsin Food Code (ATCP 75) at every DATCP or local health-department inspection while keeping German cockroaches, rodents, and drain flies out of a live kitchen. BugBoss The X-Terminator runs documented, IPM-based programs built for restaurants — inspection-ready, discreet, and with no long-term contract."
+metaDescription: "Restaurant pest control in Northeast Wisconsin — drains, the cook line, the back door. Meeting ATCP 75 at inspection, with a work order every visit."
 order: 1
 faqs:
   - q: "What does the Wisconsin Food Code require restaurants to do about pests?"

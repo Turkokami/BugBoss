@@ -3,6 +3,7 @@ title: "Pest Control in Preble, WI"
 city: "Green Bay"
 county: "Brown County"
 answer: "BugBoss The X-Terminator handles pest and wildlife problems on Green Bay's east side in the Preble area, Brown County — mid-century homes near the East River and newer subdivisions farther east. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+metaDescription: "Pest control in Preble, Green Bay — postwar ranches and capes, with the Baird Creek greenway pushing mice, squirrels and fall invaders into the blocks."
 order: 11
 faqs:
   - q: "Does BugBoss serve the Preble area on Green Bay's east side?"

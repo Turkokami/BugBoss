@@ -3,6 +3,7 @@ town: embarrass
 service: wildlife
 title: "Wildlife Removal & Exclusion in Embarrass, WI"
 answer: "Embarrass is six miles from the BugBoss shop, so wildlife calls here get a fast inspection — which matters more than it sounds, because the first useful thing on any wildlife job is finding every entry point before anything gets sealed. Bats in attics and outbuildings, raccoons, squirrels, and the river corridor's share of skunks and groundhogs under decks and sheds."
+metaDescription: "Wildlife removal in Embarrass, WI — six miles from the shop, so a fast inspection, which matters more on a wildlife call than people expect. No contract."
 faqs:
   - q: "Why does the inspection matter more than the removal?"
     a: "Because the entry point is what decides whether the job holds, and there is almost always more than one. A first attempt fails when somebody removes the animal and seals the opening they could see, leaving the two they did not find. Being ten minutes away means we can come and read the roofline properly before anybody commits to anything, which is genuinely the highest-value part of the visit."

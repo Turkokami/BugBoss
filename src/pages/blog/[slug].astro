@@ -33,7 +33,7 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={p.data.title} description={p.data.description} path={`/blog/${p.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={p.data.title} description={p.data.description} metaDescription={p.data.metaDescription} path={`/blog/${p.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/blog/">Blog</a>{p.data.window ? ` · ${p.data.window}` : ''}</p>

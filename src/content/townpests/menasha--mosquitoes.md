@@ -3,6 +3,7 @@ town: menasha
 pest: mosquitoes
 title: "Mosquito Control in Menasha, WI — the One Lake Insect You Can Actually Treat"
 answer: "Menasha gets two completely different insect problems off the water and they need opposite answers. The midge and mayfly hatches off Lake Winnebago cannot be treated and nobody should sell you a treatment for them. Mosquitoes can, because they breed in standing water on land — in your gutters, your containers and the sheltered margins — and that is work with a real result."
+metaDescription: "Mosquito control in Menasha, WI — the lake hatch cannot be treated and nobody should sell you a treatment for it. Mosquitoes can, because they breed on land."
 faqs:
   - q: "How do I tell a mosquito problem from the lake hatch?"
     a: "Behavior and bite. Lake flies come off the water in enormous synchronised clouds, swarm lights and walls, do not bite, and are gone in days. Mosquitoes arrive in smaller numbers, work at dawn and dusk, come at you individually, and bite. If your complaint is a wall covered in insects after a still warm night, that is a hatch and no treatment touches it. If your complaint is that you cannot sit out at seven in the evening, that is mosquitoes and it is addressable."

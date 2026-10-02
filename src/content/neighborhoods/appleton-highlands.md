@@ -3,6 +3,7 @@ title: "Pest Control in the Highlands, Appleton, WI"
 city: "Appleton"
 county: "Outagamie County"
 answer: "BugBoss The X-Terminator serves Appleton's west-side Highlands neighborhood, the established mid-century area around Highlands Elementary and the Memorial Drive corridor. We're the Clintonville-based rural specialist that also covers the Fox Valley edge — ranch and Cape Cod homes bring carpenter ants, fall mice, cluster flies, wasps, and attic bats. No contract, owner-direct."
+metaDescription: "Pest control in the Appleton Highlands — larger lots, heavy tree cover and ravine edges, which means carpenter ants, fall invaders and attic wildlife."
 order: 2
 faqs:
   - q: "Does BugBoss do pest control in the Highlands neighborhood of Appleton?"

@@ -3,6 +3,7 @@ title: "Food Processing & Packaging Pest Control in Wisconsin"
 industry: "Food Processing & Packaging"
 category: "Food & Beverage"
 answer: "Food processing and packaging pest control in Wisconsin means running a pest program that satisfies FDA FSMA (21 CFR Part 117), your HACCP and preventive-controls plan, GMPs, and third-party audits like SQF, BRCGS, and AIB — plus USDA FSIS where you handle meat or poultry. BugBoss The X-Terminator builds IPM-based programs around monitoring, exclusion and targeted treatment for plants across Central and Northeast Wisconsin, with a work order for every visit and the rest of the record-keeping agreed against your scheme before the program starts."
+metaDescription: "Documented IPM for Wisconsin food plants — FSMA, HACCP, SQF, BRCGS and AIB. What an auditor checks, and where our records end and your QA team’s begin."
 order: 2
 faqs:
   - q: "What does FSMA require for pest control in a food processing plant?"

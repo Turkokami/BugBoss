@@ -1,6 +1,7 @@
 ---
 title: "Mice in the Pole Barn: How to Get Them Out and Keep Them Out"
 answer: "Pole barns get mice because they're built for equipment, not a tight seal — gaps under doors, open ribbed-panel ends, and unsealed slab joints let field mice walk right in. Trapping thins them, but the fix is exclusion plus removing stored feed. BugBoss seals and clears pole barns across Waupaca and Shawano counties."
+metaDescription: "Mice in a Wisconsin pole barn — the gap under the metal skirting is the way in. Feed storage, door seals, and why traps alone never finish the job."
 category: "Rodents"
 order: 1
 faqs:

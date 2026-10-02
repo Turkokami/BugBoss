@@ -3,6 +3,7 @@ title: "Veterinary Clinic & Kennel Pest Control in Northeast Wisconsin"
 industry: "Veterinary & Kennels"
 category: "Agricultural"
 answer: "Veterinary and kennel pest control in northeast Wisconsin means managing fleas, brown dog ticks, rodents around feed and boarding, and filth flies around live animals with low-impact, label-compliant IPM instead of broadcast spraying. BugBoss The X-Terminator builds documented, animal-safe programs for clinics, boarding kennels, and shelters around Clintonville, Shawano, and Waupaca."
+metaDescription: "Pest control for Wisconsin vet clinics and kennels — fleas, brown dog ticks, filth flies and feed-room rodents, with low-impact products around live animals."
 order: 42
 faqs:
   - q: "Is pest control safe to do inside a veterinary clinic or boarding kennel with animals present?"

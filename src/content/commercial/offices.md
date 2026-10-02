@@ -3,6 +3,7 @@ title: "Office & Commercial Building Pest Control in Northeast Wisconsin"
 industry: "Office Buildings"
 category: "Institutional & Healthcare"
 answer: "BugBoss The X-Terminator provides discreet, low-disruption pest control for offices and commercial buildings across Central and Northeast Wisconsin — targeting mice, ants, and the fall invaders that swarm the walls every autumn, protecting break rooms and multi-tenant common areas, scheduled around your business hours, with documentation on file and no long-term contract."
+metaDescription: "Discreet pest control for Wisconsin office buildings — break rooms, refuse handling, entry doors, and the fall invaders staff actually complain about."
 order: 32
 faqs:
   - q: "What pests actually show up in a Wisconsin office?"
