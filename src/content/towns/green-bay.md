@@ -1,7 +1,7 @@
 ---
 town: green-bay
 title: "Pest Control & Wildlife Removal in Green Bay, WI"
-answer: "BugBoss The X-Terminator works as an exterminator and wildlife company in Green Bay, from Clintonville about 45 minutes southwest. We are not the highest-volume option in Brown County and we do not try to be — what brings us into the city is the work the metro pest routes decline: wildlife in a structure, exclusion on older housing, and jobs that need somebody willing to get on the roof. No long-term contract, and you deal with the owner."
+answer: "BugBoss The X-Terminator works as an exterminator and wildlife company in Green Bay, from Clintonville about 45 minutes southwest. We are not the highest-volume option in Brown County and do not try to be. What brings us into the city is the work metro pest routes decline: wildlife in a structure, and exclusion on older housing. No long-term contract."
 faqs:
   - q: "Do you actually cover Green Bay, or just the rural towns?"
     a: "We cover it, and it is worth being straight about how. Green Bay is about 45 minutes from our shop in Clintonville, which is a normal drive for us and a real one — we are not going to pretend we are around the corner. What that distance means in practice is that we are the right call for scheduled work: a wildlife job, an exclusion project, a bed bug or cockroach program, a fall invader treatment. For a same-hour emergency in the middle of the city, a company based in Brown County will beat us on response time, and we will say so."
