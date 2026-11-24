@@ -424,6 +424,30 @@ for (const file of files) {
   }
 }
 
+// Vercel runs vercel.json's buildCommand in preference to package.json's build
+// script, so the two diverging means the site you test is not the site that
+// deploys. That happened once: an inline buildCommand omitted
+// split-sitemap.mjs, and production quietly lost all 11 tier sitemaps while
+// every local build still produced them. Require buildCommand to defer to the
+// package script rather than restate it.
+{
+  const vercel = JSON.parse(readFileSync('vercel.json', 'utf8'));
+  const cmd = vercel.buildCommand;
+  if (cmd && cmd.trim() !== 'npm run build') {
+    fail('vercel.json', 'build-command-divergence',
+      `buildCommand should be "npm run build", not "${cmd}"`);
+  }
+}
+
+// The split sitemaps are what Search Console has. Losing them is invisible in
+// a page-by-page check, so assert the tier files exist in the built output.
+{
+  const tiers = readdirSync(DIST).filter((f) => /^sitemap-.*\.xml$/.test(f) && f !== 'sitemap-index.xml');
+  if (tiers.length < 10) {
+    fail('/sitemap-index.xml', 'sitemap-tiers-missing', `${tiers.length} tier sitemaps, expected 11`);
+  }
+}
+
 // --- Report ----------------------------------------------------------------
 const byCheck = failures.reduce((acc, f) => ((acc[f.check] ??= []).push(f), acc), {});
 console.log(`\nAcceptance gate — ${counts.pages} pages checked\n`);
