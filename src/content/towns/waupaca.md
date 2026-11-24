@@ -1,7 +1,7 @@
 ---
 town: waupaca
 title: "Pest Control & Wildlife Removal in Waupaca, WI"
-answer: "BugBoss The X-Terminator provides pest control and wildlife removal in Waupaca, WI — the county seat and gateway to the Chain O' Lakes and the Crystal River. We specialize in seasonal-cabin mice and cluster flies, lake-country mosquitoes, carpenter ants, wasps, and attic bats, raccoons, and squirrels — family-owned, no long-term contract, and built for cabin opening and closing service."
+answer: "BugBoss The X-Terminator is the exterminator and wildlife company for Waupaca, WI — the county seat and gateway to the Chain O' Lakes and the Crystal River. We specialize in seasonal-cabin mice and cluster flies, lake-country mosquitoes, carpenter ants, wasps, and attic bats, raccoons, and squirrels — family-owned, no long-term contract, and built for cabin opening and closing service."
 faqs:
   - q: "Does BugBoss provide pest control in Waupaca, WI?"
     a: "Yes. BugBoss The X-Terminator serves all of Waupaca and the Chain O' Lakes from our base at 600 S. Main St. in Clintonville, a short drive north. We handle year-round homes in town, seasonal cabins and lake homes across the 22-lake chain, the downtown business district, and the tourism and lodging trade — both pest control and wildlife removal."

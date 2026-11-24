@@ -1,7 +1,7 @@
 ---
 town: shawano
 title: "Pest Control & Wildlife Removal in Shawano, WI"
-answer: "BugBoss The X-Terminator handles pest control and wildlife removal in Shawano, WI — the Shawano County seat on Shawano Lake and the Wolf River. We take on lakefront mosquitoes and cluster flies, fall mice, carpenter ants, wasps, and attic bats, raccoons, and squirrels — family-owned, no long-term contract, and wildlife work most local competitors won't touch."
+answer: "BugBoss The X-Terminator is an exterminator and wildlife company serving Shawano, WI — the Shawano County seat on Shawano Lake and the Wolf River. We take on lakefront mosquitoes and cluster flies, fall mice, carpenter ants, wasps, and attic bats, raccoons, and squirrels — family-owned, no long-term contract, and wildlife work most local competitors won't touch."
 faqs:
   - q: "Does BugBoss provide pest control in Shawano, WI?"
     a: "Yes. BugBoss The X-Terminator serves all of Shawano and the surrounding Shawano County from our base at 600 S. Main St. in Clintonville, a short drive south. We handle year-round homes in town, lakefront properties on Shawano Lake, the downtown business district, and the farms and woodlots around the city — both pest control and wildlife removal."

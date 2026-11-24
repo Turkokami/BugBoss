@@ -1,7 +1,7 @@
 ---
 town: appleton
 title: "Pest Control & Wildlife Removal in Appleton, WI"
-answer: "BugBoss The X-Terminator serves Appleton from Clintonville, about thirty minutes north. We are deliberately not competing on speed here — a Fox Valley company will reach you sooner for a same-day call, and we will tell you so. What brings us down is narrower: older-home exclusion, wildlife in a structure, the ravine-corridor tick and mosquito work, and commercial accounts that want the owner rather than a route technician. No long-term contract."
+answer: "BugBoss The X-Terminator is the exterminator and wildlife company for Appleton, working from Clintonville about thirty minutes north. We are deliberately not competing on speed here — a Fox Valley company will reach you sooner for a same-day call, and we will tell you so. What brings us down is narrower: older-home exclusion, wildlife in a structure, the ravine-corridor tick and mosquito work, and commercial accounts that want the owner rather than a route technician. No long-term contract."
 faqs:
   - q: "Why would I hire a company from thirty minutes away?"
     a: "For some jobs you should not, and we would rather say that up front. If you need somebody at your door this afternoon, call an Appleton or Fox Valley company — they will beat us and that is simply geography. The reasons people here do call us are specific: wildlife in a structure, which most metro pest routes refer out or decline; exclusion on older housing, which is carpentry more than chemistry; tick and mosquito work on the ravine corridors, which needs somebody who will walk the property line rather than fog a lawn; and commercial accounts where dealing with the owner directly is worth more than a faster truck."

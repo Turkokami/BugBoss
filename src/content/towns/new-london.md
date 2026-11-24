@@ -1,7 +1,7 @@
 ---
 town: new-london
 title: "Pest Control & Wildlife Removal in New London, WI"
-answer: "BugBoss The X-Terminator provides pest control and wildlife removal in New London, WI — the river city on the Waupaca–Outagamie county line where the Wolf and Embarrass Rivers meet. We handle riverfront mosquitoes and cluster flies, fall mice, carpenter ants, wasps, and attic bats, raccoons, and squirrels — family-owned, no long-term contract, and wildlife work under the same roof."
+answer: "BugBoss The X-Terminator works as exterminator and wildlife company in New London, WI — the river city on the Waupaca–Outagamie county line where the Wolf and Embarrass Rivers meet. We handle riverfront mosquitoes and cluster flies, fall mice, carpenter ants, wasps, and attic bats, raccoons, and squirrels — family-owned, no long-term contract, and wildlife work under the same roof."
 faqs:
   - q: "Does BugBoss provide pest control in New London, WI?"
     a: "Yes. BugBoss The X-Terminator serves all of New London from our base at 600 S. Main St. in Clintonville, a short drive west. We cover homes on both sides of the Waupaca–Outagamie county line, riverfront properties along the Wolf and Embarrass, the downtown business district, and the surrounding farm country — both pest control and wildlife removal."

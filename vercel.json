@@ -46,52 +46,52 @@
     },
     {
       "source": "/appleton-commercial-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/commercial/",
       "permanent": true
     },
     {
       "source": "/appleton-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/",
       "permanent": true
     },
     {
       "source": "/appleton-residential-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/residential/",
       "permanent": true
     },
     {
       "source": "/appleton-wildlife-removal",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/wildlife/",
       "permanent": true
     },
     {
       "source": "/appleton-wisconsin-commercial-business-industrial-pest-control-company",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/commercial/",
       "permanent": true
     },
     {
       "source": "/appleton-wisconsin-commercial-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/commercial/",
       "permanent": true
     },
     {
       "source": "/appleton-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/",
       "permanent": true
     },
     {
       "source": "/appleton-wisconsin-residential-home-pest-control-exterminator",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/residential/",
       "permanent": true
     },
     {
       "source": "/appleton-wisconsin-residential-pest-control-management",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/residential/",
       "permanent": true
     },
     {
       "source": "/appleton-wisconsin-wildlife-control-removal",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/appleton/wildlife/",
       "permanent": true
     },
     {
@@ -246,52 +246,52 @@
     },
     {
       "source": "/de-pere-commercial-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
       "source": "/de-pere-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/",
       "permanent": true
     },
     {
       "source": "/de-pere-residential-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/de-pere-wildlife-removal",
-      "destination": "/neighborhoods/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
       "source": "/de-pere-wisconsin-commercial-business-industrial-pest-control-company",
-      "destination": "/neighborhoods/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
       "source": "/de-pere-wisconsin-commercial-pest-control",
-      "destination": "/neighborhoods/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
       "source": "/de-pere-wisconsin-pest-animal-wildlife-control-exterminator-residential-commercial",
-      "destination": "/neighborhoods/",
+      "destination": "/service-area/",
       "permanent": true
     },
     {
       "source": "/de-pere-wisconsin-residential-home-pest-control-exterminator",
-      "destination": "/neighborhoods/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/de-pere-wisconsin-residential-pest-control-management",
-      "destination": "/neighborhoods/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/de-pere-wisconsin-wildlife-control-removal",
-      "destination": "/neighborhoods/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
@@ -531,7 +531,7 @@
     },
     {
       "source": "/howard-commercial-pest-control",
-      "destination": "/service-area/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
@@ -541,12 +541,12 @@
     },
     {
       "source": "/howard-residential-pest-control",
-      "destination": "/service-area/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/howard-wildlife-removal",
-      "destination": "/service-area/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
@@ -566,7 +566,7 @@
     },
     {
       "source": "/kaukauna-commercial-pest-control",
-      "destination": "/service-area/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
@@ -576,12 +576,12 @@
     },
     {
       "source": "/kaukauna-residential-pest-control",
-      "destination": "/service-area/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/kaukauna-wildlife-removal",
-      "destination": "/service-area/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
@@ -791,7 +791,7 @@
     },
     {
       "source": "/neenah-commercial-pest-control",
-      "destination": "/service-area/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
@@ -801,22 +801,22 @@
     },
     {
       "source": "/neenah-residential-pest-control",
-      "destination": "/service-area/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/neenah-wildlife-removal",
-      "destination": "/service-area/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
       "source": "/neenah-wisconsin-commercial-business-industrial-pest-control-company",
-      "destination": "/service-area/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
       "source": "/neenah-wisconsin-commercial-pest-control",
-      "destination": "/service-area/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
@@ -826,17 +826,17 @@
     },
     {
       "source": "/neenah-wisconsin-residential-home-pest-control-exterminator",
-      "destination": "/service-area/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/neenah-wisconsin-residential-pest-control-management",
-      "destination": "/service-area/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/neenah-wisconsin-wildlife-control-removal",
-      "destination": "/service-area/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
@@ -1126,7 +1126,7 @@
     },
     {
       "source": "/suamico-commercial-pest-control",
-      "destination": "/service-area/",
+      "destination": "/commercial-pest-control/",
       "permanent": true
     },
     {
@@ -1136,12 +1136,12 @@
     },
     {
       "source": "/suamico-residential-pest-control",
-      "destination": "/service-area/",
+      "destination": "/residential-pest-control/",
       "permanent": true
     },
     {
       "source": "/suamico-wildlife-removal",
-      "destination": "/service-area/",
+      "destination": "/wildlife-removal/",
       "permanent": true
     },
     {
@@ -1181,7 +1181,7 @@
     },
     {
       "source": "/top-pest-wildlife-problems-in-northern-wisconsin-and-how-bugboss-solves-them",
-      "destination": "/pest-library/",
+      "destination": "/pest-problems/",
       "permanent": true
     },
     {

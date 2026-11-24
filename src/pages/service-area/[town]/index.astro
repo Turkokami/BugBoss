@@ -7,7 +7,7 @@ import Cta from '@/components/Cta.astro';
 import { business } from '@/data/business';
 import { townsWithPages, getTown, hasResidentialSpoke, hasCommercialSpoke, hasWildlifeSpoke } from '@/data/towns';
 import { getPest } from '@/data/pests';
-import { proximityLine, townHubFaqs, townServiceNode, genericLocal } from '@/lib/geo';
+import { proximityLine, townHubFaqs, townServiceNode, genericLocal, townSeoTitle } from '@/lib/geo';
 import { townMeta } from '@/data/town-meta';
 import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 
@@ -32,9 +32,21 @@ const deep = deepEntries[0];
 // §4.1 local proof: a real job done in this town beats any amount of
 // "we serve the area" copy. Matched on the case study's recorded location, so
 // a town only shows one if a job actually happened there.
-const townCases = (await getCollection('caseStudies'))
-  .filter((c) => c.data.town?.split(',')[0].trim().toLowerCase().replace(/\s+/g, '-') === t.slug)
-  .sort((a, b) => a.data.order - b.data.order);
+const allCases = (await getCollection('caseStudies')).sort((a, b) => a.data.order - b.data.order);
+const townCases = allCases.filter(
+  (c) => c.data.town?.split(',')[0].trim().toLowerCase().replace(/\s+/g, '-') === t.slug,
+);
+// Most towns have no published job of their own, and we are not going to
+// invent one. Show two real jobs from elsewhere in the service area instead,
+// labeled as elsewhere -- proof that the work is real without implying it
+// happened here. Picked by slug so a given town always shows the same two.
+const nearbyCases =
+  townCases.length > 0
+    ? []
+    : (() => {
+        const seed = [...t.slug].reduce((n, ch) => n + ch.charCodeAt(0), 0);
+        return [allCases[seed % allCases.length], allCases[(seed + 1) % allCases.length]].filter(Boolean);
+      })();
 
 let Body: any = null;
 if (deep) Body = (await render(deep)).Content;
@@ -60,11 +72,11 @@ const pageNodes = [
   ]),
 ];
 ---
-<BaseLayout title={deep?.data.title ?? `Pest Control & Wildlife Removal in ${t.name}, WI`} description={answer} metaDescription={townMeta[t.slug]} path={`/service-area/${t.slug}/`} pageNodes={pageNodes}>
+<BaseLayout title={deep?.data.seoTitle ?? townSeoTitle(t)} description={answer} metaDescription={townMeta[t.slug]} path={`/service-area/${t.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
       <p class="eyebrow"><a href="/service-area/">Service Area</a> · {t.county}</p>
-      <h1>Pest Control &amp; Wildlife Removal in {t.name}, WI</h1>
+      <h1>Pest Control &amp; Exterminator in {t.name}, WI</h1>
       <AnswerBox text={answer} />
 
       {spokes.length > 0 && (
@@ -106,6 +118,22 @@ const pageNodes = [
           {townCases.map((c) => (
             <a class="case-card" href={`/case-studies/${c.slug}/`}>
               <span class="tag">{c.data.pestLabel}</span>
+              <strong>{c.data.title}</strong>
+              <span class="case-outcome">{c.data.outcome}</span>
+            </a>
+          ))}
+        </>
+      )}
+
+      {nearbyCases.length > 0 && (
+        <>
+          <h2>Jobs we can point to nearby</h2>
+          <p>We have no published job in {t.name} yet. These were done elsewhere in
+            the same service area, and they are the kind of work {t.name} calls us
+            for. Every one is a real job with a real outcome.</p>
+          {nearbyCases.map((c) => (
+            <a class="case-card" href={`/case-studies/${c.slug}/`}>
+              <span class="tag">{c.data.pestLabel} · {c.data.town}</span>
               <strong>{c.data.title}</strong>
               <span class="case-outcome">{c.data.outcome}</span>
             </a>

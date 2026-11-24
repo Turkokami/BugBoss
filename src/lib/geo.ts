@@ -31,6 +31,24 @@ export function genericLocal(t: Town): NonNullable<Town['local']> {
 // it produced the literal string "about undefined miles away in Clintonville"
 // on every pest x city page for such a town. Guard here rather than at each
 // call site, so the next template to want this phrase cannot reintroduce it.
+// Exact-match <title> for a town hub. The searches people actually run are
+// "pest control <town> wi", "exterminator <town> wi" and "<town> exterminator"
+// -- so the title leads with that phrasing rather than with a sentence, and it
+// carries "exterminator", a word the hubs did not contain at all despite the
+// business trading as The X-Terminator.
+//
+// Returns the longest variant that still leaves room for BaseLayout to append
+// " | BugBoss" inside the 60-character budget, falling back to a longer
+// brandless title only if even the shortest variant cannot take the suffix.
+export function townSeoTitle(t: Town): string {
+  const variants = [
+    `Pest Control ${t.name} WI | Exterminator & Wildlife`,
+    `Pest Control ${t.name} WI | Exterminator`,
+    `Pest Control ${t.name} WI`,
+  ];
+  return variants.find((v) => v.length <= 50) ?? variants[variants.length - 1];
+}
+
 export function proximityClause(t: Town): string {
   const mi = t.local?.distanceMi;
   if (mi === 0) return 'right here in town';
@@ -55,7 +73,7 @@ export function townHubFaqs(t: Town) {
   return [
     {
       q: `Does BugBoss provide pest control in ${t.name}, WI?`,
-      a: `Yes. BugBoss The X-Terminator serves ${t.name} in ${t.county} for residential and commercial pest control and wildlife removal. We’re based ${near}, so ${t.name} is squarely within our core service area.`,
+      a: `Yes. BugBoss The X-Terminator works as both the exterminator and the wildlife company for ${t.name} in ${t.county} — residential and commercial pest control plus removal and exclusion, which most firms out here split between two vendors. We’re based ${near}, so ${t.name} is squarely within our core service area.`,
     },
     {
       q: `What pests are most common in ${t.name}?`,

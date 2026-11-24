@@ -6,6 +6,10 @@ const faq = z.array(z.object({ q: z.string(), a: z.string() }));
 const towns = defineCollection({
   type: 'content',
   schema: z.object({
+    // Optional exact-match <title> override. Without one the hub derives it
+    // from the town name (see townSeoTitle in src/lib/geo.ts); `title` is the
+    // page's own heading text and is not used as the search-result title.
+    seoTitle: z.string().max(60).optional(),
     town: z.string(),
     title: z.string(),
     answer: z.string(),

@@ -1,7 +1,7 @@
 ---
 town: clintonville
 title: "Pest Control & Wildlife Removal in Clintonville, WI"
-answer: "BugBoss The X-Terminator is Clintonville's local pest control and wildlife company, based right downtown at 600 S. Main St. We handle cluster flies and boxelder bugs, fall mice, carpenter ants along the Pigeon River, wasps, and attic wildlife like bats and raccoons — family-owned, licensed, and with no long-term contract."
+answer: "BugBoss The X-Terminator is Clintonville's local exterminator and wildlife company, based right downtown at 600 S. Main St. We handle cluster flies and boxelder bugs, fall mice, carpenter ants along the Pigeon River, wasps, and attic wildlife like bats and raccoons — family-owned, licensed, and with no long-term contract."
 faqs:
   - q: "Does BugBoss provide pest control in Clintonville, WI?"
     a: "Yes. BugBoss The X-Terminator is based in Clintonville — our storefront is at 600 S. Main St., right in town. Clintonville isn't a town we drive out to; it's home base, which means fast, often same-day response for both pest control and wildlife problems across the city and the surrounding Waupaca County countryside."
