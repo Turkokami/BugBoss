@@ -8,7 +8,7 @@ faqs:
   - q: "What's the most common pest problem on Bear Creek Township farms?"
     a: "Rodents around agricultural outbuildings — barns, machine sheds, feed storage, and grain areas. Every operation that stores feed or grain is feeding mice and rats whether it intends to or not. The fix combines exclusion at the storage and a perimeter baiting program, not just traps. See our dairy farm pest control guide."
   - q: "Why does my Bear Creek Township farmhouse fill with flies in fall and winter?"
-    a: "Those are cluster flies. Their larvae develop inside earthworms in the field and pasture soil around your house, so any farmhouse here grows its own population regardless of housekeeping. They pack into wall voids and attics in September and October, then wake on warm winter days and head for the windows. Exterior treatment plus sealing is the real fix."
+    a: "Those are cluster flies. Their larvae develop inside earthworms in the field and pasture soil around your house, so any farmhouse here grows its own population regardless of housekeeping. They pack into wall voids and attics in September and October, then wake on warm winter days and head for the windows. Exterior treatment plus sealing is the fix."
   - q: "Do I need a contract for pest control in Bear Creek Township?"
     a: "No. BugBoss never puts customers on a long-term contract and never charges a cancellation fee. Pick a one-time treatment or a recurring seasonal program and stop whenever you want. You deal directly with Brian, the owner, not a national call center."
   - q: "Is the village of Bear Creek part of your service area too?"
@@ -22,9 +22,9 @@ faqs:
   - q: "Do you treat carpenter ants in Bear Creek Township homes?"
     a: "Yes. They're common in older farmhouses with a history of roof or plumbing leaks and in homes near the Embarrass River and mature trees. Carpenter ants tunnel through moisture-damaged wood rather than eating it. We find the outdoor parent nest and indoor satellites, treat both, and correct the moisture that drew them."
   - q: "Are wasps and hornets a problem around the outbuildings here?"
-    a: "Very much so. Open machine sheds, pole barns, and eaves give paper wasps, yellowjackets, and bald-faced hornets endless nest sites, and colonies peak in size and aggression in August. Ground-nesting yellowjackets near a walkway or in a field are a real hazard. We treat and remove nests safely."
+    a: "Very much so. Open machine sheds, pole barns, and eaves give paper wasps, yellowjackets, and bald-faced hornets endless nest sites, and colonies peak in size and aggression in August. Ground-nesting yellowjackets near a walkway or in a field are a hazard. We treat and remove nests safely."
   - q: "Can BugBoss handle a food-processing or commercial operation in Bear Creek?"
-    a: "Yes. Bear Creek has a real commercial and food-processing base, and those operations need documented, inspection-ready pest management — rodent control, fly management, and stored-product pest control with records ready for an auditor. We build a discreet program around the building and industry. See our commercial pest control page."
+    a: "Yes. Bear Creek has an established commercial and food-processing base, and those operations need documented, inspection-ready pest management — rodent control, fly management, and stored-product pest control with records ready for an auditor. We build a discreet program around the building and industry. See our commercial pest control page."
   - q: "Are ticks a problem in Bear Creek Township?"
     a: "Yes. Deer ticks that carry Lyme disease live in the brushy edges where lawn meets woodlot, fencerow, and the Embarrass River corridor. Pressure peaks in late spring and again in fall. A yard tick program treating those edge zones cuts exposure around the house and outbuildings."
   - q: "Why choose BugBoss over Orkin or Terminix here?"
@@ -65,13 +65,13 @@ Cluster flies are worth understanding, because farm families treat them as a hou
 
 ### Winter (November–February): whatever got in is what you've got
 
-By winter the outdoor invasion is done and the indoor situation is set. [Mice](/pest-library/mice/) that found a warm, feed-rich nest breed year-round once inside, so a handful in November becomes a real infestation by February if the entry points stay open — and a farm supplies all the food they need. A midwinter thaw warms the wall voids and draws the dormant cluster flies and boxelder bugs back to the windows of a Bear Creek farmhouse. Winter work here is mostly **rodent exclusion and knockdown**, fall-invader cleanup, and protecting stored feed and grain from the rodents that would otherwise winter in it.
+By winter the outdoor invasion is done and the indoor situation is set. [Mice](/pest-library/mice/) that found a warm, feed-rich nest breed year-round once inside, so a handful in November becomes a full infestation by February if the entry points stay open — and a farm supplies all the food they need. A midwinter thaw warms the wall voids and draws the dormant cluster flies and boxelder bugs back to the windows of a Bear Creek farmhouse. Winter work here is mostly **rodent exclusion and knockdown**, fall-invader cleanup, and protecting stored feed and grain from the rodents that would otherwise winter in it.
 
 ## Agricultural outbuildings: where the pests actually live
 
 The defining pest-control fact about Bear Creek Township is the **outbuilding**. Barns, machine sheds, feed rooms, grain storage, and produce-handling buildings are where the rodents concentrate, and they're rarely built tight: big sliding doors, open eaves, gaps at the base of steel siding, and utility penetrations everywhere. You can't make these buildings mouse-proof, and trying is a waste of money. The right approach is to **protect the zones that matter** — feed, grain, and any food or produce storage — with sanitation and targeted exclusion, and to keep the **perimeter baited** so rodents get intercepted before they reach the farmhouse.
 
-Two details matter here. First, **residual feed and grain** in a bin or shed that isn't cleaned between fills seeds the next infestation; sanitation is the foundation of any real program. Second, **parked machinery** — the combines, wagons, and equipment that sit over winter — makes prime rodent harborage, and a mouse nest in a wiring harness is an expensive spring surprise. A working program accounts for both. Our [dairy farm pest control guide](/guides/dairy-farm-pest-control/) lays out the full approach for a livestock or crop operation.
+Two details matter here. First, **residual feed and grain** in a bin or shed that isn't cleaned between fills seeds the next infestation; sanitation is the foundation of any program. Second, **parked machinery** — the combines, wagons, and equipment that sit over winter — makes prime rodent harborage, and a mouse nest in a wiring harness is an expensive spring surprise. A working program accounts for both. Our [dairy farm pest control guide](/guides/dairy-farm-pest-control/) lays out the full approach for a livestock or crop operation.
 
 ## Norway rats around silage, manure, and produce
 
@@ -97,7 +97,7 @@ A trap pulls one raccoon out of the barn; **exclusion** — sealing the barn pea
 
 ## Commercial and food-processing pest control in Bear Creek
 
-Bear Creek has a genuine commercial and **food-processing** base — GLK Foods most prominently — and food operations carry pest-control demands no house does. A processing or storage facility needs **documented, inspection-ready** rodent control, fly management, and stored-product pest control, with records ready when an auditor or inspector asks. Raw agricultural product draws rodents, flies, and stored-product pests, and the tolerance for failure is essentially zero. BugBoss builds a discreet [commercial program](/commercial-pest-control/) around the specific building and industry, delivers the documentation you need on hand, and schedules so pest work doesn't disrupt production. And because you deal with the owner directly, there's a real person accountable for the result — not a rotating cast of route techs.
+Bear Creek has a genuine commercial and **food-processing** base — GLK Foods most prominently — and food operations carry pest-control demands no house does. A processing or storage facility needs **documented, inspection-ready** rodent control, fly management, and stored-product pest control, with records ready when an auditor or inspector asks. Raw agricultural product draws rodents, flies, and stored-product pests, and the tolerance for failure is essentially zero. BugBoss builds a discreet [commercial program](/commercial-pest-control/) around the specific building and industry, delivers the documentation you need on hand, and schedules so pest work doesn't disrupt production. And because you deal with the owner directly, there's one person accountable for the result — not a rotating cast of route techs.
 
 ## The exterior perimeter: stopping rodents before the dock
 

@@ -29,7 +29,7 @@ export const expertNotes: Record<string, string> = {
   termites:
     'Termites are genuinely uncommon this far north, and I will tell you honestly when what you have is carpenter ants instead. When it is termites, it is almost always around Waupaca or the warmer river corridors.',
   'carpenter-bees':
-    'The bee is not the real damage — it is the woodpecker that hears the larvae and opens up your fascia to get at them. Treat the galleries before the birds find them.',
+    'The bee is not the main damage — it is the woodpecker that hears the larvae and opens up your fascia to get at them. Treat the galleries before the birds find them.',
 
   // --- Ants, spiders and general crawlers ---
   ants: 'Ant control here lives or dies on identification. Pavement ants and carpenter ants get completely different treatments, and a hardware-store spray makes both of them worse.',

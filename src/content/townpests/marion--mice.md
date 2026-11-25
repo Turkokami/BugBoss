@@ -2,8 +2,8 @@
 town: marion
 pest: mice
 title: "Mouse Control in Marion, WI — Farms & Pole Barns"
-answer: "Marion sits in dairy country on the Waupaca–Shawano county line, where the mouse problem is not really a house problem — it is a farm problem that reaches the house. Pole barns, grain storage and feed rooms hold the population; the farmhouse is where it becomes visible each October. BugBoss treats the whole property and seals the buildings, because baiting the kitchen never works here."
-metaDescription: "Mice in Marion, WI — in dairy country this is not really a house problem. Where they come from, why trapping alone never finishes it, and what does."
+answer: "Marion sits in dairy country on the Waupaca–Shawano county line, where the mouse problem is not a house problem — it is a farm problem that reaches the house. Pole barns, grain storage and feed rooms hold the population; the farmhouse is where it becomes visible each October. BugBoss treats the whole property and seals the buildings, because baiting the kitchen never works here."
+metaDescription: "Mice in Marion, WI — in dairy country this is not a house problem. Where they come from, why trapping alone never finishes it, and what does."
 faqs:
   - q: "Why is the mouse problem so much worse on a Marion farm than in town?"
     a: "Because there is a food supply that does not run out. Spilled grain, feed in a pole barn, bedding, and the cover of stacked equipment support a population all year, and no amount of trapping in the farmhouse touches it. A village house has mice that came in for the winter; a farmstead has mice that live there permanently and use the house as one more building. Those are different problems, and only one of them can be solved by dealing with the house."
@@ -14,7 +14,7 @@ faqs:
   - q: "How do I secure feed in an older pole barn?"
     a: "Metal or hard sealed containers rather than bags on the floor, pallets off the wall so you can see and clean behind them, and prompt cleanup of spillage — the loose grain around a bin or auger is usually the single biggest food source on the property. Nobody gets a working farm perfectly clean and we do not pretend otherwise, but reducing the easy calories dramatically reduces what the buildings can support."
   - q: "Do mice actually damage anything or are they just a nuisance?"
-    a: "They cause real damage, and on a farm the wiring is the one that matters most. Mice gnaw insulation off wiring in barns, machine sheds and vehicles, which is a genuine fire risk and an expensive one in equipment. Beyond that they contaminate feed, ruin stored goods, and their urine and droppings soil insulation. In a farmhouse they get into wall and attic insulation and it is unpleasant work to put right."
+    a: "They cause damage, and on a farm the wiring is the one that matters most. Mice gnaw insulation off wiring in barns, machine sheds and vehicles, which is a genuine fire risk and an expensive one in equipment. Beyond that they contaminate feed, ruin stored goods, and their urine and droppings soil insulation. In a farmhouse they get into wall and attic insulation and it is unpleasant work to put right."
   - q: "What about deer mice specifically?"
     a: "Worth knowing about on a Marion property. Deer mice are the species associated with hantavirus, and they are the ones you are most likely to find in a pole barn, machine shed or a farmhouse that sits closed for periods. That does not change the trapping much, but it changes the cleanup — droppings and nesting material in an enclosed outbuilding should not be dry-swept. We handle that side properly rather than treating it as ordinary tidying."
   - q: "When should I get ahead of it?"

@@ -5,7 +5,7 @@ title: "Residential Pest Control in Menasha, WI"
 answer: "Menasha homes split two ways: older rental and mill-era housing near the water, where shared walls make scope the deciding factor, and the postwar single-family neighborhoods away from it, which get the ordinary Fox Valley calendar. BugBoss is about 35 minutes north in Clintonville. No long-term contract."
 metaDescription: "Residential pest control in Menasha — shared-structure rentals near the water where scope decides the outcome, and the postwar single-family neighborhoods."
 faqs:
-  - q: "Do you really come down to Menasha?"
+  - q: "Do you come down to Menasha?"
     a: "Yes, about 35 minutes from the shop in Clintonville, and there is no travel surcharge. What the distance affects is scheduling rather than price — Menasha work gets grouped into runs rather than dropped into any open slot, so call with some notice if you need a particular day. For a genuine same-hour emergency a Fox Valley company will be there before us and we will tell you so."
   - q: "I live in a duplex and the bugs keep coming back. Why?"
     a: "Because the treatment is probably being aimed at your half rather than the building. Bed bugs, cockroaches and mice all move along plumbing chases, shared wall voids and the gaps around old penetrations, so a population treated on one side relocates to the other and returns later. Each treatment works; the scope is wrong. If there is activity on both sides, the building needs inspecting and scheduling as one job."

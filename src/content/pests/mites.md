@@ -4,7 +4,7 @@ title: "Bird & Rodent Mites in Northeast Wisconsin: Why the Biting Started After
 answer: "Bird and rodent mites are near-microscopic parasites that leave the nest and search for a new host when their bird, bat, or rodent host dies or is removed — which is why biting complaints often start days after a DIY eviction. BugBoss removes the nest, treats the site, and closes the entry so it does not repeat."
 faqs:
   - q: "Can bird or rodent mites live on humans?"
-    a: "No, and this is genuinely reassuring once you understand it. These mites are specialists adapted to feed on birds or rodents, and they cannot complete their life cycle on a human host — they cannot reproduce on us and they cannot establish a sustained population. What they will do is bite people while searching for their real host, and that continues for as long as there are hungry mites dispersing from the nest. So the biting is real and unpleasant, but it is self-limiting once the nest is gone, and you are not going to end up with a permanent human infestation."
+    a: "No, and this is genuinely reassuring once you understand it. These mites are specialists adapted to feed on birds or rodents, and they cannot complete their life cycle on a human host — they cannot reproduce on us and they cannot establish a sustained population. What they will do is bite people while searching for their host, and that continues for as long as there are hungry mites dispersing from the nest. So the biting is unpleasant, but it is self-limiting once the nest is gone, and you are not going to end up with a permanent human infestation."
   - q: "Why did the biting start after I got rid of the birds?"
     a: "Because you stranded the mites. While the nest is occupied, the mites feed on the nestlings or the adult rodent and stay put — there is no reason for them to go anywhere. Remove or evict the host and thousands of mites suddenly have no blood source, so they disperse outward through wall voids, ceiling gaps, light fixtures, and vents looking for another warm-bodied animal. You are the nearest one. This delay of a few days between removing the animals and the onset of biting is the single most characteristic feature of a mite problem."
   - q: "How do you get rid of bird and rodent mites?"
@@ -53,7 +53,7 @@ This is the single most characteristic thing about bird and rodent mites, and it
 
 They are **very small** — typically under half a millimeter, right at the limit of what an unaided eye can pick up. On a light surface in good light you can see them as tiny moving specks, pale or grayish, turning darker and reddish once they have fed. A sheet of white paper or card left out overnight, checked with a torch, is a genuinely useful home diagnostic and one I often ask people to try before I come out.
 
-Critically, they are **host specialists**. They are adapted to birds or to rodents and they cannot complete their life cycle on a human. They cannot reproduce on us, cannot establish a sustained population on us, and will die off within weeks without their real host.
+Critically, they are **host specialists**. They are adapted to birds or to rodents and they cannot complete their life cycle on a human. They cannot reproduce on us, cannot establish a sustained population on us, and will die off within weeks without their host.
 
 What they will do is bite. A hungry mite that has lost its host is not fussy about what it tries, and a person sleeping in the room below the nest is a warm body in the right place.
 

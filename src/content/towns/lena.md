@@ -18,7 +18,7 @@ faqs:
   - q: "Does BugBoss treat carpenter ants in Lena?"
     a: "Yes. Carpenter ants are common in Lena's older farmhouses, where decades of small roof and plumbing leaks and porches on damp ground leave the softened wood they excavate. The fix is finding the parent and satellite nests and correcting the moisture that drew them — not spraying the ants you see on the porch."
   - q: "How do mice get into Lena farmhouses and barns?"
-    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under barn and garage doors, and through block and fieldstone foundations. Feed storage, bedding, and grain give them food and shelter, so on a farm the pressure is year-round. Sealing the buildings is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under barn and garage doors, and through block and fieldstone foundations. Feed storage, bedding, and grain give them food and shelter, so on a farm the pressure is year-round. Sealing the buildings is the fix; trapping alone just clears what's already inside."
   - q: "Why is my Lena house full of flies on a warm winter day?"
     a: "Those are almost certainly cluster flies that entered the walls and attic last fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. The fix isn't spraying indoors — it's an early-fall exterior treatment plus sealing the entry points before they get in."
   - q: "How fast can BugBoss get to Lena?"
@@ -63,7 +63,7 @@ Cluster flies are near-universal here because their larvae parasitize **earthwor
 
 ### Winter (November–February): the payoff and the pests already inside
 
-By winter the outdoor invasion is over, but a farm never really goes quiet on the rodent front. Mice breed year-round once warm and fed, and a barn or feed room offers exactly that, so an unaddressed fall population multiplies straight through the winter — chewing wiring, fouling feed, and spreading into the farmhouse. In the house itself, a warm January day heats the wall voids and sends the fall cluster flies back to the windows. Winter work in Lena is mostly rodent exclusion and management across the farmstead, cleanup of the fall invaders, and planning the spring bat and wildlife exclusions whose timing is fixed months ahead.
+By winter the outdoor invasion is over, but a farm never goes quiet on the rodent front. Mice breed year-round once warm and fed, and a barn or feed room offers exactly that, so an unaddressed fall population multiplies straight through the winter — chewing wiring, fouling feed, and spreading into the farmhouse. In the house itself, a warm January day heats the wall voids and sends the fall cluster flies back to the windows. Winter work in Lena is mostly rodent exclusion and management across the farmstead, cleanup of the fall invaders, and planning the spring bat and wildlife exclusions whose timing is fixed months ahead.
 
 ## Lena housing and farm building stock
 
@@ -85,7 +85,7 @@ On a farm the animals never stop coming, so a trap alone is a treadmill. **Exclu
 
 ## Farm and commercial pest control in Lena
 
-In Lena, the farms are the main commercial pest accounts, and they need programs, not one-off visits: coordinated rodent exclusion, fly management tied to sanitation, and bird pressure addressed alongside both, all documented and scheduled around the working calendar of a dairy. The village's small commercial base — food service, the local businesses that serve the farm community — needs the same inspection-ready rodent and fly control any food-handling operation does. BugBoss builds [commercial and agricultural programs](/commercial-pest-control/) around the specific buildings and operation, keeps the service records you need, and schedules discreetly. Because you deal with the owner directly, there's a real person accountable for the result — not a call center and a rotating cast of route techs.
+In Lena, the farms are the main commercial pest accounts, and they need programs, not one-off visits: coordinated rodent exclusion, fly management tied to sanitation, and bird pressure addressed alongside both, all documented and scheduled around the working calendar of a dairy. The village's small commercial base — food service, the local businesses that serve the farm community — needs the same inspection-ready rodent and fly control any food-handling operation does. BugBoss builds [commercial and agricultural programs](/commercial-pest-control/) around the specific buildings and operation, keeps the service records you need, and schedules discreetly. Because you deal with the owner directly, there's one person accountable for the result — not a call center and a rotating cast of route techs.
 
 ## Spiders, ground nests, and the rest of the Lena picture
 
@@ -97,7 +97,7 @@ The durable fix in Lena is **exclusion**, not repeated spraying, and on a farm i
 
 ## Why a rural specialist beats the national brands here
 
-National pest companies are built for dense subdivisions and tight routes, not for a dairy village at the edge of a Green Bay franchise's map. It shows in the service — the far-off dispatch, the missed windows, and above all the refusal to handle the farm's real problems: no wildlife, no serious rodent program across a dozen outbuildings, no understanding of a milk house or a feed room. What counts here is **actually covering the ground** and working with someone who knows farm buildings, knows the difference between a cluster fly and a stable fly and a big brown bat and a little brown bat, and can build a rodent program that holds up on a working operation.
+National pest companies are built for dense subdivisions and tight routes, not for a dairy village at the edge of a Green Bay franchise's map. It shows in the service — the far-off dispatch, the missed windows, and above all the refusal to handle the farm's problems: no wildlife, no serious rodent program across a dozen outbuildings, no understanding of a milk house or a feed room. What counts here is **actually covering the ground** and working with someone who knows farm buildings, knows the difference between a cluster fly and a stable fly and a big brown bat and a little brown bat, and can build a rodent program that holds up on a working operation.
 
 The **contract** is the other sticking point. Farmers don't want a rigid twelve-month agreement any more than a homeowner does. BugBoss runs the opposite way: **no long-term contract, no cancellation fee**, and the name on the truck is the voice on the phone and the one at your door. That's our [no-contract approach](/no-contracts/), and with wildlife depth the pest-only competitor can't offer, it's why this dairy corridor keeps calling.
 

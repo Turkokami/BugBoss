@@ -46,7 +46,7 @@ BugBoss The X-Terminator runs tick prevention yard programs across that country 
 
 The single most important thing to understand about ticks in Wisconsin is that the tick most people worry about is not the one that gives you Lyme.
 
-The **American dog tick**, which most Wisconsinites grew up calling a "wood tick," is the larger, reddish-brown tick you'd find crawling up your pant leg after mowing. It's a real pest and it can transmit Rocky Mountain spotted fever and tularemia, but **it does not carry Lyme disease.** It's big enough that you usually find it and flick it off before it settles in.
+The **American dog tick**, which most Wisconsinites grew up calling a "wood tick," is the larger, reddish-brown tick you'd find crawling up your pant leg after mowing. It's a pest and it can transmit Rocky Mountain spotted fever and tularemia, but **it does not carry Lyme disease.** It's big enough that you usually find it and flick it off before it settles in.
 
 The **blacklegged tick** — the "deer tick" — is the one that matters for Lyme, and it's much smaller. The adult female is about the size of a sesame seed, and the nymph, which is the life stage responsible for most human Lyme cases, is about the size of a **poppy seed.** That size is the whole problem. A poppy-seed-sized tick embedded behind your knee or in your scalp is easy to miss for the day or two it needs to transmit disease. The dangerous ticks are the ones you don't notice, which is why "I always check for ticks" is not the protection people think it is when they're picturing a fat wood tick.
 
@@ -150,7 +150,7 @@ A few beliefs get people bitten:
 
 ## Pets are part of the equation
 
-Dogs are tick magnets, and on a rural property a dog running the woods and field edges will find ticks you never would. Two problems follow. First, dogs get tick-borne disease themselves — canine Lyme and anaplasmosis are real and common here. Second, a dog is a delivery vehicle, carrying ticks off its coat and into the house and onto the furniture, where they can find a human host. The playbook: a **veterinary tick preventive** (talk to your vet — there are good options), a thorough **check after every outing** with attention to the ears, neck, armpits, and between the toes, and a **treated, short-mowed yard** that lowers the population the dog is exposed to in the first place. A yard program protects the pets and the people together.
+Dogs are tick magnets, and on a rural property a dog running the woods and field edges will find ticks you never would. Two problems follow. First, dogs get tick-borne disease themselves — canine Lyme and anaplasmosis are common here. Second, a dog is a delivery vehicle, carrying ticks off its coat and into the house and onto the furniture, where they can find a human host. The playbook: a **veterinary tick preventive** (talk to your vet — there are good options), a thorough **check after every outing** with attention to the ears, neck, armpits, and between the toes, and a **treated, short-mowed yard** that lowers the population the dog is exposed to in the first place. A yard program protects the pets and the people together.
 
 ## Tick checks and safe removal: the last line of defense
 

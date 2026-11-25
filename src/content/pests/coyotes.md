@@ -1,9 +1,9 @@
 ---
 pest: coyotes
 title: "Coyotes in Rural Northeast Wisconsin: Livestock, Poultry & Pet Protection"
-answer: "Coyotes range across rural Northeast Wisconsin and usually avoid people, but they become a real problem when they prey on poultry, small livestock, and pets, or lose their wariness near easy food. BugBoss handles coyote conflicts the right way — attractant removal first, then deterrence and securing your animals, with targeted, lawful removal of problem individuals when warranted."
+answer: "Coyotes range across rural Northeast Wisconsin and usually avoid people, but they become a problem when they prey on poultry, small livestock, and pets, or lose their wariness near easy food. BugBoss handles coyote conflicts the right way — attractant removal first, then deterrence and securing your animals, with targeted, lawful removal of problem individuals when warranted."
 faqs:
-  - q: "Are coyotes a real threat to my livestock and pets?"
+  - q: "Are coyotes a threat to my livestock and pets?"
     a: "To poultry, small livestock like lambs and goat kids, and small pets — yes, particularly near farm buildings and along woodland edges, and most acutely in late winter and spring when coyotes are feeding pups. To adult cattle and large animals they're rarely a direct threat. The practical risk is highest for unsecured poultry and small stock at night and for small pets left out unattended."
   - q: "How do I keep coyotes away from my farm?"
     a: "Start by removing what draws them: secure or remove carcasses and afterbirth, clean up spilled feed, secure garbage, and don't leave pet food out. Then secure your animals — poultry in a closed, predator-proof coop at night, small stock in secure enclosures. Add deterrence, and address bold or actively depredating individuals with targeted removal. It's a layered approach, not a single trick."
@@ -14,7 +14,7 @@ faqs:
   - q: "When are coyotes most active and most dangerous to animals?"
     a: "They're present year-round, but conflict peaks from roughly January through spring. Breeding runs January to March, pups are born in April, and the demand of feeding a growing litter through late spring and early summer pushes adults to hunt harder and take more risks near farms. Fall brings dispersing young looking for territory. Losses tend to cluster in that late-winter-through-spring window."
   - q: "Can I shoot coyotes on my own property in Wisconsin?"
-    a: "Wisconsin gives landowners real latitude to deal with coyotes threatening or damaging their livestock, and coyotes can be hunted through much of the year, but the rules vary by situation, zone, and season — including restrictions in the northern forest during the gun deer season. Doing it wrong creates legal exposure. BugBoss handles removal lawfully so you get the result without the risk of running afoul of the regulations."
+    a: "Wisconsin gives landowners latitude to deal with coyotes threatening or damaging their livestock, and coyotes can be hunted through much of the year, but the rules vary by situation, zone, and season — including restrictions in the northern forest during the gun deer season. Doing it wrong creates legal exposure. BugBoss handles removal lawfully so you get the result without the risk of running afoul of the regulations."
   - q: "Do coyote repellents and lights work?"
     a: "As part of a layered approach, some deterrents help temporarily — motion-activated lights, scare devices, and guardian animals can raise the risk a coyote perceives. But coyotes are smart and habituate fast, so any single deterrent loses effect once the animal learns it's harmless. Deterrence buys time and reduces pressure; it rarely solves an established problem on its own without removing attractants and, often, the problem animal."
   - q: "How do I protect my chickens from coyotes?"
@@ -37,13 +37,13 @@ faqs:
 
 A coyote problem is different from every other animal on this site, because the coyote isn't trying to get *into* your buildings — it's a predator working your land, and the conflict is about your **animals, not your structure**. That changes the whole shape of the problem. There's no attic to seal, no latrine to clean, no gap to close. Instead there's a smart, adaptable, territorial predator that has found something worth coming back for, and the job is to figure out what that is, take it away, protect what you're losing, and — when a particular animal has crossed the line into active depredation — remove that individual lawfully.
 
-Two things make coyote work demanding. First, **coyotes are intelligent and adaptable to a degree that defeats casual measures.** They learn fast, habituate to scare tactics, and are genuinely difficult to trap or remove without knowing what you're doing. Second, **the legal picture is real and situation-dependent.** Wisconsin gives landowners meaningful latitude to protect livestock, and coyotes can be hunted through much of the year, but the rules vary by season, by zone, and by circumstance — and the far northern edge of the broader region raises the serious possibility of **wolves**, which are protected and handled under entirely different law. Getting the identification and the legality right is not optional.
+Two things make coyote work demanding. First, **coyotes are intelligent and adaptable to a degree that defeats casual measures.** They learn fast, habituate to scare tactics, and are genuinely difficult to trap or remove without knowing what you're doing. Second, **the legal picture depends on the situation.** Wisconsin gives landowners meaningful latitude to protect livestock, and coyotes can be hunted through much of the year, but the rules vary by season, by zone, and by circumstance — and the far northern edge of the broader region raises the serious possibility of **wolves**, which are protected and handled under entirely different law. Getting the identification and the legality right is not optional.
 
 The Clintonville region — a patchwork of dairy farms, poultry, small livestock, woodlots, and field-and-forest edges across Waupaca, Shawano, Outagamie, Oconto, and Langlade counties — is textbook coyote country and always has been. Coyotes are established across all of it. The goal is never to clear coyotes off the landscape, which is neither possible nor desirable, but to stop the losses on your particular property. BugBoss does this as part of full rural [wildlife service](/wildlife-removal/), the same way we handle [raccoons](/pest-library/raccoons/), [skunks](/pest-library/skunks/), and the rest of the farmstead wildlife complex.
 
 ## Identification: coyote, dog, or wolf
 
-Correctly identifying the predator is the first real task, because it determines both what's legal and what will work — and the stakes of getting it wrong are high.
+Correctly identifying the predator is the first task, because it determines both what's legal and what will work — and the stakes of getting it wrong are high.
 
 The **coyote** (*Canis latrans*) is a medium-sized wild canid, typically 25 to 40 pounds — smaller and leaner than most people expect, roughly the size of a medium dog but with a narrow muzzle, tall pointed ears, and a bushy tail carried low, especially when running. Coat is usually grizzled gray-brown. You'll hear them before you see them: the group **yip-howl** chorus at dusk and into the night is distinctive and carries across open country. Tracks are neater and more oval than a dog's, usually in a fairly straight line of travel, and scat is often rope-like with hair and bone.
 
@@ -99,7 +99,7 @@ The clearest sign is **losses** — missing poultry, killed or injured small sto
 
 **Livestock and poultry losses** are the headline. Poultry flocks can be hit hard, and small stock — lambs, kids, and occasionally weak or newborn calves — are vulnerable, with losses concentrated in the spring pup-feeding window. For a small operation, a run of losses adds up quickly in both animals and money.
 
-**Pet safety.** Small dogs and cats left out unattended are at real risk in coyote country, and a habituated coyote that's learned the farmstead means food is more likely to take one.
+**Pet safety.** Small dogs and cats left out unattended are at risk in coyote country, and a habituated coyote that's learned the farmstead means food is more likely to take one.
 
 **Disease.** Coyotes can carry rabies, canine distemper, and mange, and can share and transmit parasites and diseases with domestic dogs. A coyote acting sick, disoriented, staggering, or unnaturally bold and unafraid should be treated as a possible rabies case, kept well away from people and pets, and reported.
 
@@ -113,13 +113,13 @@ Coyotes defeat casual efforts for reasons rooted in their intelligence and in th
 
 **They habituate to deterrents.** Lights, noise-makers, scarecrows, radios, and static devices can raise a coyote's perceived risk for a while, but a smart, adaptable animal quickly learns which threats are hollow. Any single deterrent, used alone and left in place, loses its effect once the coyote calls the bluff. Deterrence has a role, but it's a supporting one.
 
-**They're genuinely hard to trap and remove.** Coyotes are wary and trap-shy, and effective, lawful removal of a specific problem animal takes real skill and knowledge — set wrong, traps sit empty or catch the wrong thing, and a clumsy attempt can educate the coyote into being even harder to catch.
+**They're genuinely hard to trap and remove.** Coyotes are wary and trap-shy, and effective, lawful removal of a specific problem animal takes skill and knowledge — set wrong, traps sit empty or catch the wrong thing, and a clumsy attempt can educate the coyote into being even harder to catch.
 
 **Removal without attractant removal is temporary.** This is the biggest reason DIY (and a lot of one-off "predator control") fails: coyotes are territorial and the landscape is saturated, so removing animals from good habitat with an available food source just opens a vacancy for others to fill. Take out a coyote and leave the carcass pile and the unsecured coop, and you'll be replacing that coyote soon.
 
 **The legal picture trips people up.** The rules on taking coyotes vary by season, zone, and situation, and the **wolf** question in the northern part of the region is a serious one — misidentifying and acting on a protected wolf is a major legal problem. A well-meaning landowner can easily create legal exposure.
 
-**Misidentifying the predator sends the whole effort the wrong way.** Chase coyotes when the culprit is a loose dog, or treat a wolf as a coyote, and nothing you do fixes the losses — and the wolf error can land you in real trouble.
+**Misidentifying the predator sends the whole effort the wrong way.** Chase coyotes when the culprit is a loose dog, or treat a wolf as a coyote, and nothing you do fixes the losses — and the wolf error can land you in trouble.
 
 ## How does BugBoss handle coyotes?
 
@@ -137,7 +137,7 @@ We handle coyotes as an integrated problem: identify it correctly, take away wha
 
 **Follow up.** We confirm the losses have stopped and adjust the plan as the season changes, since coyote pressure shifts through the year. No long-term contract is required.
 
-The reason to insist on all of those steps together, rather than jumping straight to removal, comes down to how coyote problems recur on rural land. Take an animal but leave the dead-stock pile and the open coop, and the vacancy in that territory fills within weeks — you've spent effort to buy a short reprieve. Secure the animals but ignore a coyote that's already keyed in on the flock and denning nearby, and it keeps testing your defenses until it finds the weak point. Read the predator wrong and you either chase the wrong animal or, in the worst case, act on a protected wolf. A coyote job that actually holds is the one where the attractants are gone, the animals are secured, and any genuinely problem individual has been lawfully removed — with the right species confirmed before anything else happens. Skipping pieces of that is how a farm ends up losing animals season after season and blaming "the coyotes" when the real issue is a carcass pile and an open coop.
+The reason to insist on all of those steps together, rather than jumping straight to removal, comes down to how coyote problems recur on rural land. Take an animal but leave the dead-stock pile and the open coop, and the vacancy in that territory fills within weeks — you've spent effort to buy a short reprieve. Secure the animals but ignore a coyote that's already keyed in on the flock and denning nearby, and it keeps testing your defenses until it finds the weak point. Read the predator wrong and you either chase the wrong animal or, in the worst case, act on a protected wolf. A coyote job that actually holds is the one where the attractants are gone, the animals are secured, and any genuinely problem individual has been lawfully removed — with the right species confirmed before anything else happens. Skipping pieces of that is how a farm ends up losing animals season after season and blaming "the coyotes" when the issue is a carcass pile and an open coop.
 
 This is core rural [wildlife work](/wildlife-removal/) for us, and on a working farm it dovetails with the broader [dairy farm pest program](/guides/dairy-farm-pest-control/) — rodent control, carcass management, and predator conflict are all connected on an agricultural property. For [commercial and agricultural operations](/commercial-pest-control/), we handle it as an ongoing relationship rather than a single visit.
 

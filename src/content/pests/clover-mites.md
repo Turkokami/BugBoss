@@ -39,7 +39,7 @@ faqs:
 
 Someone wipes a windowsill in late March and the cloth comes away streaked rust-red. Look closer at the sill, or the siding outside, and the dust is moving — thousands of specks barely bigger than the point of a pin, each one a deep red, walking slowly across the paintwork.
 
-These are **clover mites**, and they arrive on schedule every spring on the sunny side of houses across Northeast Wisconsin. They are entirely harmless. They cannot bite, they carry nothing, they will not damage the building or its contents, and they cannot survive indoors for more than a day or two. The only real problem they cause is the stain — that rust-red pigment smears into sills, curtains, carpet, and paint the moment one is crushed.
+These are **clover mites**, and they arrive on schedule every spring on the sunny side of houses across Northeast Wisconsin. They are entirely harmless. They cannot bite, they carry nothing, they will not damage the building or its contents, and they cannot survive indoors for more than a day or two. The only problem they cause is the stain — that rust-red pigment smears into sills, curtains, carpet, and paint the moment one is crushed.
 
 They are also, unusually among pests, almost completely solvable with a change to the landscaping rather than a treatment.
 
@@ -108,7 +108,7 @@ The **staining** is the one genuine practical problem, and it is worth taking se
 
 **Lawn damage** is possible at extreme densities — a silvery or blanched cast to the grass — but healthy turf tolerates them and most people never see any symptom at all. If your lawn looks unwell, look for another explanation first.
 
-The **nuisance is real** even though the risk is not. Thousands of moving specks in a bedroom is genuinely distressing for a lot of people, particularly given the instinctive assumption that anything that small and that numerous must be biting something. It is not, and knowing that helps.
+The **nuisance is considerable** even though the risk is low. Thousands of moving specks in a bedroom is genuinely distressing for a lot of people, particularly given the instinctive assumption that anything that small and that numerous must be biting something. It is not, and knowing that helps.
 
 ## Why doesn't DIY work on clover mites?
 

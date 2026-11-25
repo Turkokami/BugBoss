@@ -38,7 +38,7 @@ Blacklegged ticks are active any time the temperature's above freezing, but the 
 
 In **late spring and early summer**, the tick **nymphs** are out. A nymph is about the size of a **poppy seed** — genuinely that small — which makes it easy to miss on skin, in hair, behind a knee, or along a waistband. And it's active precisely when people are back outdoors in May and June, in shorts, doing yard work and hiking and playing. Small, abundant, and out at the exact wrong time: that combination is why the nymph stage drives most Lyme transmission. The second peak comes in fall with the adult ticks, which are larger and easier to spot but still very much a risk.
 
-Recent Wisconsin seasons have made the point sharply. The state has seen tick seasons start early and run heavy, and testing has found that a large share of the deer ticks people submit — more than half in recent Marshfield-area sampling — carry the Lyme bacterium. Lyme is not a rare, faraway thing in this part of the state; it's a real and rising local risk, tracked by the Wisconsin Department of Health Services, and the countryside around Clintonville is squarely in blacklegged tick country.
+Recent Wisconsin seasons have made the point sharply. The state has seen tick seasons start early and run heavy, and testing has found that a large share of the deer ticks people submit — more than half in recent Marshfield-area sampling — carry the Lyme bacterium. Lyme is not a rare, faraway thing in this part of the state; it's a rising local risk, tracked by the Wisconsin Department of Health Services, and the countryside around Clintonville is squarely in blacklegged tick country.
 
 ## The 24-to-48-hour rule that should shape your habits
 

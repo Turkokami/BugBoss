@@ -41,7 +41,7 @@ This page is about the filth flies that make summer miserable in farm country: t
 
 ## Identification: which fly are you actually dealing with
 
-"Flies" is a big category, and the right treatment depends entirely on which one you have, so identification is the first real step.
+"Flies" is a big category, and the right treatment depends entirely on which one you have, so identification is the first step.
 
 The **house fly** (*Musca domestica*) is the classic one: about a quarter-inch long, dull gray, with four dark lengthwise stripes on the thorax and a single pair of wings. It does not bite. Its mouthparts are a sponging pad — it dissolves food with saliva and sponges up the liquid — which is exactly why it is such an efficient carrier of filth. House flies are strong enough fliers to travel a mile or more from where they hatched, though most stay within a few hundred yards of a good breeding source.
 
@@ -99,9 +99,9 @@ The obvious sign is the flies themselves, but the details tell you a lot about s
 
 Flies are not merely a nuisance, and it is worth being clear about why. The house fly's life history — feeding and breeding on manure, carrion, and garbage, then landing on and feeding from human and animal food — makes it an efficient mechanical vector of disease-causing organisms. A fly walks through filth, then walks on your food; it sponges up decaying material, then regurgitates and defecates while feeding on your sandwich or your countertop. In the process it can transfer bacteria such as **E. coli, Salmonella, Shigella, and Campylobacter**, along with other pathogens, and flies are associated with the spread of diarrheal and foodborne illness. In a kitchen, a milkhouse, or a food business, a heavy fly population is a genuine contamination hazard, not just an annoyance.
 
-On the livestock side the stakes are also real. **Face flies** spread the bacteria behind pinkeye in cattle, **house flies** are implicated in the transmission of mastitis pathogens in dairy herds, and **stable flies** cause direct injury and stress — their painful bites reduce grazing and feeding, cause weight loss and lower milk production, and a heavy stable-fly load is a measurable economic hit on a farm. For a food business, the reputational and regulatory stakes are their own kind of health risk: fly specks and visible flies are exactly what a health inspection is looking for.
+On the livestock side the stakes are higher. **Face flies** spread the bacteria behind pinkeye in cattle, **house flies** are implicated in the transmission of mastitis pathogens in dairy herds, and **stable flies** cause direct injury and stress — their painful bites reduce grazing and feeding, cause weight loss and lower milk production, and a heavy stable-fly load is a measurable economic hit on a farm. For a food business, the reputational and regulatory stakes are their own kind of health risk: fly specks and visible flies are exactly what a health inspection is looking for.
 
-None of this is cause for panic, but it is the reason fly control is treated as a sanitation and public-health matter, not as cosmetic pest control. Cutting fly numbers is cutting a real disease-transfer route in a home, on a farm, and in any place food is handled.
+None of this is cause for panic, but it is the reason fly control is treated as a sanitation and public-health matter, not as cosmetic pest control. Cutting fly numbers is cutting a disease-transfer route in a home, on a farm, and in any place food is handled.
 
 ## Why doesn't DIY work on flies?
 
@@ -117,7 +117,7 @@ Fly control at BugBoss runs source-first, because that is the only approach that
 
 We start with **inspection and identification** — determining which fly you have (house, stable, face, blow, or a small-fly problem entirely), reading the fly specks and resting sites to see where they congregate, and then tracing the population back toward its breeding source. On a farm that means walking the manure accumulations, the bedding pack, the silage face, the feed bunks and spills, the waterers, and the drainage. At a home or business it means checking garbage and compost handling, dumpsters and grease areas, floor drains, and any place organic matter is staying wet, plus looking for a dead animal when blow flies show up.
 
-Then comes **source correction — sanitation and source reduction — which is the core of the job.** We identify the management changes and cleanups that remove or dry out the breeding medium: manure handling, keeping bedding dry, facing and covering silage, cleaning up feed and garbage, fixing drainage and wet spots. This is where the real, durable reduction comes from, and it is why fly work is as much a conversation about practices as it is an application.
+Then comes **source correction — sanitation and source reduction — which is the core of the job.** We identify the management changes and cleanups that remove or dry out the breeding medium: manure handling, keeping bedding dry, facing and covering silage, cleaning up feed and garbage, fixing drainage and wet spots. This is where durable reduction comes from, and it is why fly work is as much a conversation about practices as it is an application.
 
 With the source addressed, we apply **targeted control** where it counts: larvicides or biological control aimed at the breeding zones themselves, treatment of the surfaces where adults rest, fly baits placed to draw and kill adults, and monitoring so we can see whether numbers are actually dropping. For food operations and commercial settings we set up a program built to satisfy an inspector — monitoring, documentation, and control that does not depend on visible flies to prove it is working.
 

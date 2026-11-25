@@ -18,7 +18,7 @@ faqs:
   - q: "Do I need a contract for pest control in Iola?"
     a: "No. BugBoss never locks Iola customers into long-term contracts or charges cancellation fees. Choose a one-time treatment or a recurring seasonal program and stop whenever you want. That flexibility fits seasonal-cabin owners especially well. You deal directly with Brian, the owner, not a call center."
   - q: "Why do cluster flies swarm inside my cabin on a warm winter or spring day?"
-    a: "Those are cluster flies that entered the walls and attic the previous fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. Spraying them indoors doesn't fix it — the real solution is an exterior treatment and exclusion done in early fall before they get in, which is exactly what closing service handles."
+    a: "Those are cluster flies that entered the walls and attic the previous fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. Spraying them indoors doesn't fix it — the solution is an exterior treatment and exclusion done in early fall before they get in, which is exactly what closing service handles."
   - q: "Does BugBoss handle carpenter ants in Iola?"
     a: "Yes. Cabins and lake homes near water hold moisture, and carpenter ants nest in moisture-damaged wood — around leaky roofs, damp sill plates, and decks in contact with soil. We find the parent and satellite nests and correct the moisture drawing them, rather than just spraying foraging ants."
   - q: "Can BugBoss help with the Iola Car Show and other events?"
@@ -91,7 +91,7 @@ Setting a trap is the small part; **exclusion** — sealing the cabin so this an
 
 Iola's business base is shaped by its lakes and its events. There's a **downtown**, food service, and lodging, and then there's the extraordinary summer pull of the **Iola Car Show**, which brings the kind of crowd and campground demand that would test a city ten times Iola's size. Each of those has its own pests and its own record-keeping needs. A restaurant needs documented, inspection-ready rodent and fly management. A resort or lodging operation needs discreet service that guests never notice. And **campgrounds and event grounds** dealing with the car-show surge need help staying ahead of the flies, wasps, and rodents that big crowds and concentrated waste bring.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly. For campgrounds, marinas, and event venues, our [campground, RV, and marina pest control guide](/guides/campground-rv-marina-pest-control/) speaks directly to the seasonal-crowd problem. And because you deal with the owner, there's a real person accountable for the result.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly. For campgrounds, marinas, and event venues, our [campground, RV, and marina pest control guide](/guides/campground-rv-marina-pest-control/) speaks directly to the seasonal-crowd problem. And because you deal with the owner, there's one person accountable for the result.
 
 ## Spiders, ants, and the rest of the Iola picture
 

@@ -2,7 +2,7 @@
 town: menasha
 pest: mosquitoes
 title: "Mosquito Control in Menasha, WI — Not Lake Flies"
-answer: "Menasha gets two completely different insect problems off the water and they need opposite answers. The midge and mayfly hatches off Lake Winnebago cannot be treated and nobody should sell you a treatment for them. Mosquitoes can, because they breed in standing water on land — in your gutters, your containers and the sheltered margins — and that is work with a real result."
+answer: "Menasha gets two completely different insect problems off the water and they need opposite answers. The midge and mayfly hatches off Lake Winnebago cannot be treated and nobody should sell you a treatment for them. Mosquitoes can, because they breed in standing water on land — in your gutters, your containers and the sheltered margins — and that is work with a result."
 metaDescription: "Mosquito control in Menasha, WI — the lake hatch cannot be treated and nobody should sell you a treatment for it. Mosquitoes can, because they breed on land."
 faqs:
   - q: "How do I tell a mosquito problem from the lake hatch?"
@@ -18,7 +18,7 @@ faqs:
   - q: "Where does the treatment actually go?"
     a: "The shaded vegetation where adults wait out the day — shrub undersides, dense ground cover, tall grass at the lot edge, the shaded side of the building, and any wooded margin. Not the open lawn and never the lake. The treated band is often nowhere near where you were being bitten, which is the single most common surprise on a first visit."
   - q: "How often, and when?"
-    a: "Timed to rain rather than to a calendar. A real rainfall refills every container and low spot at once and produces a hatch about a week later; a treatment landing in that window is worth two applied on a schedule. For most Menasha properties that means a handful of well-timed applications across the season rather than a standing monthly visit."
+    a: "Timed to rain rather than to a calendar. A soaking rainfall refills every container and low spot at once and produces a hatch about a week later; a treatment landing in that window is worth two applied on a schedule. For most Menasha properties that means a handful of well-timed applications across the season rather than a standing monthly visit."
   - q: "Ticks too?"
     a: "Worth it on anything backing onto a greenway, a wooded edge or an unmown shoreline strip. The tick band and the mosquito harborage band are nearly the same line, so one pass covers both. See the tick and Lyme yard program guide."
 ---

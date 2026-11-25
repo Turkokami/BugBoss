@@ -33,7 +33,7 @@ What produces along the shore is the **sheltered wetland margin** — and that i
 
 ## The corridors are
 
-Inside the city the real mosquito geography is the creek and greenway network: the **East River**, **Baird Creek**, **Duck Creek**, and the wooded strips running between neighborhoods.
+Inside the city the mosquito geography is the creek and greenway network: the **East River**, **Baird Creek**, **Duck Creek**, and the wooded strips running between neighborhoods.
 
 A corridor supplies both halves of the problem:
 

@@ -10,7 +10,7 @@ faqs:
   - q: "How fast can BugBoss get to Manawa?"
     a: "Quickly. We're a local company covering the Waupaca County countryside, not a franchise dispatching from Appleton or Oshkosh, so Manawa calls often get same-day or next-day service. Call 866-BUGBOSS to check today's availability."
   - q: "Does BugBoss handle mosquitoes along the Little Wolf River?"
-    a: "Yes. The Little Wolf River corridor and the wet, low ground around Manawa are prime mosquito breeding habitat, so a seasonal program that treats resting vegetation and knocks back breeding sites makes a real difference — especially for riverfront yards and anyone hosting summer gatherings around rodeo week."
+    a: "Yes. The Little Wolf River corridor and the wet, low ground around Manawa are prime mosquito breeding habitat, so a seasonal program that treats resting vegetation and knocks back breeding sites makes a difference — especially for riverfront yards and anyone hosting summer gatherings around rodeo week."
   - q: "Does BugBoss remove bats in Manawa?"
     a: "Yes, and legally. Wisconsin protects its bats, and the DNR requires bat exits to stay open June 1 through July 31 during maternity season. BugBoss uses humane one-way exclusion outside that window, seals every entry point, and cleans up the guano. We never seal bats inside a structure."
   - q: "Can BugBoss treat seasonal cabins around Bear Lake?"
@@ -18,11 +18,11 @@ faqs:
   - q: "Do I need a contract for pest control in Manawa?"
     a: "No. BugBoss never locks Manawa customers into long-term contracts or charges cancellation fees. Choose a one-time treatment or a recurring seasonal program and stop whenever you want. You deal directly with Brian, the owner, not a national call center."
   - q: "Why do I get flies swarming inside on a warm winter day in Manawa?"
-    a: "Those are cluster flies that entered the walls and attic in fall. A sunny winter day warms the wall voids and wakes them, and they crawl toward the light at your windows. Spraying them indoors in January doesn't fix it — the real solution is an exterior treatment and exclusion done the previous fall, before they get in."
+    a: "Those are cluster flies that entered the walls and attic in fall. A sunny winter day warms the wall voids and wakes them, and they crawl toward the light at your windows. Spraying them indoors in January doesn't fix it — the solution is an exterior treatment and exclusion done the previous fall, before they get in."
   - q: "Does BugBoss handle carpenter ants in Manawa?"
     a: "Yes. Riverfront and low-lying homes near the Little Wolf River hold more moisture, and carpenter ants nest in moisture-damaged wood. We locate the parent and satellite nests and correct the moisture drawing them, rather than just spraying the ants you see foraging."
   - q: "Can BugBoss do commercial pest control for Manawa businesses?"
-    a: "Yes. Manawa has a real downtown business strip, food service, lodging, and the seasonal surge of the Mid-Western Rodeo. BugBoss builds discreet, inspection-ready programs for restaurants, shops, and event venues, with documentation on hand when an inspector asks — and can help with the extra pressure that comes with big summer crowds."
+    a: "Yes. Manawa has a working downtown business strip, food service, lodging, and the seasonal surge of the Mid-Western Rodeo. BugBoss builds discreet, inspection-ready programs for restaurants, shops, and event venues, with documentation on hand when an inspector asks — and can help with the extra pressure that comes with big summer crowds."
   - q: "How do mice get into Manawa homes?"
     a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the block and fieldstone foundations common in older river-town homes. Sealing the building is the permanent fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss remove raccoons and squirrels from attics in Manawa?"
@@ -93,11 +93,11 @@ A quick trap and release leaves the entry hole wide open for the next animal; **
 
 ## Commercial pest control in Manawa
 
-Manawa has a real **downtown business strip**, food service, lodging, and — unusual for a town this size — a major summer event in the **Mid-Western Rodeo** that brings crowds, vendors, and campers to town all at once. Each of those has its own pests and its own record-keeping needs. A restaurant needs documented, inspection-ready rodent and fly management. A bar or grocery needs stored-product and rodent control. And an event or campground operation dealing with the rodeo crowd needs help staying ahead of the pressure that big gatherings bring.
+Manawa has a **downtown business strip**, food service, lodging, and — unusual for a town this size — a major summer event in the **Mid-Western Rodeo** that brings crowds, vendors, and campers to town all at once. Each of those has its own pests and its own record-keeping needs. A restaurant needs documented, inspection-ready rodent and fly management. A bar or grocery needs stored-product and rodent control. And an event or campground operation dealing with the rodeo crowd needs help staying ahead of the pressure that big gatherings bring.
 
 Rodeo week is a good example of why timing matters. A food stand or bar that's comfortable most of the year can be overwhelmed when the crowd, the heat, and the garbage all peak at once — flies find the waste, wasps find the sugary drinks, and rodents find the extra food left in unusual places. Getting a program in place before the event, rather than reacting during it, is what keeps a busy weekend from turning into a health-code problem.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and operation, keeps the service records you need on hand, and schedules discreetly so pest work doesn't disrupt business or guests. For campgrounds, marinas, and event grounds, our [campground, RV, and marina pest control guide](/guides/campground-rv-marina-pest-control/) covers the seasonal-crowd challenge directly. And because you deal with the owner, there's a real person accountable for the result.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and operation, keeps the service records you need on hand, and schedules discreetly so pest work doesn't disrupt business or guests. For campgrounds, marinas, and event grounds, our [campground, RV, and marina pest control guide](/guides/campground-rv-marina-pest-control/) covers the seasonal-crowd challenge directly. And because you deal with the owner, there's one person accountable for the result.
 
 ## Spiders, ants, and the rest of the Manawa picture
 

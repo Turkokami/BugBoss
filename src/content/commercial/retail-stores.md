@@ -72,7 +72,7 @@ The front of a retail store is a wide-open funnel. Automatic doors pull [flies](
 
 ### Small flies and ants: the break-room and drain problem
 
-Inside, [gnats](/pest-library/gnats/) — really drain flies and fruit flies — breed in floor drains, mop sinks, break-room areas, and the residue under a soda or coffee station. [Ants](/pest-library/ants/) forage sweets and crumbs, working from an exterior nest into break rooms and any food display in warm months. Both are traced to source rather than fogged: a drain fly problem is a dirty-drain problem, and cleaning or treating the breeding film fixes what a can of spray never will.
+Inside, [gnats](/pest-library/gnats/) — drain flies and fruit flies — breed in floor drains, mop sinks, break-room areas, and the residue under a soda or coffee station. [Ants](/pest-library/ants/) forage sweets and crumbs, working from an exterior nest into break rooms and any food display in warm months. Both are traced to source rather than fogged: a drain fly problem is a dirty-drain problem, and cleaning or treating the breeding film fixes what a can of spray never will.
 
 ### The wildlife the pest-only companies won't touch
 
@@ -134,7 +134,7 @@ BugBoss builds retail programs on **Integrated Pest Management (IPM)** — inspe
 
 ## The rural retail angle
 
-Central and Northeast Wisconsin retail is small-format and community-anchored: the grocery that serves a whole township, the convenience store at the county-road junction, the farm-and-feed store, the Main Street shops in towns like [Clintonville](/service-area/clintonville/), [Shawano](/service-area/shawano/), and [Waupaca](/service-area/waupaca/). These stores carry the same compliance load and the same stored-product and rodent risk as any city retailer, but they're the exact accounts national brands deprioritize — too far up the county road, too small for the route, too easy to serve with a boilerplate visit and no real documentation. We're already out here, we answer the phone ourselves, and we do both pest control and wildlife exclusion. For the food-service neighbors of retail, see our [restaurants and food service](/commercial-pest-control/restaurants-food-service/) program; for the lodging and hospitality side, our [hotels and lodging](/commercial-pest-control/hotels-lodging/) program.
+Central and Northeast Wisconsin retail is small-format and community-anchored: the grocery that serves a whole township, the convenience store at the county-road junction, the farm-and-feed store, the Main Street shops in towns like [Clintonville](/service-area/clintonville/), [Shawano](/service-area/shawano/), and [Waupaca](/service-area/waupaca/). These stores carry the same compliance load and the same stored-product and rodent risk as any city retailer, but they're the exact accounts national brands deprioritize — too far up the county road, too small for the route, too easy to serve with a boilerplate visit and no documentation. We're already out here, we answer the phone ourselves, and we do both pest control and wildlife exclusion. For the food-service neighbors of retail, see our [restaurants and food service](/commercial-pest-control/restaurants-food-service/) program; for the lodging and hospitality side, our [hotels and lodging](/commercial-pest-control/hotels-lodging/) program.
 
 ## Our process for a retail account
 

@@ -31,7 +31,7 @@ Shawano has more water in play than any other town we serve, and mosquito work h
 
 **The Wolf River.** Flowing water breeds nothing. The **backwaters** are a different matter: still, vegetated pockets off the main channel that hold for weeks. Those do produce, and most of them are not yours.
 
-**The marsh margin.** North and east of the lake there is real wetland. It produces heavily, it is protected, and it is not something anyone should be treating. On properties near it, the plan changes from elimination to management.
+**The marsh margin.** North and east of the lake there is wetland. It produces heavily, it is protected, and it is not something anyone should be treating. On properties near it, the plan changes from elimination to management.
 
 ## What is actually breeding on a Shawano lot
 

@@ -6,7 +6,7 @@ answer: "Tigerton is a small Shawano County village on the Embarrass River, ring
 faqs:
   - q: "Why does a Tigerton property get mice from two directions?"
     a: "Because of what surrounds the village. Farmland on one side supplies the classic agricultural rodent pressure — grain, feed, outbuildings — while the woodlots on the other supply woodland species moving in as the weather turns. A property with a field on one boundary and timber on another is getting pressure from both, which is fairly typical here and is why Tigerton properties often need more thorough sealing than the numbers alone would suggest."
-  - q: "Is sealing really better than baiting?"
+  - q: "Is sealing better than baiting?"
     a: "For a lasting result, yes, and it is not close. Baiting removes some of the animals currently inside; it does nothing about the opening that let them in, so the space refills from an outside population that does not run out. Sealing removes the route permanently. The practical approach uses both — control to knock down what is already in, exclusion so the space does not refill — but if you only do one, the sealing is the one that still matters in three years."
   - q: "Where do mice get into an older Tigerton farmhouse?"
     a: "The same handful of places, over and over. The seam where the sill plate sits on a stone or block foundation, often gapping along a whole run. Utility penetrations — well line, electrical, plumbing — rarely sealed and frequently enlarged over the years. Basement window frames that have shifted. The outside cellar entry. And the join where a later addition or enclosed porch meets the original structure, which is the most productive single place to look on an old farmhouse."

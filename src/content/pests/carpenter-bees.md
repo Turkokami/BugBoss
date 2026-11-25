@@ -4,7 +4,7 @@ title: "Carpenter Bees in Northeast Wisconsin: The Round Holes in Your Deck, Fas
 answer: "Carpenter bees drill perfectly round, half-inch holes into unpainted decks, fascia, barn siding, and porch rails across Northeast Wisconsin, tunnelling galleries that widen every year. Woodpeckers then open the wood to reach the larvae. BugBoss treats the galleries, seals them, and advises on finishes that stop re-drilling."
 faqs:
   - q: "Do carpenter bees sting?"
-    a: "Barely, in practice. The bee doing the aggressive hovering and dive-bombing at your head is the male, and males have no stinger at all — the whole performance is bluff. The female does have a stinger and can use it, but she is genuinely reluctant to, spends most of her time inside the gallery, and generally has to be grabbed or trodden on before she will sting. Compared with yellowjackets or bald-faced hornets, carpenter bees are a very low stinging risk. The damage they do to wood is the real reason to deal with them."
+    a: "Barely, in practice. The bee doing the aggressive hovering and dive-bombing at your head is the male, and males have no stinger at all — the whole performance is bluff. The female does have a stinger and can use it, but she is genuinely reluctant to, spends most of her time inside the gallery, and generally has to be grabbed or trodden on before she will sting. Compared with yellowjackets or bald-faced hornets, carpenter bees are a very low stinging risk. The damage they do to wood is the reason to deal with them."
   - q: "How much damage do carpenter bees actually cause?"
     a: "One bee in one season does cosmetic damage — a round entry hole and a gallery running maybe four to six inches into the wood. The problem is that carpenter bees return to the same wood generation after generation, and each female often extends an existing tunnel rather than starting fresh. After a decade the same fascia board or barn rafter can hold branching galleries running a couple of feet, which genuinely weakens the member. Add woodpecker excavation on top and a board that started with one neat hole ends up needing replacement."
   - q: "Why is a woodpecker tearing up my fascia where the bees are?"
@@ -120,7 +120,7 @@ The common thread is bare, weathered, horizontal softwood. Painted surfaces get 
 
 The **stinging risk is genuinely low**. The aggressive hoverer is the male and he has no stinger. The female can sting but is docile, spends most of her time in the gallery, and generally needs to be handled before she will. Carpenter bees are not in the same category of stinging hazard as yellowjackets or bald-faced hornets. If someone in the household has a known bee sting allergy that changes the risk calculation and the bees should be dealt with — but for most people the buzzing is far more alarming than it is dangerous.
 
-The **structural risk is real but slow**, and it compounds in three ways.
+The **structural risk is slow**, and it compounds in three ways.
 
 First, **accumulation**. Each gallery removes a modest amount of wood. Ten years of reuse and extension in the same fascia board removes a lot. Branching galleries running a foot or two through a rafter genuinely reduce its strength.
 

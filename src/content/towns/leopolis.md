@@ -5,7 +5,7 @@ answer: "BugBoss The X-Terminator serves Leopolis, the tiny community on County 
 faqs:
   - q: "Does BugBoss provide pest control in Leopolis, WI?"
     a: "Yes. BugBoss The X-Terminator serves Leopolis and the surrounding Town of Herman in western Shawano County, along County Highway D between Herman and Pella. We're based in Clintonville at 600 S. Main St. and cover this rural corner for both pest control and wildlife — the kind of remote address national route trucks tend to skip."
-  - q: "Leopolis is small and remote. Will you really drive out here?"
+  - q: "Leopolis is small and remote. Will you drive out here?"
     a: "Yes. We built BugBoss to serve exactly these far-out rural addresses. A community of a few dozen people on County D is a normal stop for us, not a detour we grumble about. You're not going to be told the address is outside a service radius or wait a week because a national truck deprioritized it."
   - q: "Why does my Leopolis farmhouse get mice every fall?"
     a: "Because it sits in open farm and woodland country. When the fields are harvested and the nights cool in fall, field mice and deer mice move toward the nearest warm building, and an older farmhouse offers plenty of ways in through a fieldstone or block foundation. Trapping clears what's inside; sealing the building keeps the next wave out."
@@ -18,7 +18,7 @@ faqs:
   - q: "Does BugBoss remove bats from Leopolis homes and barns?"
     a: "Yes, and legally. Wisconsin protects bats, and the DNR bars sealing exits from June 1 through July 31 while flightless pups are roosting. Outside that window we install one-way doors, let the colony leave, seal every gap, and clean up the guano. We never seal bats inside."
   - q: "How long does it take BugBoss to reach Leopolis?"
-    a: "It's a real drive from our Clintonville base, but a routine one for us and far quicker than waiting on a national truck out of Green Bay or the Fox Valley. Call 866-BUGBOSS to check the schedule and today's availability."
+    a: "It's a long drive from our Clintonville base, but a routine one for us and far quicker than waiting on a national truck out of Green Bay or the Fox Valley. Call 866-BUGBOSS to check the schedule and today's availability."
   - q: "I have a cabin or hunting property near Leopolis. What should I watch for?"
     a: "Rodents, mostly. A building closed up between seasons is a quiet place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers it."
   - q: "Do carpenter ants get into Leopolis farmhouses?"
@@ -53,7 +53,7 @@ Spring is also when the woods wake up: blacklegged **ticks** get active fast in 
 
 ### Summer (June–August): ticks, stingers, and the bat window
 
-Summer in the woods means **ticks** stay a real concern all season, not just a spring event, because Leopolis properties sit right against the edge habitat where deer and small mammals keep tick numbers high. Lyme disease is the reason to take it seriously. Around the buildings, **wasps and hornets** nest under eaves, in wall voids, and in the ground, reaching their largest and most defensive size by August, which drives most of the season's [wasp and hornet](/pest-library/wasps-hornets/) calls.
+Summer in the woods means **ticks** stay a concern all season, not just a spring event, because Leopolis properties sit right against the edge habitat where deer and small mammals keep tick numbers high. Lyme disease is the reason to take it seriously. Around the buildings, **wasps and hornets** nest under eaves, in wall voids, and in the ground, reaching their largest and most defensive size by August, which drives most of the season's [wasp and hornet](/pest-library/wasps-hornets/) calls.
 
 Summer is also the one stretch when bats **cannot** be sealed out. Wisconsin protects its bats, and the DNR requires exits stay open **June 1 through July 31** while flightless pups are in the roost. The old roofs and barns around Leopolis make good roosts, so if you find a colony in July, plan the exclusion for August or later — never seal the building and trap pups inside, which is illegal and creates a far worse mess. See the [bats](/pest-library/bats/) page and the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/).
 
@@ -91,7 +91,7 @@ The working properties out here need practical, low-fuss programs. A **dairy or 
 
 ## Firewood, woodpiles, and what you carry indoors
 
-Living against the woods means most Leopolis homes heat with or supplement with wood, and the woodpile is a pest story of its own. A stack of split wood is a reservoir for **carpenter ants, spiders, beetles, and the occasional overwintering insect**, and every armload carried inside is a chance to bring them along. Ants and beetles that were dormant in a log will wake up and wander once the wood warms up next to the stove — which is why people call in January convinced they have an active indoor infestation when what they really have is a few insects that rode in on the firewood.
+Living against the woods means most Leopolis homes heat with or supplement with wood, and the woodpile is a pest story of its own. A stack of split wood is a reservoir for **carpenter ants, spiders, beetles, and the occasional overwintering insect**, and every armload carried inside is a chance to bring them along. Ants and beetles that were dormant in a log will wake up and wander once the wood warms up next to the stove — which is why people call in January convinced they have an active indoor infestation when what they have is a few insects that rode in on the firewood.
 
 The practical fixes are simple and worth stating plainly: keep the woodpile well away from the house rather than stacked against the siding, keep it up off the ground, and bring in only what you'll burn in a day or two rather than stocking a week's worth indoors. Wood stacked against the foundation is also a direct bridge for mice and a moisture trap against the wall, so moving it out pays off on more than one front. None of this requires a treatment — it's just how you keep the woods from moving inside with the heat.
 

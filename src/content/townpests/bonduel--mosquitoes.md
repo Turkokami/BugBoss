@@ -12,7 +12,7 @@ faqs:
   - q: "Do manure lagoons breed them?"
     a: "The lagoon itself generally does not — the chemistry is hostile to larvae. What does produce is the water around it: runoff pockets, the ponded ground at the edge of a lot, equipment ruts holding rainwater, and the margins where clean rainwater collects separately from the lagoon. People often treat the lagoon as the suspect and leave the actual sources alone twenty feet away."
   - q: "Can anything be done about the ditches along the roads?"
-    a: "Not by us, and not by you. Roadside and field drainage is somebody else's ground, and a ditch that holds water after rain will produce regardless of what happens on your property. That is a real limit and we will name it. What we can do is stop your own property contributing, and treat the shaded harborage so the adults arriving from elsewhere have nowhere comfortable to spend the day on your land."
+    a: "Not by us, and not by you. Roadside and field drainage is somebody else's ground, and a ditch that holds water after rain will produce regardless of what happens on your property. That is a limit and we will name it. What we can do is stop your own property contributing, and treat the shaded harborage so the adults arriving from elsewhere have nowhere comfortable to spend the day on your land."
   - q: "Where does the treatment go on a farm property?"
     a: "The fence rows, treelines, the shaded sides of outbuildings, dense ground cover and tall grass at the margins — not the open yard and not over the lawn. Adult mosquitoes spend daylight in cool shade and come out to feed at dawn and dusk. On a farmstead that shade is mostly structural and marginal, which means the treated band runs around the edge of the operation rather than around the house."
   - q: "Will this interfere with livestock or feed?"
@@ -64,6 +64,6 @@ If a property cannot be treated safely in a way that would actually help, that i
 
 On a quarter-acre village lot in Bonduel, the walk-round usually is the answer: gutters, the tarp on the woodpile, the wheelbarrow, the plant saucers, the downspout extension that holds water in the ribs. If clearing those settles it, you have saved the cost of a visit and we would rather you did.
 
-A treatment earns its place where there is real shaded harborage, or where the lot backs onto a field and is being reloaded from ground you do not own.
+A treatment earns its place where there is shaded harborage, or where the lot backs onto a field and is being reloaded from ground you do not own.
 
 And on farm properties, **[ticks](/pest-library/ticks/)** are usually the more serious of the two — same fence rows, same treated band, handled in the same pass. See the [tick and Lyme yard program](/guides/tick-lyme-yard-program/), the [mosquitoes profile](/pest-library/mosquitoes/), and the [Bonduel service page](/service-area/bonduel/).

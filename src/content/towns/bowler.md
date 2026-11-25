@@ -28,7 +28,7 @@ faqs:
   - q: "Can you deal with wasps and hornets in Bowler?"
     a: "Yes. Paper wasps under eaves, yellow jackets in the ground and in wall voids, and bald-faced hornets in trees and shrubs all reach full, defensive size by August, which is when most stings happen. We treat the nest at the source and remove it rather than knocking down what's reachable and leaving the colony active."
   - q: "How far is Bowler from BugBoss?"
-    a: "Bowler is a drive northwest of our Clintonville home base, out toward the wooded western edge of Shawano County. That local proximity means real response times and a company that knows the terrain. Call 866-BUGBOSS to check availability."
+    a: "Bowler is a drive northwest of our Clintonville home base, out toward the wooded western edge of Shawano County. That local proximity means response times and a company that knows the terrain. Call 866-BUGBOSS to check availability."
   - q: "Do you treat spiders around wooded Bowler properties?"
     a: "Yes. Wooded lots produce heavy spider pressure because the insects spiders feed on are so abundant near the forest. We treat eaves, soffits, foundations, and outbuilding corners and reduce the insect food that draws them, which cuts the webs on porches, decks, and around exterior lights."
 ---
@@ -69,7 +69,7 @@ At the same time, **mice** push indoors as the woods and fields go cold, and dee
 
 ### Winter (November–February): what's already inside
 
-By winter the outdoor invasion is done and what you have indoors is what got in during fall. **Mice** that found a warm, food-rich nest breed year-round once inside, so a couple in November becomes a real infestation by February if the entry points aren't sealed. **Overwintering cluster flies and lady beetles** wake on a warm day and drift to the windows of a forest-ringed home. And holiday and casino travel is exactly how **bed bugs** hitchhike home in luggage — a pest tied to travel, not cleanliness, and one that rebounds fast if it's only partly treated. Winter work in Bowler is mostly rodent exclusion, fall-invader cleanup, and dealing with travel pests.
+By winter the outdoor invasion is done and what you have indoors is what got in during fall. **Mice** that found a warm, food-rich nest breed year-round once inside, so a couple in November becomes a full infestation by February if the entry points aren't sealed. **Overwintering cluster flies and lady beetles** wake on a warm day and drift to the windows of a forest-ringed home. And holiday and casino travel is exactly how **bed bugs** hitchhike home in luggage — a pest tied to travel, not cleanliness, and one that rebounds fast if it's only partly treated. Winter work in Bowler is mostly rodent exclusion, fall-invader cleanup, and dealing with travel pests.
 
 ## Housing and building stock in Bowler
 
@@ -89,7 +89,7 @@ Everything in Bowler runs back to the **forest**. Mature trees are where carpent
 
 In country this wooded, wildlife work is constant, not a sideline. **Bats** roost in attics and behind fascia. **Raccoons** den in chimneys, torn soffits, and under decks and outbuildings — often females raising young in spring. **Squirrels** chew into attics through weak roof edges, especially where tree limbs touch the roofline. **Skunks** den under porches, decks, and sheds.
 
-The difference between a real fix and a temporary one is **exclusion** — sealing the weak soffit or limb-brushed roof edge so this animal, and the next one out of the surrounding woods, can't return — and, for bats, doing it on the legal DNR timeline. BugBoss handles the eviction, the sealing, and the cleanup of the guano, latrines, and chewed, soiled insulation these animals leave. Most pest-only outfits that reach this area won't touch wildlife; we do it under one roof. See our [wildlife removal](/wildlife-removal/) page, the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the [attic wildlife removal guide](/guides/attic-wildlife-removal/).
+The difference between a lasting fix and a temporary one is **exclusion** — sealing the weak soffit or limb-brushed roof edge so this animal, and the next one out of the surrounding woods, can't return — and, for bats, doing it on the legal DNR timeline. BugBoss handles the eviction, the sealing, and the cleanup of the guano, latrines, and chewed, soiled insulation these animals leave. Most pest-only outfits that reach this area won't touch wildlife; we do it under one roof. See our [wildlife removal](/wildlife-removal/) page, the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the [attic wildlife removal guide](/guides/attic-wildlife-removal/).
 
 ## Commercial and hospitality pest control in Bowler
 
@@ -105,7 +105,7 @@ For a lodging operation, the answer is **proactive monitoring and fast, thorough
 
 ## Wooded-property wildlife: the signature Bowler job
 
-Deep woods and older buildings make **wildlife** the defining job in Bowler. Overhanging limbs give squirrels and raccoons a bridge straight to the roofline, where a weak soffit return or a rotted fascia board is all they need. **Squirrels** gnaw entry holes and nest in attics, chewing wiring as they go — a genuine fire risk. **Raccoons** are strong enough to tear open a soffit or lift a loose vent, and a female will do exactly that to make a den for her spring litter; a raccoon latrine in an attic is also a real health-hazard cleanup. **Skunks** exploit the space under porches, decks, sheds, and outbuildings.
+Deep woods and older buildings make **wildlife** the defining job in Bowler. Overhanging limbs give squirrels and raccoons a bridge straight to the roofline, where a weak soffit return or a rotted fascia board is all they need. **Squirrels** gnaw entry holes and nest in attics, chewing wiring as they go — a genuine fire risk. **Raccoons** are strong enough to tear open a soffit or lift a loose vent, and a female will do exactly that to make a den for her spring litter; a raccoon latrine in an attic is also a health-hazard cleanup. **Skunks** exploit the space under porches, decks, sheds, and outbuildings.
 
 The mistake people make is trapping the animal and calling it done. Remove one raccoon from an attic and leave the hole, and another moves in within the season, because the building is still advertising a den site. The fix is **eviction plus exclusion plus cleanup**: get the animal out, seal the entry and reinforce the weak points, and clean and treat the contamination. That's how BugBoss approaches every wildlife job here, and it's laid out in the [attic wildlife removal guide](/guides/attic-wildlife-removal/) and on the [raccoons](/pest-library/raccoons/), [squirrels](/pest-library/squirrels/), and [skunks](/pest-library/skunks/) pages.
 

@@ -91,7 +91,7 @@ Wautoma isn't just homes and cabins. As the county seat it carries county office
 
 BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the documentation ready, and schedules discreetly. Dealing directly with the owner means one accountable person behind the result — not a rotating route crew from another county.
 
-## Why a real operator beats the alternative out here
+## Why a local operator beats the alternative out here
 
 The national outfits are built for dense subdivisions where a route truck knocks out a dozen stops in a tight loop. A lake-country county seat 55 miles from our shop, full of homes that sit empty half the year, doesn't fit that model — which is why the corridor has been underserved. What matters here is a company that will make the drive, understands seasonal and second homes, and can tell a cluster fly off the sandy soil from a stable fly, a big brown bat from a little brown, a carpenter-ant nest in a damp cabin sill from a harmless trail on the deck — and that does [residential pest control](/residential-pest-control/) and wildlife both.
 
@@ -109,7 +109,7 @@ The seasonal rhythm is exactly what makes DIY fail out here. Lasting control mea
 
 ## The hantavirus point: why cabin rodent cleanup matters
 
-It's worth being direct about deer mice, because they're the common rodent on wooded and shoreline lots around Wautoma, and they're not just a nuisance. Deer mouse droppings and nesting material can carry hantavirus, and the classic exposure is exactly the lake-cabin scenario — opening a place that's sat closed all winter and sweeping or vacuuming up accumulated droppings, which sends contaminated dust into the air. The safe approach is not to dry-sweep a rodent-fouled cabin. Proper cleanup means ventilating first, wetting contaminated material down, and removing it without kicking up dust — and, more importantly, sealing the building so the mice never accumulate in the first place. This is a real reason we push exclusion and monitoring on seasonal homes rather than a seasonal trap-and-toss: it's a health issue, not only a comfort one, and it's specific to the kind of property Wautoma is full of.
+It's worth being direct about deer mice, because they're the common rodent on wooded and shoreline lots around Wautoma, and they're not just a nuisance. Deer mouse droppings and nesting material can carry hantavirus, and the classic exposure is exactly the lake-cabin scenario — opening a place that's sat closed all winter and sweeping or vacuuming up accumulated droppings, which sends contaminated dust into the air. The safe approach is not to dry-sweep a rodent-fouled cabin. Proper cleanup means ventilating first, wetting contaminated material down, and removing it without kicking up dust — and, more importantly, sealing the building so the mice never accumulate in the first place. This is a reason we push exclusion and monitoring on seasonal homes rather than a seasonal trap-and-toss: it's a health issue, not only a comfort one, and it's specific to the kind of property Wautoma is full of.
 
 ## Stinging insects and mosquitoes at the lake
 

@@ -11,7 +11,7 @@ faqs:
   - q: "Why does an established village like Allouez get so many cluster flies?"
     a: "Because Allouez is largely built out with mature homes, established lawns, and big old trees, and it sits between two rivers — the Fox on the west and the East River to the east. Cluster flies breed in soil, not garbage, so those old lawns and river corridors keep producing them. They mass on warm south and west walls each fall and push into wall voids and attics."
   - q: "Can BugBoss remove bats from an Allouez home legally?"
-    a: "Yes. Wisconsin protects bats, and the DNR keeps one-way exits open June 1 through July 31 during the maternity season. We do humane exclusion outside that window — find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up the guano. Allouez's older, settled homes with real attics are classic bat roosts. We never seal bats in."
+    a: "Yes. Wisconsin protects bats, and the DNR keeps one-way exits open June 1 through July 31 during the maternity season. We do humane exclusion outside that window — find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up the guano. Allouez's older, settled homes with attics are classic bat roosts. We never seal bats in."
   - q: "Are carpenter ants common in Allouez?"
     a: "Yes. Allouez's housing skews older and settled, and decades of small roof, gutter, and plumbing leaks leave moisture-damaged wood that carpenter ants excavate to nest in. Winged swarmers indoors in spring, or big black ants active inside in winter, mean the nest is in the structure. Control is finding the nest and correcting the moisture, not spraying trails."
   - q: "Do you require a contract to service a home in Allouez?"
@@ -19,7 +19,7 @@ faqs:
   - q: "You're in Clintonville — is Allouez too far for you?"
     a: "Allouez is at the metro edge of our range, so we're upfront: for a small one-off, a company inside the Green Bay area is closer. We earn the drive on specialized work — bat and squirrel exclusion, whole-house fall-invader sealing, and carpenter ant jobs — the kind of thing the metro franchises won't do, or won't do without a contract."
   - q: "How do mice get into older Allouez homes?"
-    a: "Through gaps as small as a dime — block and older poured foundations that have settled and cracked, soffit and siding gaps, garage-door corners, and utility penetrations. With two river corridors bounding the village, sealing the building is the real fix. Trapping alone only clears what's already inside while more follow the same route in fall."
+    a: "Through gaps as small as a dime — block and older poured foundations that have settled and cracked, soffit and siding gaps, garage-door corners, and utility penetrations. With two river corridors bounding the village, sealing the building is the fix. Trapping alone only clears what's already inside while more follow the same route in fall."
   - q: "Does living near the Fox River in Allouez bring extra pests?"
     a: "The Fox on the west and the East River on the east both bring wildlife pressure and some seasonal mosquito activity. Those corridors give raccoons, squirrels, and other wildlife travel routes right up to rooflines and chimneys, so homes backing onto the river greenway see more attic and chimney intrusions than an interior lot."
   - q: "What fall invaders show up in Allouez besides cluster flies?"
@@ -42,7 +42,7 @@ Today Allouez is home to about **14,156 people** across **5.15 square miles**, a
 
 An established village home has weak points a builder today would seal automatically. In Allouez we see them repeat from street to street.
 
-The **foundations** — older poured concrete and block — have settled and cracked over sixty, eighty, a hundred years of Wisconsin freeze-thaw, and a mouse needs only a dime-sized gap to use one. **Soffit and fascia** boards have loosened and pulled, original or aging windows have gapped at the sash, and older masonry **chimneys** have lost their caps. Many of these homes have real, spacious **attics** rather than the shallow trussed cavities of new construction — good harborage for overwintering insects and for wildlife.
+The **foundations** — older poured concrete and block — have settled and cracked over sixty, eighty, a hundred years of Wisconsin freeze-thaw, and a mouse needs only a dime-sized gap to use one. **Soffit and fascia** boards have loosened and pulled, original or aging windows have gapped at the sash, and older masonry **chimneys** have lost their caps. Many of these homes have full, spacious **attics** rather than the shallow trussed cavities of new construction — good harborage for overwintering insects and for wildlife.
 
 Then there are the **mature trees and established plantings** Allouez is known for. Big boxelders and maples feed fall-invader populations directly, overhanging branches hand squirrels a bridge to the roof, and old root systems and rich soil keep the cluster fly supply steady. A leafy, settled neighborhood is beautiful — and it's exactly the setting these pests evolved to exploit.
 
@@ -72,7 +72,7 @@ The **Fox River** on the west and the **East River** on the east both bring wild
 
 ## Beyond the fall invaders: the rest of the Allouez picture
 
-Cluster flies, mice, and wildlife lead the list, but a settled village carries a broader mix. **Nuisance ants** — pavement ants trailing out of driveway, walkway, and patio cracks, and odorous house ants in the kitchen — are a common warm-season call. These aren't the wood-damaging carpenter ants, and spraying the visible trail only scatters them; the real fix is treating the colony at its source.
+Cluster flies, mice, and wildlife lead the list, but a settled village carries a broader mix. **Nuisance ants** — pavement ants trailing out of driveway, walkway, and patio cracks, and odorous house ants in the kitchen — are a common warm-season call. These aren't the wood-damaging carpenter ants, and spraying the visible trail only scatters them; the fix is treating the colony at its source.
 
 **Spiders** follow their food. They gather where the insect supply is good — porches, garages, and eaves that pull in flying insects at night, and the well-lit doorways of Allouez's older homes. Sweeping webs off the soffit does nothing lasting; an exterior program that knocks down the insects they feed on does.
 

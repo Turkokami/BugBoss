@@ -122,7 +122,7 @@ They are strongly attached to these sites and return year after year, which has 
 
 **To livestock:** cattle and horses occasionally get quilled investigating one, with the same complications.
 
-**To property:** the structural chewing is real and cumulative, and the chewed **brake lines and vehicle components** are a genuine safety issue rather than an inconvenience.
+**To property:** the structural chewing is cumulative, and the chewed **brake lines and vehicle components** are a genuine safety issue rather than an inconvenience.
 
 **To trees:** girdling kills, and a single animal can take out several trees over a few seasons in a woodlot.
 

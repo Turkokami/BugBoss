@@ -1,6 +1,6 @@
 ---
 title: "Farmhouse & Pole Barn Rodent Exclusion in Rural Wisconsin"
-answer: "Rural Wisconsin homes get house mice and deer mice pushing indoors each fall through gaps as small as a quarter inch. Deer mice can carry hantavirus. Trapping only clears what's already inside; the real fix is exclusion — sealing entry points on farmhouses, pole barns, and feed rooms. BugBoss does both across Waupaca County."
+answer: "Rural Wisconsin homes get house mice and deer mice pushing indoors each fall through gaps as small as a quarter inch. Deer mice can carry hantavirus. Trapping only clears what's already inside; the fix is exclusion — sealing entry points on farmhouses, pole barns, and feed rooms. BugBoss does both across Waupaca County."
 category: "Rodents"
 order: 3
 faqs:
@@ -8,17 +8,17 @@ faqs:
     a: "About a quarter inch — roughly the width of a pencil or the thickness of a dime. A mouse's skull is the limiting factor, and if the head fits, the body follows. That's why sealing works only when it's thorough: a single overlooked gap around a pipe, under a garage door, or at a foundation crack is all a mouse needs. On older farmhouses those quarter-inch gaps are everywhere."
   - q: "What's the difference between a house mouse and a deer mouse?"
     a: "A house mouse is uniformly gray-brown with a nearly hairless tail and lives closely with people, mostly in and around buildings. A deer mouse is bicolored — brown or gray on top, clean white underneath and on the feet — with a sharply two-toned, furred tail, and it's more of a field and outbuilding animal. The distinction matters because deer mice are the ones associated with hantavirus."
-  - q: "Is hantavirus really a risk on Wisconsin farms?"
+  - q: "Is hantavirus a risk on Wisconsin farms?"
     a: "It's rare but serious, and deer mice are the carrier. The virus is shed in mouse urine, droppings, and saliva and becomes a risk when dried contamination is stirred into the air — sweeping out a cabin, cleaning a feed room, or disturbing a nest in a shed. That's why you never dry-sweep or vacuum a heavy deer mouse mess; you ventilate, wet it down with disinfectant, and clean with gloves and a respirator."
   - q: "Why won't traps alone solve my mouse problem?"
     a: "Because trapping only removes the mice already inside; it does nothing about the entry points letting new ones in. Mice breed year-round once they're established in a warm building, and a rural property sits next to an essentially unlimited supply out in the fields and fencerows. You can trap all winter and still have mice every fall. Sealing the building is what actually ends it."
   - q: "When do mice come into rural Wisconsin homes?"
-    a: "The big push is September through November, when the fields are harvested and the nights turn cold and mice look for warmth and food. They don't stop there, though — once inside a heated farmhouse or a barn they breed through the winter, so a few that got in during October can be a real infestation by February. Fall is when exclusion pays off most."
+    a: "The big push is September through November, when the fields are harvested and the nights turn cold and mice look for warmth and food. They don't stop there, though — once inside a heated farmhouse or a barn they breed through the winter, so a few that got in during October can be a full infestation by February. Fall is when exclusion pays off most."
   - q: "How do mice get into an old farmhouse?"
     a: "Through the weak points that come with age: fieldstone and rubble foundations with mortar gaps, unsealed sill plates where the wood frame meets the foundation, balloon-framed walls that run open from basement to attic, utility and pipe penetrations, worn thresholds, and gaps where additions meet the original structure. Older homes have dozens of these, which is why a careful inspection finds entry points the homeowner never noticed."
   - q: "Why are pole barns and outbuildings so hard to keep mice out of?"
     a: "Because they're built for equipment, not for a tight seal. The gap under a sliding or overhead door, the open ends of ribbed steel panels, unsealed penetrations for wiring and water, and gaps where the wall meets the slab all give mice easy entry. Add stored feed, seed, and equipment for cover and food, and an outbuilding becomes ideal habitat. They can be tightened up, but it takes targeted sealing."
-  - q: "Can mice really cause a fire?"
+  - q: "Can mice cause a fire?"
     a: "Yes. Mice gnaw constantly to keep their incisors worn down, and electrical wiring is a common target. Chewed insulation on wiring in a wall, attic, barn, or a stored vehicle can short and arc, and rodent-damaged wiring is a documented cause of structure fires. In pole barns and older farmhouses with runs of accessible wiring, it's one of the more serious and least visible risks a mouse infestation creates."
   - q: "Where do mice hide in a farmhouse?"
     a: "In the quiet, warm voids: inside walls (especially balloon-framed cavities), above ceilings, in attic and basement corners, behind and under appliances, in the backs of cabinets and pantries, and in stored boxes and clutter. You'll often notice the signs — droppings, gnaw marks, a musky smell, rustling at night — before you ever see the mouse, since they're most active after dark and avoid open space."
@@ -58,7 +58,7 @@ That side-by-side matters because of what the deer mouse can carry.
 
 **Hantavirus** is rare in the Upper Midwest, but it's serious when it happens — it can cause a severe, sometimes fatal respiratory illness — and **deer mice are the primary carrier**. The virus is shed in the mouse's urine, droppings, and saliva. People are exposed not by a bite but by breathing in dust when dried contamination gets stirred into the air. The classic high-risk scenario is exactly the kind of thing that happens on a rural property: opening up a cabin in spring and sweeping out a winter's worth of mouse droppings, cleaning out a shed or a feed room, or disturbing a nest in a stored boat or a woodpile.
 
-The rule for any heavy deer mouse mess is simple and worth taking seriously. Do not **dry-sweep or vacuum** it — that's precisely what aerosolizes the virus. Instead, ventilate the space, wet the contamination down with a disinfectant or a bleach solution and let it soak, and clean it up with **gloves and a respirator**, sealing the waste in a bag. On our jobs, we handle contaminated cleanup this way as a matter of course, which is one more reason it pays to have someone do it who treats the health risk as real.
+The rule for any heavy deer mouse mess is simple and worth taking seriously. Do not **dry-sweep or vacuum** it — that's precisely what aerosolizes the virus. Instead, ventilate the space, wet the contamination down with a disinfectant or a bleach solution and let it soak, and clean it up with **gloves and a respirator**, sealing the waste in a bag. On our jobs, we handle contaminated cleanup this way as a matter of course, which is one more reason it pays to have someone do it who takes the health risk seriously.
 
 ## The quarter-inch problem
 
@@ -116,7 +116,7 @@ Mice are the main event, but a few other rodents turn up on rural properties and
 
 **Norway rats** are far less common in this rural area than in cities, but they do turn up around farms, grain storage, and dumpsters. A rat is a bigger animal with a bigger appetite for destruction and needs bigger gaps — about a half inch versus a mouse's quarter inch — but the exclusion logic is identical: clear, then seal.
 
-**Squirrels and chipmunks** are technically rodents and they do get into attics and outbuildings, but they're really a wildlife-exclusion matter — bigger gaps, roofline entry, different sealing. We handle those on the [wildlife side](/wildlife-removal/) along with the [squirrels](/pest-library/squirrels/) work, and the same principle applies: get them out, then close the building.
+**Squirrels and chipmunks** are technically rodents and they do get into attics and outbuildings, but they're a wildlife-exclusion matter — bigger gaps, roofline entry, different sealing. We handle those on the [wildlife side](/wildlife-removal/) along with the [squirrels](/pest-library/squirrels/) work, and the same principle applies: get them out, then close the building.
 
 ## Why exclusion beats trapping
 
@@ -140,7 +140,7 @@ Rodent pressure on a farm isn't constant — it swells and recedes with the seas
 
 ## The BugBoss rural rodent process
 
-We run rural rodent work as a real exclusion job, not a bait-station subscription. Here's how it goes.
+We run rural rodent work as an exclusion job, not a bait-station subscription. Here's how it goes.
 
 **Inspect everything.** We walk the house, the pole barn, and the outbuildings inside and out, finding the entry points and the signs — droppings, gnaw marks, rub trails, nests — and identifying whether you're dealing with house mice, deer mice, or both, since that shapes the cleanup.
 

@@ -7,14 +7,14 @@ faqs:
     a: "Most birds are federally protected, but three of the worst building pests are not: the European starling, the house sparrow, and the rock pigeon, all non-native, introduced species. That legal distinction is why they can be controlled directly with exclusion and removal, while native birds cannot. Correctly identifying that you're dealing with one of these three is the first step of any legitimate job."
   - q: "Why are birds nesting in my dryer or stove vent?"
     a: "Starlings and house sparrows love vents — they're sheltered, warm, and elevated, an ideal nest site. The trouble is the nest blocks the vent, which is a fire hazard on a dryer vent and kills the airflow on a stove or bath vent, and it brings droppings, mites, and parasites right to the wall. The fix is clearing the nest and fitting a proper vent guard that lets air out but keeps birds from getting back in."
-  - q: "Are bird droppings really a health risk?"
-    a: "Yes, and it's the part people underestimate. Accumulated droppings from pigeons and starlings can harbor the fungus that causes histoplasmosis, a lung disease contracted by breathing in spores from disturbed, dried droppings — a real concern when cleaning a barn loft, attic, or ledge with years of buildup. Droppings also carry other pathogens and host mites and parasites. That's why cleanup is done with proper protection, not a broom."
+  - q: "Are bird droppings a health risk?"
+    a: "Yes, and it's the part people underestimate. Accumulated droppings from pigeons and starlings can harbor the fungus that causes histoplasmosis, a lung disease contracted by breathing in spores from disturbed, dried droppings — a concern when cleaning a barn loft, attic, or ledge with years of buildup. Droppings also carry other pathogens and host mites and parasites. That's why cleanup is done with proper protection, not a broom."
   - q: "How do you keep pigeons and starlings out for good?"
     a: "Exclusion — physically denying access to the roosting and nesting spots. That means netting off open eaves, barn gables, and rafters; screening vents, soffits, and gable openings; fitting guards on ledges and beams; and closing the gaps birds use. Scaring devices and repellents alone don't last because the birds just come back to a spot they can still reach. Deny the access and the birds have to go elsewhere."
   - q: "Do bird spikes and scare devices actually work?"
     a: "Spikes work well on narrow ledges and beams to stop roosting, as part of an exclusion plan. Scare devices — fake owls, reflective tape, distress calls — give short-term relief at best, because starlings, pigeons, and sparrows are smart and habituate fast once they learn the threat is empty. Durable control comes from physically blocking access with netting, screening, and guards, not from trying to frighten established birds off a good site."
   - q: "Why are there so many birds in my barn?"
-    a: "Barns are close to ideal habitat for these species: open gables and eaves for entry, rafters and ledges to roost and nest on, and — the real draw — spilled feed and grain to eat. Starlings and sparrows in particular pack into barns and outbuildings around feed. Controlling them means excluding them from the structure and tightening up feed storage and spillage so the food that pulls them in is gone."
+    a: "Barns are close to ideal habitat for these species: open gables and eaves for entry, rafters and ledges to roost and nest on, and — the draw — spilled feed and grain to eat. Starlings and sparrows in particular pack into barns and outbuildings around feed. Controlling them means excluding them from the structure and tightening up feed storage and spillage so the food that pulls them in is gone."
   - q: "Are these birds a problem for my livestock or feed?"
     a: "Yes. Starlings and sparrows contaminate livestock feed and water with droppings, eat and foul stored grain, and can spread diseases and parasites in and around barns and feed areas. Large starling flocks are a documented problem on dairy and livestock operations. Excluding them from feed storage and barns, plus cleanup, protects both the feed and the animals' health."
   - q: "When is the best time to deal with a bird problem?"
@@ -24,7 +24,7 @@ faqs:
   - q: "Is it a house sparrow or a native bird?"
     a: "It matters, because native sparrows are protected and house sparrows are not. House sparrows are stocky, associated tightly with buildings and barns, and nest in vents, signs, and cavities on structures; the male has a black bib and gray crown. Because misidentification has legal consequences, correct ID is part of a proper job — BugBoss confirms the species before any control."
   - q: "Can't I just knock down the nests myself?"
-    a: "You can, for these non-native species, but there are real cautions. Nests and old droppings carry mites, parasites, and the histoplasmosis risk, so disturbing dry buildup without protection is exactly how people get exposed. And clearing a nest without excluding the birds means they simply rebuild in the same spot within days. Clearing plus exclusion plus safe cleanup is what actually resolves it."
+    a: "You can, for these non-native species, but there are cautions. Nests and old droppings carry mites, parasites, and the histoplasmosis risk, so disturbing dry buildup without protection is exactly how people get exposed. And clearing a nest without excluding the birds means they simply rebuild in the same spot within days. Clearing plus exclusion plus safe cleanup is what actually resolves it."
   - q: "How do you clean up after the birds?"
     a: "Carefully and with the right protection. Dried droppings are wetted down to control dust, contaminated nesting material and buildup are removed and disposed of properly, and the site is decontaminated to address pathogens and odor — because leftover droppings and scent both hold a health risk and draw birds back. On barns and commercial sites with heavy buildup, this is genuinely hazardous work that shouldn't be done with a broom and a dust mask."
   - q: "Does BugBoss handle birds on commercial and farm buildings?"
@@ -35,7 +35,7 @@ faqs:
 
 ## What are nuisance birds, and what makes them a problem here?
 
-Nuisance-bird problems come down to three species, and naming them precisely is the whole foundation of the job. The birds that cause real building conflicts in Northeast Wisconsin are the **European starling**, the **rock pigeon**, and the **house sparrow** — and all three share two crucial traits. First, they're **non-native, introduced species**, thoroughly adapted to living on and in human buildings. Second, and this is what makes direct control possible, **they are not protected** under the federal Migratory Bird Treaty Act. Starlings, house sparrows, and pigeons are, along with resident game birds, among the only birds in the country that can be controlled directly rather than merely deterred.
+Nuisance-bird problems come down to three species, and naming them precisely is the whole foundation of the job. The birds that cause building conflicts in Northeast Wisconsin are the **European starling**, the **rock pigeon**, and the **house sparrow** — and all three share two crucial traits. First, they're **non-native, introduced species**, thoroughly adapted to living on and in human buildings. Second, and this is what makes direct control possible, **they are not protected** under the federal Migratory Bird Treaty Act. Starlings, house sparrows, and pigeons are, along with resident game birds, among the only birds in the country that can be controlled directly rather than merely deterred.
 
 That legal fact cuts both ways, and it's why identification comes first on every job. Because these three aren't protected, we can exclude, remove, and clear their nests directly. But **native birds are protected**, and misidentifying a native sparrow, a barn swallow, a native cavity-nester, or any other protected bird — and acting on it — is a federal violation. A responsible nuisance-bird job always starts by confirming that the bird actually causing the problem is one of the three species the law allows us to control. Get that wrong and you're either failing to solve the problem or breaking the law.
 
@@ -61,7 +61,7 @@ They nest **repeatedly through the warm season.** Starlings and house sparrows c
 
 **Flocking** is a starling and pigeon specialty. Starlings form large fall and winter flocks that descend on feedlots, barns, and roost sites in numbers that overwhelm any scare tactic, and these flocks are behind the heaviest feed contamination and the biggest droppings problems on farms. Pigeons build up dense, persistent colonies on favorable structures.
 
-And all three are **food-driven.** Starlings and sparrows are drawn to and sustained by **spilled grain, livestock feed, and accessible food**, which is the engine behind barn and feedlot infestations. The birds are there because the food is there — which means feed and spillage management is part of any real solution, not an afterthought.
+And all three are **food-driven.** Starlings and sparrows are drawn to and sustained by **spilled grain, livestock feed, and accessible food**, which is the engine behind barn and feedlot infestations. The birds are there because the food is there — which means feed and spillage management is part of any solution, not an afterthought.
 
 ## When are nuisance birds active in Northeast Wisconsin?
 
@@ -93,7 +93,7 @@ You'll also **hear them** (starling chatter and the constant activity of a sparr
 
 ## The risks: health and structural
 
-Nuisance birds carry a health load that people consistently underestimate, on top of real structural damage.
+Nuisance birds carry a health load that people consistently underestimate, on top of structural damage.
 
 **Histoplasmosis** is the headline health concern. Accumulated droppings from starlings and pigeons — the kind that build up in a barn loft, an attic, a soffit, or on a ledge over months and years — can harbor the fungus *Histoplasma*, whose spores become airborne when dried droppings are **disturbed**. Breathing those spores can cause histoplasmosis, a lung disease that ranges from flu-like to serious, especially for anyone with a weakened immune system. This is precisely why cleaning up heavy droppings is hazardous work done with dust control and protection, not a broom-and-dust-mask job — the act of cleaning carelessly is exactly what launches the spores.
 
@@ -101,7 +101,7 @@ Beyond histoplasmosis, droppings and nesting material can carry **other pathogen
 
 **Fire and airflow hazards** come from nests in vents. A nest packed into a **dryer vent** is a genuine fire risk; nests in stove, bath, and gable vents kill the airflow those vents exist to provide, causing moisture, backdrafting, and efficiency problems.
 
-**Structural damage** comes from the droppings themselves, which are **acidic and corrosive.** Over time they degrade paint, metal, stone, concrete, and roofing; stain and mar siding and signage; clog and corrode gutters and drains; and add weight and moisture that shorten roof life. Nesting debris blocks gutters and vents. What begins as an eyesore becomes a real maintenance and repair expense if roosting is allowed to continue.
+**Structural damage** comes from the droppings themselves, which are **acidic and corrosive.** Over time they degrade paint, metal, stone, concrete, and roofing; stain and mar siding and signage; clog and corrode gutters and drains; and add weight and moisture that shorten roof life. Nesting debris blocks gutters and vents. What begins as an eyesore becomes a maintenance and repair expense if roosting is allowed to continue.
 
 For a business, there's also the plain matter of **appearance and liability** — droppings on entries, walkways, and merchandise are a customer-facing problem and a slip hazard, which is why [commercial bird exclusion](/commercial-pest-control/) is such common work.
 
@@ -119,7 +119,7 @@ The standard homeowner and business-owner attempts fail for consistent reasons r
 
 **The cleanup is genuinely hazardous.** The DIY instinct is to grab a broom and clear the droppings — which, with dry, built-up droppings, is exactly the wrong move, launching histoplasmosis spores and stirring up mites and pathogens. Proper cleanup needs dust control and protection.
 
-**And the legal trap is real.** A frustrated property owner who acts against birds without confirming the species can run afoul of federal protections if the bird turns out to be native. The whole effort depends on correct identification first.
+**And there is a legal trap.** A frustrated property owner who acts against birds without confirming the species can run afoul of federal protections if the bird turns out to be native. The whole effort depends on correct identification first.
 
 ## How does BugBoss handle nuisance birds?
 

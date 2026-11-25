@@ -77,7 +77,7 @@ A useful trick for the lady beetles: drop a knee-high nylon stocking into the va
 
 **Leave the pesticide alone.** We will say this plainly because it is the most common thing people do and the least useful: an indoor aerosol at the window kills the six insects you can see and does nothing about the several hundred still in the wall. It puts material where your family lives to solve a cosmetic problem. It is not what we would do in our own house.
 
-**Do not seal the interior gaps with the insects still behind them.** Caulking around a window stop in January mostly means the insects die in the cavity instead. Dead insects in a void draw [carpet beetles](/pest-library/carpet-beetles/) and other scavengers, which is a real and worse problem. Interior sealing is a summer job, once the wall is empty.
+**Do not seal the interior gaps with the insects still behind them.** Caulking around a window stop in January mostly means the insects die in the cavity instead. Dead insects in a void draw [carpet beetles](/pest-library/carpet-beetles/) and other scavengers, which is a worse problem. Interior sealing is a summer job, once the wall is empty.
 
 ## Winter is for making the list
 

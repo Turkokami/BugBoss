@@ -17,12 +17,12 @@ faqs:
     a: "Usually fewer than people assume from the damage, because one cottontail can do a remarkable amount of work over a winter. That said, populations do build fast: eastern cottontails breed from early spring into late summer, producing several litters a year with a short gestation, and young females can breed in the season they were born. So a property with good cover and food can go from a couple of rabbits to a noticeable population in a single season, which is why habitat management matters alongside fencing."
   - q: "Where do rabbits hide on my property?"
     a: "Cottontails do not dig burrows for themselves. They use shallow depressions called forms, scraped out under cover, plus whatever shelter is available — brush piles, wood piles, the space under decks, porches, and sheds, dense evergreen skirts, tall grass, overgrown fence lines, and the gaps in stacked material. In winter they will use an abandoned woodchuck burrow. The practical point is that cover is what holds rabbits on a property, so removing brush piles and opening up dense low shelter reduces the population you are fencing against."
-  - q: "Does a fence really need to be buried?"
+  - q: "Does a fence need to be buried?"
     a: "For rabbits, buried is helpful but skirting is usually enough — the more common failure is a fence that is simply too short, or one with a gap at the bottom that a rabbit slips under without needing to dig. Two feet of one-inch poultry wire or hardware cloth, with the bottom few inches either buried or bent outward into an apron and pinned down, handles cottontails well. Remember to account for snow: a two-foot fence with eighteen inches of snow against it is a six-inch fence."
   - q: "Will a dog or cat keep rabbits away?"
     a: "A dog with regular access to the yard genuinely does suppress rabbit use, and it is one of the more effective informal deterrents there is. Cats will take young rabbits but rarely deter adults. Neither is reliable protection for anything you actually care about — the rabbit simply feeds at the times the dog is indoors, which in a Wisconsin winter is most of the time. Treat a dog as helpful pressure rather than as a substitute for a physical barrier around valuable trees and shrubs."
   - q: "What plants do rabbits leave alone?"
-    a: "Fewer than the lists suggest, and a hungry rabbit in February is far less selective than the same rabbit in June. In general they tend to avoid strongly aromatic and fuzzy-leaved plants and some ornamental grasses, while showing real enthusiasm for young fruit trees, roses, burning bush, serviceberry, crabapple, raspberry canes, hostas, tulips, and most vegetable seedlings. Planting choice can reduce pressure at the margins, but the honest advice for anything valuable is a physical barrier rather than a hopeful species selection."
+    a: "Fewer than the lists suggest, and a hungry rabbit in February is far less selective than the same rabbit in June. In general they tend to avoid strongly aromatic and fuzzy-leaved plants and some ornamental grasses, while showing enthusiasm for young fruit trees, roses, burning bush, serviceberry, crabapple, raspberry canes, hostas, tulips, and most vegetable seedlings. Planting choice can reduce pressure at the margins, but the honest advice for anything valuable is a physical barrier rather than a hopeful species selection."
   - q: "Are rabbits a health risk?"
     a: "Low, but not zero. Wild rabbits can carry tularemia, a bacterial disease transmissible to people through handling an infected animal or via ticks and biting flies — which is a sound reason to wear gloves if you ever handle a dead rabbit and to avoid any that appears sick or unusually approachable. They also host ticks, which matters more in practice given Lyme disease in Wisconsin. They do not damage buildings, do not get into food stores, and are not a structural pest in any sense."
   - q: "Can I trap and relocate them?"
@@ -77,7 +77,7 @@ Everything expensive about rabbits comes down to a seasonal diet change.
 
 Then snow makes it worse in a way people consistently underestimate. **Snow lifts the rabbit's reach.** A foot of snow puts bark a foot higher within range. Drifting against a hedge or a wall can put them substantially higher still. This is why tree guards fail: someone installs an eighteen-inch guard, eighteen inches of snow accumulates, and the rabbit calmly feeds on the bark just above the top of it.
 
-**Late winter is the peak of damage.** February and March, with natural food long gone and the animals under real nutritional pressure, is when the girdling happens and when repellents are least likely to deter anything.
+**Late winter is the peak of damage.** February and March, with natural food long gone and the animals under nutritional pressure, is when the girdling happens and when repellents are least likely to deter anything.
 
 ## Girdling: why it kills
 
@@ -121,9 +121,9 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 ## Are rabbits dangerous?
 
-**Health risk is low but real enough to be worth knowing.** Wild rabbits can carry **tularemia**, a bacterial disease transmissible to people through handling an infected animal or via ticks and biting flies. Wear gloves if you handle a dead rabbit, and steer clear of any animal that appears ill or oddly approachable. Rabbits also host **ticks**, which is the more practical concern given Lyme disease here — see [ticks](/pest-library/ticks/).
+**Health risk is low but not zero enough to be worth knowing.** Wild rabbits can carry **tularemia**, a bacterial disease transmissible to people through handling an infected animal or via ticks and biting flies. Wear gloves if you handle a dead rabbit, and steer clear of any animal that appears ill or oddly approachable. Rabbits also host **ticks**, which is the more practical concern given Lyme disease here — see [ticks](/pest-library/ticks/).
 
-**Property risk is entirely horticultural.** Rabbits do not damage buildings, do not get into food stores, do not chew wiring, and are not a structural pest in any respect. What they do is kill plants, and the cost can be substantial — a girdled young orchard, a lost shelterbelt planting, or a landscape's worth of shrubs is real money.
+**Property risk is entirely horticultural.** Rabbits do not damage buildings, do not get into food stores, do not chew wiring, and are not a structural pest in any respect. What they do is kill plants, and the cost can be substantial — a girdled young orchard, a lost shelterbelt planting, or a landscape's worth of shrubs is money.
 
 **They also den under things**, and a rabbit living under a deck or shed is a sign that the void is open — which matters, because [skunks](/pest-library/skunks/), [groundhogs](/pest-library/groundhogs/), and [foxes](/pest-library/foxes/) will use the same space, and those are more consequential tenants.
 

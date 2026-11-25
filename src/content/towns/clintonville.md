@@ -18,13 +18,13 @@ faqs:
   - q: "Does BugBoss treat carpenter ants in Clintonville?"
     a: "Yes. Carpenter ants are common in Clintonville, especially in older homes near the Pigeon River and on properties with mature trees. They excavate moisture-damaged wood rather than eating it, so treatment means finding the parent and satellite nests and correcting the moisture that drew them, not just spraying the ants you see."
   - q: "Can BugBoss handle commercial pest control for Clintonville businesses?"
-    a: "Yes. Clintonville has a real commercial base — manufacturing like the Seagrave and FWD plants, a downtown business district, schools, and food service — and each needs documented, inspection-ready pest management. BugBoss builds a discreet program around your building and industry, with records ready when an inspector asks."
+    a: "Yes. Clintonville has an established commercial base — manufacturing like the Seagrave and FWD plants, a downtown business district, schools, and food service — and each needs documented, inspection-ready pest management. BugBoss builds a discreet program around your building and industry, with records ready when an inspector asks."
   - q: "Why is my Clintonville house full of flies on a warm winter day?"
     a: "Those are almost certainly cluster flies that entered the walls and attic in fall. A warm, sunny winter day heats the wall voids and wakes them, and they move toward the light at your windows. The fix isn't spraying them indoors — it's an early-fall exterior treatment plus sealing entry points before they get in."
   - q: "What areas around Clintonville does BugBoss serve?"
     a: "All of them. From the Clintonville home base we cover Embarrass, Marion, Bear Creek, Larrabee, Symco, Dupont, and the rest of the Waupaca and Shawano County countryside, plus the wider rural corridor. Clintonville is the center of the service area, not the edge of it."
   - q: "How do mice get into Clintonville houses?"
-    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the base of the siding, under garage doors, and through the fieldstone and block foundations common in Clintonville's older housing stock. That's why sealing the building is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the base of the siding, under garage doors, and through the fieldstone and block foundations common in Clintonville's older housing stock. That's why sealing the building is the fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss do mosquito control in Clintonville?"
     a: "Yes. The Pigeon River corridor and low, damp yards give mosquitoes plenty of breeding habitat, and a seasonal program that treats resting vegetation and knocks back breeding sites makes summer yards and events usable again."
 ---
@@ -41,7 +41,7 @@ That combination is exactly what drives pest pressure in Clintonville, and it's 
 
 When the snow melts and the ground warms, the first thing we see in Clintonville is **rodent activity shifting** as mice that wintered indoors start moving and breeding, and overwintering insects wake up. Homeowners who thought their fall cluster fly or boxelder bug problem was over suddenly find the bugs again — not a new invasion, but the same population that spent the winter dormant in the wall voids, now crawling toward the windows on warm days.
 
-Spring is also **carpenter ant season**. Clintonville has a lot of the conditions carpenter ants love: mature trees along the Pigeon River, older homes with decades of small roof and plumbing leaks, and decks and porches with wood near or in contact with damp soil. In April and May, winged carpenter ant swarmers appear near windows, and large black ants show up indoors. Seeing them in early spring — while it's still cold out — is a strong sign the nest is living inside the heated structure, not just foraging in from outdoors. This is the window where catching an infestation early saves real structural repair money later. You can read the full breakdown on our [carpenter ants](/pest-library/carpenter-ants/) page.
+Spring is also **carpenter ant season**. Clintonville has a lot of the conditions carpenter ants love: mature trees along the Pigeon River, older homes with decades of small roof and plumbing leaks, and decks and porches with wood near or in contact with damp soil. In April and May, winged carpenter ant swarmers appear near windows, and large black ants show up indoors. Seeing them in early spring — while it's still cold out — is a strong sign the nest is living inside the heated structure, not just foraging in from outdoors. This is the window where catching an infestation early saves structural repair money later. You can read the full breakdown on our [carpenter ants](/pest-library/carpenter-ants/) page.
 
 By late spring, the first **wasp** queens are scouting nest sites under eaves and in soffits, and **ticks** become active along the edges where Clintonville yards meet brush and woods.
 
@@ -61,7 +61,7 @@ Fall is the highest-value time to get ahead of the problem, because everything y
 
 ### Winter (November–February): the payoff, and the pests already inside
 
-By winter the outdoor invasion is over, and what you have indoors is what got in during fall. Mice that established a warm, food-rich nest have no reason to leave, and they breed year-round once inside — a handful in November becomes a real infestation by February if the entry points aren't closed. A stretch of mild January sun heats the south-wall voids and the cluster flies that settled in back in October crawl out to the windows again. This is also **bed bug and travel-pest season**, as holiday travel brings hitchhikers home. Winter work in Clintonville is mostly rodent exclusion, cleanup of the fall invaders, and dealing with anything that came home in a suitcase.
+By winter the outdoor invasion is over, and what you have indoors is what got in during fall. Mice that established a warm, food-rich nest have no reason to leave, and they breed year-round once inside — a handful in November becomes a full infestation by February if the entry points aren't closed. A stretch of mild January sun heats the south-wall voids and the cluster flies that settled in back in October crawl out to the windows again. This is also **bed bug and travel-pest season**, as holiday travel brings hitchhikers home. Winter work in Clintonville is mostly rodent exclusion, cleanup of the fall invaders, and dealing with anything that came home in a suitcase.
 
 ## Clintonville's housing stock is the other half of the story
 
@@ -89,7 +89,7 @@ A trap that removes tonight's raccoon does nothing about the torn soffit it clim
 
 Clintonville is not just houses. It has a manufacturing backbone — the Seagrave and FWD operations among them — a downtown commercial district, schools, healthcare, lodging, and food service, and each of those has different pests, different regulations, and different tolerances. A restaurant needs documented, inspection-ready rodent and fly management. A manufacturing or warehouse operation needs stored-product and rodent control that holds up to an audit. A school needs discreet, low-impact service scheduled around the calendar.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, delivers the service documentation you need on hand, and schedules discreetly so pest work doesn't disrupt your operation or your customers. And because you're dealing with the owner directly, there's a real person accountable for the result — not a rotating cast of route techs from a national brand.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, delivers the service documentation you need on hand, and schedules discreetly so pest work doesn't disrupt your operation or your customers. And because you're dealing with the owner directly, there's one person accountable for the result — not a rotating cast of route techs from a national brand.
 
 ## Why a Clintonville company beats the national brands here
 

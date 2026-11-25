@@ -18,7 +18,7 @@ faqs:
   - q: "Which bats are protected in Wisconsin?"
     a: "Four cave bat species are state-threatened: the little brown bat, big brown bat, northern long-eared bat (also federally endangered), and tricolored bat. These are the species that most often roost in buildings. Their numbers crashed after white-nose syndrome reached Wisconsin in 2014, which is part of why the maternity-season protection is taken seriously."
   - q: "Is it dangerous to have bats living in my attic?"
-    a: "Bats are valuable insect-eaters and aren't aggressive, but a roost in your attic brings real concerns: accumulating guano that can harbor a fungus linked to histoplasmosis, staining and odor, and the small but serious rabies risk any time a bat is found in living space where people were sleeping. A bat in a bedroom should be handled carefully and reported to public health. Long-term, a colony belongs outside your home, evicted humanely and legally."
+    a: "Bats are valuable insect-eaters and aren't aggressive, but a roost in your attic brings concerns: accumulating guano that can harbor a fungus linked to histoplasmosis, staining and odor, and the small but serious rabies risk any time a bat is found in living space where people were sleeping. A bat in a bedroom should be handled carefully and reported to public health. Long-term, a colony belongs outside your home, evicted humanely and legally."
   - q: "What should I do if I find bats now, in spring?"
     a: "Call for an inspection right away. Spring, before June 1, is one of the two windows when exclusion is legal, so if we can identify the exits and get one-way doors installed before the pups arrive, you may be able to clear the colony this season rather than waiting until August. If we're already too close to June 1, we'll set up the plan and schedule the work for after July 31."
   - q: "Can BugBoss do legal bat exclusion in the Clintonville area?"
@@ -29,7 +29,7 @@ faqs:
 
 Someone hears scratching over the bedroom ceiling on a warm May evening. A few nights later a bat is fluttering around the living room. They look up, realize there's a colony in the attic, and they want it gone — today. Then they call around and get an answer that sounds like bureaucratic nonsense: *we can't seal them out until August.*
 
-It isn't nonsense, and it isn't your contractor stalling. Wisconsin protects bats during their **maternity season**, and from **June 1 through July 31** you legally cannot restrict a colony's exits from a building. This post explains what that rule actually says, why it exists, and — the part people really need — how to plan a legal, humane eviction around it so you're not living with bats a day longer than you have to. For the full legal and procedural detail, our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) is the deep reference; this is the seasonal, plain-English version.
+It isn't nonsense, and it isn't your contractor stalling. Wisconsin protects bats during their **maternity season**, and from **June 1 through July 31** you legally cannot restrict a colony's exits from a building. This post explains what that rule actually says, why it exists, and — the part people need — how to plan a legal, humane eviction around it so you're not living with bats a day longer than you have to. For the full legal and procedural detail, our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) is the deep reference; this is the seasonal, plain-English version.
 
 ## What the maternity-season rule actually says
 
@@ -68,7 +68,7 @@ You never, ever seal a live colony in. And during June and July, if a colony is 
 
 ## The health side you shouldn't ignore
 
-Two real concerns come with a building colony, and both argue for handling it properly rather than living with it.
+Two concerns come with a building colony, and both argue for handling it properly rather than living with it.
 
 **Guano and histoplasmosis.** A colony's droppings accumulate in the attic and can harbor *Histoplasma*, a fungus whose spores cause a respiratory illness when disturbed and inhaled. That's why guano cleanup is part of the job and shouldn't be done casually by dry-sweeping an attic.
 
@@ -78,7 +78,7 @@ Two real concerns come with a building colony, and both argue for handling it pr
 
 Timing is everything with bats, and May is a genuinely useful month — because it's still before June 1. Here's the practical playbook:
 
-**If you have bats now and it's still spring:** call for an inspection immediately. Spring, before the maternity window opens, is one of the two legal exclusion periods. If we can map the exits and get one-way doors installed before pups arrive, there's a real chance to clear the colony this season instead of waiting until August. Every week counts as June approaches.
+**If you have bats now and it's still spring:** call for an inspection immediately. Spring, before the maternity window opens, is one of the two legal exclusion periods. If we can map the exits and get one-way doors installed before pups arrive, there's a chance to clear the colony this season instead of waiting until August. Every week counts as June approaches.
 
 **If we're too close to June 1 to finish safely:** we set up the full plan now — exits mapped, materials and schedule ready — and do the exclusion the moment the window reopens after July 31. You're not waiting on a waitlist in August; you're first in line with the work already scoped.
 

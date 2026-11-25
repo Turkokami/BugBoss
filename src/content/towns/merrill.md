@@ -8,7 +8,7 @@ faqs:
   - q: "Is there a local pest control company in Merrill?"
     a: "Most Merrill pest work is either handled by national brands routing a truck from Wausau or done DIY. Very few operators up here do both pest control and wildlife exclusion. BugBoss does — bats, raccoons, squirrels, and skunks as well as the insects and rodents — which is the main reason we cover the town."
   - q: "How far is Merrill from BugBoss, and does the distance matter?"
-    a: "Merrill is about 70 miles northwest of our Clintonville shop, near Wausau. We're honest that it's a real drive, so we batch Merrill with nearby northern stops to keep the trip efficient. What you get in return is an operator who does pest and wildlife both and answers the phone directly, rather than waiting on a franchise's route schedule."
+    a: "Merrill is about 70 miles northwest of our Clintonville shop, near Wausau. We're honest that it's a long drive, so we batch Merrill with nearby northern stops to keep the trip efficient. What you get in return is an operator who does pest and wildlife both and answers the phone directly, rather than waiting on a franchise's route schedule."
   - q: "Why does Merrill get so many cluster flies?"
     a: "Merrill sits in river-valley farm-and-forest country, and cluster fly larvae parasitize earthworms in the soil. Any home surrounded by lawn, field, or park — which is most of the City of Parks — produces a local population every fall regardless of housekeeping. The flies mass on warm south and west walls in September and work into wall voids to overwinter."
   - q: "Does BugBoss remove bats in Merrill?"
@@ -18,13 +18,13 @@ faqs:
   - q: "Do I need a contract for pest control in Merrill?"
     a: "No. BugBoss never puts Merrill customers on a long-term contract and never charges a cancellation fee. Choose a one-time treatment or a seasonal plan and stop whenever you like. You deal directly with the owner, Brian, not a national call center three states away."
   - q: "How do mice get into Merrill homes?"
-    a: "Through gaps as small as a dime — around pipe and utility penetrations, at the base of the siding, under garage doors, and through the fieldstone and block foundations common in Merrill's older housing. Sealing the building is the real fix; trapping alone only clears what's already inside while the next wave keeps coming."
+    a: "Through gaps as small as a dime — around pipe and utility penetrations, at the base of the siding, under garage doors, and through the fieldstone and block foundations common in Merrill's older housing. Sealing the building is the fix; trapping alone only clears what's already inside while the next wave keeps coming."
   - q: "Does BugBoss handle raccoons and squirrels in Merrill attics?"
     a: "Yes. Merrill's wooded, park-filled setting puts raccoons in chimneys and torn soffits and squirrels in attics through weak roof edges. We remove the animal humanely, exclude the entry so the next one can't follow, and clean up the mess. Trapping without sealing just invites a replacement."
   - q: "Are ticks a problem in and around Merrill?"
     a: "Yes. Lincoln County is heavily forested, and blacklegged (deer) ticks that carry Lyme disease live along the edges where lawn meets woods and brush — and Merrill's parks and river corridors create a lot of that edge. A targeted yard program treats those zones in late spring and fall when ticks are most active."
   - q: "Can BugBoss service Merrill businesses and food operations?"
-    a: "Yes. As the Lincoln County seat, Merrill has a real commercial base — food service, retail, manufacturing, healthcare, schools, and lodging — that needs documented, inspection-ready pest management. We build a discreet program around your building and keep records ready for inspectors and auditors."
+    a: "Yes. As the Lincoln County seat, Merrill has an established commercial base — food service, retail, manufacturing, healthcare, schools, and lodging — that needs documented, inspection-ready pest management. We build a discreet program around your building and keep records ready for inspectors and auditors."
   - q: "Why are there flies at my Merrill windows in the middle of winter?"
     a: "Those are cluster flies that got into the walls and attic in fall. A sunny, mild winter day warms the south-facing wall voids and wakes them, and they crawl toward the light at the glass. The answer isn't spraying indoors — it's an early-fall exterior treatment plus sealing the gaps they used to get in."
   - q: "When should I schedule pest work in Merrill?"
@@ -65,7 +65,7 @@ Because winter is long here, fall is the highest-value time to get ahead of ever
 
 ### Winter (November–March): the long, cold payoff
 
-Once winter sets in, the outdoor invasion is over and what's indoors is what got in during fall. Mice that found a warm nest breed year-round once inside, so a few in November become a real problem by March if the entry points stay open — and a Lincoln County winter gives them a long runway. On mild, bright winter days the south-wall voids warm and the cluster flies from October crawl back to the windows, which is the single most common winter call we get from Merrill: "the flies are back and it's fifteen degrees out." They never left; the wall just warmed up. Winter work in Merrill is mostly **rodent exclusion**, cleanup of the fall invaders, and handling anything that came home from holiday travel. It's also the right time to map out the spring and late-summer exclusion, because a long, quiet winter lets you see exactly where the activity concentrates before we come seal it.
+Once winter sets in, the outdoor invasion is over and what's indoors is what got in during fall. Mice that found a warm nest breed year-round once inside, so a few in November become a problem by March if the entry points stay open — and a Lincoln County winter gives them a long runway. On mild, bright winter days the south-wall voids warm and the cluster flies from October crawl back to the windows, which is the single most common winter call we get from Merrill: "the flies are back and it's fifteen degrees out." They never left; the wall just warmed up. Winter work in Merrill is mostly **rodent exclusion**, cleanup of the fall invaders, and handling anything that came home from holiday travel. It's also the right time to map out the spring and late-summer exclusion, because a long, quiet winter lets you see exactly where the activity concentrates before we come seal it.
 
 ## Merrill's housing and building stock
 
@@ -93,7 +93,7 @@ Merrill isn't just houses. As the county seat it carries a genuine commercial ba
 
 BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the documentation ready, and schedules discreetly. Dealing directly with the owner means one accountable person behind the result — not a rotating crew from another county.
 
-## Why a real operator beats the alternative up here
+## Why a local operator beats the alternative up here
 
 The national outfits are engineered for dense subdivisions where a route truck hits a dozen stops in a tight loop. A river-valley county seat 70 miles from our shop doesn't fit that model, which is a big part of why Merrill has been underserved. What matters here is a company that will make the drive, knows the ground, and can tell a cluster fly off the park soil from a stable fly, a big brown bat from a little brown, a carpenter-ant nest in a damp riverfront sill from a harmless trail on the deck — and that does [residential pest control](/residential-pest-control/) and wildlife both, so you're not making two calls.
 
@@ -105,7 +105,7 @@ Every Merrill job runs the same order. We **inspect** inside and out to pin down
 
 ## Why DIY usually fails in a river town
 
-Most Merrill homeowners take a run at the problem themselves before they call anyone — and in a town this far from dedicated help, that's understandable. But the retail approach treats what you can see, and the pests here are driven by what you can't. Wasp spray drops the workers on contact and leaves the nest cranking out replacements. A trap by the pantry catches one mouse while a dime-sized gap at a pipe penetration keeps feeding the rest. A store-bought carpenter-ant bait might thin a trail while the parent colony keeps chewing your damp basement sill, because in a river-valley town the real driver is almost always moisture, not the ants themselves.
+Most Merrill homeowners take a run at the problem themselves before they call anyone — and in a town this far from dedicated help, that's understandable. But the retail approach treats what you can see, and the pests here are driven by what you can't. Wasp spray drops the workers on contact and leaves the nest cranking out replacements. A trap by the pantry catches one mouse while a dime-sized gap at a pipe penetration keeps feeding the rest. A store-bought carpenter-ant bait might thin a trail while the parent colony keeps chewing your damp basement sill, because in a river-valley town the driver is almost always moisture, not the ants themselves.
 
 Diagnosis is the piece a homeowner can't easily get to. Lasting control means identifying the species, locating the nest, tracing the entry route, and correcting the condition that invited it — and along the Wisconsin and Prairie rivers, that condition is frequently a wet crawlspace, a leaking gutter dumping against the foundation, or a chronically damp basement corner. Fix the pest without fixing the water and it comes back next year. What BugBoss brings to a Merrill job isn't a harsher chemical; it's the building read and the entomology that separate a one-time solve from an annual ritual.
 

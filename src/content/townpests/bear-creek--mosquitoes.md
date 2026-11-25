@@ -6,7 +6,7 @@ answer: "Bear Creek is about as small as a village gets, and the mosquito pressu
 metaDescription: "Mosquito control in Bear Creek, WI — on a lot this size the walk-round is usually the whole answer, and we will say when a treatment is not worth buying."
 faqs:
   - q: "Is a village this small even worth a service call?"
-    a: "Often not, and that is a real answer rather than a modest one. On a small Bear Creek lot the productive water is usually three or four containers and a gutter, and clearing them yourself costs nothing and fixes it. Where a visit earns its place is on properties with substantial shaded harborage, lots backing straight onto wet field margins, or situations where somebody has already done the walk-round and the problem persists. We would rather tell you to go and tip the wheelbarrow over."
+    a: "Often not, and that is an answer rather than a modest one. On a small Bear Creek lot the productive water is usually three or four containers and a gutter, and clearing them yourself costs nothing and fixes it. Where a visit earns its place is on properties with substantial shaded harborage, lots backing straight onto wet field margins, or situations where somebody has already done the walk-round and the problem persists. We would rather tell you to go and tip the wheelbarrow over."
   - q: "So what is producing them if not the village?"
     a: "Agricultural drainage, mostly. Field ditches and tile outlets that hold water after rain, the low corner of a field that never dries, stock tanks and the pooled ground around them, tires weighting bunker covers, and equipment left out with cavities in it. None of that is in the village, all of it is within easy flying distance, and most of it is on ground nobody can treat. It is the main reason a place this size sees pressure a larger town might not."
   - q: "Does the creek breed them?"
@@ -16,14 +16,14 @@ faqs:
   - q: "Why does the back of my lot feel so much worse?"
     a: "Because that is where the shade is. Adult mosquitoes do not sit in open mown grass through the day — they rest in cool shaded vegetation, which on a village lot backing onto farmland means the brushy edge, the fence line, the tall grass and whatever trees are on the boundary. You walk into the harborage and the harborage responds. It is also exactly where a treatment goes, if one is warranted."
   - q: "How much difference does one treatment make out here?"
-    a: "On a lot with real harborage, a noticeable one through the evening. On a bare lot with no shaded edge, very little, because there was nowhere for the adults to be in the first place and they are arriving from the fields as the sun drops. That is the honest split, and knowing which lot you have before paying is the point of looking at it first."
+    a: "On a lot with harborage, a noticeable one through the evening. On a bare lot with no shaded edge, very little, because there was nowhere for the adults to be in the first place and they are arriving from the fields as the sun drops. That is the honest split, and knowing which lot you have before paying is the point of looking at it first."
   - q: "Is there a best time of year to act?"
-    a: "Follow the rain rather than the calendar. A real rainfall fills every ditch, container and low spot at once and produces a hatch roughly a week later. A treatment landing in that window is worth two applied on a schedule. In practice that means a small number of applications across the season for most properties out here."
+    a: "Follow the rain rather than the calendar. A soaking rainfall fills every ditch, container and low spot at once and produces a hatch roughly a week later. A treatment landing in that window is worth two applied on a schedule. In practice that means a small number of applications across the season for most properties out here."
   - q: "What about ticks?"
     a: "In this landscape ticks are usually the more consequential problem of the two, especially if you have a dog or walk the field edges. The treated band for ticks is almost exactly the mosquito harborage band — the line where mown grass meets brush — so they get handled together. Our tick and Lyme yard program guide explains the approach."
 ---
 
-Bear Creek is small enough that the mosquito problem is not really the village's. It belongs to the farmland around it.
+Bear Creek is small enough that the mosquito problem is not the village's. It belongs to the farmland around it.
 
 ## The honest version first
 

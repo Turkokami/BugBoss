@@ -10,7 +10,7 @@ faqs:
   - q: "Do you handle stored-grain and pantry pests in Union?"
     a: "Yes. On-farm grain and feed storage draws stored-product pests — Indian meal moths, grain beetles, and weevils — that also migrate into the farmhouse pantry. We identify the source, treat and clean out the infested storage, and seal the bins and containers so it doesn't recur. It's a different job than nuisance-ant work and needs a different approach."
   - q: "Why does my Symco-area farmhouse fill with flies in fall and winter?"
-    a: "Those are cluster flies. Their larvae develop inside earthworms in the field and pasture soil surrounding your house, so any farmhouse in Union grows its own population no matter how clean it is. They pack into wall voids and attics in September and October, then wake on warm winter days and head for the windows. Exterior treatment plus sealing is the real fix."
+    a: "Those are cluster flies. Their larvae develop inside earthworms in the field and pasture soil surrounding your house, so any farmhouse in Union grows its own population no matter how clean it is. They pack into wall voids and attics in September and October, then wake on warm winter days and head for the windows. Exterior treatment plus sealing is the fix."
   - q: "Do I need a contract for pest control in Union?"
     a: "No. BugBoss never puts Union or Symco customers on a long-term contract and never charges a cancellation fee. Choose a one-time treatment or a recurring seasonal program and stop whenever you want. You deal directly with Brian, the owner, not a national call center."
   - q: "Can you control mice in a farmhouse without harming farm cats or livestock?"
@@ -18,11 +18,11 @@ faqs:
   - q: "Does BugBoss remove bats from Union barns and farmhouses?"
     a: "Yes, and legally. Wisconsin protects its bats, so we keep roost exits open during the DNR maternity season of June 1 through July 31 and run the humane exclusion before or after that window. We install one-way doors, let the colony leave, then seal. We never trap bats inside. Barn peaks and old farmhouse attics are classic roosts here."
   - q: "How fast can you reach a farm in Union or Symco?"
-    a: "Usually same week, and often same day for urgent problems. We're based in Clintonville, not the Fox Valley, so Union is a real part of our service area rather than the far edge of a franchise route. Call 866-BUGBOSS to check today's schedule."
+    a: "Usually same week, and often same day for urgent problems. We're based in Clintonville, not the Fox Valley, so Union is a part of our service area rather than the far edge of a franchise route. Call 866-BUGBOSS to check today's schedule."
   - q: "Do you treat carpenter ants in Union homes?"
     a: "Yes. They're common in older farmhouses with a history of roof or plumbing leaks and in homes with mature yard trees. Carpenter ants tunnel through moisture-damaged wood rather than eating it. We locate the outdoor parent nest and the indoor satellites, treat both, and fix the moisture that drew them."
   - q: "Are wasps and hornets a problem around Union's outbuildings?"
-    a: "Very much so. Open machine sheds, pole barns, and eaves give paper wasps, yellowjackets, and bald-faced hornets endless nest sites, and colonies peak in size and aggression in August. Ground-nesting yellowjackets near a walkway or in a hay field are a real hazard. We treat and remove nests safely."
+    a: "Very much so. Open machine sheds, pole barns, and eaves give paper wasps, yellowjackets, and bald-faced hornets endless nest sites, and colonies peak in size and aggression in August. Ground-nesting yellowjackets near a walkway or in a hay field are a hazard. We treat and remove nests safely."
   - q: "Do you service the Union Thresheree grounds or farm event sites?"
     a: "Yes. Any site that hosts a crowd — an event grounds, a farm gathering, a community hall — benefits from pre-event stinging-insect and mosquito knockdown and ongoing rodent management around food and storage areas. We can build a program around the calendar so pests don't crash the event."
   - q: "Are ticks a problem in Union?"
@@ -53,7 +53,7 @@ By late spring the first **wasp** queens are scouting eaves, soffits, and the op
 
 ### Summer (June–August): flies, grain pests, stinging insects, and the bat window
 
-Summer on a Union farm runs on flies and stinging insects. Livestock operations fight **stable flies and house flies** breeding in manure, wet bedding, and spilled feed — a nuisance and a real drag on a dairy herd. Around the buildings, paper wasps, yellowjackets, and bald-faced hornets build to full, defensive size by August, which is when most stings happen and most of our [wasp and hornet](/pest-library/wasps-hornets/) calls come in.
+Summer on a Union farm runs on flies and stinging insects. Livestock operations fight **stable flies and house flies** breeding in manure, wet bedding, and spilled feed — a nuisance and a drag on a dairy herd. Around the buildings, paper wasps, yellowjackets, and bald-faced hornets build to full, defensive size by August, which is when most stings happen and most of our [wasp and hornet](/pest-library/wasps-hornets/) calls come in.
 
 Summer is also when **stored-grain pests** get busy in warm bins and feed rooms. Indian meal moths, saw-toothed grain beetles, and weevils breed fastest in summer heat, and they don't respect the property line between the grain bin and the farmhouse pantry. Catching an infestation in the storage before it migrates into the house is far easier than chasing moths through the kitchen in October.
 
@@ -67,13 +67,13 @@ Cluster flies are worth understanding, because farm families take them as a hous
 
 ### Winter (November–February): whatever got in is what you've got
 
-By winter the outdoor invasion is done and the indoor situation is set. [Mice](/pest-library/mice/) that found a warm, feed-rich nest breed year-round once inside, so a handful in November becomes a real infestation by February if the entry points stay open — and a farm gives them all the food they could want. A warm winter afternoon heats the wall voids and coaxes the overwintering cluster flies and lady beetles back out to the windows. Winter work in Union is mostly **rodent exclusion and knockdown**, fall-invader cleanup, and protecting stored grain and feed from the rodents and stored-product pests that would otherwise winter in it.
+By winter the outdoor invasion is done and the indoor situation is set. [Mice](/pest-library/mice/) that found a warm, feed-rich nest breed year-round once inside, so a handful in November becomes a full infestation by February if the entry points stay open — and a farm gives them all the food they could want. A warm winter afternoon heats the wall voids and coaxes the overwintering cluster flies and lady beetles back out to the windows. Winter work in Union is mostly **rodent exclusion and knockdown**, fall-invader cleanup, and protecting stored grain and feed from the rodents and stored-product pests that would otherwise winter in it.
 
 ## Farm buildings, grain storage, and farmhouses: where pests get in
 
 Pests exploit specific weaknesses, and Union's building stock — grain and feed storage, machine sheds, dairy barns, and old farmhouses — has a distinct set of them.
 
-The **grain bins and feed storage** are the beating heart of the rodent and stored-product problem. A bin that isn't cleaned out between fills leaves residual grain that seeds the next infestation, and gaps at the base of a bin or the door of a feed room let mice in to a food supply that never runs out. Real control here is about **sanitation and exclusion at the storage itself** — cleaning out residual product, sealing the access points, and monitoring — before it's about anything else.
+The **grain bins and feed storage** are the beating heart of the rodent and stored-product problem. A bin that isn't cleaned out between fills leaves residual grain that seeds the next infestation, and gaps at the base of a bin or the door of a feed room let mice in to a food supply that never runs out. Control here is about **sanitation and exclusion at the storage itself** — cleaning out residual product, sealing the access points, and monitoring — before it's about anything else.
 
 The **pole barns and machine sheds** are rarely tight to begin with: big sliding doors, open eaves, gaps at the base of steel siding. You can't make them mouse-proof, so the goal is to protect the zones that matter — feed, grain, and the milkhouse — and to keep the perimeter baited so rodents get caught before they reach the house. Machinery that sits parked over winter, including the antique equipment this town is known for, makes prime rodent harborage, and a mouse nest in a wiring harness is an expensive surprise come spring.
 
@@ -87,7 +87,7 @@ Control isn't about spraying. It's about **finding and removing the source** —
 
 ## Antique machinery, stored textiles, and the collector's pests
 
-Union is a town that keeps its old equipment, and stored machinery and collections bring pests of their own. **Parked machinery** — whether a modern combine or a restored steam tractor — makes prime rodent harborage over winter, and a mouse nest in a wiring harness, a seat, or an air cleaner is an expensive, smelly surprise come spring. Beyond rodents, the upholstered seats, canvas, leather, and stored fabric that come with old equipment and homesteading collections draw **fabric pests**: clothes moths and carpet beetles whose larvae feed on wool, felt, hair, and other natural fibers, quietly chewing through seat cushions, tarps, and stored textiles in a shed nobody heats. If you store equipment or collections, keeping the rodents out and monitoring for fabric pests protects real value — and it's the kind of problem a suburban route tech never has to think about.
+Union is a town that keeps its old equipment, and stored machinery and collections bring pests of their own. **Parked machinery** — whether a modern combine or a restored steam tractor — makes prime rodent harborage over winter, and a mouse nest in a wiring harness, a seat, or an air cleaner is an expensive, smelly surprise come spring. Beyond rodents, the upholstered seats, canvas, leather, and stored fabric that come with old equipment and homesteading collections draw **fabric pests**: clothes moths and carpet beetles whose larvae feed on wool, felt, hair, and other natural fibers, quietly chewing through seat cushions, tarps, and stored textiles in a shed nobody heats. If you store equipment or collections, keeping the rodents out and monitoring for fabric pests protects value — and it's the kind of problem a suburban route tech never has to think about.
 
 ## Geography and ecology: fields, fencerows, and low ground
 

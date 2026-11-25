@@ -15,7 +15,7 @@ faqs:
   - q: "Why do cluster flies come back on warm days in the middle of winter?"
     a: "They never left. The flies that entered in fall spend winter dormant in the wall voids and attic. When a sunny January or February day warms those cavities, they rouse, mistake the warmth for spring, and crawl toward light — your windows and fixtures. A cold snap sends the survivors back into dormancy. It's the same fall population cycling, not a new invasion."
   - q: "Will spraying inside my farmhouse get rid of them?"
-    a: "No. The flies you see at the window are a tiny fraction of the ones tucked in the wall voids, and no indoor spray reaches those spaces. Interior spraying also puts pesticide where your family lives to kill a nuisance insect that isn't breeding indoors. Vacuum up the ones you see, and put the real effort into an exterior treatment next fall."
+    a: "No. The flies you see at the window are a tiny fraction of the ones tucked in the wall voids, and no indoor spray reaches those spaces. Interior spraying also puts pesticide where your family lives to kill a nuisance insect that isn't breeding indoors. Vacuum up the ones you see, and put the effort into an exterior treatment next fall."
   - q: "Do I need to cut down trees or change my landscaping to stop cluster flies?"
     a: "No. Cluster flies come from earthworms in the soil, so there's no single tree or plant to remove — the reservoir is the ground itself. Landscaping changes won't touch the problem. What works is treating the exterior walls in early fall and sealing the gaps the flies use to get in."
   - q: "Are cluster flies dangerous to my family or livestock?"
@@ -50,7 +50,7 @@ Old farmhouses then hand them the doors. Three features of the classic Wisconsin
 
 **Aging soffits and fascia.** The junction where the soffit meets the fascia, and the gaps behind old fascia board and worn eave trim, are prime cluster fly entries near the roofline — and on a tall farmhouse there's a lot of roofline.
 
-None of this is a knock on the house. It's simply the building science of a hundred-year-old structure sitting in the middle of the flies' breeding ground. It's also the reason a farmhouse needs a real program, not a can of spray.
+None of this is a knock on the house. It's simply the building science of a hundred-year-old structure sitting in the middle of the flies' breeding ground. It's also the reason a farmhouse needs a program, not a can of spray.
 
 ## The one window that matters: late August through September
 
@@ -86,7 +86,7 @@ This is the same disciplined approach we bring to the [mice](/pest-library/mice/
 
 A few instincts make the problem worse or just burn cash:
 
-**Indoor foggers and aerosols.** They don't reach the flies in the voids, and they put pesticide where your family lives for no real gain. Skip them.
+**Indoor foggers and aerosols.** They don't reach the flies in the voids, and they put pesticide where your family lives for no gain. Skip them.
 
 **Crushing the flies.** Not the end of the world with cluster flies specifically — they don't stain and stink like [boxelder bugs](/pest-library/boxelder-bugs/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) — but a vacuum is still the better tool because it clears them fast without smearing them on the glass. Empty the canister afterward so they don't crawl back out.
 

@@ -7,7 +7,7 @@ faqs:
   - q: "Why is my south-facing siding covered in black-and-red bugs?"
     a: "Those are boxelder bugs gathering to overwinter. On sunny fall afternoons the south and west walls can be much warmer than the air, and the bugs pile onto that warmth by the hundreds, basking and probing for gaps to get inside for winter. It's a seasonal massing behavior tied to sun-warmed vertical surfaces, which is why one wall of the house is covered and the shaded sides are clear."
   - q: "Do boxelder bugs bite or damage my house?"
-    a: "No. Boxelder bugs don't bite, don't sting, don't breed indoors, and don't damage the structure, wiring, or your food. They're strictly a nuisance. The two real annoyances are the mess — their droppings stain light-colored siding, curtains, and blinds, and crushed bugs leave a reddish stain and an unpleasant smell — and the way they keep reappearing indoors on warm days through the winter."
+    a: "No. Boxelder bugs don't bite, don't sting, don't breed indoors, and don't damage the structure, wiring, or your food. They're strictly a nuisance. The two annoyances are the mess — their droppings stain light-colored siding, curtains, and blinds, and crushed bugs leave a reddish stain and an unpleasant smell — and the way they keep reappearing indoors on warm days through the winter."
   - q: "Where are they coming from?"
     a: "From nearby boxelder, maple, and ash trees, where they spend the summer feeding on seeds. A female (seed-bearing) boxelder tree near the house is the classic source, but they'll travel a fair distance from trees in a fencerow, a neighbor's yard, or a woodlot edge. The trees are the breeding and feeding ground; your sunny siding is just the warm wall they pick to overwinter against."
   - q: "Should I cut down my boxelder tree to get rid of them?"
@@ -21,7 +21,7 @@ faqs:
   - q: "When should the house be treated to stop them?"
     a: "Late August into September, before the bugs begin massing on the siding. The exterior treatment only works while they're still on the outside of the building. Once they've gathered on the walls and started working into the structure in October it catches far fewer, and once they're overwintering in the voids there's no effective treatment until the following fall. Timing is the whole game."
   - q: "Why won't spraying inside the house fix it?"
-    a: "Because the bugs you see at the windows are a small fraction of the ones dormant in the wall voids, and no indoor spray reaches those cavities. You'd be spraying pesticide into your living space all winter to kill a nuisance bug that isn't breeding or feeding there, without touching the reservoir in the walls. Vacuum the indoor ones and put the real effort into the exterior treatment and sealing done in fall."
+    a: "Because the bugs you see at the windows are a small fraction of the ones dormant in the wall voids, and no indoor spray reaches those cavities. You'd be spraying pesticide into your living space all winter to kill a nuisance bug that isn't breeding or feeding there, without touching the reservoir in the walls. Vacuum the indoor ones and put the effort into the exterior treatment and sealing done in fall."
   - q: "Will they be back next year?"
     a: "Very likely, unless the house is treated and sealed, because boxelder bugs return to the same warm, prominent buildings each fall and the host trees keep producing new generations. A wall that was covered last October will probably be covered again. That's why the fix is an annual early-fall exterior treatment paired with sealing the entry points, which keeps paying off season after season."
   - q: "Why call BugBoss for boxelder bugs?"
@@ -52,7 +52,7 @@ The bugs that find a gap slip into the **wall voids and attic** and go dormant f
 
 How they got into the wall is the ordinary story of any building envelope: the **soffit-and-fascia junction**, gaps around **window and door frames**, spaces behind aging trim, **utility penetrations**, and the cracks where **siding meets the foundation**. Because the bugs mass right on the siding for days, they have ample time to find every reachable seam. And in the older, balloon-framed homes common here, a bug that enters low on the wall can travel the uninterrupted cavity straight up to the attic and turn up at an upstairs window.
 
-## The real fix: exterior barrier plus sealing, not indoor spray
+## The fix: exterior barrier plus sealing, not indoor spray
 
 Spraying the bugs at the window is the wrong tool for the same reason it is with cluster flies: the ones you see indoors are a fraction of the population dormant in the wall voids, and no indoor aerosol reaches those cavities. You'd be putting pesticide in your living space all winter to kill a harmless nuisance bug, without touching the reservoir behind the drywall.
 

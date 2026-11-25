@@ -10,7 +10,7 @@ faqs:
   - q: "Why do cluster flies come back every spring and on warm winter days?"
     a: "The flies you see indoors in winter never came in from outside — they entered your walls and attic back in the fall and have been hibernating there. A warm, sunny day heats the wall void or attic, rouses them from dormancy, and they crawl toward the light at your windows. It is the same population reappearing, not a new invasion."
   - q: "Are cluster flies dangerous or unsanitary?"
-    a: "No. Cluster flies do not bite, do not spread disease to people, do not lay eggs in food, and do not breed indoors. Unlike house flies, they never contact garbage or feces. They are strictly a nuisance. The only real downsides are the numbers, the dead flies that pile up on sills, and the faint sweetish odor a large overwintering population can produce in the walls."
+    a: "No. Cluster flies do not bite, do not spread disease to people, do not lay eggs in food, and do not breed indoors. Unlike house flies, they never contact garbage or feces. They are strictly a nuisance. The only downsides are the numbers, the dead flies that pile up on sills, and the faint sweetish odor a large overwintering population can produce in the walls."
   - q: "What is the difference between cluster flies and house flies?"
     a: "Cluster flies are noticeably larger, darker, and slower than house flies, with distinctive golden or yellowish hairs on the thorax that catch the light. They fold their wings so one overlaps the other at rest. They move sluggishly and gather in groups on walls and windows. House flies are quick, breed in decaying material, and are active all summer indoors and out."
   - q: "Do cluster flies mean my house is dirty?"
@@ -22,7 +22,7 @@ faqs:
   - q: "Will cluster flies damage my house?"
     a: "No structural damage. They do not chew wood, insulation, or wiring. The indirect problems are the accumulation of dead flies in attics and wall voids, which can stain surfaces and attract carpet beetles and other scavengers that feed on the carcasses, and the odor from large numbers. The flies themselves leave the building structurally untouched."
   - q: "Should I just spray the flies I see at my windows?"
-    a: "It rarely helps. By the time they are at your windows in winter, they are already inside the wall voids, and a can of spray only kills the handful in view while hundreds more stay hidden. Vacuuming is cleaner and just as effective for the ones you can see. The real fix happens outside, in early fall, before they enter."
+    a: "It rarely helps. By the time they are at your windows in winter, they are already inside the wall voids, and a can of spray only kills the handful in view while hundreds more stay hidden. Vacuuming is cleaner and just as effective for the ones you can see. The fix happens outside, in early fall, before they enter."
   - q: "Do cluster flies come in through the attic?"
     a: "Very often, yes. Soffit and fascia gaps, gable and ridge vents, and the junction where the roofline meets the walls are prime entry points, and the attic is a favorite overwintering space because it warms fast on sunny days. From the attic they work down into second-floor rooms. A thorough job addresses the roofline, not just the ground-floor walls."
   - q: "Does BugBoss treat cluster flies in seasonal cabins?"
@@ -85,7 +85,7 @@ What they cost you is comfort and a bit of cleanup. Large overwintering populati
 
 ## Why doesn't DIY work on cluster flies?
 
-Almost every homeowner starts the same way: they wait until the flies show up at the windows, then they buy a can of flying-insect spray and go after the ones they can see. It never solves the problem, and the reason is timing and location. By the time flies are inside on the windowsill, they are already deep in the wall voids and attic — the ones in view are a tiny fraction of the population, and killing them changes nothing about the hundreds still hidden. Spraying the interior also puts pesticide where you live, breathe, and sleep, to no real benefit. Vacuuming is cleaner and just as effective for the visible flies.
+Almost every homeowner starts the same way: they wait until the flies show up at the windows, then they buy a can of flying-insect spray and go after the ones they can see. It never solves the problem, and the reason is timing and location. By the time flies are inside on the windowsill, they are already deep in the wall voids and attic — the ones in view are a tiny fraction of the population, and killing them changes nothing about the hundreds still hidden. Spraying the interior also puts pesticide where you live, breathe, and sleep, to no benefit. Vacuuming is cleaner and just as effective for the visible flies.
 
 The other common mistake is treating too late. People call in October or November wanting the flies gone, but by then the insects have moved inside and the moment to intercept them on the exterior walls has passed. The effective work happens in late August and September, on the outside of the building, before the flies enter — and most homeowners simply are not thinking about flies while it is still warm out.
 

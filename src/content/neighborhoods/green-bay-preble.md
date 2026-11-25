@@ -21,7 +21,7 @@ faqs:
   - q: "Are carpenter ants a problem in Preble?"
     a: "Yes, in both housing types. Older east-side homes have aged wood and decades of small leaks; newer homes get carpenter ants through moisture around decks, window and door flashing, and roof-edge leaks. Swarmers indoors in spring, or big black ants active inside in winter, mean the nest is in the structure. Control is finding the nest and fixing the moisture."
   - q: "How do mice get into Preble homes?"
-    a: "Through gaps as small as a dime. Newer homes leak at construction junctions — utility penetrations, garage-door corners, and unsealed sill plates behind the siding; older homes leak at block foundations and soffit gaps. With open ground and the East River corridor nearby, sealing the building is the real fix. Trapping alone only clears what's already inside."
+    a: "Through gaps as small as a dime. Newer homes leak at construction junctions — utility penetrations, garage-door corners, and unsealed sill plates behind the siding; older homes leak at block foundations and soffit gaps. With open ground and the East River corridor nearby, sealing the building is the fix. Trapping alone only clears what's already inside."
   - q: "Does the East River corridor bring extra pests to Preble?"
     a: "It brings wildlife pressure and some mosquito activity. The river and the green space around Bay Beach give raccoons, squirrels, and other wildlife travel routes right up to east-side rooflines and chimneys. Homes backing onto that corridor see more attic and chimney intrusions than a home in the middle of a dense block."
   - q: "Do you do commercial pest control for east-side Green Bay businesses?"

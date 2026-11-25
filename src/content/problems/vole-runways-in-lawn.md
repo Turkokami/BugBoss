@@ -10,7 +10,7 @@ faqs:
   - q: "Why did it all appear at once in spring?"
     a: "Because it happened under the snow, where you could not see it. Voles stay active all winter, running beneath the snowpack in the insulated space at grass level, protected from hawks and owls. They graze the grass along those runs for months. When the snow melts, the whole winter's worth of activity is revealed in a single week and it looks like it happened overnight. It did not — you are seeing the record of December through March."
   - q: "Will my lawn recover?"
-    a: "Usually yes, and with very little help. The runways are grazed grass rather than dead root systems, so most lawns green over them within a few weeks of spring growth. Raking out the loose debris and overseeding heavily-damaged patches speeds it along. Resist the urge to do anything drastic in March — give it until the grass is properly growing before deciding whether any repair is actually needed. The lawn is almost never the real problem."
+    a: "Usually yes, and with very little help. The runways are grazed grass rather than dead root systems, so most lawns green over them within a few weeks of spring growth. Raking out the loose debris and overseeding heavily-damaged patches speeds it along. Resist the urge to do anything drastic in March — give it until the grass is properly growing before deciding whether any repair is actually needed. The lawn is almost never the problem."
   - q: "What's the damage that actually matters?"
     a: "Girdled trees and shrubs. Under snow cover voles will strip bark from the base of young trees, fruit trees, and ornamental shrubs, and if they remove it all the way around the trunk they sever the tissue carrying nutrients to the roots. That kills the tree — sometimes not obviously until it leafs out weakly in spring and then collapses in July. Check the base of every young tree after snowmelt. Gnawed bark with fine tooth grooves at or just above ground level is vole work, and a fully girdled young tree cannot be saved."
   - q: "How do I stop them girdling my trees?"
@@ -39,7 +39,7 @@ Then the snow melts over a week in March and it all appears at once. People reas
 
 The lawn damage looks worse than it is. The runways are grazed grass, not destroyed root systems, and most lawns green over them within weeks.
 
-**The tree damage is the real problem**, and it is the thing to check first. Under snow cover voles strip bark from the base of young trees and shrubs, and a trunk girdled all the way around is dead — often without looking dead until midsummer.
+**The tree damage is the problem**, and it is the thing to check first. Under snow cover voles strip bark from the base of young trees and shrubs, and a trunk girdled all the way around is dead — often without looking dead until midsummer.
 
 Out here the pressure is high because so many properties border fields, pasture, or unmown ground. Voles need cover to move safely, and a lawn that runs straight into long grass or a brushy fence line is an open invitation.
 

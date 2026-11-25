@@ -26,7 +26,7 @@ faqs:
   - q: "When should a seasonal operation schedule pest service?"
     a: "The rhythm follows your season. A spring open-up addresses the rodents and insects that moved in over winter and gets mosquito and tick management started before guests arrive. Through the summer, service keeps stinging insects, mosquitoes, and ants in check during peak occupancy. A fall close-up handles rodent exclusion and baiting before the buildings sit empty. Starting before the season, not mid-crisis, is always cheaper and less disruptive."
   - q: "Will pest treatments bother our guests or the lake?"
-    a: "We schedule and target treatments to minimize any disruption — working around occupancy, focusing on the specific problem areas and resting habitat rather than blanket-spraying, and following all label requirements, which include restrictions near water. A marina or lakeside campground carries real environmental sensitivity, and a local company that knows the water and the rules is safer than a national truck running a standard script."
+    a: "We schedule and target treatments to minimize any disruption — working around occupancy, focusing on the specific problem areas and resting habitat rather than blanket-spraying, and following all label requirements, which include restrictions near water. A marina or lakeside campground carries environmental sensitivity, and a local company that knows the water and the rules is safer than a national truck running a standard script."
   - q: "Do you handle ants and spiders in cabins and bathhouses too?"
     a: "Yes. Ants work their way into cabins, camp stores, and bathhouses following food and moisture, and spiders set up around lit buildings and shelters where insects gather. Both are routine parts of a campground program — treated at the source and around entry points rather than just knocked down where they're seen."
   - q: "Do you require a long-term contract for commercial accounts?"
@@ -97,7 +97,7 @@ The control is the same discipline as anywhere: manage the source. Dumpsters wit
 
 ## Structure by structure: matching the method to the building
 
-A lakes-region operation is really a collection of different pest environments, and each gets handled on its own terms:
+A lakes-region operation is a collection of different pest environments, and each gets handled on its own terms:
 
 - **Rental cabins and cottages** — the highest-stakes structures, where bed bugs, rodents, ants, and spiders all matter and guest turnover drives the inspection rhythm.
 - **Bathhouses and shower buildings** — warm, wet, and lit, which draws ants, spiders, and the insects spiders feed on; moisture management and entry-point treatment are the focus.
@@ -114,7 +114,7 @@ No pest company is on your property every day, so a big part of a strong program
 
 ## Liability and the reputation math
 
-There's a hard-dollar side to campground pest management that's easy to overlook. A guest stung by yellow jackets at a picnic shelter, a child exposed to a tick-borne illness, or a family that carries bed bugs home from a rental cabin isn't just a bad review — each is a potential liability claim, and lodging operators have been held responsible for bed-bug infestations in rented units. Set against that exposure, and against the very real cost of the reviews and canceled bookings that follow a pest incident, a documented professional program is cheap insurance. The math almost always favors prevention over cleanup, both in dollars and in the reputation that a seasonal operation lives or dies on.
+There's a hard-dollar side to campground pest management that's easy to overlook. A guest stung by yellow jackets at a picnic shelter, a child exposed to a tick-borne illness, or a family that carries bed bugs home from a rental cabin isn't just a bad review — each is a potential liability claim, and lodging operators have been held responsible for bed-bug infestations in rented units. Set against that exposure, and against the significant cost of the reviews and canceled bookings that follow a pest incident, a documented professional program is cheap insurance. The math almost always favors prevention over cleanup, both in dollars and in the reputation that a seasonal operation lives or dies on.
 
 ## Marina-specific pests and the water's edge
 
@@ -139,7 +139,7 @@ Starting before the season rather than mid-crisis is always cheaper and far less
 
 ## Documentation and the guest-experience payoff
 
-Two things make a commercial program more than just spraying. First, **documentation**: campgrounds, RV parks, and the food service within them get inspected, and documented pest management is part of staying in good standing with health inspectors and insurers. Every BugBoss service is recorded — what was found, what was treated, and the trend over time — ready when someone asks. Second, and just as important, the **guest-experience payoff**: every pest problem you prevent is a review you don't get, a booking you don't lose, and an incident that doesn't happen. In a business where reputation is everything and it lives online, that's the real return on a pest program.
+Two things make a commercial program more than just spraying. First, **documentation**: campgrounds, RV parks, and the food service within them get inspected, and documented pest management is part of staying in good standing with health inspectors and insurers. Every BugBoss service is recorded — what was found, what was treated, and the trend over time — ready when someone asks. Second, and just as important, the **guest-experience payoff**: every pest problem you prevent is a review you don't get, a booking you don't lose, and an incident that doesn't happen. In a business where reputation is everything and it lives online, that's the return on a pest program.
 
 ## Why local matters for a seasonal operation
 
@@ -149,6 +149,6 @@ And BugBoss does it without a long-term contract or cancellation fee — unusual
 
 ## How a BugBoss seasonal account works
 
-Setting up a program starts with a walk of the whole operation — the rental units, the food-service and store buildings, the bathhouses, the shelters, the storage and dock areas, and the grounds — to map where each pest concentrates and where the weak points are. From there we build a plan matched to your season and your layout: the spring open-up, the peak-summer service intervals during full occupancy, the fall close-up, and the specific pests each structure needs. We document every visit for your inspection and insurance files, we respond fast during the season because we're based right in the corridor, and we adjust the plan as the season and the pressure change. You get one local company handling the whole property — pests, wildlife, and the guest-experience stakes that ride on both — and a real person, Brian the owner, accountable for the result.
+Setting up a program starts with a walk of the whole operation — the rental units, the food-service and store buildings, the bathhouses, the shelters, the storage and dock areas, and the grounds — to map where each pest concentrates and where the weak points are. From there we build a plan matched to your season and your layout: the spring open-up, the peak-summer service intervals during full occupancy, the fall close-up, and the specific pests each structure needs. We document every visit for your inspection and insurance files, we respond fast during the season because we're based right in the corridor, and we adjust the plan as the season and the pressure change. You get one local company handling the whole property — pests, wildlife, and the guest-experience stakes that ride on both — and one person, Brian the owner, accountable for the result.
 
 If you run a campground, RV park, resort, or marina anywhere in the Waupaca lakes region — around [Iola](/service-area/iola/), [Manawa](/service-area/manawa/), or across the Chain O' Lakes corridor — call BugBoss at **866-BUGBOSS**, or [request a quote](/contact/). Let's build a program around your season before the guests arrive.

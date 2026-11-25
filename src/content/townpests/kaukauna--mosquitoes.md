@@ -16,9 +16,9 @@ faqs:
   - q: "Does fogging the lawn work?"
     a: "Barely, and it is the version most often sold. Adults do not spend daylight in open mown grass. They are in cool shaded vegetation — shrub undersides, dense ground cover, tall grass at the lot line, the shaded side of the house and garage, and the river or island margin. That band is what a barrier treatment is for, and on a Kaukauna riverside lot it is a well-defined band, which is why treatment makes a visible difference on those properties."
   - q: "How many visits in a season?"
-    a: "Fewer than a monthly plan, if the timing follows the weather. A real rainfall refills every container and low pocket at once and produces a hatch roughly a week later. One treatment landing in that window does the work of two applied on a fixed interval. Most properties here are well served by a handful of well-timed applications plus the source reduction."
+    a: "Fewer than a monthly plan, if the timing follows the weather. A soaking rainfall refills every container and low pocket at once and produces a hatch roughly a week later. One treatment landing in that window does the work of two applied on a fixed interval. Most properties here are well served by a handful of well-timed applications plus the source reduction."
   - q: "Are you based locally?"
-    a: "No. We are in Clintonville, which is a real drive, so Kaukauna is scheduled work rather than same-hour response. That suits a seasonal program fine and we will group visits into runs. If you need somebody this afternoon, a Fox Valley company will get there first and we will tell you to call one."
+    a: "No. We are in Clintonville, which is a long drive, so Kaukauna is scheduled work rather than same-hour response. That suits a seasonal program fine and we will group visits into runs. If you need somebody this afternoon, a Fox Valley company will get there first and we will tell you to call one."
   - q: "Should I combine it with tick work?"
     a: "On a lot backing onto the island corridor, a greenway or any wooded edge, yes. The treated band for ticks is nearly the same line as the mosquito harborage band, so one pass covers both rather than booking two visits. See our tick and Lyme yard program guide."
 ---

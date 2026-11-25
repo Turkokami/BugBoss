@@ -81,7 +81,7 @@ Property managers generally want the paperwork before the first visit, so: Brian
 
 ## What we will tell you not to buy
 
-If a building's real problem is a dumpster sited against the wall, a drain nobody scrubs, a cardboard storage habit, or unsealed penetrations between floors, a recurring treatment manages the symptom forever and never ends it.
+If a building's problem is a dumpster sited against the wall, a drain nobody scrubs, a cardboard storage habit, or unsealed penetrations between floors, a recurring treatment manages the symptom forever and never ends it.
 
 On a multi-unit building the honest goal is to **finish** the problem rather than manage it. That is a strange thing for a pest company to say and it is much easier to say with [no contract](/no-contracts/) on the table.
 

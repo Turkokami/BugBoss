@@ -79,7 +79,7 @@ export const pestId: Record<string, PestId> = {
     size: '4–12 kg (10–25 lb), body 40–70 cm.',
     look: 'Grizzled gray-brown with a black facial mask and a ringed tail. The five-toed tracks look like small handprints.',
     where: 'Attics, chimneys, and the voids under decks, porches and sheds; garbage and pet food outdoors.',
-    risk: 'The most destructive attic animal here — it tears soffit, ductwork and insulation, and it builds a fixed latrine in one spot. Raccoon roundworm and rabies are both real considerations.',
+    risk: 'The most destructive attic animal here — it tears soffit, ductwork and insulation, and it builds a fixed latrine in one spot. Raccoon roundworm and rabies are both considerations.',
   },
   ants: {
     size: '2.5–5 mm for the species that come indoors here.',
@@ -283,7 +283,7 @@ export const pestId: Record<string, PestId> = {
     size: '9–20 kg, standing 58–66 cm at the shoulder.',
     look: 'Gray-brown with rusty legs and ears and a narrow muzzle. The tail is bushy and carried low when running, where a dog carries it up — that is the most reliable field mark at distance.',
     where: 'Field edges, woodlots, creek corridors and, increasingly, suburban greenways. Heard far more often than seen.',
-    risk: 'Small pets and poultry are the real exposure. Attacks on people are very rare, and nearly every conflict traces back to an available food source.',
+    risk: 'Small pets and poultry are the main exposure. Attacks on people are very rare, and nearly every conflict traces back to an available food source.',
   },
   'nuisance-birds': {
     size: 'House sparrow 15 cm, European starling 20 cm, rock pigeon 30–35 cm.',
@@ -331,7 +331,7 @@ export const pestId: Record<string, PestId> = {
     size: 'Under 1 mm — about the size of a pin head.',
     look: 'Bright red to red-brown, with one pair of very long front legs carried forward like antennae. Crushing one leaves a red smear, which is how most people discover them.',
     where: 'Sunny south and west walls in early spring and again in fall, coming in around window frames. Worst where new or heavily fertilized turf runs right up to the foundation.',
-    risk: 'None. It does not bite and cannot breed indoors, feeding only on grass and clover. The only real damage is the staining when they are wiped rather than vacuumed.',
+    risk: 'None. It does not bite and cannot breed indoors, feeding only on grass and clover. The only damage is the staining when they are wiped rather than vacuumed.',
   },
   mites: {
     size: 'Under 1 mm — visible as a moving speck rather than an identifiable animal.',

@@ -11,7 +11,7 @@ faqs:
   - q: "Why do older east-side De Pere homes get cluster flies?"
     a: "The east side is the original De Pere, with older homes near the historic downtown and the Fox River that have settled foundations, soffit gaps, and complex rooflines. Cluster flies breed in soil, not garbage, so the river corridor and established lawns keep producing them. They mass on warm south and west walls each fall and push into wall voids and attics to overwinter."
   - q: "Can BugBoss remove bats from an east-side De Pere home legally?"
-    a: "Yes. Wisconsin protects bats, and the DNR keeps one-way exits open June 1 through July 31 during the maternity season. We do humane exclusion outside that window — find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up. The older homes near downtown De Pere with real attics are classic bat roosts. We never seal bats in."
+    a: "Yes. Wisconsin protects bats, and the DNR keeps one-way exits open June 1 through July 31 during the maternity season. We do humane exclusion outside that window — find the exits at dusk, install one-way doors, wait at least a week, then seal and clean up. The older homes near downtown De Pere with attics are classic bat roosts. We never seal bats in."
   - q: "Are carpenter ants a problem on the east side of De Pere?"
     a: "Yes, especially in the older housing near the river and downtown. Carpenter ants excavate moisture-damaged wood, and decades of small roof, gutter, and plumbing leaks leave soft framing they nest in. Swarmers indoors in spring, or big black ants active inside in winter, mean the nest is in the structure. Control is finding the nest and correcting the moisture, not spraying trails."
   - q: "Do you require a contract to service an east-side De Pere home?"
@@ -19,7 +19,7 @@ faqs:
   - q: "You're in Clintonville — is De Pere too far for you?"
     a: "The east side of De Pere is at the metro edge of our range, so we're upfront: for a small one-off, a company inside the Green Bay area is closer. We earn the drive on specialized work — bat and squirrel exclusion, whole-house fall-invader sealing, and carpenter ant jobs — the kind of thing the metro franchises won't do, or won't do without a contract."
   - q: "How do mice get into east-side De Pere homes?"
-    a: "Through gaps as small as a dime. Older homes near downtown leak at settled foundations and soffit gaps; newer east-side homes leak at construction junctions — utility penetrations, garage-door corners, and unsealed sill plates. With the Fox River corridor close by, sealing the building is the real fix. Trapping alone only clears what's already inside."
+    a: "Through gaps as small as a dime. Older homes near downtown leak at settled foundations and soffit gaps; newer east-side homes leak at construction junctions — utility penetrations, garage-door corners, and unsealed sill plates. With the Fox River corridor close by, sealing the building is the fix. Trapping alone only clears what's already inside."
   - q: "Does the Fox River and the De Pere dam bring extra pests?"
     a: "The river corridor and the dam area bring wildlife pressure and some seasonal mosquito and midge activity. The greenway gives raccoons, squirrels, and other wildlife travel routes right up to riverfront rooflines and chimneys, so homes near the water see more attic and chimney intrusions than a home set back in the interior blocks."
   - q: "What fall invaders show up on the east side besides cluster flies?"
@@ -40,7 +40,7 @@ For pest control, the east side reads as two zones. Near the historic **downtown
 
 ## Older riverfront homes: where the pests get in
 
-An older home near downtown De Pere has weak points a builder today would seal automatically. The **foundations** — early poured concrete, block, and some stone — have settled and cracked over a century of Wisconsin freeze-thaw, and a mouse needs only a dime-sized gap. **Soffit and fascia** boards have loosened, aging windows have gapped at the sash, and older masonry **chimneys** near the river have lost their caps. Many of these homes have real, spacious **attics** — good harborage for overwintering insects and wildlife.
+An older home near downtown De Pere has weak points a builder today would seal automatically. The **foundations** — early poured concrete, block, and some stone — have settled and cracked over a century of Wisconsin freeze-thaw, and a mouse needs only a dime-sized gap. **Soffit and fascia** boards have loosened, aging windows have gapped at the sash, and older masonry **chimneys** near the river have lost their caps. Many of these homes have full, spacious **attics** — good harborage for overwintering insects and wildlife.
 
 The newer east-side neighborhoods are tighter but predictable. Fall invaders and mice exploit the **construction junctions**: soffit returns and ridge vents, weep holes in brick veneer, gaps around HVAC and plumbing penetrations, garage-door corners, and unsealed sill plates behind the siding. New construction changes where you seal, not whether you have to.
 

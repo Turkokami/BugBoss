@@ -17,7 +17,7 @@ faqs:
   - q: "Do you require a contract to service a home in Astor?"
     a: "No. BugBoss never uses long-term contracts or cancellation fees. You can book a one-time treatment or a seasonal exclusion job and stop whenever you want. You deal directly with Brian, the owner — not a Green Bay call center or a rotating route tech."
   - q: "How do mice get into old Astor houses?"
-    a: "Through gaps as small as a dime. Astor's rubble-stone and early block foundations settle and crack, and balloon-framed walls give a mouse a straight vertical run from the sill plate to the attic. Sealing those entry points is the real fix. Trapping alone only clears what's already inside while more follow the same route."
+    a: "Through gaps as small as a dime. Astor's rubble-stone and early block foundations settle and crack, and balloon-framed walls give a mouse a straight vertical run from the sill plate to the attic. Sealing those entry points is the fix. Trapping alone only clears what's already inside while more follow the same route."
   - q: "You're in Clintonville — is Astor too far for you to serve?"
     a: "Astor is at the far metro edge of our range, so we're upfront: for a small one-off in the city, a Green Bay company is closer. Where we earn the drive is specialized work — bat and squirrel exclusion on old rooflines, whole-house fall-invader sealing, and carpenter ant jobs — the kind of thing the metro franchises either won't do or won't do without a contract."
   - q: "What fall invaders show up in Astor besides cluster flies?"

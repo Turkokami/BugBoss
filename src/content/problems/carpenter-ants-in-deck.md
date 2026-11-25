@@ -76,7 +76,7 @@ Then we treat the colony at its nests with the right approach and, just as impor
 
 ## Prevention: it's mostly about keeping the wood dry
 
-Since moisture is the whole game, prevention is really deck maintenance:
+Since moisture is the whole game, prevention is deck maintenance:
 
 - **Improve drainage** under and around the deck so the ground and framing dry out between rains.
 - **Keep post bases off wet soil** — proper footings and standoffs, not posts sitting in dirt.

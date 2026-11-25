@@ -39,7 +39,7 @@ A bed bug complaint at the front desk is not a maintenance ticket. It is a reput
 
 BugBoss The X-Terminator is a family-owned pest and wildlife company based at 600 S. Main St. in Clintonville, run by owner and lead tech Brian Zahringer. We build lodging programs for hotels, motels, inns, bed-and-breakfasts, tourist rooming houses, seasonal resorts, and lake cabins across Central and Northeast Wisconsin — Waupaca, Shawano, Outagamie, Oconto, Portage, Marathon, and Langlade county country. That means the Fox River corridor properties, the interstate and highway motels, and the seasonal cabin operations scattered through the [Waupaca Chain O' Lakes](/service-area/waupaca/) and the lakes around Iola and Rosholt. What ties them together is a compliance and reputation exposure that a generic route-stop program does not respect.
 
-## Why lodging is different: reputation is the real regulator
+## Why lodging is different: reputation is the regulator
 
 Every commercial kitchen answers to a health inspector. A hotel answers to that inspector *and* to a second, harsher one — the traveling public with a phone. A [bed bug](/pest-library/bed-bugs/) report doesn't wait for an annual inspection cycle. It goes up on a review site the same night, gets a photo attached, and can be searched by every prospective guest from then on. Bed bug registry sites archive complaints by property name and address, and those entries do not expire when you clear the room. One well-documented review can suppress bookings across an entire season, and the math is brutal: the cost of a proactive inspection program is a rounding error next to the revenue a single viral bed bug post can erase.
 
@@ -65,7 +65,7 @@ The fix is not a bait station in the corner and a hope. It is [exclusion](/resid
 
 ### Kitchen and food-service pests — because ATCP 75 follows the coffee pot
 
-The moment your property serves a complimentary breakfast, runs a bar, or operates any kitchen, you've added a second regulator: the Wisconsin Food Code. [Cockroaches](/pest-library/cockroaches/) — German cockroaches in particular — ride in on deliveries and colonize the warm, humid voids behind coffee stations, dishwashers, and ice machines, where they contaminate surfaces and are an instant inspection violation. [Flies](/pest-library/flies/) come off the dumpster and loading area; [gnats](/pest-library/gnats/) — really drain flies and fruit flies — breed in floor drains, under bar mats, in mop sinks, and in the gunk under a soda-gun holster. The professional move on small flies is to trace them to the breeding site and eliminate it, not to fog the dining room and treat the symptom. [Ants](/pest-library/ants/) work the sugar and crumb sources around the breakfast bar, especially in warmer months. All of this is covered under the same discreet, documented program.
+The moment your property serves a complimentary breakfast, runs a bar, or operates any kitchen, you've added a second regulator: the Wisconsin Food Code. [Cockroaches](/pest-library/cockroaches/) — German cockroaches in particular — ride in on deliveries and colonize the warm, humid voids behind coffee stations, dishwashers, and ice machines, where they contaminate surfaces and are an instant inspection violation. [Flies](/pest-library/flies/) come off the dumpster and loading area; [gnats](/pest-library/gnats/) — drain flies and fruit flies — breed in floor drains, under bar mats, in mop sinks, and in the gunk under a soda-gun holster. The professional move on small flies is to trace them to the breeding site and eliminate it, not to fog the dining room and treat the symptom. [Ants](/pest-library/ants/) work the sugar and crumb sources around the breakfast bar, especially in warmer months. All of this is covered under the same discreet, documented program.
 
 ### Seasonal and structural invaders
 
@@ -81,7 +81,7 @@ A **highway or budget motel** with exterior room entries has less internal sprea
 
 A **bed-and-breakfast or small inn**, often in a converted older home, combines residential-scale entry points — balloon framing, fieldstone or block foundations, soffit gaps — with a food operation and the owner's own reputation on the line in a tight community. These properties benefit from the fact that we do [residential pest control](/residential-pest-control/) and wildlife work too, because the building behaves like the old house it is.
 
-A **seasonal lake resort with cabins** is really several small buildings, grounds, and often docks, cycling between empty and full. That's the profile our [cabin and seasonal guide](/guides/cabin-seasonal-pest-control/) is built for, and it drives the open-up/close-down rhythm below.
+A **seasonal lake resort with cabins** is several small buildings, grounds, and often docks, cycling between empty and full. That's the profile our [cabin and seasonal guide](/guides/cabin-seasonal-pest-control/) is built for, and it drives the open-up/close-down rhythm below.
 
 ## A lodging pest calendar for Wisconsin
 

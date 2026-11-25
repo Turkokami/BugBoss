@@ -6,7 +6,7 @@ category: "Wildlife"
 order: 10
 faqs:
   - q: "How do you get bats out of an attic?"
-    a: "By exclusion, not extermination. We find the exact spots the bats use to exit at dusk, fit those openings with one-way devices that let bats leave to feed but block their return, wait at least a week to be sure every bat is out, then permanently seal the openings. There's no spray or poison for bats — it's illegal and it wouldn't work anyway. Physically letting them out and sealing behind them is the only real method."
+    a: "By exclusion, not extermination. We find the exact spots the bats use to exit at dusk, fit those openings with one-way devices that let bats leave to feed but block their return, wait at least a week to be sure every bat is out, then permanently seal the openings. There's no spray or poison for bats — it's illegal and it wouldn't work anyway. Physically letting them out and sealing behind them is the only method."
   - q: "Is it legal to remove bats from my house in Wisconsin?"
     a: "Yes, humane exclusion is legal and standard — but the timing is regulated. Wisconsin bats are a protected group, with four cave species state-threatened, so you can't just kill them. And critically, the DNR bars restricting bat exits from June 1 through July 31, the maternity season, because flightless pups are in the roost. Exclusion is done before June 1 or from August on. We work inside those rules."
   - q: "Why can't I just seal the holes and be done with it?"
@@ -26,7 +26,7 @@ faqs:
   - q: "Will the bats just find another way back in after you seal?"
     a: "Not if the sealing is thorough, which is the whole point of a careful inspection first. Bats are creatures of habit that return to the same roost, so if every functional gap is sealed after they're out, they hit a closed building and move on. The failures happen when someone seals the obvious hole and misses two others. Comprehensive sealing is what makes it permanent."
   - q: "Should I try to remove bats myself?"
-    a: "We'd steer you away from it. There's the legal timing to get right, the difficulty of finding every entry point, the guano health hazard, and the real risk of sealing bats in and creating a worse problem. A single bat that blunders into a living space is one thing to handle; a colony in the attic is a job for someone who does it within the DNR rules and knows the building science."
+    a: "We'd steer you away from it. There's the legal timing to get right, the difficulty of finding every entry point, the guano health hazard, and the risk of sealing bats in and creating a worse problem. A single bat that blunders into a living space is one thing to handle; a colony in the attic is a job for someone who does it within the DNR rules and knows the building science."
   - q: "Does BugBoss handle the cleanup and repairs too, or just get the bats out?"
     a: "The whole job. We do the exclusion, then the guano cleanup with proper containment and protection, replace contaminated insulation where needed, and permanently seal the entry points so it doesn't recur. No contracts, owner-direct with Brian. Because we do wildlife exclusion as our core work, you're not handed off to a separate cleanup or repair outfit."
 ---
@@ -63,7 +63,7 @@ The single most common — and expensive — mistake is doing this out of order:
 
 ## Guano cleanup isn't optional
 
-Accumulated guano isn't just smelly and staining. It can grow **Histoplasma**, a fungus whose spores cause **histoplasmosis**, a respiratory illness, when disturbed dust is inhaled — the same keep-it-out-of-the-air hazard as rodent droppings, and a real reason not to go poking around an infested attic yourself. We clean it contained, with respiratory protection, and replace guano-soaked insulation where it's beyond saving. Our [bat guano cleanup](/pest-problems/bat-guano-cleanup/) page goes into the protocol.
+Accumulated guano isn't just smelly and staining. It can grow **Histoplasma**, a fungus whose spores cause **histoplasmosis**, a respiratory illness, when disturbed dust is inhaled — the same keep-it-out-of-the-air hazard as rodent droppings, and a reason not to go poking around an infested attic yourself. We clean it contained, with respiratory protection, and replace guano-soaked insulation where it's beyond saving. Our [bat guano cleanup](/pest-problems/bat-guano-cleanup/) page goes into the protocol.
 
 ## Why the older homes here get colonies
 

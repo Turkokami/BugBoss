@@ -20,7 +20,7 @@ faqs:
   - q: "You're in Clintonville — is West De Pere too far for you?"
     a: "The west side of De Pere is at the metro edge of our range, so we're upfront: for a small one-off, a company inside the Green Bay area is closer. We earn the drive on specialized work — bat and squirrel exclusion, whole-house fall-invader sealing, and carpenter ant jobs — the kind of thing the metro franchises won't do, or won't do without a contract."
   - q: "How do mice get into west-side De Pere homes?"
-    a: "Through gaps as small as a dime. Newer subdivision homes leak at construction junctions — utility penetrations, garage-door corners, and unsealed sill plates behind the siding; older homes near the college leak at settled foundations and soffit gaps. With open ground and the Fox River corridor close by, sealing the building is the real fix. Trapping alone only clears what's already inside."
+    a: "Through gaps as small as a dime. Newer subdivision homes leak at construction junctions — utility penetrations, garage-door corners, and unsealed sill plates behind the siding; older homes near the college leak at settled foundations and soffit gaps. With open ground and the Fox River corridor close by, sealing the building is the fix. Trapping alone only clears what's already inside."
   - q: "Does St. Norbert College bring extra pest concerns to the west side?"
     a: "College housing and the rentals around it turn over often, which is exactly how bed bugs travel — with people and their belongings. Student housing, off-campus rentals, and nearby lodging see the pressure any high-turnover housing does. Bed bugs aren't a DIY pest; partial treatment lets them rebound, so they need thorough treatment with follow-up."
   - q: "What fall invaders show up on the west side besides cluster flies?"
@@ -41,7 +41,7 @@ For pest control, the west side reads as two zones. The **older neighborhoods** 
 
 The mistake homeowners in the west side's newer subdivisions make is assuming a modern house is pest-proof. It isn't. It just leaks in more hidden places than an old one.
 
-**Older homes** near the college and Broadway have the weak points of any settled house: foundations that have cracked and shifted over decades of Wisconsin freeze-thaw, loosened soffit and fascia, aging windows gapped at the sash, and older masonry chimneys that have lost their caps. Many have real, spacious **attics** — good harborage for overwintering insects and wildlife.
+**Older homes** near the college and Broadway have the weak points of any settled house: foundations that have cracked and shifted over decades of Wisconsin freeze-thaw, loosened soffit and fascia, aging windows gapped at the sash, and older masonry chimneys that have lost their caps. Many have full, spacious **attics** — good harborage for overwintering insects and wildlife.
 
 **Newer subdivision homes** are tighter on paper but predictable in practice. Fall invaders and mice exploit the **construction junctions**: soffit returns and ridge vents, weep holes in brick veneer, gaps around HVAC and plumbing penetrations, garage-door corners, and unsealed sill plates hidden behind the siding. A complex roofline with multiple planes gives *more* of these gaps, not fewer. New construction changes where you seal, not whether you have to.
 

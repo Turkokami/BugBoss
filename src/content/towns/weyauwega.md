@@ -22,7 +22,7 @@ faqs:
   - q: "Why is my Weyauwega house full of flies on a warm winter day?"
     a: "Those are almost certainly cluster flies that entered the walls and attic last fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. The fix isn't spraying them indoors — it's an early-fall exterior treatment plus sealing entry points before they get in."
   - q: "How do mice get into Weyauwega houses?"
-    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the stone and block foundations common in Weyauwega's older housing. Sealing the building is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the stone and block foundations common in Weyauwega's older housing. Sealing the building is the fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss handle pest control for farms around Weyauwega?"
     a: "Yes. The dairy and crop farms around Weyauwega bring their own pests — rodents drawn to feed and grain, flies around livestock, and cluster flies off the field soil. We handle farmhouse and outbuilding rodent exclusion and can build a program around a working operation, from the house to the pole barn."
   - q: "Can BugBoss service downtown Weyauwega businesses?"
@@ -63,7 +63,7 @@ Cluster flies are worth calling out in a farm-ringed town like Weyauwega, becaus
 
 ### Winter (November–February): the payoff and the pests already inside
 
-By winter the outdoor invasion is over, and whatever got in during fall now has the building to itself. Mice breed year-round once warm and fed, so a handful in November becomes a real infestation by February if the entry points aren't closed. A mild January stretch heats the wall voids of a balloon-framed house on the low, damp ground by the river and coaxes last fall's cluster flies back to the windows. And winter is **travel-pest season** — holiday travel and used furniture bring [bed bugs](/pest-library/bed-bugs/) home as hitchhikers, a problem tied to luggage, not cleanliness. Winter work in Weyauwega is mostly rodent exclusion, cleanup of the fall invaders, and anything that arrived in a suitcase.
+By winter the outdoor invasion is over, and whatever got in during fall now has the building to itself. Mice breed year-round once warm and fed, so a handful in November becomes a full infestation by February if the entry points aren't closed. A mild January stretch heats the wall voids of a balloon-framed house on the low, damp ground by the river and coaxes last fall's cluster flies back to the windows. And winter is **travel-pest season** — holiday travel and used furniture bring [bed bugs](/pest-library/bed-bugs/) home as hitchhikers, a problem tied to luggage, not cleanliness. Winter work in Weyauwega is mostly rodent exclusion, cleanup of the fall invaders, and anything that arrived in a suitcase.
 
 ## Weyauwega's housing stock: waterfront, town homes, and farmsteads
 
@@ -89,9 +89,9 @@ In a town of old balloon-framed homes wedged between the water and the woodlots,
 
 ## Commercial pest control in Weyauwega
 
-Weyauwega's commercial base is small but real — a downtown business district, food service, and the businesses that support a farming community, plus the seasonal crowds of **Horse and Buggy Days** and the **Waupaca County Fair**. Each of those has its own pests and its own record-keeping needs. A restaurant or grocery needs documented, inspection-ready rodent and fly management. A food-processing or agricultural operation needs stored-product and rodent control that survives an audit. Event grounds handling festival crowds need help staying ahead of the flies and rodents that concentrated food and waste bring.
+Weyauwega's commercial base is small but active — a downtown business district, food service, and the businesses that support a farming community, plus the seasonal crowds of **Horse and Buggy Days** and the **Waupaca County Fair**. Each of those has its own pests and its own record-keeping needs. A restaurant or grocery needs documented, inspection-ready rodent and fly management. A food-processing or agricultural operation needs stored-product and rodent control that survives an audit. Event grounds handling festival crowds need help staying ahead of the flies and rodents that concentrated food and waste bring.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly so pest work never disrupts your business. Because you deal with the owner directly, there's a real person accountable for the result.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly so pest work never disrupts your business. Because you deal with the owner directly, there's one person accountable for the result.
 
 ## Spiders, ants, and the rest of the Weyauwega picture
 

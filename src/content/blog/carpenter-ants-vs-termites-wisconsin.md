@@ -19,7 +19,7 @@ faqs:
   - q: "Why do carpenter ants keep coming back after I spray them?"
     a: "Because spraying the ants you see kills foragers but rarely reaches the nest, and carpenter ants often have a parent nest outdoors — in a stump, tree, or woodpile — with satellite nests indoors. Kill the visible workers and the colony keeps producing more. Effective control means finding and treating the actual nest and addressing the moisture that drew the ants to that wood in the first place."
   - q: "Are carpenter ants as damaging as termites?"
-    a: "They work more slowly than a termite colony but can still do real structural damage over time, especially because they target wood that's already moisture-compromised — exactly the wood that's holding up part of your house. Left alone in a damp sill, a leaking roof area, or a rotting deck ledger for a few years, a carpenter ant colony can meaningfully weaken framing. They're not harmless just because they aren't termites."
+    a: "They work more slowly than a termite colony but can still do structural damage over time, especially because they target wood that's already moisture-compromised — exactly the wood that's holding up part of your house. Left alone in a damp sill, a leaking roof area, or a rotting deck ledger for a few years, a carpenter ant colony can meaningfully weaken framing. They're not harmless just because they aren't termites."
   - q: "What draws carpenter ants to a house in the first place?"
     a: "Moisture. Carpenter ants nest in wood that's been softened by water, so leaks, poor drainage, damp crawlspaces, ice-dam damage, rotting window and door frames, and wood in contact with soil are what invite them. Fixing the moisture problem is half the job — a dry, sound house is a far less appealing nest site, which is why control pairs treatment with addressing the water source."
   - q: "Does BugBoss handle carpenter ants in the Clintonville area?"
@@ -71,7 +71,7 @@ And carpenter ants complicate this with their nesting habits. A colony often has
 
 Other signs that point to an indoor nest: large ants active inside in late winter and early spring, when nothing should be foraging outdoors; a faint **rustling** in the walls on a quiet night as the colony works; and frass piles turning up repeatedly in the same spots.
 
-## Moisture is the real story
+## Moisture is the story
 
 Carpenter ants don't attack sound, dry wood at random — they go for wood that's been **softened by moisture**. That's the thread that ties every carpenter ant job together. The prime nest sites are wherever water has gotten into the structure:
 
@@ -81,13 +81,13 @@ Carpenter ants don't attack sound, dry wood at random — they go for wood that'
 - Deck ledgers, porch posts, and any wood in contact with soil.
 - Wall areas around a chronic plumbing leak.
 
-This is genuinely good news for control, because it means the fix has two halves, and the second half is under your control. You treat the nest, *and* you address the moisture that made that wood attractive in the first place. A dry, sound house is a far less appealing nest site. Ignore the water problem and you'll keep re-inviting ants no matter how many you kill — which is why any real carpenter ant job includes finding the water source, not just the nest.
+This is genuinely good news for control, because it means the fix has two halves, and the second half is under your control. You treat the nest, *and* you address the moisture that made that wood attractive in the first place. A dry, sound house is a far less appealing nest site. Ignore the water problem and you'll keep re-inviting ants no matter how many you kill — which is why any carpenter ant job includes finding the water source, not just the nest.
 
 ## Why DIY spraying fails
 
 The instinct is to spray the trail of ants on the counter or the swarmers at the window, and it fails for a consistent reason: it kills the **foragers you can see** while leaving the **nest you can't** untouched. With a parent nest possibly outdoors and satellites in the walls, the visible ants are a small fraction of the colony, and the colony simply replaces them. You knock down the trail, feel better for a week, and they're back.
 
-Effective control means locating the actual nest — parent and satellite — following the trails and the frass and the swarmer emergence points to find where the colony really lives, and treating *there*, while dealing with the moisture feeding it. That's inspection work, and it's the difference between suppressing the symptom and ending the infestation. It's the same find-the-source discipline we bring to [mice](/pest-library/mice/) and [cluster flies](/pest-library/cluster-flies/) — the visible bugs are never the whole problem.
+Effective control means locating the actual nest — parent and satellite — following the trails and the frass and the swarmer emergence points to find where the colony lives, and treating *there*, while dealing with the moisture feeding it. That's inspection work, and it's the difference between suppressing the symptom and ending the infestation. It's the same find-the-source discipline we bring to [mice](/pest-library/mice/) and [cluster flies](/pest-library/cluster-flies/) — the visible bugs are never the whole problem.
 
 ## What to do if you're seeing swarmers now
 

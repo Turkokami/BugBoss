@@ -31,11 +31,11 @@ The other reason is supply. Most pest control companies — including the metro 
 
 ## Removal is the easy part. The building is the job.
 
-Almost every wildlife call arrives as a request to take an animal out of a building, and almost every one of them is really a request to close a hole.
+Almost every wildlife call arrives as a request to take an animal out of a building, and almost every one of them is a request to close a hole.
 
 Trap tonight's raccoon and the torn soffit it climbed through is still open next week. So is the gap at the fascia the [squirrels](/pest-library/squirrels/) will find in October, the same joint the [wasps](/pest-library/wasps-hornets/) will build in next July, and the opening every [cluster fly](/pest-library/cluster-flies/) and [lady beetle](/pest-library/asian-lady-beetles/) on the property will use in September.
 
-One repair closes all of it. That is why what we sell is not really removal — it is **getting the animals out, closing the building, and cleaning up what got left behind.**
+One repair closes all of it. That is why what we sell is not removal — it is **getting the animals out, closing the building, and cleaning up what got left behind.**
 
 ## The animals, and how to tell them apart before anyone climbs
 

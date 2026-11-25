@@ -62,7 +62,7 @@ The lawn damage usually grows out. What matters is the map: heavy runway traffic
 
 If you only do one thing on this walk, do this one. Stand back far enough to see the whole roof edge and work around the building looking at the **soffit, fascia, and the joint where they meet the wall**.
 
-Wisconsin ice dams do real damage to that assembly. Water backs up under the shingles, saturates the sheathing and fascia, freezes, and pries things apart. By March you are looking for:
+Wisconsin ice dams do damage to that assembly. Water backs up under the shingles, saturates the sheathing and fascia, freezes, and pries things apart. By March you are looking for:
 
 - **Fascia pulled away from the rafter tails**, leaving a gap at the top of the wall.
 - **Soffit panels sagging, torn, or dropped out** of the channel.
@@ -128,7 +128,7 @@ You will finish this walk with a list of somewhere between four and thirty thing
 
 **Fix now, yourself.** Clear the window wells, extend the downspouts, move the woodpile, tip out the standing water, get the feed into cans, clean the gutters, cut the branch back.
 
-**Schedule for a dry week in April or May.** Seal the foundation penetrations, repair the soffit and fascia, replace the vent screening, fit door sweeps, fix the window well covers. This is real exclusion work and it is worth doing properly — it is the part that keeps working for years.
+**Schedule for a dry week in April or May.** Seal the foundation penetrations, repair the soffit and fascia, replace the vent screening, fit door sweeps, fix the window well covers. This is exclusion work and it is worth doing properly — it is the part that keeps working for years.
 
 **Call about.** Anything in the structure — an active rodent population, wildlife in the attic, carpenter ants indoors, a bat roost. And anything up high, because the March walk should not involve a ladder.
 

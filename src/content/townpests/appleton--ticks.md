@@ -5,7 +5,7 @@ title: "Tick Control in Appleton, WI — the Ravines"
 answer: "Appleton's tick exposure is not out in the countryside. It is in the ravine and creek corridors cut through the city, which run up to the back of residential lots, apartment grounds and school campuses. Ticks sit in the narrow band where mown turf meets brush, not in the open lawn and not deep in the woods — which is good news, because a defined band is treatable."
 metaDescription: "Tick control in Appleton, WI — the risk is the ravine and creek corridors, not the countryside. The narrow boundary band where ticks actually sit."
 faqs:
-  - q: "Are there really ticks inside the city?"
+  - q: "Are there ticks inside the city?"
     a: "Yes, and people consistently underestimate it because they associate Lyme disease with up north. Appleton is cut by ravines and creek corridors with continuous unmown vegetation and leaf litter running right through residential and commercial ground. That habitat is what deer ticks need, and the deer and small mammals that carry them use those corridors as travel routes. You can meet a deer tick half a mile from a grocery store here."
   - q: "Where exactly are they on a property?"
     a: "The boundary band, which is narrower than most people expect. Ticks quest from vegetation at roughly ankle to knee height in shaded, humid cover — so they are concentrated in the yard or two where mown turf meets brush, leaf litter or unmown margin. They are not out in the middle of a sunny mown lawn, where it is too hot and dry for them to survive long, and they are not evenly spread through deep woods either. That concentration is what makes a targeted treatment work."
@@ -45,7 +45,7 @@ That concentration is the whole basis of a workable program. A defined band is t
 
 ## What a program actually does
 
-1. **Walk the property line** and find the real boundary band. On a lot backing onto a ravine it is the back fence; on an apartment property it may follow a creek corridor or a buffer strip between buildings.
+1. **Walk the property line** and find the boundary band. On a lot backing onto a ravine it is the back fence; on an apartment property it may follow a creek corridor or a buffer strip between buildings.
 2. **Treat that band**, timed to the nymph window rather than applied on a fixed interval across the season.
 3. **Do the habitat work**, which is the durable half.
 4. **Say where the limit is.** A property backing onto a protected corridor carries a permanently raised baseline, and we are not going to treat a greenway that is not yours.

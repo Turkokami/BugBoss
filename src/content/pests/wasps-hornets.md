@@ -5,7 +5,7 @@ answer: "Paper wasps, yellowjackets, and bald-faced hornets build nests on eaves
 faqs:
   - q: "What's the difference between paper wasps, yellowjackets, and bald-faced hornets?"
     a: "Paper wasps (Polistes) build small, open, umbrella-shaped combs hanging under eaves, railings, and overhangs, and are the least aggressive. Yellowjackets (Vespula) build large enclosed nests in the ground, in wall voids, and in cavities, and are the most aggressive scavengers. Bald-faced hornets (Dolichovespula maculata) are actually a large black-and-white yellowjacket relative that builds the big gray football-shaped paper nests hanging in trees and on buildings."
-  - q: "Are bald-faced hornets really hornets?"
+  - q: "Are bald-faced hornets true hornets?"
     a: "Not technically. Despite the name, the bald-faced hornet is not a true hornet — it's a large aerial-nesting yellowjacket, black and ivory-white rather than yellow. Wisconsin has no established true hornets native to it. What people call 'hornets' here are almost always bald-faced hornets or, occasionally, the European hornet. The distinction matters less than the nest location and size when it comes to safe removal."
   - q: "Why are wasps so aggressive in late summer?"
     a: "By August and September the colony has reached its peak size — a yellowjacket nest can hold thousands of workers — and its food supply is shifting. The queen has stopped producing workers, the colony's insect prey is dwindling, and workers turn to scavenging sugars and proteins, which is why they crowd picnics, garbage, and fallen fruit. A large, hungry, defensive colony is why late summer is peak sting season and peak call season."
@@ -111,7 +111,7 @@ A word on the popular DIY preventives. **Decoy nests** — the paper-bag-looking
 
 ## When should you call BugBoss about wasps and hornets?
 
-Call for any yellowjacket or bald-faced hornet nest, any nest in a wall void or the ground, any nest high on the structure or near a doorway, deck, or other spot where people pass — and immediately if anyone in the household has a stinging-insect allergy. These are the situations where DIY carries real risk and where doing it wrong (especially sealing a wall nest) makes things worse.
+Call for any yellowjacket or bald-faced hornet nest, any nest in a wall void or the ground, any nest high on the structure or near a doorway, deck, or other spot where people pass — and immediately if anyone in the household has a stinging-insect allergy. These are the situations where DIY carries risk and where doing it wrong (especially sealing a wall nest) makes things worse.
 
 If you are stung and have no known allergy, the usual response is fine — clean the site, apply a cold compress, and watch for anything beyond local pain and swelling. But treat any sign of a body-wide reaction — hives away from the sting, swelling of the face or throat, trouble breathing, dizziness — as an emergency and call 911, and use prescribed epinephrine if you have it. If a large ground or wall nest has been disturbed and multiple people or pets are being stung, get everyone indoors and away first; the nest can be dealt with once no one is in the line of fire.
 

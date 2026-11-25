@@ -10,7 +10,7 @@ import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 const url = business.url + '/reviews/';
 const desc = `Read reviews for BugBoss The X-Terminator — rated ${business.rating.value}/5 from ${business.rating.count} reviews across Northeast Wisconsin.`;
 const stars = (n: number) => '★'.repeat(n) + '☆'.repeat(5 - n);
-const answer = `BugBoss The X-Terminator is rated ${business.rating.value} out of 5 from ${business.rating.count} reviews on its Google Business Profile. The reviews below are real and verbatim from that profile, lightly trimmed where they were long. What customers mention most often is response speed, fair pricing, and problems that actually stopped rather than being managed.`;
+const answer = `BugBoss The X-Terminator is rated ${business.rating.value} out of 5 from ${business.rating.count} reviews on its Google Business Profile. The reviews below are verbatim from that profile, lightly trimmed where they were long. What customers mention most often is response speed, fair pricing, and problems that actually stopped rather than being managed.`;
 
 const faqs = [
   {

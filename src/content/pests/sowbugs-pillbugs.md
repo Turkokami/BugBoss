@@ -4,7 +4,7 @@ title: "Sowbugs & Pillbugs in Northeast Wisconsin: Why They Keep Dying on Your B
 answer: "Sowbugs and pillbugs are gray, armored crustaceans that live under mulch, leaf litter, and landscape timbers and wander into Northeast Wisconsin basements and garages when the ground gets wet. They cannot survive long indoors. Finding them alive week after week means there is standing moisture BugBoss should look at."
 faqs:
   - q: "Are sowbugs and pillbugs dangerous?"
-    a: "Not in any respect. They have no venom, no sting, and no capacity to bite — their mouthparts are built for scraping decaying plant matter. They carry no disease of any consequence to people or pets, cannot damage the structure of a building, do not chew wood or fabric, and cannot infest stored food. A child who picks one up and lets it roll into a ball is in no danger whatsoever. They are one of the genuinely harmless animals that ends up on a pest control call sheet, and the only real issue is what their presence indoors is telling you about moisture."
+    a: "Not in any respect. They have no venom, no sting, and no capacity to bite — their mouthparts are built for scraping decaying plant matter. They carry no disease of any consequence to people or pets, cannot damage the structure of a building, do not chew wood or fabric, and cannot infest stored food. A child who picks one up and lets it roll into a ball is in no danger whatsoever. They are one of the genuinely harmless animals that ends up on a pest control call sheet, and the only issue is what their presence indoors is telling you about moisture."
   - q: "What is the difference between a sowbug and a pillbug?"
     a: "The roll is the quick test. A pillbug can curl into a tight, complete sphere when disturbed — the classic roly-poly — and it has a more domed, rounded shell with no visible tail appendages. A sowbug cannot roll into a ball; it flattens against the surface instead, its body is flatter overall, and it carries two small tail-like projections at the rear end. Both want exactly the same damp conditions, both are harmless, and both are handled identically, so the distinction is more satisfying than useful. If it balls up, it is a pillbug."
   - q: "Why do I keep finding them dead in the basement?"
@@ -95,7 +95,7 @@ The habitat is always within a few feet of where you are finding them, and it is
 
 **Compost heaps and garden beds** close to the house.
 
-**Damp crawlspaces with bare soil.** The one place they can genuinely persist indoors, because it is not really indoors as far as they are concerned.
+**Damp crawlspaces with bare soil.** The one place they can genuinely persist indoors, because it is not indoors as far as they are concerned.
 
 **Concrete aprons, patios, and slabs** that stay wet along the edge, particularly on the shaded north side.
 

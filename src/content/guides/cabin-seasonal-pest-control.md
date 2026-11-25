@@ -22,7 +22,7 @@ faqs:
   - q: "Do I need pest service if I'm only at the cabin a few weekends a year?"
     a: "That's exactly when you need it most. The less you're there, the longer any problem goes unnoticed and the worse it gets before you find it. A seasonal owner who's on-site rarely can't rely on catching things early, so the defense has to be built into the building through sealing and a fall closing treatment rather than reacting to what you happen to see."
   - q: "Will boxelder bugs and ladybugs damage my lake home?"
-    a: "No structural damage, but they're a real nuisance in lake homes because the sunny, water-facing walls are prime gathering spots. They mass on those walls in fall, work into the wall voids, and reappear on warm days, staining surfaces and collecting on sills. In a cabin used mainly in summer you may not see the fall gathering, but you'll find the mess when you open up. Exterior treatment and sealing are the fix."
+    a: "No structural damage, but they're a nuisance in lake homes because the sunny, water-facing walls are prime gathering spots. They mass on those walls in fall, work into the wall voids, and reappear on warm days, staining surfaces and collecting on sills. In a cabin used mainly in summer you may not see the fall gathering, but you'll find the mess when you open up. Exterior treatment and sealing are the fix."
   - q: "How do wasps get into a cabin nobody's using?"
     a: "Queens looking for nest sites don't care whether anyone's home. In spring they scout the quiet eaves, soffits, and wall voids of an empty cabin and start colonies that grow all summer undisturbed. By the time the owner arrives, a paper wasp or yellowjacket nest can be well established under a deck, in a soffit, or inside a wall. Empty buildings are ideal because there's no disturbance."
   - q: "What should I take out of the cabin when I close it for winter?"
@@ -45,7 +45,7 @@ In a house that's lived in, problems get caught early. You hear the scratching i
 
 BugBoss The X-Terminator works seasonal and cabin properties throughout the Chain O' Lakes region and the surrounding Northwoods country, out of our base at **600 S. Main St. in Clintonville**. We do both **pest control and wildlife**, which matters enormously for cabins, and we build service around the seasonal rhythm of a property rather than the recurring-contract model the national brands push. This guide covers what makes vacant-property pest pressure different, the specific pests that plague lake cabins, and how to actually defend a building you're only in a fraction of the year.
 
-## Why vacancy is the real problem
+## Why vacancy is the problem
 
 It's worth being precise about why an empty building is such a magnet, because it reframes the whole strategy.
 
@@ -81,7 +81,7 @@ An empty cabin is ideal for [wasps and hornets](/pest-library/wasps-hornets/). Q
 
 ### Raccoons and squirrels
 
-The bigger animals get in through roofline weaknesses that develop on a building nobody's maintaining daily — torn or gapped soffits, an uncapped chimney, rotted fascia, gaps where a roof meets a dormer. [Raccoons](/pest-library/raccoons/), especially females denning in spring, and [squirrels](/pest-library/squirrels/) will settle into a quiet cabin attic and cause real damage and contamination. Like bats, they're a wildlife-exclusion job: get the animal out, then seal the building so the next one can't move in.
+The bigger animals get in through roofline weaknesses that develop on a building nobody's maintaining daily — torn or gapped soffits, an uncapped chimney, rotted fascia, gaps where a roof meets a dormer. [Raccoons](/pest-library/raccoons/), especially females denning in spring, and [squirrels](/pest-library/squirrels/) will settle into a quiet cabin attic and cause damage and contamination. Like bats, they're a wildlife-exclusion job: get the animal out, then seal the building so the next one can't move in.
 
 ### Ants, and the moisture that brings them
 

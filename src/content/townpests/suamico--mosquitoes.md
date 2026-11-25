@@ -52,7 +52,7 @@ So the honest division is:
 
 A program here buys you a **usable evening on your own property**. It does not buy a mosquito-free yard, and on a lot against the marsh margin dawn and dusk will always be worse than elsewhere.
 
-That is a real improvement and a bounded one. We would rather agree which we are selling in May than argue about it in July, and if your lot cannot be improved enough to be worth the money, we will tell you before taking the job.
+That is an improvement and a bounded one. We would rather agree which we are selling in May than argue about it in July, and if your lot cannot be improved enough to be worth the money, we will tell you before taking the job.
 
 ## Your own lot still matters
 
@@ -75,6 +75,6 @@ On a Suamico property that margin is usually the back boundary, and it is usuall
 
 ## The drive
 
-We come from Clintonville and this is a real distance, so Suamico and Little Suamico are scheduled work rather than same-hour response. For a seasonal program that is fine. If you need somebody today, a Brown County company will beat us and you should call one.
+We come from Clintonville and this is a distance, so Suamico and Little Suamico are scheduled work rather than same-hour response. For a seasonal program that is fine. If you need somebody today, a Brown County company will beat us and you should call one.
 
 If you want the underlying detail, start with the [mosquitoes profile](/pest-library/mosquitoes/), then [mosquito and tick control](/residential-pest-control/mosquito-tick/) and the [tick and Lyme yard program](/guides/tick-lyme-yard-program/), which matters a great deal on marsh-edge property.

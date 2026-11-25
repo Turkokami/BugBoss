@@ -21,7 +21,7 @@ faqs:
   - q: "How much notice does a landlord have to give before entering to treat?"
     a: "Wisconsin's rental practices rules require advance notice before a landlord enters an occupied unit — commonly at least 12 hours — and entry must be at reasonable times and for a legitimate purpose, which pest treatment is. Emergencies are the exception. In practice this matters a lot on pest jobs, because treatment often needs access to several units on the same day, and notice has to be given for each. Landlords who skip notice can find a tenant refuses entry, which stalls the whole building's treatment. Check the current rule text, since the details are what a dispute turns on."
   - q: "What if my landlord ignores the problem?"
-    a: "Put the request in writing and keep a copy — a dated written record is the single most useful thing a tenant can have. If it is still ignored, the escalation routes in Wisconsin include contacting your municipal building or health inspector, who can inspect and cite code violations, and filing a complaint with DATCP, which enforces the rental practices rules. Tenants sometimes ask about withholding rent or repairing and deducting; those remedies are narrow and carry real risk if you get the procedure wrong, so take advice before trying them rather than after."
+    a: "Put the request in writing and keep a copy — a dated written record is the single most useful thing a tenant can have. If it is still ignored, the escalation routes in Wisconsin include contacting your municipal building or health inspector, who can inspect and cite code violations, and filing a complaint with DATCP, which enforces the rental practices rules. Tenants sometimes ask about withholding rent or repairing and deducting; those remedies are narrow and carry risk if you get the procedure wrong, so take advice before trying them rather than after."
   - q: "Can a landlord evict a tenant over an infestation?"
     a: "An infestation by itself is not grounds. Where it can become an issue is if a tenant's conduct caused the problem and continues — for example, sanitation that keeps drawing rodents after warnings, or repeatedly refusing lawful access for treatment. Even then the landlord has to follow Wisconsin's notice and eviction procedure. From a practical standpoint, eviction is a poor tool against pests: the infestation stays in the building after the tenant leaves, and in a multi-unit property it has usually already spread."
   - q: "Who is responsible in a multi-unit building?"
@@ -81,7 +81,7 @@ Commercial tenancies work differently — those are governed largely by the leas
 
 **Access for treatment.** Refusing lawful, properly-noticed entry for pest work is one of the few things that genuinely shifts responsibility onto a tenant — and in a multi-unit building, one unit refusing access can defeat the whole treatment.
 
-**Preparation.** Bed bug and roach treatments require real preparation — emptying units, bagging belongings, pulling furniture off walls. A treatment that fails because prep was not done is a cost that can land on the tenant.
+**Preparation.** Bed bug and roach treatments require preparation — emptying units, bagging belongings, pulling furniture off walls. A treatment that fails because prep was not done is a cost that can land on the tenant.
 
 **Not causing it.** Bringing in infested second-hand furniture is the classic example, and it is the most common way a bed bug problem starts.
 
@@ -107,7 +107,7 @@ There is no single pest-control penalty in Wisconsin law. The consequences come 
 
 **Rent withholding and repair-and-deduct** exist as concepts but are narrow, procedurally fussy, and risky if done wrong. Do not attempt either on the strength of a web page — take advice first.
 
-**Practical cost.** The largest real penalty is usually not legal. An untreated infestation in a multi-unit building spreads, and the eventual bill dwarfs what early treatment would have cost.
+**Practical cost.** The largest penalty is usually not legal. An untreated infestation in a multi-unit building spreads, and the eventual bill dwarfs what early treatment would have cost.
 
 ## How BugBoss helps
 

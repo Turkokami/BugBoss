@@ -18,7 +18,7 @@ faqs:
   - q: "Do you clean up afterward?"
     a: "Yes, and on an established roost or a raccoon latrine it is usually the larger half of the job — contaminated insulation comes out, the space is sanitized, and it gets reinsulated. We also say plainly when it is not warranted. A squirrel that used one corner for three weeks does not need an attic restoration, and a quote for one written before anybody looked is worth questioning."
   - q: "There is something under the granary floor."
-    a: "Likely a skunk, a groundhog or a raccoon. The entry usually tells you which: a four-to-six-inch hole with a fan of soil is a groundhog, a skunk uses something similar, and a raccoon needs a larger gap and tends to exploit a damaged skirt or corner. Do not close it until you know whether young are inside — between March and June there is a real chance."
+    a: "Likely a skunk, a groundhog or a raccoon. The entry usually tells you which: a four-to-six-inch hole with a fan of soil is a groundhog, a skunk uses something similar, and a raccoon needs a larger gap and tends to exploit a damaged skirt or corner. Do not close it until you know whether young are inside — between March and June there is a chance."
   - q: "How far out is Tigerton for you?"
     a: "Seventeen miles north of the shop in Clintonville, and routine — no travel surcharge. Wildlife work is normally scheduled rather than same-hour, with two exceptions we treat as urgent: an animal loose in the living space, and a bat in a room where somebody was sleeping."
 ---
@@ -49,7 +49,7 @@ The **time of day** the noise happens does most of the identification.
 
 **[Skunks](/pest-library/skunks/) and [groundhogs](/pest-library/groundhogs/)** — under granary floors, sheds, decks and stoops. Look at the entry, and look for young, before closing anything.
 
-**[Woodpeckers](/pest-library/woodpeckers/)** — on wood-sided buildings, and federally protected, so the toolkit is deterrence, exclusion, insect control and repair rather than removal. Often the bird is there because there are insects in the siding, which is the real fix.
+**[Woodpeckers](/pest-library/woodpeckers/)** — on wood-sided buildings, and federally protected, so the toolkit is deterrence, exclusion, insect control and repair rather than removal. Often the bird is there because there are insects in the siding, which is the fix.
 
 The longer version: [reading the noise before you call anyone](/blog/squirrels-raccoons-in-the-attic/).
 

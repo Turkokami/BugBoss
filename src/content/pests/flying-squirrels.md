@@ -3,7 +3,7 @@ pest: flying-squirrels
 title: "Flying Squirrels in Northeast Wisconsin Attics: The Dusk Noise Nobody Expects"
 answer: "Northern flying squirrels are small, nocturnal, colony-living squirrels that den in Northeast Wisconsin attics through the winter, often twenty or more together. The tell is scampering and gliding noises starting right at dusk. BugBoss removes the colony with one-way doors and seals the roofline against re-entry."
 faqs:
-  - q: "Do flying squirrels really fly?"
+  - q: "Do flying squirrels fly?"
     a: "No — they glide, and the distinction matters because it explains how they reach your roof. A flying squirrel has a furred membrane called a patagium stretched between its wrists and ankles. Launching from height, it spreads all four limbs into a taut aerofoil and uses its flattened tail as a rudder and brake, covering well over a hundred feet in a controlled descent from a tall tree. It cannot gain altitude and cannot flap. What that means practically is that a flying squirrel can arrive at your roofline directly from a tree, without ever touching the ground or climbing your wall."
   - q: "How do I know it is flying squirrels and not gray or red squirrels?"
     a: "Timing settles it almost every time. Gray and red squirrels are diurnal — active at dawn, through the day, and quiet at night. Flying squirrels are strictly nocturnal, so the noise starts right at dusk, runs through the night, and stops around dawn. That is the opposite pattern. The character of the sound differs too: flying squirrels are small and light, so people describe fast scampering, light scratching, and soft thumps as animals land, rather than the heavy rolling and gnawing of a gray squirrel. If your attic goes quiet at sunrise and comes alive at sunset, you have flying squirrels."
@@ -111,7 +111,7 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 
 **Insulation and building damage.** This is the main cost. Concentrated urine and droppings saturate insulation, destroy its thermal value, and soak into the drywall beneath. On a colony that has wintered twice in the same attic, the affected area can be substantial.
 
-**Wiring.** Flying squirrels are rodents with continuously growing incisors, and they gnaw. Attic wiring is at risk, with the fire hazard that implies. They tend to do less heavy structural chewing than gray squirrels, but the wiring exposure is real.
+**Wiring.** Flying squirrels are rodents with continuously growing incisors, and they gnaw. Attic wiring is at risk, with the fire hazard that implies. They tend to do less heavy structural chewing than gray squirrels, but the risk to wiring remains.
 
 **Parasites.** Fleas, mites, and lice come with the animals. When a colony is removed or abandons a nest, those parasites disperse looking for a host and move down into living space. Biting complaints that begin *after* an eviction are a well-known pattern and a good argument for doing the cleanup properly rather than stopping at the animal removal.
 
@@ -125,7 +125,7 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 
 **Missing the entry point.** These holes are small and often tucked into architectural detail — the underside of a soffit return, behind a gutter, up in a valley. People inspect from the ground, find nothing, and conclude the animals are getting in somewhere impossible.
 
-**Sealing the hole with animals inside.** The most damaging mistake. Trapped flying squirrels will chew hard to get out, doing real damage in the process, and any that fail to escape die in the structure — which produces odor and a fly problem in your ceiling.
+**Sealing the hole with animals inside.** The most damaging mistake. Trapped flying squirrels will chew hard to get out, doing damage in the process, and any that fail to escape die in the structure — which produces odor and a fly problem in your ceiling.
 
 **Evicting over dependent young.** Seal out the adults during a breeding period and non-mobile juveniles starve in the attic. Inhumane, and it creates the same odor problem.
 

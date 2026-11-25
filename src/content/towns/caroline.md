@@ -51,7 +51,7 @@ The second is **carpenter ant** activity. Caroline's wooded lots mean plenty of 
 
 ### Summer (June–August): mosquitoes, stinging insects, and the bat window
 
-Summer along the **Embarrass River** is mosquito season. The river corridor and the low, wet spots in the surrounding farmland hold standing water long enough to breed mosquitoes, and rural properties with woods for shade stay buggy well into the evening. A seasonal [mosquito](/pest-library/mosquitoes/) treatment that knocks back resting vegetation makes a real difference for anyone who wants to use the yard.
+Summer along the **Embarrass River** is mosquito season. The river corridor and the low, wet spots in the surrounding farmland hold standing water long enough to breed mosquitoes, and rural properties with woods for shade stay buggy well into the evening. A seasonal [mosquito](/pest-library/mosquitoes/) treatment that knocks back resting vegetation makes a difference for anyone who wants to use the yard.
 
 This is also peak **wasp and hornet** season. Paper wasps build under farmhouse eaves and porch roofs, yellowjackets nest in the ground and in wall voids, and bald-faced hornets hang their gray paper nests in trees and on outbuildings. By August the colonies are large and defensive, which is when most stings and most of our [wasp and hornet](/pest-library/wasps-hornets/) calls happen. And summer is the one season we cannot legally seal bats out: the Wisconsin DNR keeps bat exits open **June 1 through July 31** for the maternity season, when flightless pups are in the roost. If bats turn up in a Caroline farmhouse attic in July, the move is to plan the exclusion for after the window, not to trap the colony inside.
 
@@ -85,7 +85,7 @@ The **woodlots and fencerows** are the other engine. They're the reservoir for t
 
 Because Caroline's homes are old and rural, **wildlife work** is a regular part of what we do here, not a sideline. [Bats](/pest-library/bats/) roost in farmhouse attics and behind fascia; [raccoons](/pest-library/raccoons/) den in chimneys and torn soffits, especially females looking for a place to raise young in spring; [squirrels](/pest-library/squirrels/) chew into attics through weak roof edges; and [skunks](/pest-library/skunks/) den under porches, decks, and outbuildings.
 
-What separates a real wildlife job from a quick trap is **exclusion** — sealing the building so this animal, and the next one to travel the fencerow to it, can't get back in — and with bats, staying on the legal timeline. BugBoss does both, and we clear the contamination they leave in a Caroline attic: the raccoon latrine, the bat guano, the chewed and soiled insulation. Our [attic wildlife removal guide](/guides/attic-wildlife-removal/) and the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) walk through how we handle it. Most of the pest-only outfits that drive through this area won't do wildlife at all; we handle both under one roof through our [wildlife removal](/wildlife-removal/) service.
+What separates a proper wildlife job from a quick trap is **exclusion** — sealing the building so this animal, and the next one to travel the fencerow to it, can't get back in — and with bats, staying on the legal timeline. BugBoss does both, and we clear the contamination they leave in a Caroline attic: the raccoon latrine, the bat guano, the chewed and soiled insulation. Our [attic wildlife removal guide](/guides/attic-wildlife-removal/) and the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) walk through how we handle it. Most of the pest-only outfits that drive through this area won't do wildlife at all; we handle both under one roof through our [wildlife removal](/wildlife-removal/) service.
 
 ## Farm and ag pest work in the town of Grant
 
@@ -93,9 +93,9 @@ Caroline is farm country, and working farms have pest problems that a house prog
 
 ## Commercial and public buildings around Caroline
 
-Caroline may be a crossroads rather than a business district, but it still has buildings that need real pest management beyond the farmhouse. The **post office**, the **Grant fire station**, and the **town hall** are public buildings where rodents and stinging insects can't just be tolerated, and the working farms in the town of Grant are commercial operations in their own right. Any building that stores food, feed, or paper, that opens its doors to the public, or that has to answer to an inspector needs documented, repeatable pest management rather than a can of spray in a closet.
+Caroline may be a crossroads rather than a business district, but it still has buildings that need pest management beyond the farmhouse. The **post office**, the **Grant fire station**, and the **town hall** are public buildings where rodents and stinging insects can't just be tolerated, and the working farms in the town of Grant are commercial operations in their own right. Any building that stores food, feed, or paper, that opens its doors to the public, or that has to answer to an inspector needs documented, repeatable pest management rather than a can of spray in a closet.
 
-For these, our [commercial pest control](/commercial-pest-control/) approach applies: a program built around the specific building, discreet scheduling that doesn't disrupt operations, and the service records that hold up when someone asks for them. Because you deal directly with the owner, there's a real person accountable for the result — not a rotating cast of route techs.
+For these, our [commercial pest control](/commercial-pest-control/) approach applies: a program built around the specific building, discreet scheduling that doesn't disrupt operations, and the service records that hold up when someone asks for them. Because you deal directly with the owner, there's one person accountable for the result — not a rotating cast of route techs.
 
 ## Why DIY usually falls short in Caroline
 

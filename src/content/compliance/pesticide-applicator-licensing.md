@@ -9,7 +9,7 @@ sourceUrl: "https://datcp.wi.gov/Pages/Programs_Services/PesticideApplicators.as
 summary:
   who: "Anyone applying pesticides commercially in Wisconsin, and — practically — every homeowner or business hiring one."
   obligation: "Commercial applicators must hold current DATCP certification in the categories they work in, and the business must be licensed. Applications must follow the product label, which is enforceable law rather than guidance."
-  penalty: "DATCP enforcement against the applicator for uncertified or off-label application. For the customer the real exposure is different: an uncertified operator is usually uninsured, so property damage or harm to the household has no backstop."
+  penalty: "DATCP enforcement against the applicator for uncertified or off-label application. For the customer the exposure is different: an uncertified operator is usually uninsured, so property damage or harm to the household has no backstop."
   act: "Ask for the certification number and the certificate of insurance before work starts, and verify the number with DATCP rather than taking it on trust."
 reviewed: "August 2026"
 faqs:
@@ -22,7 +22,7 @@ faqs:
   - q: "What categories does BugBoss hold?"
     a: "Brian Zahringer holds Wisconsin Commercial Pesticide Applicator certification #103689, in categories 005.0 Aquatic and Mosquito and 007.1 Structural, currently valid through 31 October 2027. Structural is the category covering pest control in and around buildings — the bulk of what we do. Aquatic and mosquito covers mosquito work and treatment around water. Those are the categories the work we advertise actually falls into, which is the point of publishing them."
   - q: "Does certification expire?"
-    a: "Yes. Wisconsin certifications run for a defined period and must be renewed, generally through continuing instruction or re-examination, and the business license is renewed on its own cycle. This is worth asking about specifically, because a lapsed certification is a real and fairly common problem — somebody certified five years ago is not necessarily certified today. Ask for the expiry date, not just the number."
+    a: "Yes. Wisconsin certifications run for a defined period and must be renewed, generally through continuing instruction or re-examination, and the business license is renewed on its own cycle. This is worth asking about specifically, because a lapsed certification is a fairly common problem — somebody certified five years ago is not necessarily certified today. Ask for the expiry date, not just the number."
   - q: "Should the company be insured as well as licensed?"
     a: "Yes, and they are separate things — licensing is a state requirement to apply pesticides, insurance is protection if something goes wrong at your property. Ask for both, and for commercial work ask for a certificate of insurance naming the limits. A company that cannot produce either quickly is telling you something. BugBoss is licensed and insured, and we will produce documentation on request without making it awkward."
   - q: "What records should I get after a treatment?"
@@ -32,7 +32,7 @@ faqs:
   - q: "What if I think an application was done improperly?"
     a: "DATCP's Bureau of Agrichemical Management handles pesticide use complaints in Wisconsin, and improper application is exactly what that process exists for. Before you contact them, gather what you can: dates, what you were told was applied, any product names or labels, photographs, and any symptoms or damage. If anyone is unwell, seek medical advice and mention the exposure. Keep the record contemporaneous — written at the time, not reconstructed later."
   - q: "Does this apply to over-the-counter products I buy myself?"
-    a: "Certification requirements are aimed at commercial application, so a homeowner treating their own property with a general-use retail product is in a different position. That said, the label is the law for everyone: applying a product contrary to its labeling is unlawful regardless of who does it, and retail labels carry real restrictions on where and how they may be used. Most DIY pest failures we are called in to fix are not exotic — they are products used somewhere the label does not permit, at rates the label does not permit."
+    a: "Certification requirements are aimed at commercial application, so a homeowner treating their own property with a general-use retail product is in a different position. That said, the label is the law for everyone: applying a product contrary to its labeling is unlawful regardless of who does it, and retail labels carry restrictions on where and how they may be used. Most DIY pest failures we are called in to fix are not exotic — they are products used somewhere the label does not permit, at rates the label does not permit."
 ---
 
 ## The rule, stated plainly
@@ -100,7 +100,7 @@ Those categories are published on this site because they match the work advertis
 
 **For the applicator:** operating without valid certification or licensing exposes them to DATCP enforcement. Improper application — off-label use, wrong site, wrong rate — is separately actionable, and DATCP's Bureau of Agrichemical Management handles pesticide use complaints.
 
-**For you, as the customer:** the real exposure. An uncertified operator is usually uninsured too, so damage to your property or harm to your household has no backstop. Off-label application in an occupied building is a genuine health hazard. And for a business, a treatment performed by someone who cannot produce compliant records is a finding waiting to happen at your next inspection or third-party audit.
+**For you, as the customer:** the exposure. An uncertified operator is usually uninsured too, so damage to your property or harm to your household has no backstop. Off-label application in an occupied building is a genuine health hazard. And for a business, a treatment performed by someone who cannot produce compliant records is a finding waiting to happen at your next inspection or third-party audit.
 
 **A practical note for businesses:** food processing, healthcare, schools, and any audited facility will be asked to produce pest control service records. An applicator who does not routinely supply them will fail you when it matters, regardless of how good the treatment was.
 

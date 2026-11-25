@@ -47,7 +47,7 @@ If what you actually need is somebody who can be there in an hour, hire a Fox Va
 
 **Offices and professional buildings.** Break rooms, refuse handling, entry doors, and the autumn fall-invader complaints that actually generate the tickets. [Offices](/commercial-pest-control/offices/).
 
-**Schools, daycares and senior living.** Sensitive populations, which means IPM in the real sense — monitoring, sanitation and exclusion first, low-impact targeted material only when warranted, applied outside occupied hours, with Wis. Stat. 94.715 notice where it applies. [Schools](/commercial-pest-control/schools-education/) and [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
+**Schools, daycares and senior living.** Sensitive populations, which means IPM in the sense — monitoring, sanitation and exclusion first, low-impact targeted material only when warranted, applied outside occupied hours, with Wis. Stat. 94.715 notice where it applies. [Schools](/commercial-pest-control/schools-education/) and [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
 
 **Light industrial and warehousing** out toward the edges of the city. [Manufacturing](/commercial-pest-control/manufacturing/) and [warehousing and distribution](/commercial-pest-control/warehousing-distribution/).
 

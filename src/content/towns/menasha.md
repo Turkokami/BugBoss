@@ -14,7 +14,7 @@ faqs:
   - q: "Is a cockroach in my building a sign the place is dirty?"
     a: "Usually not. German cockroaches get carried in — in a grocery bag or cardboard box, in a used appliance, in a delivery — or they arrive through a shared wall from a neighboring unit. A spotless apartment next door to an infested one can get them through nobody's fault. Where housekeeping matters is afterward: grease, crumbs, and standing water decide how fast a small introduction becomes a large population. What genuinely makes it worse is a bug bomb, which scatters them into the walls and the units next door."
   - q: "What about the older buildings near the water?"
-    a: "Menasha's mill-era and converted stock has the structural features that make pest work harder: shared and open wall cavities, old plumbing chases running between floors, settled masonry, and additions meeting original structure at joints that never fully closed. Those connections are exactly what lets rodents and insects move between units. It also means exclusion in these buildings is real construction work rather than a tube of caulk."
+    a: "Menasha's mill-era and converted stock has the structural features that make pest work harder: shared and open wall cavities, old plumbing chases running between floors, settled masonry, and additions meeting original structure at joints that never fully closed. Those connections are exactly what lets rodents and insects move between units. It also means exclusion in these buildings is construction work rather than a tube of caulk."
   - q: "Do you handle the lake and river bug problems?"
     a: "The midge and mayfly hatches off Lake Winnebago are a seasonal fact of life rather than a pest control problem, and we are not going to sell you a treatment for them — nothing sprayed on a building meaningfully affects a hatch coming off open water. What we can help with is mosquitoes, which breed in standing water on your own property and do respond to source reduction and treatment, and with keeping the hatch insects out of the building through screening and lighting changes."
   - q: "Do you require a contract?"
@@ -29,7 +29,7 @@ Menasha is different, and it is different in a way that decides the outcome of a
 
 That single fact is why bed bug and cockroach infestations in a town like this so often run for years while everyone involved is convinced that treatment does not work.
 
-## The scope problem, which is the real problem
+## The scope problem, which is the problem
 
 Here is the pattern, and it repeats almost exactly:
 

@@ -18,7 +18,7 @@ faqs:
   - q: "Can you treat before a graduation or a party?"
     a: "Yes, and it is one of the more common calls we get in June. A treatment a couple of days ahead of a specific date gives the best result. It is not a permanent fix and we will tell you that rather than let you assume otherwise — but for one afternoon on one property it works well, and wanting your own backyard usable for a party is a perfectly reasonable thing to pay for."
   - q: "Should I be worried about disease, or is this just nuisance?"
-    a: "In this part of Wisconsin it is mostly nuisance, and nuisance is a real reason to act — it decides whether you can sit on your own deck in July. Mosquito-borne illness exists in the state and is worth taking seriously, but if your concern is specifically disease risk on a rural Clintonville property, the more pressing conversation is usually ticks rather than mosquitoes."
+    a: "In this part of Wisconsin it is mostly nuisance, and nuisance is a reason to act — it decides whether you can sit on your own deck in July. Mosquito-borne illness exists in the state and is worth taking seriously, but if your concern is specifically disease risk on a rural Clintonville property, the more pressing conversation is usually ticks rather than mosquitoes."
   - q: "Do you handle ticks at the same visit?"
     a: "Usually, and on the wooded lots along the river and out toward the fields it often makes more sense than mosquito work alone. The two overlap physically: the yard edge where mown grass meets brush is prime tick habitat and also where adult mosquitoes rest through the day, so one pass covers both. Our tick and Lyme yard program guide sets out how that side is run."
 ---
@@ -63,7 +63,7 @@ This is the part being in town lets us actually deliver.
 
 Significant rain fills every container and low spot in the village simultaneously, and roughly a week later you get a **synchronised hatch**. A treatment timed to that is worth several applied on a fixed calendar regardless of weather. A company routing a truck up from Appleton fits you into a schedule; we can look at the forecast and move.
 
-The season runs from sustained spring warmth to the first hard frosts, with the heaviest pressure through midsummer and a reliable surge after every real rain.
+The season runs from sustained spring warmth to the first hard frosts, with the heaviest pressure through midsummer and a reliable surge after every soaking rain.
 
 ## What we will tell you honestly
 

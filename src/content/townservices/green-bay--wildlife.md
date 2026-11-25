@@ -20,7 +20,7 @@ faqs:
   - q: "Do you do the cleanup, or just take the animal?"
     a: "Both, and the cleanup is frequently the larger half. A raccoon latrine or an established bat roost contaminates and compacts insulation across a wide area — a health consideration and a thermal one, since soiled compacted insulation has lost most of its R-value. It comes out, the space is sanitized and it gets reinsulated. Where it genuinely is not warranted we say so; a squirrel that used one corner for three weeks does not need an attic restoration."
   - q: "Will an ultrasonic device or mothballs move them out?"
-    a: "No. Ultrasonic repellers have not been shown to drive wildlife out of structures and animals habituate to noise and light within days. Mothballs and ammonia in an attic mostly push fumes down through the ceiling into your bedrooms. It is money that would do real work if it went into the sealing instead."
+    a: "No. Ultrasonic repellers have not been shown to drive wildlife out of structures and animals habituate to noise and light within days. Mothballs and ammonia in an attic mostly push fumes down through the ceiling into your bedrooms. It is money that would do work if it went into the sealing instead."
 ---
 
 ## This is the actual reason we come to Green Bay
@@ -43,7 +43,7 @@ Any raccoon call between roughly March and June should be assumed to involve you
 
 ## Removal is the easy half
 
-Almost every call arrives as "get this animal out," and almost every one is really "close this hole."
+Almost every call arrives as "get this animal out," and almost every one is "close this hole."
 
 Take tonight's [raccoon](/pest-library/raccoons/) and the torn soffit it climbed through is still open next week — and it is the same opening that gives you [squirrels](/pest-library/squirrels/) in October, [wasps](/residential-pest-control/stinging-insects/) in July, and every [fall invader](/service-area/green-bay/residential/) on the property in September. One repair closes all of it, which is why we quote the whole job rather than the removal alone.
 
@@ -69,7 +69,7 @@ Wisconsin protects its bats, and exclusion is prohibited during the summer mater
 
 So a June or July call gets an inspection, a full plan and a booked date rather than immediate work. We would rather explain that and lose the momentum than do it wrong. Detail: the [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) and [why you cannot evict bats in June and July](/blog/wisconsin-bat-maternity-season-explained/).
 
-[Woodpeckers](/pest-library/woodpeckers/) and most native birds are separately protected under federal law, so that work is deterrence, exclusion, insect control and repair — never removal. Frequently the bird is there because there are insects in the siding, which is the real fix.
+[Woodpeckers](/pest-library/woodpeckers/) and most native birds are separately protected under federal law, so that work is deterrence, exclusion, insect control and repair — never removal. Frequently the bird is there because there are insects in the siding, which is the fix.
 
 ## Also in Green Bay
 

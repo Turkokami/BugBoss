@@ -65,7 +65,7 @@ Cluster flies are worth a word because rural Briarton gets them heavily and peop
 
 ### Winter (November–February): what's already inside
 
-By winter the outdoor movement is over, and whatever got in during fall is what you live with. Mice that found a warm, food-rich nest in a wall or an old shed breed year-round indoors — a handful in November becomes a real infestation by February if the gaps stay open. A mild, sunny day in the dead of winter warms the wall voids in these old crossroads buildings and brings the overwintering cluster flies back out to the glass. Deer mice in a seldom-used building are a **hantavirus** concern, so winter cleanup should be damp and careful, not swept dry. Winter work in Briarton is rodent exclusion, cleanup, and knocking down the fall invaders.
+By winter the outdoor movement is over, and whatever got in during fall is what you live with. Mice that found a warm, food-rich nest in a wall or an old shed breed year-round indoors — a handful in November becomes a full infestation by February if the gaps stay open. A mild, sunny day in the dead of winter warms the wall voids in these old crossroads buildings and brings the overwintering cluster flies back out to the glass. Deer mice in a seldom-used building are a **hantavirus** concern, so winter cleanup should be damp and careful, not swept dry. Winter work in Briarton is rodent exclusion, cleanup, and knocking down the fall invaders.
 
 ## Old buildings, open fields: Briarton's building science
 
@@ -101,7 +101,7 @@ In a rural crossroads like Briarton, **spiders** are a year-round fixture, and m
 
 ## Why a local company beats the national brands here
 
-A community like Briarton is where the national model breaks down. The big brands run dense suburban routes and treat a scattered farm crossroads as the last address on the map — the one that gets bumped when the schedule runs long. And most of them **don't do wildlife at all**, which is a real chunk of the work out here. BugBoss is a rural company by design: Briarton is normal territory, we know the difference between a cluster fly and a stable fly, and we handle the raccoons and bats the pest-only outfits won't. We do it with **no long-term contract and no cancellation fee**, and the owner, Brian, is the one who takes your call and the one whose truck turns off Old 47 into your yard. That's the whole idea behind our [no-contract approach](/no-contracts/).
+A community like Briarton is where the national model breaks down. The big brands run dense suburban routes and treat a scattered farm crossroads as the last address on the map — the one that gets bumped when the schedule runs long. And most of them **don't do wildlife at all**, which is a chunk of the work out here. BugBoss is a rural company by design: Briarton is normal territory, we know the difference between a cluster fly and a stable fly, and we handle the raccoons and bats the pest-only outfits won't. We do it with **no long-term contract and no cancellation fee**, and the owner, Brian, is the one who takes your call and the one whose truck turns off Old 47 into your yard. That's the whole idea behind our [no-contract approach](/no-contracts/).
 
 ## Getting ahead of the fall rush
 

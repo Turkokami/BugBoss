@@ -24,9 +24,9 @@ faqs:
   - q: "Why is my Shawano house full of flies on a warm winter day?"
     a: "Those are almost certainly cluster flies that entered the walls and attic in fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. The fix isn't spraying them indoors — it's an early-fall exterior treatment plus sealing entry points before they get in."
   - q: "Can BugBoss service commercial properties in downtown Shawano?"
-    a: "Yes. Shawano is a real regional hub with a downtown business district, restaurants, lodging, healthcare, and retail, and each needs documented, inspection-ready pest management. BugBoss builds a discreet program around your building and industry, with service records ready when an inspector asks."
+    a: "Yes. Shawano is a regional hub with a downtown business district, restaurants, lodging, healthcare, and retail, and each needs documented, inspection-ready pest management. BugBoss builds a discreet program around your building and industry, with service records ready when an inspector asks."
   - q: "How do mice get into Shawano houses?"
-    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the block and fieldstone foundations common in Shawano's older housing and lake cottages. Sealing the building is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the block and fieldstone foundations common in Shawano's older housing and lake cottages. Sealing the building is the fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss handle wasps and hornets in Shawano?"
     a: "Yes. Paper wasps nest under eaves and soffits, yellowjackets set up in the ground and in wall voids, and bald-faced hornets build the big gray aerial nests in trees. By August the colonies are at their largest and most defensive, which is when most stings happen. We treat and remove the nest at the source."
   - q: "What areas around Shawano does BugBoss serve?"
@@ -63,7 +63,7 @@ Cluster flies deserve a special note in Shawano because so many people misread t
 
 ### Winter (November–February): the payoff and the pests already inside
 
-By winter the outdoor invasion is over, and whatever got in during fall now has the building to itself. Mice breed year-round once they're warm and fed, so a handful in November becomes a real infestation by February if the entry points aren't closed. A warm January day heats the wall voids and sends the overwintering cluster flies drifting back to the lake-facing windows. And winter is **travel-pest season** — holiday trips and hotel stays bring [bed bugs](/pest-library/bed-bugs/) home as hitchhikers, a problem that has nothing to do with cleanliness and everything to do with luggage. Winter work in Shawano is mostly rodent exclusion, cleanup of the fall invaders, and anything that came home in a suitcase.
+By winter the outdoor invasion is over, and whatever got in during fall now has the building to itself. Mice breed year-round once they're warm and fed, so a handful in November becomes a full infestation by February if the entry points aren't closed. A warm January day heats the wall voids and sends the overwintering cluster flies drifting back to the lake-facing windows. And winter is **travel-pest season** — holiday trips and hotel stays bring [bed bugs](/pest-library/bed-bugs/) home as hitchhikers, a problem that has nothing to do with cleanliness and everything to do with luggage. Winter work in Shawano is mostly rodent exclusion, cleanup of the fall invaders, and anything that came home in a suitcase.
 
 ## Shawano's housing stock: lake cottages, downtown homes, and farmsteads
 
@@ -89,13 +89,13 @@ On a wooded lake lot the animals keep coming, so a trap alone never finishes it;
 
 As the county seat and the regional shopping destination, Shawano has a genuine commercial base — a downtown business district, restaurants, lodging, grocery and retail, healthcare, and food processing — and each of those has different pests, different regulations, and different tolerances. A restaurant needs documented, inspection-ready rodent and fly management. A hotel or resort needs discreet service guests never notice, plus a bed bug protocol. A retail or warehouse operation needs stored-product and rodent control that holds up to an audit.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the service documentation you need on hand, and schedules discreetly so pest work never disrupts your operation or your customers. And because you deal with the owner directly, there's a real person accountable for the result — not a national brand's call center and a different face every visit.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the service documentation you need on hand, and schedules discreetly so pest work never disrupts your operation or your customers. And because you deal with the owner directly, there's one person accountable for the result — not a national brand's call center and a different face every visit.
 
 ## Spiders, ants, and the rest of the Shawano picture
 
 Beyond the mice, cluster flies, and wildlife, a lake-and-woods town produces its own supporting cast. **Spiders** are near the top of the complaint list, especially on lakefront properties, because a porch or boathouse light draws the flying insects spiders feed on, and a cottage that sits quiet for weeks lets webs build up undisturbed. Heavy spider presence at opening usually isn't a spider problem at all — it's a sign of the insect supply gathering at lights and gaps, and it clears when those insects and entry points are handled. Our [spiders](/pest-library/spiders/) page covers the species common up here.
 
-Ordinary **ants** — the small trailing kind, not the wood-nesting carpenter ants — key in on moisture and crumbs, and a lake kitchen opened and closed all summer is a reliable draw; our [ants](/pest-library/ants/) page explains why finding the nest beats spraying the trail. On the rural edges of Shawano, **skunks** and their spring digging under decks and outbuildings round out the list, and around farmsteads the [mice](/pest-library/mice/) pressure never really lets up. Each of these is a different problem with a different fix, which is exactly why a blanket perimeter spray so often disappoints.
+Ordinary **ants** — the small trailing kind, not the wood-nesting carpenter ants — key in on moisture and crumbs, and a lake kitchen opened and closed all summer is a reliable draw; our [ants](/pest-library/ants/) page explains why finding the nest beats spraying the trail. On the rural edges of Shawano, **skunks** and their spring digging under decks and outbuildings round out the list, and around farmsteads the [mice](/pest-library/mice/) pressure never lets up. Each of these is a different problem with a different fix, which is exactly why a blanket perimeter spray so often disappoints.
 
 ## Exclusion is the part that lasts in Shawano
 

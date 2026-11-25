@@ -23,7 +23,7 @@ faqs:
   - q: "Will the same house keep getting cluster flies every year?"
     a: "Yes, unless it's treated and sealed, because the flies orient to the same warm, prominent buildings each fall and the surrounding soil keeps producing new generations from earthworms. A house that got them last fall is very likely to get them again. That's exactly why the early-fall exterior program is an annual thing, and why the sealing pays off across multiple seasons."
   - q: "Are cluster flies harmful — do they bite or carry disease?"
-    a: "No. Cluster flies don't bite, don't breed indoors, don't feed on your food, and don't spread disease the way filth flies can. They're purely a nuisance: the numbers at the windows, the occasional one buzzing a lampshade in January, and a faint sweetish odor if a lot of them die inside a wall. The problem is the sheer count and the way they keep reappearing, not any real health risk."
+    a: "No. Cluster flies don't bite, don't breed indoors, don't feed on your food, and don't spread disease the way filth flies can. They're purely a nuisance: the numbers at the windows, the occasional one buzzing a lampshade in January, and a faint sweetish odor if a lot of them die inside a wall. The problem is the sheer count and the way they keep reappearing, not any health risk."
   - q: "Why call BugBoss for cluster flies?"
     a: "Because beating cluster flies is about timing and building knowledge, not a can of spray — an exterior barrier laid down before they mass, plus sealing the specific gaps your house leaks through. BugBoss times it right, seals the entries, and folds it into a no-contract seasonal plan if you want. You're based with a local company right in Clintonville and dealing with the owner, not a route tech dispatched from the Fox Valley."
 ---
@@ -32,7 +32,7 @@ faqs:
 
 You notice them on a mild afternoon in October. A dozen, then more, **sluggish dark flies bumping the inside of the windows**, drifting toward the light, too slow to be house flies and showing up long after the summer fly season should be over. You kill them, and the next warm day there are more. Then winter comes and they vanish — until a bright day in February, when they're suddenly back at the same windows, crawling on the glass as if spring had arrived. It hasn't.
 
-These are **cluster flies**, and the window is only where you meet them. The real story is happening in your walls and out in your yard, and once you understand that, the reason spraying the window never works becomes obvious.
+These are **cluster flies**, and the window is only where you meet them. The story is happening in your walls and out in your yard, and once you understand that, the reason spraying the window never works becomes obvious.
 
 ## Where they actually come from
 
@@ -44,7 +44,7 @@ That's why a brand-new, immaculate farmhouse ringed by five acres of lawn gets c
 
 Cluster flies don't come indoors to breed or feed. They come in to **overwinter**. As fall nights cool and daylight shortens, the summer's flies stop reproducing and start hunting for a warm, dry place to wait out the cold. They orient to the biggest, warmest, most prominent object on the landscape — your house — and pile onto its **sun-warmed south and west walls** on fall afternoons, probing every crack for a way in.
 
-The ones that find a gap slip into the **wall voids and attic** and settle into dormancy. And that's where they'd stay, invisible, except for one flaw in the plan: they can't tell a false warm spell from real spring. When a sunny winter day heats the wall cavities, they wake, assume it's time to leave, and crawl toward light — which means the interior side of the wall, the windows, the light fixtures. That's the February comeback. It isn't a new infestation; it's the fall crowd, still in the walls, waking up in batches.
+The ones that find a gap slip into the **wall voids and attic** and settle into dormancy. And that's where they'd stay, invisible, except for one flaw in the plan: they can't tell a false warm spell from spring. When a sunny winter day heats the wall cavities, they wake, assume it's time to leave, and crawl toward light — which means the interior side of the wall, the windows, the light fixtures. That's the February comeback. It isn't a new infestation; it's the fall crowd, still in the walls, waking up in batches.
 
 In the older homes common here, **balloon framing** makes it worse: the wall cavities run uninterrupted from the sill plate to the attic, so a fly that entered near the foundation can appear at an upstairs window months later. Understanding this is covered in more depth in our [cluster fly control guide](/guides/cluster-fly-control/); the short version is that the flies at your glass are a small, visible slice of a much larger population you can't see.
 
@@ -70,7 +70,7 @@ We run this as a timed program, not a reactive spray call. In **late summer and 
 
 ## Staying ahead of next fall
 
-Prevention is really just doing the two moves on time, every year the house needs it. **Mark the calendar for late August**, because the single most common mistake is waiting until the flies are inside — by then the treatment window has closed. **Keep sealing** as the building ages; a gap that opens at the fascia over the summer is next fall's entry point. **Vacuum, don't spray**, the ones that get in. And recognize that a prominent, pale, multi-story house on open ground near lawn and fields is close to a worst case for cluster flies — not a defect, just the ecology of living here — which means it's exactly the kind of building that benefits most from an annual exterior barrier.
+Prevention is just doing the two moves on time, every year the house needs it. **Mark the calendar for late August**, because the single most common mistake is waiting until the flies are inside — by then the treatment window has closed. **Keep sealing** as the building ages; a gap that opens at the fascia over the summer is next fall's entry point. **Vacuum, don't spray**, the ones that get in. And recognize that a prominent, pale, multi-story house on open ground near lawn and fields is close to a worst case for cluster flies — not a defect, just the ecology of living here — which means it's exactly the kind of building that benefits most from an annual exterior barrier.
 
 ## What to do now
 
@@ -88,6 +88,6 @@ Prevention is really just doing the two moves on time, every year the house need
 
 ## When to call
 
-Call BugBoss in **summer or very early fall** to get the exterior treatment scheduled before the flies mass — that's the call that actually solves it. Call if you're seeing them at the windows now and want the building assessed and sealed and a plan set for next season. And call if the winter comebacks have worn you down; there's a real fix, but it's laid down in August, not chased with a spray can in February.
+Call BugBoss in **summer or very early fall** to get the exterior treatment scheduled before the flies mass — that's the call that actually solves it. Call if you're seeing them at the windows now and want the building assessed and sealed and a plan set for next season. And call if the winter comebacks have worn you down; there's a lasting fix, but it's laid down in August, not chased with a spray can in February.
 
 BugBoss is based at 600 S. Main St. in Clintonville and handles [cluster flies](/pest-library/cluster-flies/) and the other [fall invaders](/guides/cluster-fly-control/) across Clintonville, [Iola](/service-area/iola/), [Waupaca](/service-area/waupaca/), and [Shawano](/service-area/shawano/). Reach the owner directly at **866-BUGBOSS**, or [request a quote](/contact/). Timed right, sealed tight, no contract.

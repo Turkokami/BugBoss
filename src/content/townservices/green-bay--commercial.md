@@ -12,13 +12,13 @@ faqs:
   - q: "Why does treating one apartment never fix the building?"
     a: "Because a shared structure is one building, not a set of separate ones. Bed bugs and cockroaches move along plumbing chases, electrical runs, shared wall voids and hallways, so a population treated in unit 4 relocates to 3 and 5 and returns later. Everyone concludes treatment does not work, when the treatment was fine and the scope was wrong. A building with activity in more than one unit needs inspecting and scheduling as one job — we have taken an eight-unit building with a multi-year infestation to zero doing exactly that."
   - q: "Can you service around our hours?"
-    a: "Yes. Food service and retail accounts are generally early morning, after close, or a slow weekday. The distance means metro work is grouped into runs rather than dropped into any open slot, so scheduling needs a bit more notice than it would from a company based in the city — which is a real trade-off and worth knowing before you sign nothing."
+    a: "Yes. Food service and retail accounts are generally early morning, after close, or a slow weekday. The distance means metro work is grouped into runs rather than dropped into any open slot, so scheduling needs a bit more notice than it would from a company based in the city — which is a trade-off and worth knowing before you sign nothing."
   - q: "Do you carry insurance and can I get a certificate?"
     a: "Yes. General liability through West Bend Insurance Company at $1,000,000 each occurrence and $2,000,000 aggregate, and workers' compensation through SFM Mutual. A certificate is issued on request, and property managers and facility teams ask routinely — it is a normal part of opening an account."
   - q: "What about birds on our building?"
     a: "Common on signage, parapets, ledges and loading canopies, and it is one of the few commercial jobs where the legal question comes first. Starlings, pigeons and house sparrows are non-native and not protected under the Migratory Bird Treaty Act, so they can be excluded and removed directly. Native birds are protected, and acting on a misidentification is a federal violation. Every bird job starts by confirming the species."
   - q: "Do you require a contract?"
-    a: "No long-term contract and no cancellation fee. Commercial accounts are invoiced Net 30. Most commercial buildings do end up on a regular schedule because that is what the work genuinely requires, but they stay because it is working. It also makes it much easier for us to tell an owner that their real problem is a dock seal rather than a monthly visit."
+    a: "No long-term contract and no cancellation fee. Commercial accounts are invoiced Net 30. Most commercial buildings do end up on a regular schedule because that is what the work genuinely requires, but they stay because it is working. It also makes it much easier for us to tell an owner that their problem is a dock seal rather than a monthly visit."
   - q: "Who actually shows up?"
     a: "Brian, in almost every case. On a commercial account the person who already knows where your floor drains are, which dock seal failed last spring and which line runs late is worth considerably more than the person who knows the product catalogue. Continuity is a large part of what a small operation offers that a route cannot."
 ---
@@ -33,7 +33,7 @@ What we take on here is narrower:
 - **Buildings with a wildlife or exclusion component** — birds on the parapet, bats in an older structure, an animal in a roof void — which most metro pest routes will not handle.
 - **Owners who want the person doing the work to be the person accountable for it**, rather than a technician who changes every season.
 
-## The scope problem, which is the real problem in this city
+## The scope problem, which is the problem in this city
 
 A large share of Green Bay's commercial pest work is in **shared structures** — apartment buildings, converted older stock, mixed-use downtown blocks, senior housing. And in a shared building the boundary between "unit 4's problem" and "the building's problem" is not the wall. It is nothing at all.
 
@@ -49,7 +49,7 @@ We took an [eight-unit building with years of bed bugs to zero](/case-studies/ei
 
 **Food service.** Restaurants, bars, cafés and institutional kitchens. Drains, grease film, equipment voids and dock gaps rather than broadcast spraying, and a schedule that does not collide with service. [Restaurants and food service](/commercial-pest-control/restaurants-food-service/), and what the rules actually require in [Wisconsin food service](/compliance/food-service-pest-requirements/).
 
-**Warehousing and distribution.** Green Bay's port, rail and highway position makes this a real category. Dock doors, overhead door seals, racking, and stored-product pests in anything food-related. [Warehousing and distribution](/commercial-pest-control/warehousing-distribution/).
+**Warehousing and distribution.** Green Bay's port, rail and highway position makes this a category. Dock doors, overhead door seals, racking, and stored-product pests in anything food-related. [Warehousing and distribution](/commercial-pest-control/warehousing-distribution/).
 
 **Retail and grocery.** Docks, cull bins, bulk aisles and back storage. [Grocery and convenience](/commercial-pest-control/grocery-convenience/) and [retail stores](/commercial-pest-control/retail-stores/).
 

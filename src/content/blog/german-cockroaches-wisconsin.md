@@ -7,11 +7,11 @@ cluster: "cockroach-control"
 window: "Year-round"
 faqs:
   - q: "Are cockroaches common in Wisconsin?"
-    a: "German cockroaches are less common in rural Northeast Wisconsin than in a big city, but they are absolutely here — in apartments, rentals, restaurants, bars, grocery stores, care facilities, and any building where people and food move around. What is far more common out here is a homeowner finding a large dark insect in the basement and assuming it is a roach when it is a ground beetle, a wood cockroach that wandered in from the woodpile, or a cricket. The distinction genuinely matters, because one of those needs a real program and the others need a dehumidifier."
+    a: "German cockroaches are less common in rural Northeast Wisconsin than in a big city, but they are absolutely here — in apartments, rentals, restaurants, bars, grocery stores, care facilities, and any building where people and food move around. What is far more common out here is a homeowner finding a large dark insect in the basement and assuming it is a roach when it is a ground beetle, a wood cockroach that wandered in from the woodpile, or a cricket. The distinction genuinely matters, because one of those needs a program and the others need a dehumidifier."
   - q: "How do I know if it's a German cockroach?"
     a: "Size and markings. A German cockroach is small — roughly half an inch — light tan to brown, with two dark parallel stripes running lengthwise on the shield behind the head. It is found in the kitchen and bathroom, near warmth and moisture, and it runs for a crack when the light comes on. If what you found is over an inch long, or dark and glossy, or you found it in the basement or garage rather than the kitchen, it is very likely something else. A photo settles it quickly."
   - q: "Why do bug bombs make cockroaches worse?"
-    a: "Because they do not reach where the roaches live and they scatter the ones they do reach. A total-release fogger drops material on open surfaces, but German cockroaches spend most of their lives in cracks, voids, motor housings, and the underside of surfaces where the fog never penetrates. The repellent effect then pushes survivors deeper into walls and into adjacent rooms or units. There is also a real fire and explosion risk with foggers. In practice a fogger takes a kitchen problem and turns it into a building problem."
+    a: "Because they do not reach where the roaches live and they scatter the ones they do reach. A total-release fogger drops material on open surfaces, but German cockroaches spend most of their lives in cracks, voids, motor housings, and the underside of surfaces where the fog never penetrates. The repellent effect then pushes survivors deeper into walls and into adjacent rooms or units. There is also a fire and explosion risk with foggers. In practice a fogger takes a kitchen problem and turns it into a building problem."
   - q: "How fast do German cockroaches multiply?"
     a: "Fast enough that delay is the main thing that determines cost. A female carries an egg case containing dozens of eggs and produces several over her life, and the generation time indoors in a warm building is measured in weeks rather than seasons. That compounding is why a handful of roaches noticed in January can be a serious infestation by spring, and why the size of the job is mostly a function of how long it ran before anyone called."
   - q: "Do cockroaches mean the place is dirty?"
@@ -28,11 +28,11 @@ faqs:
 
 Somebody finds a dark, fast, inch-and-a-half insect in the basement in Waupaca County and the word that comes to mind is *cockroach*. The next thing that happens is usually a trip to the hardware store for a fogger, which is the worst possible response to an actual German cockroach and a completely unnecessary one for what they actually found.
 
-So it is worth taking the identification seriously, because there are really two different conversations here.
+So it is worth taking the identification seriously, because there are two different conversations here.
 
 **Conversation one:** you have an outdoor insect that wandered in. This is most cases in rural Northeast Wisconsin. It is a nuisance and a moisture indicator, and the fix is a dehumidifier, a downspout, and a door sweep.
 
-**Conversation two:** you have German cockroaches. They breed indoors, they compound quickly, they carry a real allergen burden, and the response has to be right the first time or the problem gets bigger and moves.
+**Conversation two:** you have German cockroaches. They breed indoors, they compound quickly, they carry an allergen burden, and the response has to be right the first time or the problem gets bigger and moves.
 
 Telling them apart takes about thirty seconds.
 
@@ -92,7 +92,7 @@ Hardware-store aerosols sprayed along a baseboard have a milder version of the s
 
 **What works instead is bait**, placed in the harborage — a non-repellent material the roaches feed on and carry back, which reaches the ones you never see. Sprays and baits actively work against each other, which is one of the practical reasons a DIY spray campaign before a professional visit makes the professional visit harder.
 
-## The health side is real
+## The health side matters
 
 Two things, and the first one gets underrated.
 
@@ -102,7 +102,7 @@ Two things, and the first one gets underrated.
 
 ## Where they come from, since it is usually not the housekeeping
 
-German cockroaches do not appear spontaneously and they do not usually walk in from outdoors — they are not really an outdoor insect in this climate. They get **carried in**:
+German cockroaches do not appear spontaneously and they do not usually walk in from outdoors — they are not an outdoor insect in this climate. They get **carried in**:
 
 - **Grocery bags and cardboard boxes**, especially cardboard, which is both a hiding place and a food source.
 - **Secondhand appliances and furniture.** Used microwaves, toaster ovens, and refrigerators are a classic vector; the motor housing is warm and enclosed.
@@ -123,7 +123,7 @@ Where housekeeping does matter is after arrival. Grease film on and behind the r
 - **Do not spray**, for the reasons above. If you have already sprayed, say so when you call — it changes the approach.
 - **Do not move furniture or appliances into another room or unit.**
 
-## What a real cockroach job looks like
+## What a cockroach job looks like
 
 Inspection first, because the treatment follows the harborage: hinges and corners of cabinets, the motor compartments of appliances, under and behind the range and fridge, the dishwasher void, the sink base, cracked tile and grout, the toe kick, hollow legs and voids in commercial equipment, and drains. Monitors go in to establish where the population actually is rather than where the sightings happen to be.
 

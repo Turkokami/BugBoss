@@ -14,11 +14,11 @@ faqs:
   - q: "What can I actually control on a New London property?"
     a: "More than it feels like, and it is worth doing before paying for anything. Gutters are the most common source we find. Then corrugated downspout extensions, the tarp over a boat or woodpile, plant saucers, buckets and wheelbarrows, birdbaths, tires, and the low spot in the lawn that holds for a week. On a riverfront lot add the boat cover, the canoe stored open side up, and any still pocket at the bank edge that is out of the current."
   - q: "My lot floods. Does that make treatment pointless?"
-    a: "No, but it changes what treatment is for. On a lot that takes water we are not going to eliminate production on the floodplain, and we will not pretend otherwise. What we can do is treat the shaded vegetation where adults rest through the day, so the yard is usable in the evening even while the landscape around it is producing. That is a real improvement and a modest one, and it is better to agree which we are buying before we start."
+    a: "No, but it changes what treatment is for. On a lot that takes water we are not going to eliminate production on the floodplain, and we will not pretend otherwise. What we can do is treat the shaded vegetation where adults rest through the day, so the yard is usable in the evening even while the landscape around it is producing. That is an improvement and a modest one, and it is better to agree which we are buying before we start."
   - q: "What about the backwaters and sloughs?"
     a: "Genuinely productive, largely not yours, and in many cases protected habitat. We are not going to propose treating them and you should be wary of anyone who does. Properties near a slough carry a permanently higher baseline, particularly at dawn and dusk, and the honest plan there is harborage treatment, source reduction on the lot, and good screening."
   - q: "When does the season run here?"
-    a: "From sustained spring warmth through to hard frost, with the first real surge following the spring flood recession rather than the calendar. Midsummer is heaviest, and every significant rain adds a cohort roughly a week later. We time work to the water rather than to a service interval, because on a floodplain the water is the only thing that matters."
+    a: "From sustained spring warmth through to hard frost, with the first surge following the spring flood recession rather than the calendar. Midsummer is heaviest, and every significant rain adds a cohort roughly a week later. We time work to the water rather than to a service interval, because on a floodplain the water is the only thing that matters."
   - q: "Should I be worrying about ticks too?"
     a: "On the wooded and brushy riverfront lots, yes, and often more than about mosquitoes. The two share a treated band — the edge where mown grass meets brush — so combining them is efficient rather than an upsell. Our tick and Lyme yard program guide covers how that side is run."
 ---
@@ -64,6 +64,6 @@ Honesty matters more here than anywhere else we work.
 
 On a property that takes water, we are not eliminating production — the landscape will keep producing regardless. What a barrier treatment on the **shaded harborage** does is make your yard an uncomfortable place for adults to spend the day, so the evening is usable even while the floodplain around you is working.
 
-That is a real improvement and a bounded one. Agreeing which of those we are buying, before we start, is the difference between a satisfied customer in August and an annoyed one.
+That is an improvement and a bounded one. Agreeing which of those we are buying, before we start, is the difference between a satisfied customer in August and an annoyed one.
 
 See the [mosquitoes profile](/pest-library/mosquitoes/), the [tick and Lyme yard program](/guides/tick-lyme-yard-program/), and the [New London service page](/service-area/new-london/).

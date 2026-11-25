@@ -54,7 +54,7 @@ It's common to have more than one at once — a grub-heavy lawn feeds both moles
 
 Moles thrive in **moist, well-drained, earthworm-rich soil**, and that describes a great deal of the managed turf around Clintonville and the lake communities. Watered lawns, old pasture converted to yard, garden beds, and the fertile glacial soils of this region all carry heavy earthworm populations — the mole's staple food. Properties that back onto woods, fields, or fencerows sit against a reservoir of moles ready to move into good foraging ground. Low, wet lots near the rivers and the Chain O' Lakes shoreline are more likely to host the **star-nosed mole**, which favors saturated soil, while the **eastern mole** works the drier, open lawns where most complaints come from. The same conditions that make a lawn lush make it worth tunneling.
 
-## The real fix: trapping the active runs
+## The fix: trapping the active runs
 
 There's no way around it: **trapping is the reliable fix for moles**, and it comes down to setting on the tunnels the mole is genuinely using. A mole's network is mostly exploratory — one-time probing runs it never revisits — with a few **main travel and feeding tunnels** it patrols repeatedly. Set a trap on a dead run and nothing happens, which is exactly why so much DIY trapping fails.
 

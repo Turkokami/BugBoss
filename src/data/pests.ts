@@ -465,9 +465,9 @@ export const pests: Pest[] = [
     category: 'insect',
     season: 'July–September, worst in hot dry summers',
     answer:
-      'Grasshoppers are a field and garden pest in Northeast Wisconsin rather than a household one — they do not breed indoors and the ones that get inside wandered in by accident. Numbers explode in hot, dry summers because drought suppresses the fungal disease that normally keeps them in check. Yard treatment has real limits, and we will tell you where they are.',
+      'Grasshoppers are a field and garden pest in Northeast Wisconsin rather than a household one — they do not breed indoors and the ones that get inside wandered in by accident. Numbers explode in hot, dry summers because drought suppresses the fungal disease that normally keeps them in check. Yard treatment has limits, and we will tell you where they are.',
     overview:
-      'Wisconsin has several hundred grasshopper species and only a handful matter: the differential, redlegged, twostriped and migratory grasshoppers do nearly all the damage. Females lay egg pods in undisturbed soil — ditch banks, fence rows, field margins, pasture, roadsides — in late summer, and those eggs overwinter and hatch the following spring. That is why damage shows up at the edges of a property first and works inward, and why the problem is really a question about the land next door. Outbreak years follow hot, dry summers, because the fungal pathogens that usually crash grasshopper populations need humidity to work. In a wet year you will barely notice them; two dry summers in a row and a garden on a field margin can be stripped.',
+      'Wisconsin has several hundred grasshopper species and only a handful matter: the differential, redlegged, twostriped and migratory grasshoppers do nearly all the damage. Females lay egg pods in undisturbed soil — ditch banks, fence rows, field margins, pasture, roadsides — in late summer, and those eggs overwinter and hatch the following spring. That is why damage shows up at the edges of a property first and works inward, and why the problem is a question about the land next door. Outbreak years follow hot, dry summers, because the fungal pathogens that usually crash grasshopper populations need humidity to work. In a wet year you will barely notice them; two dry summers in a row and a garden on a field margin can be stripped.',
     signs: [
       'Ragged, chewed leaf margins on garden plants, working inward from the field edge',
       'Large numbers flushing ahead of you as you walk the lawn edge or ditch bank',
@@ -513,7 +513,7 @@ export const pests: Pest[] = [
     slug: 'flies', name: 'Flies', category: 'insect',
     season: 'Spring–fall (peak summer)',
     answer: 'House flies and other filth flies breed in manure, garbage, and decaying matter around Northeast Wisconsin homes and farms, spreading contamination. BugBoss controls flies by finding and eliminating the breeding source, plus targeted treatment — sanitation is the foundation, not just spraying adults.',
-    overview: 'Filth flies breed in moist decaying organic matter — manure, garbage, compost, silage, and spilled feed — which makes them a special concern on rural and agricultural properties. Because a fly problem is really a breeding-source problem, control starts with locating and eliminating the source.',
+    overview: 'Filth flies breed in moist decaying organic matter — manure, garbage, compost, silage, and spilled feed — which makes them a special concern on rural and agricultural properties. Because a fly problem is a breeding-source problem, control starts with locating and eliminating the source.',
     signs: ['Numerous flies indoors or around doors, trash, and animal areas', 'Breeding sites: manure, garbage, compost, silage', 'Small dark specks (fly spots) on surfaces'],
     faqs: [
       { q: 'How do I get rid of house flies?', a: 'Find and eliminate the breeding source (garbage, manure, decaying matter, spilled feed), tighten sanitation, and use targeted treatment and traps for adults. Source control is the key.' },
@@ -658,7 +658,7 @@ export const pests: Pest[] = [
   {
     slug: 'woodpeckers', name: 'Woodpeckers', category: 'wildlife',
     season: 'Spring & fall',
-    answer: 'Woodpeckers drum and drill on Northeast Wisconsin homes — especially cedar and wood siding, fascia, and trim — for territory, nesting, or insects in the wood. The damage is real and repeats. BugBoss identifies the cause (often wood-boring insects), deters the birds, and helps protect the structure.',
+    answer: 'Woodpeckers drum and drill on Northeast Wisconsin homes — especially cedar and wood siding, fascia, and trim — for territory, nesting, or insects in the wood. The damage repeats. BugBoss identifies the cause (often wood-boring insects), deters the birds, and helps protect the structure.',
     overview: 'Woodpecker damage on a house has a few causes: drumming to mark territory in spring, excavating nest holes, or drilling after insect larvae living in the siding. That last cause matters — persistent woodpecker attention on one area often means there are wood-boring insects to address, not just a bird to deter.',
     signs: ['Rows of holes or excavated cavities in siding, fascia, or trim', 'Loud drumming on the house in spring', 'Damage concentrated on cedar or wood siding'],
     faqs: [
@@ -683,7 +683,7 @@ export const pests: Pest[] = [
     slug: 'muskrats', name: 'Muskrats', category: 'wildlife',
     season: 'Spring–fall',
     answer: 'Muskrats burrow into pond banks, shorelines, and dams around Northeast Wisconsin’s lakes and rivers, and their tunneling damages boathouses, docks, and earthen banks. BugBoss removes muskrats and helps protect shoreline structures on lake and river properties across the Chain O’ Lakes and Wolf River corridor.',
-    overview: 'Muskrats are semi-aquatic rodents that build bank burrows and lodges along ponds, lakes, rivers, and drainage systems. On waterfront property their burrowing undermines banks, docks, boathouses, and earthen dams and berms, which is a real concern in this lake- and river-rich part of Wisconsin.',
+    overview: 'Muskrats are semi-aquatic rodents that build bank burrows and lodges along ponds, lakes, rivers, and drainage systems. On waterfront property their burrowing undermines banks, docks, boathouses, and earthen dams and berms, which is a concern in this lake- and river-rich part of Wisconsin.',
     signs: ['Burrow openings at or below the waterline in banks and berms', 'Damage to earthen dams, docks, and boathouse footings', 'Muskrats swimming or feeding along the shoreline'],
     faqs: [
       { q: 'Why are muskrats a problem on my shoreline?', a: 'Their bank burrows undermine shorelines, docks, boathouses, and earthen dams, leading to erosion and structural damage — a common issue on Chain O’ Lakes and river properties.' },
@@ -719,7 +719,7 @@ export const pests: Pest[] = [
     slug: 'nuisance-birds', name: 'Nuisance Birds (Starlings & Pigeons)', category: 'wildlife',
     season: 'Year-round',
     answer: 'Starlings, pigeons, and house sparrows nest in Northeast Wisconsin vents, barns, signs, and eaves, and their droppings damage structures and pose a health risk. BugBoss excludes nuisance birds with netting, screening, and deterrents, and cleans up the contaminated nesting sites they leave behind.',
-    overview: 'The non-native starling, pigeon, and house sparrow are the birds that cause real building conflicts — nesting in dryer and stove vents, barn eaves, signage, and ledges, where their nests block airflow and their acidic droppings corrode surfaces and carry disease. Control is exclusion: physically denying access to the nesting sites.',
+    overview: 'The non-native starling, pigeon, and house sparrow are the birds that cause building conflicts — nesting in dryer and stove vents, barn eaves, signage, and ledges, where their nests block airflow and their acidic droppings corrode surfaces and carry disease. Control is exclusion: physically denying access to the nesting sites.',
     signs: ['Birds entering vents, soffits, barn eaves, or signage', 'Droppings accumulating below roosting and nesting spots', 'Nesting material blocking vents and gutters'],
     faqs: [
       { q: 'Why are birds in my dryer or stove vent?', a: 'Starlings and sparrows favor vents as sheltered nesting sites, which blocks airflow (a fire and efficiency hazard) and brings droppings and parasites. Exclusion with proper vent guards, after clearing the nest, is the fix.' },

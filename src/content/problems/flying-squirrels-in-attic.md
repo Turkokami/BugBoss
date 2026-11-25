@@ -44,7 +44,7 @@ The buildings that get them are the ones near mature trees: farmsteads with old 
 
 1. **Note the timing tonight.** Stand outside at sunset and watch the roofline. If animals come out within a few minutes of dusk, you have flying squirrels and you have also just found the exit. That one observation is worth more than an hour in the attic.
 
-2. **Do not seal anything yet.** Sealing a roofline with animals inside is the most damaging thing you can do — trapped squirrels chew hard to get out, doing real damage, and any that fail die in the structure.
+2. **Do not seal anything yet.** Sealing a roofline with animals inside is the most damaging thing you can do — trapped squirrels chew hard to get out, doing damage, and any that fail die in the structure.
 
 3. **Do not rely on repellents or ultrasonics.** Nothing on a shelf competes with the value of a warm dry attic in January, and animals habituate within days.
 

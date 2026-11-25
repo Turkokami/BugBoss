@@ -66,7 +66,7 @@ The mistake almost everyone makes here is to **seal the hole**. It seems obvious
 
 The entrance has to stay open until the colony is dead. Seal it after, not before.
 
-## The late-summer aggression is real and it has a cause
+## The late-summer aggression has a cause
 
 People are not imagining that wasps get worse in August. Two things change at the same time.
 

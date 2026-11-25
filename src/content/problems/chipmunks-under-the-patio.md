@@ -5,7 +5,7 @@ metaDescription: "Chipmunks under a patio or steps — clean five-centimetre hol
 category: "Wildlife"
 order: 46
 faqs:
-  - q: "Can chipmunks really damage a patio or wall?"
+  - q: "Can chipmunks damage a patio or wall?"
     a: "Yes, and it is the reason to take a small population seriously. Chipmunk burrow systems are extensive — many feet of tunnel with multiple entrances and chambers — and when that network runs under a slab, a stoop, a patio or behind a retaining wall, it removes the compacted material those structures bear on. Over a few seasons you get settling, cracking, tilting pavers and, behind retaining walls, bulging where the backfill has been undermined and water now channels through. A single animal rarely matters. An established colony does."
   - q: "How do I know it's chipmunks and not something else?"
     a: "The entrance is the tell. Chipmunk holes are clean, round, about two inches across, and — crucially — have no mound of excavated soil around them, because they carry the spoil away in their cheek pouches to keep the entrance inconspicuous. Ground squirrel and rat burrows usually leave a spoil pile. Mole and vole work is different again: moles push up ridges and conical mounds, voles run at grass level with no digging. A clean two-inch hole with no dirt around it, next to a hard structure, is a chipmunk."

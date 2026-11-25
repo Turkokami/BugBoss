@@ -8,7 +8,7 @@ faqs:
   - q: "What's the most common pest problem in Larrabee?"
     a: "Rodents, driven by the farms. House mice, deer mice, and Norway rats live around barns, granaries, and machine sheds and push into farmhouses every fall. Right behind them are cluster flies off the surrounding fields, wasps in outbuildings, and bats in old barns and farmhouse attics."
   - q: "How do I keep mice out of a Larrabee farmhouse?"
-    a: "Sealing is the real fix, not trapping alone. Farmhouses here typically have fieldstone or block foundations, balloon-framed walls, and settlement gaps, plus additions and porches that opened new paths. We seal openings down to a quarter inch, close the sill-plate gaps, screen vents, and address the barn and granary feeding the population. See our farmhouse rodent exclusion guide."
+    a: "Sealing is the fix, not trapping alone. Farmhouses here typically have fieldstone or block foundations, balloon-framed walls, and settlement gaps, plus additions and porches that opened new paths. We seal openings down to a quarter inch, close the sill-plate gaps, screen vents, and address the barn and granary feeding the population. See our farmhouse rodent exclusion guide."
   - q: "Can BugBoss handle rodents around a dairy barn?"
     a: "Yes. Dairy operations are magnets for mice and rats because of feed, warmth, and shelter, and rodents around the milk house and feed room are a genuine sanitation problem. We use a monitored baiting and exclusion program built for farm settings — securing feed, sealing burrow access, and cutting harborage — rather than scattering bait that just relocates the problem. Our dairy farm pest control guide covers it in detail."
   - q: "Why does my Larrabee house fill with flies in fall and again on warm winter days?"
@@ -45,7 +45,7 @@ That proximity is worth saying plainly, because it changes the service. BugBoss 
 
 When the frost leaves the ground, the first insects to reappear are ones that never left — **cluster flies** and **[boxelder bugs](/pest-library/boxelder-bugs/)** that wintered in wall voids and attics, now waking on warm days and crawling to farmhouse windows. It looks like a fresh invasion but it's the fall population finishing its winter indoors. Spring also brings **[carpenter ant](/pest-library/carpenter-ants/)** swarmers to the windows; winged ants in April or May usually mean a nest living in damp, softened wood inside the structure.
 
-For a farm, though, spring's real value is the **rodent exclusion window**. The mice and rats that wintered in the barn and granary are breeding now, and sealing the farmhouse and securing feed storage before the growing season is the single move that pays off for the rest of the year. By late spring the first **wasp** queens are scouting shed rafters and eaves, and **ticks** turn active in the fencerows and woodlot edges.
+For a farm, though, spring's value is the **rodent exclusion window**. The mice and rats that wintered in the barn and granary are breeding now, and sealing the farmhouse and securing feed storage before the growing season is the single move that pays off for the rest of the year. By late spring the first **wasp** queens are scouting shed rafters and eaves, and **ticks** turn active in the fencerows and woodlot edges.
 
 ### Summer (June–August): stinging insects and the bat window
 
@@ -61,7 +61,7 @@ Cluster flies are textbook here: their larvae parasitize earthworms in field and
 
 ### Winter (November–February): what's already inside
 
-By winter the outdoor invasion is over and you're living with whatever got in during fall. Mice that found a warm, feed-rich nest breed year-round indoors, so a handful in November becomes a real infestation by February if the entry points aren't sealed. A warm January day is all it takes to rouse the cluster flies and boxelder bugs holed up in the farmhouse walls; they turn up at the sunniest windows while the barn's mice keep breeding out of sight. Winter is rodent-cleanup and exclusion season, and — being just down the road — the quiet stretch when we can get the sealing done that keeps next fall's wave out.
+By winter the outdoor invasion is over and you're living with whatever got in during fall. Mice that found a warm, feed-rich nest breed year-round indoors, so a handful in November becomes a full infestation by February if the entry points aren't sealed. A warm January day is all it takes to rouse the cluster flies and boxelder bugs holed up in the farmhouse walls; they turn up at the sunniest windows while the barn's mice keep breeding out of sight. Winter is rodent-cleanup and exclusion season, and — being just down the road — the quiet stretch when we can get the sealing done that keeps next fall's wave out.
 
 ## The rodent problem is a whole-farmstead problem
 
@@ -79,7 +79,7 @@ Larrabee's building stock is older and rural, and each type has specific weak po
 
 ## Geography and ecology: fields, fencerows, woodlots
 
-The land in and around the town of Larrabee is a patchwork of crops, hay, pasture, and dairy, broken by fencerows and woodlots. Each feature drives specific pests. The **worked fields** are the reservoir for cluster flies and for the mice and deer mice that flood in every fall. The **fencerows and woodlot edges** are [tick](/pest-library/ticks/) habitat and travel cover for rodents and wildlife — a real Lyme concern on farms with kids and pets, which our [tick and Lyme yard program guide](/guides/tick-lyme-yard-program/) addresses with an edge-focused approach. Mature trees near the house give carpenter ants outdoor parent nests and give squirrels and raccoons a route to the roofline. This is simply what pest pressure looks like on working ground, and it's the environment BugBoss is built for.
+The land in and around the town of Larrabee is a patchwork of crops, hay, pasture, and dairy, broken by fencerows and woodlots. Each feature drives specific pests. The **worked fields** are the reservoir for cluster flies and for the mice and deer mice that flood in every fall. The **fencerows and woodlot edges** are [tick](/pest-library/ticks/) habitat and travel cover for rodents and wildlife — a Lyme concern on farms with kids and pets, which our [tick and Lyme yard program guide](/guides/tick-lyme-yard-program/) addresses with an edge-focused approach. Mature trees near the house give carpenter ants outdoor parent nests and give squirrels and raccoons a route to the roofline. This is simply what pest pressure looks like on working ground, and it's the environment BugBoss is built for.
 
 ## Wildlife in Larrabee: barns, attics, and the bat law
 
@@ -89,7 +89,7 @@ A live trap set in the barn catches tonight's raccoon and nothing more; what end
 
 ## Farm and commercial pest management near Larrabee
 
-Larrabee has no business district, but a working **dairy or crop farm** is a genuine commercial food operation with its own pest stakes — feed storage, milk handling, livestock housing, and outbuildings that all draw pests and carry sanitation rules. We build [farm and commercial programs](/commercial-pest-control/) around the specific buildings and the way an operation runs, with the documentation you need on hand if an inspector or auditor asks. Because you deal with the owner directly, there's a real person accountable for the result — not a rotating cast of route techs.
+Larrabee has no business district, but a working **dairy or crop farm** is a genuine commercial food operation with its own pest stakes — feed storage, milk handling, livestock housing, and outbuildings that all draw pests and carry sanitation rules. We build [farm and commercial programs](/commercial-pest-control/) around the specific buildings and the way an operation runs, with the documentation you need on hand if an inspector or auditor asks. Because you deal with the owner directly, there's one person accountable for the result — not a rotating cast of route techs.
 
 ## Why a local company beats the national brands here
 
@@ -97,7 +97,7 @@ The national pest companies are built for dense suburbs, where a truck hits fift
 
 ## How farm rodents actually behave — and what that means for control
 
-Getting rid of rodents on a Larrabee farm starts with understanding how they live. **House mice** are homebodies with a small range — often just ten to thirty feet from the nest — which is why they colonize a barn or farmhouse in pockets and why scattered traps miss most of the population. They breed relentlessly: a single female can produce dozens of young in a year, so a problem that looks minor in October is a serious one by spring. **Deer mice** range farther and move in from the fields as cold sets in, carrying the hantavirus concern that makes cleanup a careful job. **Norway rats** are the heavy hitters — larger, burrowing along foundations and manure pits, gnawing through surprisingly tough material, and capable of real structural and wiring damage. They're also neophobic, wary of new objects, which is why a rushed bait placement often gets ignored for days.
+Getting rid of rodents on a Larrabee farm starts with understanding how they live. **House mice** are homebodies with a small range — often just ten to thirty feet from the nest — which is why they colonize a barn or farmhouse in pockets and why scattered traps miss most of the population. They breed relentlessly: a single female can produce dozens of young in a year, so a problem that looks minor in October is a serious one by spring. **Deer mice** range farther and move in from the fields as cold sets in, carrying the hantavirus concern that makes cleanup a careful job. **Norway rats** are the heavy hitters — larger, burrowing along foundations and manure pits, gnawing through surprisingly tough material, and capable of structural and wiring damage. They're also neophobic, wary of new objects, which is why a rushed bait placement often gets ignored for days.
 
 That behavior dictates the method. Effective control means placing monitored traps and bait where rodents actually travel — along walls, beam runs, and burrow entrances — not out in the open. It means securing feed so the colony loses its food base, because a well-fed rodent ignores bait. And it means sealing the building so that as the population drops, nothing refills it. Skip any one of those legs and the problem simply regrows.
 
@@ -111,7 +111,7 @@ Rodents on a working farm aren't only a nuisance and an expense; they're a healt
 
 ## Why DIY usually falls short on a farm
 
-A jug of bait and a flat of snap traps from the co-op have their place, but on a Larrabee farm they rarely end the problem, because they treat the mice in front of you and ignore the system feeding them. Clear the kitchen and the barn refills it within weeks. Knock the numbers down with bait and they rebound once the bait's gone, because nothing sealed the gaps or secured the feed. The wasps you can reach get sprayed; the nests in the shed rafters don't. Real, lasting control on a farm is a source-feed-and-structure problem — find where they live, cut off what feeds them, and close how they get in — which is exactly the coordinated work a DIY pass leaves undone.
+A jug of bait and a flat of snap traps from the co-op have their place, but on a Larrabee farm they rarely end the problem, because they treat the mice in front of you and ignore the system feeding them. Clear the kitchen and the barn refills it within weeks. Knock the numbers down with bait and they rebound once the bait's gone, because nothing sealed the gaps or secured the feed. The wasps you can reach get sprayed; the nests in the shed rafters don't. Lasting control on a farm is a source-feed-and-structure problem — find where they live, cut off what feeds them, and close how they get in — which is exactly the coordinated work a DIY pass leaves undone.
 
 ## How BugBoss handles a Larrabee job
 

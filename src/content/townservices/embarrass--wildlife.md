@@ -18,7 +18,7 @@ faqs:
   - q: "Is it legal to move the animal somewhere else?"
     a: "Wisconsin regulates taking and relocating wild animals and the rules vary by species and circumstance, so rather than paraphrase current regulation here we will tell you what applies to your situation and you can confirm with the DNR. In practice the question often does not come up, because a one-way door lets the animal leave to forage on its own and simply not return."
   - q: "Will mothballs or a radio in the attic work?"
-    a: "No. Animals habituate to noise and light within days, and ultrasonic devices have not been shown to drive wildlife out of structures at all. Mothballs and ammonia in an attic mostly send fumes down through the ceiling into your bedrooms. It is money that would do real work if it went into the sealing instead."
+    a: "No. Animals habituate to noise and light within days, and ultrasonic devices have not been shown to drive wildlife out of structures at all. Mothballs and ammonia in an attic mostly send fumes down through the ceiling into your bedrooms. It is money that would do work if it went into the sealing instead."
   - q: "What does a job cost, roughly?"
     a: "It has to be quoted after looking, because the variable is the building rather than the animal. Getting an animal out is frequently the quick part; closing a roofline properly with hardware cloth and flashing, repairing what the animal or the ice dams tore up, and cleaning up is where the labor is. We quote the whole job rather than the removal alone, precisely so the repair does not arrive as a surprise second bill."
 ---

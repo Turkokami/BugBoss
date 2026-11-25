@@ -54,7 +54,7 @@ Layered on top of the building is a compliance reality that has tightened steadi
 
 Mice and [rats](/pest-library/rats/) are the pest an industrial facility loses the most points on, because a large building offers everything a rodent wants and a hundred ways in. A [house mouse](/pest-library/mice/) fits through a gap about a quarter inch wide — the width of a pencil — and the usual routes into a plant are dock-door corners and worn dock seals, the gaps under and beside overhead doors, conduit and pipe penetrations, expansion joints, floor drains, and incoming pallets. Norway rats work the exterior — landscaping, dumpsters, and burrows along the foundation and truck court — and push in through larger gaps and door bottoms.
 
-Rodents in a plant are not just a nuisance. They contaminate product and packaging with droppings and urine, gnaw wiring and create a documented fire risk, and their presence is an automatic audit deduction. **Trapping alone never wins**, because trapping catches what is already inside and does nothing about the pressure from outside or the openings feeding it. The real program is exclusion — sealing and sweeping the openings — backed by a **monitored perimeter bait line** that intercepts rodents outside before they reach the floor, and interior mechanical monitoring in case something gets through.
+Rodents in a plant are not just a nuisance. They contaminate product and packaging with droppings and urine, gnaw wiring and create a documented fire risk, and their presence is an automatic audit deduction. **Trapping alone never wins**, because trapping catches what is already inside and does nothing about the pressure from outside or the openings feeding it. The program is exclusion — sealing and sweeping the openings — backed by a **monitored perimeter bait line** that intercepts rodents outside before they reach the floor, and interior mechanical monitoring in case something gets through.
 
 ### Birds in the high-bay and on the roof
 
@@ -133,7 +133,7 @@ Every one of these wants the same thing from your pest program: a written scope,
 
 ## The audit findings that sink plants — and how the program prevents them
 
-Auditors and customer QA teams tend to write up the same handful of pest issues, and every one of them is preventable with a real program:
+Auditors and customer QA teams tend to write up the same handful of pest issues, and every one of them is preventable with a program:
 
 - **Evidence of rodent activity** — droppings, gnawing, or a catch on an interior device. Prevented by the perimeter interception line and dock exclusion that stop rodents before they reach the floor.
 - **Gaps at doors and penetrations** — daylight under a dock door or an unsealed conduit is an automatic finding whether or not a pest is present. Prevented by the exclusion work that is the backbone of the program.
@@ -142,7 +142,7 @@ Auditors and customer QA teams tend to write up the same handful of pest issues,
 - **Corrective actions with no follow-through** — a finding noted but never closed. Prevented by tracking each item to closure in the service log.
 - **Trend data that only goes one direction — up** — rising activity with no response. Prevented by reading the trend every visit and tightening the program before it becomes a finding.
 
-The theme is consistent: auditors are not really grading how many bugs they see on the day, they are grading whether you run a controlled, documented, continuous system. That is what BugBoss builds.
+The theme is consistent: auditors are not grading how many bugs they see on the day, they are grading whether you run a controlled, documented, continuous system. That is what BugBoss builds.
 
 ## What a documented industrial program looks like
 
@@ -166,7 +166,7 @@ BugBoss builds every manufacturing program around the same backbone, then scales
 
 ## The rural plant that everyone else drives past
 
-Here is the gap BugBoss was built to fill. The manufacturers in Clintonville, New London, Shawano, and the smaller industrial towns out here answer to exactly the same OSHA rules, the same GMPs, and the same customer audits as a plant in Milwaukee or the Fox Valley — the standards do not care about your zip code. But the national pest brands dispatch from the metro, so a rural plant gets a truck that shows up late, on the route tech's schedule, with a generic service ticket and no real relationship with your quality team. When an audit finding lands and you need documentation or a corrective action *this week*, a distant route company is the wrong partner.
+Here is the gap BugBoss was built to fill. The manufacturers in Clintonville, New London, Shawano, and the smaller industrial towns out here answer to exactly the same OSHA rules, the same GMPs, and the same customer audits as a plant in Milwaukee or the Fox Valley — the standards do not care about your zip code. But the national pest brands dispatch from the metro, so a rural plant gets a truck that shows up late, on the route tech's schedule, with a generic service ticket and no relationship with your quality team. When an audit finding lands and you need documentation or a corrective action *this week*, a distant route company is the wrong partner.
 
 A **local, owner-operated** company changes that math. BugBoss is close enough to respond fast to an audit finding or a sudden rodent or bird problem, knows the industrial building stock out here, and delivers the same documentation an auditor expects anywhere. And because we do [wildlife](/wildlife-removal/) as well as pest control, one company covers the rodent line, the dock flies, the high-bay birds, *and* the raccoon in the transformer yard — instead of you juggling two vendors. We also do it with [no long-term contract](/no-contracts/): you stay because the program works, not because you are locked in.
 

@@ -41,7 +41,7 @@ What works instead is **deciding what actually has to be protected** and sealing
 
 **[Skunks](/pest-library/skunks/) and [groundhogs](/pest-library/groundhogs/)** — under decks, stoops, granary floors and shed slabs. Look at the entry before sealing anything: a burrow closed with young inside is the outcome nobody wants.
 
-**[Woodpeckers](/pest-library/woodpeckers/)** — on wood-sided buildings, and worth knowing that native woodpeckers are federally protected, so the toolkit is deterrence, exclusion, insect control and repair rather than removal. Often the bird is there because there are insects in the siding, which is the real thing to fix.
+**[Woodpeckers](/pest-library/woodpeckers/)** — on wood-sided buildings, and worth knowing that native woodpeckers are federally protected, so the toolkit is deterrence, exclusion, insect control and repair rather than removal. Often the bird is there because there are insects in the siding, which is the thing to fix.
 
 Longer version of the identification: [reading the noise before you call anyone](/blog/squirrels-raccoons-in-the-attic/).
 
@@ -53,7 +53,7 @@ So a June call around here gets an inspection, a full plan, and a booked date ra
 
 ## Removal is the easy half
 
-Almost every call arrives as "get this animal out," and almost every one is really "close this hole."
+Almost every call arrives as "get this animal out," and almost every one is "close this hole."
 
 Remove tonight's raccoon and the torn soffit it used is still open next week — and it is the same opening that gives you [squirrels](/pest-library/squirrels/) in October, [wasps](/pest-library/wasps-hornets/) in July, and [cluster flies](/pest-library/cluster-flies/) in September. One repair closes all of it, which is why we quote the whole job rather than the removal alone.
 

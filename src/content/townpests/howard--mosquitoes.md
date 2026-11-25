@@ -18,7 +18,7 @@ faqs:
   - q: "Does the treatment go on the lawn?"
     a: "No. Adults do not spend daylight in open mown grass, so treating it is close to wasted. The application goes into shaded vegetation — shrub undersides, dense ground cover, tall grass at the lot edge, the shaded sides of the house and garage, and the creek or wooded margin. On a newer lot with young planting there is sometimes very little harborage to treat, and in that case we will say the treatment is not worth much and the source reduction is."
   - q: "Are you local?"
-    a: "No, we come from Clintonville and it is a real drive, so Howard is scheduled work rather than same-hour response. For a planned seasonal program that is not a problem and we group visits into runs. For an emergency, a Brown County company will reach you first and we will say so."
+    a: "No, we come from Clintonville and it is a long drive, so Howard is scheduled work rather than same-hour response. For a planned seasonal program that is not a problem and we group visits into runs. For an emergency, a Brown County company will reach you first and we will say so."
   - q: "Ticks as well?"
     a: "On anything backing onto the Duck Creek corridor or a wooded edge, yes, and often it is the more consequential of the two. The treated band is largely the same line, so one pass handles both. Our tick and Lyme yard program guide explains how."
 ---
@@ -44,7 +44,7 @@ A recent subdivision built on former farmland is frequently a heavier mosquito e
 - **Retention basins** may be holding a permanent shallow vegetated pool rather than draining down.
 - **Builder-grade gutter and downspout work** nobody has yet discovered is holding water.
 
-It generally improves as the grading settles and the planting matures. In the meantime it is a real problem and it is worth treating as one.
+It generally improves as the grading settles and the planting matures. In the meantime it is a problem and it is worth treating as one.
 
 ## Retention basins: it depends
 

@@ -1,7 +1,7 @@
 ---
 title: "Home From a Trip: The Twenty Minutes That Keep Bed Bugs Out of Your House"
 seoTitle: "Home From a Trip: Keeping Bed Bugs Out of the House"
-description: "Bed bugs travel in luggage, not in dirt. What to do at the hotel, what to do in the garage before the suitcase comes inside, and how to tell a real bite pattern from three weeks of worrying about nothing."
+description: "Bed bugs travel in luggage, not in dirt. What to do at the hotel, what to do in the garage before the suitcase comes inside, and how to tell a bite pattern from three weeks of worrying about nothing."
 metaDescription: "Home from a trip — the twenty minutes that keep bed bugs out. Where to inspect the luggage, what to do with the clothes, and what not to bother with."
 pubDate: "2026-06-16"
 cluster: "bed-bug-treatment"
@@ -13,12 +13,12 @@ faqs:
     a: "Leave your bags in the bathroom or on the hard floor, not on the bed or the upholstered chair, then take two minutes with your phone light. Pull back the sheet at the head of the bed and look at the mattress piping and seams, the corners of the box spring, and the crevice where the headboard meets the wall. You are looking for live insects, pale cast skins, and small dark ink-dot fecal spots. Check the seam of the upholstered chair too. If you find anything, ask for a room in a different part of the building, not the room next door."
   - q: "What should I do with my suitcase when I get home?"
     a: "Unpack in the garage, the porch, or the entryway — anywhere except the bedroom. Put every fabric item straight into the dryer on high for thirty minutes; heat is what kills them, so the dryer matters more than the wash. Vacuum the empty suitcase inside and out, paying attention to the seams and the zipper track, empty the vacuum outdoors, and store the case somewhere other than the bedroom closet. The whole routine takes about twenty minutes and it is far and away the cheapest bed bug control there is."
-  - q: "Will the dryer really kill bed bugs?"
+  - q: "Will the dryer kill bed bugs?"
     a: "Yes. Sustained heat is lethal to bed bugs at every life stage including the eggs, and a household dryer on high for thirty minutes reaches and holds it in the fabric. Washing helps but is less reliable on its own, particularly on a cold or warm cycle. For anything that cannot be washed — a jacket, shoes, a stuffed animal, a backpack — the dryer alone on high still does the job. It is the most useful bed bug tool most people already own."
   - q: "How can I tell bed bug bites from mosquito or flea bites?"
     a: "You often cannot, and that is worth knowing before you spend a week diagnosing your skin. Bite reactions vary enormously between people, some get no visible reaction at all, and plenty of things that are not bites look like bites. Bed bug bites do tend to appear on skin exposed while sleeping and sometimes in a rough line or cluster, but that is a hint and not a diagnosis. The only thing that settles it is physical evidence — a live insect, a cast skin, or fecal spotting on the mattress seam. Find the evidence, not the pattern."
   - q: "Can I treat bed bugs myself?"
-    a: "This is one of the genuinely hard ones to do yourself, and we would rather say so than sell you optimism. Bed bugs hide in places you cannot reach, they survive months without feeding, and populations in many areas have real resistance to the common over-the-counter pyrethroids — so a hardware-store spray often kills the ones you hit and scatters the rest into adjacent rooms or units. Mattress encasements, laundering, and vacuuming genuinely help and are worth doing. Whole-room eradication needs a professional and usually more than one visit."
+    a: "This is one of the genuinely hard ones to do yourself, and we would rather say so than sell you optimism. Bed bugs hide in places you cannot reach, they survive months without feeding, and populations in many areas have resistance to the common over-the-counter pyrethroids — so a hardware-store spray often kills the ones you hit and scatters the rest into adjacent rooms or units. Mattress encasements, laundering, and vacuuming genuinely help and are worth doing. Whole-room eradication needs a professional and usually more than one visit."
   - q: "Should I throw out my mattress?"
     a: "Almost never, and please do not do it before getting advice. A zippered bed bug encasement traps anything inside the mattress and box spring and it dies in there, which is cheaper and works better than replacement. Throwing out a mattress while the rest of the room is still infested just means the new mattress gets colonized — and dragging an infested mattress through the house or down a shared stairwell spreads bugs into rooms and units that did not have them."
   - q: "I rent — whose responsibility is it?"
@@ -29,7 +29,7 @@ faqs:
 
 Most of what we deal with in Northeast Wisconsin has a logic you can act on. Mice come in from the field because it got cold. Cluster flies come out of the earthworms in the pasture. Wasps build where there is shelter. All of it maps to the property.
 
-Bed bugs do not work like that. **They arrive in luggage.** They feed on blood, so your kitchen, your trash, your dishes, and your housekeeping are irrelevant to them. The cleanest house in Waupaca County gets bed bugs exactly as easily as any other, and the only variable that really matters is whether somebody carried them in.
+Bed bugs do not work like that. **They arrive in luggage.** They feed on blood, so your kitchen, your trash, your dishes, and your housekeeping are irrelevant to them. The cleanest house in Waupaca County gets bed bugs exactly as easily as any other, and the only variable that matters is whether somebody carried them in.
 
 Which is good news, in a way, because a thing that arrives one specific way can be intercepted one specific way. That is what this post is about — the twenty minutes at the end of a trip that stop the whole problem before it starts.
 
@@ -116,7 +116,7 @@ We say a lot on this site that some things do not need us. Bed bugs are the othe
 
 **They survive a long time without feeding**, so waiting out an empty room does not work on the timescale anyone can actually manage.
 
-**Over-the-counter resistance is real.** Bed bug populations in many areas have documented resistance to the pyrethroid insecticides that most consumer aerosols rely on. The practical result of spraying one is that you kill some, fail to kill others, and **scatter the survivors** — out of the bed and into the adjacent room, or in an apartment, into the next unit. Dispersal is how a one-bedroom problem becomes a whole-floor problem.
+**Over-the-counter resistance is well documented.** Bed bug populations in many areas have documented resistance to the pyrethroid insecticides that most consumer aerosols rely on. The practical result of spraying one is that you kill some, fail to kill others, and **scatter the survivors** — out of the bed and into the adjacent room, or in an apartment, into the next unit. Dispersal is how a one-bedroom problem becomes a whole-floor problem.
 
 **Total-release foggers are the worst version of this.** They do not penetrate harborage, they push insects deeper into voids and outward into other rooms, and there is a genuine fire and explosion risk with them.
 
@@ -130,7 +130,7 @@ What does help, and is worth doing while you arrange treatment:
 
 ## What treatment actually looks like
 
-A real bed bug job is not one visit with a sprayer. It is an inspection to establish the extent, a prepared room, a treatment appropriate to the situation, and **at least one follow-up** — because eggs hatch after the first treatment and something has to be there when they do.
+A bed bug job is not one visit with a sprayer. It is an inspection to establish the extent, a prepared room, a treatment appropriate to the situation, and **at least one follow-up** — because eggs hatch after the first treatment and something has to be there when they do.
 
 Preparation matters and we will walk you through it, because a job done in an unprepared room mostly fails. Expect to launder, to encase the mattress, to reduce clutter around the bed, and to leave the bed in place rather than moving it.
 

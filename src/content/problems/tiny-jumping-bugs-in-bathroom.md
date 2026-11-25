@@ -7,7 +7,7 @@ faqs:
   - q: "Are these fleas?"
     a: "Almost certainly not, and this is the single most common misidentification we correct. Check two things. Bites: fleas bite and leave itchy welts, usually around ankles and lower legs — springtails cannot bite at all, their mouthparts scrape mold. And the jump: a flea launches with direction and purpose toward a host, while a springtail's jump is a panic reflex that flings it into an uncontrolled tumble with no idea where it will land. If nobody in the house has bites and the specks are on damp surfaces rather than on the pets, you have springtails."
   - q: "Can springtails hurt me or my pets?"
-    a: "No, in every sense. Springtails do not bite, sting, spread disease, live on people or animals, damage the house, chew anything, or infest food. They eat mold, algae and decaying plant matter. Some people report an itching or crawling sensation when large numbers are present, which is a real experience but is a response to tiny animals on skin, or to the same damp moldy conditions the springtails like, rather than to any bite. If someone genuinely has bites, something else is causing them."
+    a: "No, in every sense. Springtails do not bite, sting, spread disease, live on people or animals, damage the house, chew anything, or infest food. They eat mold, algae and decaying plant matter. Some people report an itching or crawling sensation when large numbers are present, which is an experience but is a response to tiny animals on skin, or to the same damp moldy conditions the springtails like, rather than to any bite. If someone genuinely has bites, something else is causing them."
   - q: "Where are they coming from?"
     a: "Water. Springtails live in enormous numbers in soil, mulch and lawn thatch — tens of thousands per square meter is normal and nobody notices, because they stay out there. They come indoors when conditions change: heavy rain floods their habitat, or a dry spell drives them to seek damp. Indoors they can only persist where it stays wet, so a bathroom concentration usually means a leak behind a fixture, failing grout, or a wall cavity that has been damp long enough to grow mold."
   - q: "Why the bathroom specifically?"
@@ -38,7 +38,7 @@ They come indoors for exactly one reason: **water**.
 
 Springtails breathe partly through their body surface and have almost no ability to retain moisture. Dry air kills them within a day. That hard physiological limit is the whole story — it explains why they cluster where they do, and it is also the lever that solves the problem, because a genuinely dry space cannot support them no matter how many arrive.
 
-So a persistent indoor population is not really an insect problem. It is a **moisture report**, delivered by insects.
+So a persistent indoor population is not an insect problem. It is a **moisture report**, delivered by insects.
 
 ## What to do now
 

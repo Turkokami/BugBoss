@@ -75,7 +75,7 @@ export const residentialServices: ResidentialService[] = [
     short: 'Ant Control',
     group: 'Core home protection',
     answer:
-      'BugBoss treats nuisance ants and structural carpenter ants in Northeast Wisconsin homes. Nuisance ants trail indoors for food and moisture; carpenter ants tunnel into moist wood and cause real damage. We identify the species, treat the colony at its source rather than the trail, and address the moisture that feeds carpenter ants.',
+      'BugBoss treats nuisance ants and structural carpenter ants in Northeast Wisconsin homes. Nuisance ants trail indoors for food and moisture; carpenter ants tunnel into moist wood and cause structural damage. We identify the species, treat the colony at its source rather than the trail, and address the moisture that feeds carpenter ants.',
     summary:
       'Not all ant problems are the same. Most are nuisance species trailing in for food and water, and spraying the trail only kills foragers while the nest keeps producing. Carpenter ants are a different, structural concern — they excavate moist wood in framing, trim, and decks and need the parent and satellite nests found and treated. BugBoss identifies which one you have and treats the colony, not just the ants you see.',
     bullets: [

@@ -27,7 +27,7 @@ faqs:
 
 Manawa sits on the **Little Wolf River**, with **Bear Lake** just north and low ground either side. Almost everything distinctive about pest work here follows from that.
 
-There are really three property types in the village and around it — **river and lake homes, village housing, and the surrounding farms** — and while they share a calendar, water changes the emphasis for the first group substantially.
+There are three property types in the village and around it — **river and lake homes, village housing, and the surrounding farms** — and while they share a calendar, water changes the emphasis for the first group substantially.
 
 ## Mosquitoes: the part people give up on too early
 
@@ -55,7 +55,7 @@ So the honest recommendation is generally a dehumidifier below about fifty perce
 
 **October and November** — [mice](/pest-library/mice/) off the fields and the ditches. A quarter inch is enough.
 
-**July through September** — [wasps and hornets](/pest-library/wasps-hornets/). Around open grassy ground, the ones that cause real trouble are **ground-nesting yellowjackets**, invisible until a mower or a weed-whip sets them off. Walking the edges before you mow in August is worth two minutes. [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
+**July through September** — [wasps and hornets](/pest-library/wasps-hornets/). Around open grassy ground, the ones that cause trouble are **ground-nesting yellowjackets**, invisible until a mower or a weed-whip sets them off. Walking the edges before you mow in August is worth two minutes. [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
 
 **Spring** — [carpenter ants](/pest-library/carpenter-ants/) wherever wood has stayed wet, which near water is a recurring theme, and the thaw walk-around that shows you the whole winter's rodent traffic before the grass grows back. [The March walk](/blog/spring-thaw-pest-check/).
 

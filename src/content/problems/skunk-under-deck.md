@@ -17,7 +17,7 @@ faqs:
   - q: "What's the smell under there even if I don't see spray?"
     a: "Skunks carry a low background musk that soaks into soil, and an active den under a deck holds that odor even without a full defensive spray. If a skunk has sprayed under there — during a territorial scuffle or a scare — the smell can linger for weeks and drift into the house through crawlspaces and floor gaps. Removing the animal and, when needed, treating the soil and enclosed space clears it."
   - q: "Is a skunk under the deck actually dangerous?"
-    a: "The spray is the obvious problem, but skunks are also a leading rabies vector in the Midwest, so one that's active in daylight, disoriented, or aggressive should be treated with real caution and reported. They can carry fleas, ticks, and canine roundworm as well. For a curious dog, a face full of skunk spray is a miserable and sometimes vet-worthy encounter. It's worth resolving, not living with."
+    a: "The spray is the obvious problem, but skunks are also a leading rabies vector in the Midwest, so one that's active in daylight, disoriented, or aggressive should be treated with caution and reported. They can carry fleas, ticks, and canine roundworm as well. For a curious dog, a face full of skunk spray is a miserable and sometimes vet-worthy encounter. It's worth resolving, not living with."
   - q: "How does the dig-proof barrier work?"
     a: "After the skunk is out, we install hardware cloth around the base of the deck or shed and bury the lower edge in an outward-facing L shape — down and then out under the soil. When an animal tries to dig at the barrier, it hits buried mesh instead of open dirt and gives up. This is what stops the next skunk, woodchuck, or rabbit from simply re-excavating the same welcoming spot."
   - q: "How long before the skunk is gone?"
@@ -28,7 +28,7 @@ faqs:
     a: "A skunk under the deck isn't a pest-control spray job — it's wildlife exclusion, and most companies servicing this area don't do it. BugBoss does both, right from Clintonville, so we handle the humane eviction, the buried dig-proof barrier, odor treatment, and any other wildlife using the same crawlspace. You reach the owner, Brian, directly, and there's no contract to sign."
 ---
 
-## What's really going on under there
+## What's going on under there
 
 A skunk doesn't dig itself a den from scratch when it can move into one you've already built. A deck, a shed on skids, a porch, a set of concrete steps with a hollow underneath — each is a dark, dry, roofed cavity with a soft dirt floor, sheltered from wind and coyotes, with an easy spot to dig in along the edge. To a **striped skunk** looking for a maternal den in the cold end of winter, that's prime real estate. Very often it takes over an existing woodchuck or rabbit burrow that already runs under the structure, saving itself the work.
 
@@ -38,7 +38,7 @@ So the animal under your deck isn't lost or unusual. It found exactly the kind o
 
 Skunk timing runs on a tight, predictable schedule in Wisconsin, and it dictates everything about how — and when — you evict one. Skunks **breed in late February and March**. You'll notice it: the roadkill count climbs and the musk turns up on cold nights as males roam. Gestation runs about two months, so **kits are born around May**, in litters of four to seven, and they stay dependent in the den for weeks before they're mobile enough to follow their mother out to forage.
 
-That May-to-midsummer window is the one that turns a straightforward eviction into a trap. Seal a den with a nursing female excluded and her kits stranded, and they die under your deck — which means weeks of odor seeping up through the floor and a cleanup that involves getting under the structure to remove them. This is precisely why a real skunk job starts by determining whether young are present. Late winter, before kits arrive, and late summer, once they're mobile, are the clean windows; the middle stretch is handled with care around the litter, not against it.
+That May-to-midsummer window is the one that turns a straightforward eviction into a trap. Seal a den with a nursing female excluded and her kits stranded, and they die under your deck — which means weeks of odor seeping up through the floor and a cleanup that involves getting under the structure to remove them. This is precisely why a skunk job starts by determining whether young are present. Late winter, before kits arrive, and late summer, once they're mobile, are the clean windows; the middle stretch is handled with care around the litter, not against it.
 
 ## Identifying an active den
 
@@ -50,7 +50,7 @@ The clincher is watching at dusk. Skunks are crepuscular to nocturnal, so a resi
 
 This is grub country. Skunks forage heavily on **white grubs and earthworms** in lawn and pasture, and the well-watered lawns, old orchard ground, and pasture edges around Clintonville and the lake communities produce them in quantity — which supports a healthy skunk population pressed right up against yards and outbuildings. Combine that food base with the local building stock — decks and porches on older homes, sheds set on blocks or skids, pole barns and outbuildings with dig-in gaps, and the woodchuck burrows that riddle rural ground — and you have both the food and the den sites skunks need in close proximity. Lake cabins add the twist of sitting empty in late winter, letting a female den and raise kits under a deck without anyone noticing until the season opens.
 
-## The real fix: eviction plus a dig-proof barrier
+## The fix: eviction plus a dig-proof barrier
 
 There are two halves to solving this, and skipping either one guarantees a repeat.
 

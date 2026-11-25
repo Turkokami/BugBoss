@@ -28,7 +28,7 @@ faqs:
   - q: "Can BugBoss service downtown New London businesses?"
     a: "Yes. New London has a working downtown, restaurants, lodging, and food service, plus manufacturing and river-adjacent commercial property. Each needs documented, inspection-ready pest management. BugBoss builds a discreet program around your building and industry, with records ready when an inspector asks."
   - q: "How do mice get into New London houses?"
-    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the stone and block foundations common in New London's older river-town housing. Sealing the building is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage doors, and through the stone and block foundations common in New London's older river-town housing. Sealing the building is the fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss handle the St. Patrick's Day crowds and New Dublin events?"
     a: "We can. When New London becomes New Dublin each March for Wisconsin's largest St. Patrick's Day parade, food service and lodging see a surge in crowd-driven pest pressure. BugBoss builds discreet, inspection-ready commercial programs that help venues stay ahead of the flies, rodents, and waste-driven pests that big events concentrate."
   - q: "What areas around New London does BugBoss serve?"
@@ -65,7 +65,7 @@ Cluster flies are worth calling out in a farm-ringed town like New London, becau
 
 ### Winter (November–February): the payoff and the pests already inside
 
-By winter the outdoor invasion is over, and whatever got in during fall now has the building to itself. Mice breed year-round once warm and fed, so a handful in November becomes a real infestation by February if the entry points aren't closed. A thaw in January warms the wall voids of a river-town home and coaxes the overwintering cluster flies back to the windows. And winter is **travel-pest season** — holiday travel brings [bed bugs](/pest-library/bed-bugs/) home as hitchhikers, a problem tied to luggage and used furniture, not to cleanliness. Winter work in New London is mostly rodent exclusion, cleanup of the fall invaders, and anything that arrived in a suitcase.
+By winter the outdoor invasion is over, and whatever got in during fall now has the building to itself. Mice breed year-round once warm and fed, so a handful in November becomes a full infestation by February if the entry points aren't closed. A thaw in January warms the wall voids of a river-town home and coaxes the overwintering cluster flies back to the windows. And winter is **travel-pest season** — holiday travel brings [bed bugs](/pest-library/bed-bugs/) home as hitchhikers, a problem tied to luggage and used furniture, not to cleanliness. Winter work in New London is mostly rodent exclusion, cleanup of the fall invaders, and anything that arrived in a suitcase.
 
 ## New London's housing stock: riverfront, downtown, and rural
 
@@ -89,9 +89,9 @@ With two rivers pushing wildlife up the banks, trapping is only ever half the an
 
 ## Commercial pest control in New London
 
-New London has a real commercial base for a town its size — a working downtown business district, restaurants, lodging, food service, and manufacturing — plus the seasonal spike that comes with the **New Dublin** St. Patrick's Day celebration and the summer river traffic. Each of those has its own pests and its own record-keeping needs. A restaurant needs documented, inspection-ready rodent and fly management. A hotel needs discreet service and a bed bug protocol. A manufacturer needs stored-product and rodent control that survives an audit.
+New London has an established commercial base for a town its size — a working downtown business district, restaurants, lodging, food service, and manufacturing — plus the seasonal spike that comes with the **New Dublin** St. Patrick's Day celebration and the summer river traffic. Each of those has its own pests and its own record-keeping needs. A restaurant needs documented, inspection-ready rodent and fly management. A hotel needs discreet service and a bed bug protocol. A manufacturer needs stored-product and rodent control that survives an audit.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly so pest work never disrupts your business or your customers. Because you deal with the owner directly, there's a real person accountable for the result.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly so pest work never disrupts your business or your customers. Because you deal with the owner directly, there's one person accountable for the result.
 
 New London's location on the Wolf also brings summer **boating and river traffic** — boat launches, riverfront restaurants and taverns, and the docks and landings that come with a navigable waterway. Those waterfront operations carry the same pressures a lakefront resort does: wasps around outdoor seating, flies and rodents drawn to food service and waste bins, and the constant mosquito load the river throws off in the evening. A program built for a riverfront business has to treat the outdoor customer areas as seriously as the kitchen, because that's where a pest problem actually costs a place its trade.
 

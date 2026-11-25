@@ -10,9 +10,9 @@ faqs:
   - q: "What's the most common pest problem in Northport homes?"
     a: "Rodents and fall invaders. Mice and deer mice push in from surrounding fields and river cover every fall, and cluster flies, boxelder bugs, and Asian lady beetles mass on warm walls in September and October to overwinter in wall voids and attics. Riverside homes add mosquitoes and moisture-driven carpenter ants to the list."
   - q: "Does BugBoss do mosquito control near the Little Wolf River?"
-    a: "Yes. The river valley and its low, wet ground give mosquitoes abundant breeding habitat, so a seasonal program that treats resting vegetation and knocks back standing-water breeding sites makes a real difference for riverside yards, decks, and summer gatherings. It's one of the more valuable services for property along the water."
+    a: "Yes. The river valley and its low, wet ground give mosquitoes abundant breeding habitat, so a seasonal program that treats resting vegetation and knocks back standing-water breeding sites makes a difference for riverside yards, decks, and summer gatherings. It's one of the more valuable services for property along the water."
   - q: "How do mice get into a Northport farmhouse?"
-    a: "Through gaps as small as a quarter inch — around pipe and utility penetrations, at the sill plate where the wall meets the foundation, under doors, and through the fieldstone and block foundations common in older rural homes. Sealing the building is the real fix; trapping alone just clears what's already inside. See our farmhouse rodent exclusion guide."
+    a: "Through gaps as small as a quarter inch — around pipe and utility penetrations, at the sill plate where the wall meets the foundation, under doors, and through the fieldstone and block foundations common in older rural homes. Sealing the building is the fix; trapping alone just clears what's already inside. See our farmhouse rodent exclusion guide."
   - q: "Does BugBoss remove bats in Northport?"
     a: "Yes, and legally. Wisconsin protects bats, so we use humane exclusion and follow the DNR rule that keeps bat exits open June 1 through July 31 during the maternity season. We locate the exits at dusk, install one-way doors after pups can fly, wait at least a week, then seal every gap and clean up the guano. We never seal bats inside."
   - q: "Are carpenter ants worse near the river?"
@@ -61,7 +61,7 @@ Cluster flies are worth understanding, because the valley is heavy cluster-fly c
 
 ### Winter (November–February): living with what got in
 
-By winter the invasion is over and you're living with whatever established during fall. Mice that found a warm, food-rich nest breed year-round indoors, so a handful in November becomes a real infestation by February if the entry points aren't sealed. A warm January day heats the wall voids and sends the cluster flies that wintered there crawling toward the sunniest windows in the house. Winter is rodent-cleanup and exclusion season in the valley, and the quiet stretch to do the sealing that keeps next fall's wave out.
+By winter the invasion is over and you're living with whatever established during fall. Mice that found a warm, food-rich nest breed year-round indoors, so a handful in November becomes a full infestation by February if the entry points aren't sealed. A warm January day heats the wall voids and sends the cluster flies that wintered there crawling toward the sunniest windows in the house. Winter is rodent-cleanup and exclusion season in the valley, and the quiet stretch to do the sealing that keeps next fall's wave out.
 
 ## Housing and building stock in the valley
 
@@ -73,7 +73,7 @@ Homes around Northport skew rural and older, and their weak points are specific.
 
 The **Little Wolf River** corridor is the single biggest factor in Northport's pest picture. Water and damp bottomland breed mosquitoes and raise the humidity that draws carpenter ants and moisture pests into buildings. The thick riparian vegetation and the wooded corridor act as a **highway for wildlife and rodents**, funneling raccoons, squirrels, and mice along the water and toward the structures near it. Mature trees along the banks give carpenter ants their outdoor parent nests and give squirrels and raccoons a route to the roofline.
 
-Away from the water, the **surrounding fields and fencerows** are the reservoir for the fall invaders and rodents that flood in every autumn, and the **brushy edges** where lawn meets woods and tall grass are prime [tick](/pest-library/ticks/) habitat — a real Lyme-disease concern on properties with kids, pets, and time spent outdoors. Our [tick and Lyme yard program guide](/guides/tick-lyme-yard-program/) explains the edge-focused approach that actually works.
+Away from the water, the **surrounding fields and fencerows** are the reservoir for the fall invaders and rodents that flood in every autumn, and the **brushy edges** where lawn meets woods and tall grass are prime [tick](/pest-library/ticks/) habitat — a Lyme-disease concern on properties with kids, pets, and time spent outdoors. Our [tick and Lyme yard program guide](/guides/tick-lyme-yard-program/) explains the edge-focused approach that actually works.
 
 ## Wildlife in Northport: the corridor funnels it to your door
 
@@ -107,11 +107,11 @@ Early detection saves money and structure. **Rodents** leave tapered droppings a
 
 ## The health stakes near the water
 
-Some of Northport's pests carry real risk. Standing water in the river bottom breeds the **[mosquitoes](/pest-library/mosquitoes/)** that can transmit West Nile virus in Wisconsin, which is reason enough to take breeding-site reduction seriously rather than just swatting on the deck. The brushy edges hold the deer **[ticks](/pest-library/ticks/)** that spread Lyme disease, a genuine concern for anyone spending time in tall grass or woods. **Deer mice** in rural homes are the regional carrier of hantavirus, so dusty droppings in a cabin or outbuilding should never be dry-swept — that aerosolizes the hazard. And **bats**, while ecologically valuable and worth excluding humanely, are the state's main rabies vector, which is why direct handling is never a DIY job. We work around all of these with the right precautions and cleanup.
+Some of Northport's pests carry risk. Standing water in the river bottom breeds the **[mosquitoes](/pest-library/mosquitoes/)** that can transmit West Nile virus in Wisconsin, which is reason enough to take breeding-site reduction seriously rather than just swatting on the deck. The brushy edges hold the deer **[ticks](/pest-library/ticks/)** that spread Lyme disease, a genuine concern for anyone spending time in tall grass or woods. **Deer mice** in rural homes are the regional carrier of hantavirus, so dusty droppings in a cabin or outbuilding should never be dry-swept — that aerosolizes the hazard. And **bats**, while ecologically valuable and worth excluding humanely, are the state's main rabies vector, which is why direct handling is never a DIY job. We work around all of these with the right precautions and cleanup.
 
 ## Why DIY usually falls short here
 
-Store-bought sprays and traps rarely finish a river-valley pest problem, because the real drivers sit outside the reach of a quick pass. You can spray the carpenter ants on the counter all week, but until the moisture that softened the wood is corrected and the nest is found, the colony holds. You can fog for mosquitoes at dusk, but if the floodplain pools and clogged gutters keep breeding new ones, you're mopping with the tap running. And you can trap the mice you see while the unsealed crawlspace quietly admits more. The pests that dominate Northport are moisture-and-access problems, and those take diagnosis and exclusion, not a product off the shelf.
+Store-bought sprays and traps rarely finish a river-valley pest problem, because the drivers sit outside the reach of a quick pass. You can spray the carpenter ants on the counter all week, but until the moisture that softened the wood is corrected and the nest is found, the colony holds. You can fog for mosquitoes at dusk, but if the floodplain pools and clogged gutters keep breeding new ones, you're mopping with the tap running. And you can trap the mice you see while the unsealed crawlspace quietly admits more. The pests that dominate Northport are moisture-and-access problems, and those take diagnosis and exclusion, not a product off the shelf.
 
 ## How BugBoss handles a Northport job
 

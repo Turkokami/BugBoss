@@ -5,12 +5,12 @@ metaDescription: "A bald-faced hornet nest in a tree — distance from the door 
 category: "Stinging Insects"
 order: 32
 faqs:
-  - q: "Is a bald-faced hornet really a hornet?"
+  - q: "Is a bald-faced hornet a true hornet?"
     a: "Not technically. Despite the name, the bald-faced hornet is not a true hornet — it's a large aerial-nesting relative of the yellowjackets, colored black and ivory-white rather than yellow. Wisconsin has no established native true hornets. What people here call a 'hornet' with the big gray paper nest is almost always a bald-faced hornet. The name matters less than the nest's size and location when it comes to safe removal."
   - q: "How big does a bald-faced hornet nest get?"
     a: "A mature nest by late summer is commonly the size of a football or basketball and can hold several hundred workers. It starts in spring as a small nest built by a single queen and grows all season as the colony expands, adding paper layers and envelope. The gray, teardrop-shaped nest you notice in August took the whole summer to build and is at or near its peak size and defensiveness."
   - q: "Are bald-faced hornets aggressive?"
-    a: "Yes, particularly in defense of the nest. They react strongly to anything approaching within a few feet and will pursue a perceived threat, and like all yellowjacket relatives they can sting repeatedly rather than just once. Some can even squirt venom if they feel the nest is threatened. A nest near a doorway, deck, or walkway, or one at head height in a shrub, is a real hazard and shouldn't be approached."
+    a: "Yes, particularly in defense of the nest. They react strongly to anything approaching within a few feet and will pursue a perceived threat, and like all yellowjacket relatives they can sting repeatedly rather than just once. Some can even squirt venom if they feel the nest is threatened. A nest near a doorway, deck, or walkway, or one at head height in a shrub, is a hazard and shouldn't be approached."
   - q: "There's a hornet nest in a tree far from the house — do I need to remove it?"
     a: "Not necessarily. Through most of the summer bald-faced hornets are useful predators of flies and other insects, and a nest high in a tree well away from where people go often poses little risk and can be left alone to die off at frost. The nests worth removing are the ones near doorways, decks, play areas, and walkways, or low enough to be disturbed accidentally. Location and traffic decide it, not the mere presence of a nest."
   - q: "Why can't I just spray the outside of the nest?"
@@ -18,7 +18,7 @@ faqs:
   - q: "Will the same nest be used again next year?"
     a: "No. Bald-faced hornet colonies are strictly annual. The entire nest dies at hard frost except for newly mated queens, who overwinter alone in sheltered spots and start brand-new nests elsewhere the next spring. An old gray nest hanging in a bare tree in winter is just empty paper — the colony is long dead and won't return to it. You can remove an abandoned winter nest safely, though there's no need to."
   - q: "Is it safe to remove an old hornet nest in winter?"
-    a: "Yes. By late fall, after hard frost, the colony is dead and the nest is abandoned — nobody's home. An old nest can be knocked down and disposed of without risk in winter. The only caution is being sure it really is winter-dead and not a warm-weather situation where stragglers might still be active. During the active season, though, no nest should be approached without protection and the right treatment."
+    a: "Yes. By late fall, after hard frost, the colony is dead and the nest is abandoned — nobody's home. An old nest can be knocked down and disposed of without risk in winter. The only caution is being sure it is winter-dead and not a warm-weather situation where stragglers might still be active. During the active season, though, no nest should be approached without protection and the right treatment."
   - q: "How high can BugBoss reach a nest?"
     a: "High. Bald-faced hornets frequently build well up in trees or high on a gable, eave, or second story, out of any safe reach for a homeowner on a ladder. Reaching elevated nests with the proper equipment and protective gear, and treating them so the colony is actually killed rather than just angered, is exactly the kind of work we handle across the rural Clintonville area — for homes, farms, and businesses."
   - q: "How long does it take to kill a hornet nest?"
@@ -33,7 +33,7 @@ faqs:
 
 That gray, papery, football-shaped nest hanging from a tree branch, tucked in a tall shrub, or stuck to the side of your house under a gable is the work of the **bald-faced hornet** (*Dolichovespula maculata*) — and it's probably the most recognizable insect nest in Wisconsin. It's also one of the more intimidating things to find on your property, because a mature one can be the size of a basketball and hums with hundreds of aggressive workers.
 
-First, a bit of name-clearing, because it changes how you think about the problem. The bald-faced hornet isn't really a hornet at all. It's a large, black-and-**ivory-white** relative of the yellowjackets — an aerial-nesting *Dolichovespula* — and it earned the "hornet" label mostly from its size and its big conspicuous nest. Wisconsin has no established population of true hornets native to it, so when someone around Clintonville reports a "hornet nest," this is almost always what they've got. Our [wasps and hornets](/pest-library/wasps-hornets/) library page lays out how it fits alongside the paper wasps and ground-nesting yellowjackets.
+First, a bit of name-clearing, because it changes how you think about the problem. The bald-faced hornet isn't a hornet at all. It's a large, black-and-**ivory-white** relative of the yellowjackets — an aerial-nesting *Dolichovespula* — and it earned the "hornet" label mostly from its size and its big conspicuous nest. Wisconsin has no established population of true hornets native to it, so when someone around Clintonville reports a "hornet nest," this is almost always what they've got. Our [wasps and hornets](/pest-library/wasps-hornets/) library page lays out how it fits alongside the paper wasps and ground-nesting yellowjackets.
 
 ## How the nest is built and why it looks the way it does
 

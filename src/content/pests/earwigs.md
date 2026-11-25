@@ -10,7 +10,7 @@ faqs:
   - q: "Why do I suddenly have earwigs in my house?"
     a: "Almost always because it got hot and dry outside. Earwigs need moisture, and when their normal damp habitat — mulch, leaf litter, soil — dries out in a summer hot spell, they move toward cooler, moister refuge, and the shaded, damp base of your foundation is the first stop. From there they slip in under doors and through ground-level gaps. A second wave comes in fall as they seek shelter for winter. In both cases they're following moisture, not invading to breed indoors."
   - q: "Are earwigs harmful to people or pets?"
-    a: "No. Earwigs don't bite in any meaningful way, don't sting, don't spread disease, and don't infest food the way some pests do. They can't hurt a pet either. Their only real offenses are being unsettling to look at and, outdoors, chewing on garden plants and flowers. Indoors they're purely a nuisance — a bug that wandered in from the damp and doesn't belong there, but isn't doing any harm while it's there."
+    a: "No. Earwigs don't bite in any meaningful way, don't sting, don't spread disease, and don't infest food the way some pests do. They can't hurt a pet either. Their only offenses are being unsettling to look at and, outdoors, chewing on garden plants and flowers. Indoors they're purely a nuisance — a bug that wandered in from the damp and doesn't belong there, but isn't doing any harm while it's there."
   - q: "Do earwigs damage my house?"
     a: "No structural damage at all. Earwigs don't chew wood, wiring, fabric, or paper the way some other pests do, and they don't nest inside walls. The damage they cause is in the garden, where they can chew ragged holes in leaves, flowers, and soft fruit and vegetables overnight. Inside the house they're just a nuisance invader — you'll find them in damp spots, but they aren't eating or destroying anything while they're there."
   - q: "Where do earwigs hide during the day?"
@@ -88,13 +88,13 @@ Earwigs are a fairly obvious pest — the main sign is the insect itself — but
 - **Garden damage.** Ragged, irregular holes chewed in leaves, flower petals, and soft fruits and vegetables overnight — especially on hostas, dahlias, marigolds, and lettuce — point to earwigs feeding after dark.
 - **A seasonal spike tied to weather.** A sudden influx indoors right after a hot, dry stretch (or in early fall) is the classic earwig signature, distinguishing them from pests with steadier, non-weather-driven numbers.
 
-Because earwigs don't breed or feed indoors, seeing them inside is really a report about conditions outside — a damp, harborage-rich foundation with easy ground-level entry.
+Because earwigs don't breed or feed indoors, seeing them inside is a report about conditions outside — a damp, harborage-rich foundation with easy ground-level entry.
 
 ## Are earwigs dangerous?
 
 The honest assessment: earwigs are **almost entirely a nuisance pest**, and a fairly benign one at that. Indoors they pose no risk to people or pets. They don't bite in any meaningful way, they don't sting, they carry no venom, they don't transmit disease, and they don't get into or contaminate stored food. The pinch from a large one's forceps is harmless and rarely even breaks the skin. And they cause **no structural damage** — they don't chew wood, wiring, insulation, fabric, or paper, and they don't nest in walls. An earwig indoors is a bug that took a wrong turn out of the mulch; it isn't harming your home or your health while it's there.
 
-Their only real damage is in the **garden**, where a big population can chew up ornamental plantings, seedlings, and soft produce overnight. For gardeners that's a genuine frustration, and it's worth managing, but it's a landscape issue rather than a household-health one.
+Their only damage is in the **garden**, where a big population can chew up ornamental plantings, seedlings, and soft produce overnight. For gardeners that's a genuine frustration, and it's worth managing, but it's a landscape issue rather than a household-health one.
 
 It's worth adding a note of fairness to the earwig's reputation, because the garden picture isn't entirely one-sided. Earwigs are omnivores, and part of their diet is other small insects — including aphids, mites, and insect eggs — so in some settings they do as much good eating garden pests as harm eating plants. Many gardeners never notice earwig feeding at all and only encounter them as the startling bug under a pot. This is why we don't treat earwigs as an enemy to be eradicated from the landscape; the goal is simply to keep them out of the house and off prized plantings, not to wipe them out of a yard where they're mostly minding their own business in the mulch.
 

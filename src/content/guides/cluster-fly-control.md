@@ -16,7 +16,7 @@ faqs:
   - q: "When should I treat for fall invaders in Wisconsin?"
     a: "Late August into September, before the insects begin massing on the house. Once they've gathered on the walls and started slipping into the structure in October, an exterior treatment is far less effective, and once they're overwintering in the walls there's no good treatment at all. The whole strategy depends on getting the exterior barrier down while the insects are still outside."
   - q: "Are boxelder bugs harmful? Do they bite or damage the house?"
-    a: "No. Boxelder bugs don't bite, don't sting, don't breed indoors, and don't damage the structure or your food. They're a nuisance: they gather in large numbers, they can stain light-colored surfaces with their droppings, and crushed bugs give off an unpleasant odor. The problem is the sheer numbers and the fact that they keep reappearing indoors all winter, not any real harm."
+    a: "No. Boxelder bugs don't bite, don't sting, don't breed indoors, and don't damage the structure or your food. They're a nuisance: they gather in large numbers, they can stain light-colored surfaces with their droppings, and crushed bugs give off an unpleasant odor. The problem is the sheer numbers and the fact that they keep reappearing indoors all winter, not any harm."
   - q: "Do Asian lady beetles bite?"
     a: "They can nip, and unlike the harmless native ladybugs people remember from childhood, Asian lady beetles sometimes deliver a small pinch and release a foul-smelling yellow fluid when disturbed or crushed. That fluid stains and smells, and some people react to the beetles as an allergen or asthma trigger when large numbers overwinter in a home. They don't breed indoors or damage the house."
   - q: "Where do fall invaders hide inside my house?"
@@ -30,7 +30,7 @@ faqs:
   - q: "Will the same house keep getting them year after year?"
     a: "Yes, unless the building is sealed and treated, because these insects orient to the same warm, prominent structures each fall and, in the case of overwintering species, leave chemical cues that attract the next generation. A house that got them last year is very likely to get them again. That's exactly why the annual early-fall exterior program exists, and why sealing pays off over multiple seasons."
   - q: "Can BugBoss treat a house that already has them in the walls?"
-    a: "We can knock down what's active, vacuum out accessible clusters, and seal entry points to keep more from getting in, but the honest answer is that once they're overwintering deep in the wall voids, the real win comes the following fall with a properly timed exterior treatment. We'll treat what we can now and set up the exterior barrier and sealing that break the cycle going forward."
+    a: "We can knock down what's active, vacuum out accessible clusters, and seal entry points to keep more from getting in, but the honest answer is that once they're overwintering deep in the wall voids, the win comes the following fall with a properly timed exterior treatment. We'll treat what we can now and set up the exterior barrier and sealing that break the cycle going forward."
   - q: "Are stink bugs part of this problem in Wisconsin?"
     a: "Increasingly, yes. The brown marmorated stink bug is a newer fall invader spreading through Wisconsin, and it behaves like the others: it masses on warm walls in fall, slips into wall voids to overwinter, and reappears indoors on warm days, releasing an unpleasant odor when disturbed. The same exterior-treatment-plus-sealing approach handles it along with the cluster flies and beetles."
   - q: "Does BugBoss offer a seasonal program for fall invaders?"
@@ -110,7 +110,7 @@ One of the most useful things to understand is that this is a single annual cycl
 
 **Late summer to fall (late August–October).** The trigger flips. Shortening days and cooling nights end reproduction and switch the insects into overwintering mode. They orient to large, sun-warmed buildings and mass on the south and west walls, probing every gap. **This is the one window where treatment and sealing decisively work**, because the insects are on the outside of the building and exposed. Miss it and you've lost the year.
 
-**Winter (November–March).** The insects are dormant in the wall voids and attic. On the cold days they're inert and unreachable; on the warm sunny days a fraction of them wake, mistake the warmth for spring, and emerge at the windows into the living space. Vacuum them and wait it out — there's no effective treatment for insects buried in the walls in January. The real fix already happened, or didn't, back in the fall.
+**Winter (November–March).** The insects are dormant in the wall voids and attic. On the cold days they're inert and unreachable; on the warm sunny days a fraction of them wake, mistake the warmth for spring, and emerge at the windows into the living space. Vacuum them and wait it out — there's no effective treatment for insects buried in the walls in January. The fix already happened, or didn't, back in the fall.
 
 ## Why indoor spraying is the wrong tool
 
@@ -136,7 +136,7 @@ The reason timing is non-negotiable: this only works while the insects are still
 
 ### 2. Seal the entry points
 
-The second move is **exclusion** — physically closing the gaps the insects use. This is the part that pays off for years, not just one season. We seal the soffit-and-fascia junctions, caulk around window and door frames, close utility and pipe penetrations, screen or seal gaps at the roofline, and address the cracks where siding meets foundation. On balloon-framed homes, closing the top and bottom of those open wall cavities makes a real difference. Every gap sealed is one the insects can't use this fall or any fall after.
+The second move is **exclusion** — physically closing the gaps the insects use. This is the part that pays off for years, not just one season. We seal the soffit-and-fascia junctions, caulk around window and door frames, close utility and pipe penetrations, screen or seal gaps at the roofline, and address the cracks where siding meets foundation. On balloon-framed homes, closing the top and bottom of those open wall cavities makes a difference. Every gap sealed is one the insects can't use this fall or any fall after.
 
 Together, exterior treatment and sealing attack the problem from both directions: the treatment thins out the wave that arrives, and the sealing shuts the doors it's trying to come through. Do both, and a house that was overrun every winter becomes one where a stray bug at the window is a rarity.
 
@@ -154,7 +154,7 @@ A few well-meaning moves make things worse or waste money, and they come up on n
 
 **Don't crush them.** Squashing boxelder bugs and lady beetles stains surfaces and, in the case of lady beetles, releases a foul fluid and can attract more. Vacuum instead.
 
-**Don't rely on repellents or foggers.** Indoor foggers and repellents don't reach the insects in the voids and put chemicals where your family lives for no real gain.
+**Don't rely on repellents or foggers.** Indoor foggers and repellents don't reach the insects in the voids and put chemicals where your family lives for no gain.
 
 **Don't count on caulk alone.** Sealing is essential, but on an older home you'll never find and close every gap, which is why sealing is paired with the exterior barrier treatment rather than used by itself. The two together are far stronger than either alone.
 

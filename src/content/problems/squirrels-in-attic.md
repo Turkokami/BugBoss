@@ -10,7 +10,7 @@ faqs:
   - q: "What does it sound like when squirrels are in the attic versus mice or a raccoon?"
     a: "Squirrels are daytime animals, so you hear them most at dawn and again before dusk — scampering, rolling of nuts, and heavier scratching than a mouse makes. Mice are lighter, mostly nocturnal, and stay in the walls. A raccoon is much heavier, slower, and active at night. If the racket is overhead in the morning and sounds like something the size of a small cat running laps, it's squirrels."
   - q: "Is a squirrel in the attic actually dangerous or just annoying?"
-    a: "Both. The real hazard is chewing. Squirrels gnaw constantly to wear down their incisors, and in an attic that means insulation, stored belongings, structural wood, and — most seriously — electrical wiring. Chewed wiring is a documented house-fire cause. They also foul insulation with urine and droppings and can bring in fleas and other parasites. It's more than a nuisance once they've settled in."
+    a: "Both. The hazard is chewing. Squirrels gnaw constantly to wear down their incisors, and in an attic that means insulation, stored belongings, structural wood, and — most seriously — electrical wiring. Chewed wiring is a documented house-fire cause. They also foul insulation with urine and droppings and can bring in fleas and other parasites. It's more than a nuisance once they've settled in."
   - q: "Can't I just put out poison or a trap and be done?"
     a: "No, and both can make things worse. Poison risks a squirrel dying in a wall void, leaving you with a decomposing-animal smell and a fly problem for weeks, and it does nothing about the open hole. A single trap might catch one animal while the rest, or a hidden litter, stay put. The only lasting fix is getting them all out through a one-way door and sealing every entry."
   - q: "What happens if there are baby squirrels up there?"
@@ -39,7 +39,7 @@ Around Clintonville and the surrounding rural counties, the culprit is almost al
 
 Squirrels den to breed, and in Wisconsin they breed twice a year. The first litters arrive in roughly **February and March**, conceived in the late-winter mating chase you hear tearing across the yard in January; the second come in **July and August**. In both stretches a female is looking for the safest cavity she can find, and a heated attic beats a windblown tree nest every time. That's why the classic squirrel-in-the-attic call spikes in late winter and again in midsummer — a pregnant or nursing female has moved in to raise a litter.
 
-This matters enormously for how the problem gets solved, because for several weeks those pups can't leave on their own. Rush an eviction while a litter is still in the nest and you trap the young inside to die — which trades a noise problem for a dead-animal smell, a fly hatch, and a wall you have to open up. Getting the timing and the litter check right is the difference between a clean job and a mess, and it's the first thing a real exclusion accounts for.
+This matters enormously for how the problem gets solved, because for several weeks those pups can't leave on their own. Rush an eviction while a litter is still in the nest and you trap the young inside to die — which trades a noise problem for a dead-animal smell, a fly hatch, and a wall you have to open up. Getting the timing and the litter check right is the difference between a clean job and a mess, and it's the first thing an exclusion accounts for.
 
 ## Reading the signs
 
@@ -58,7 +58,7 @@ This is oak, maple, and pine country with woodlots stitched between farm fields,
 
 Seasonal cabins around Iola and the lakes are a special case. They sit empty through the very months squirrels are house-hunting, so a colony can move in, breed, and settle without anyone there to hear it — the owner discovers it on the next visit, along with the chewed wiring and fouled insulation of a nest that's been running for months.
 
-## The real fix: exclusion, not extermination
+## The fix: exclusion, not extermination
 
 Here's the core of it. You do not solve a squirrel-in-the-attic problem by killing squirrels. Poison is a genuine mistake — it risks an animal dying inside a wall, and it does nothing about the hole that let it in, so the next squirrel simply moves into the vacancy. Trapping one animal ignores the rest and any litter. The problem isn't the individual squirrel; it's the **open building**.
 

@@ -26,7 +26,7 @@ faqs:
   - q: "Does BugBoss remove raccoons and squirrels in Gillett?"
     a: "Yes. Raccoons den in chimneys, torn soffits, and open outbuildings — especially females raising spring young — and squirrels chew into attics and cabins through weak roof edges. We remove the animals humanely, seal the entry points so they can't return, and clean up the mess they leave behind."
   - q: "How do mice get into Gillett houses and cabins?"
-    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage and cabin doors, and through block and fieldstone foundations. On a farm, feed and outbuildings add year-round pressure. Sealing the building is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime — around utility and pipe penetrations, at the sill plate, under garage and cabin doors, and through block and fieldstone foundations. On a farm, feed and outbuildings add year-round pressure. Sealing the building is the fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss handle wasps and hornets in Gillett?"
     a: "Yes. Paper wasps nest under eaves and soffits, yellowjackets set up in the ground and in barn and cabin voids, and bald-faced hornets build the big gray aerial nests in trees. By August the colonies are largest and most defensive, which is when most stings happen. We treat and remove the nest at the source."
   - q: "What areas around Gillett does BugBoss serve?"
@@ -63,7 +63,7 @@ Cluster flies are a near-universal fall problem here because their larvae parasi
 
 ### Winter (November–February): the payoff and the pests already inside
 
-By winter the outdoor invasion is over, and whatever got in during fall has the building to itself. Mice breed year-round once warm and fed, so a few in November becomes a real problem by February if the entries aren't closed — and in a feed room or an unheated cabin, that pressure compounds fast. A warm January day heats the wall voids and sends cluster flies back to the windows. Winter work in Gillett is mostly rodent exclusion, cleanup of the fall invaders, and planning the spring bat and wildlife exclusions whose timing is fixed months ahead.
+By winter the outdoor invasion is over, and whatever got in during fall has the building to itself. Mice breed year-round once warm and fed, so a few in November becomes a problem by February if the entries aren't closed — and in a feed room or an unheated cabin, that pressure compounds fast. A warm January day heats the wall voids and sends cluster flies back to the windows. Winter work in Gillett is mostly rodent exclusion, cleanup of the fall invaders, and planning the spring bat and wildlife exclusions whose timing is fixed months ahead.
 
 ## Gillett housing and building stock
 
@@ -75,7 +75,7 @@ And Gillett's **hunting and recreation cabins** are a category of their own. A c
 
 ## Geography and ecology: fields, forest, and flowage
 
-Gillett sits right on the seam between Oconto County's farm country and its northern forest, and that edge drives a wide pest range. The **fields and pastures** are the reservoir for cluster flies and rodents that reload every fall. The **woodlots and forest** to the north bring the carpenter ants, the [ticks](/pest-library/ticks/) that carry Lyme along brushy edges, and the steady wildlife pressure — squirrels, raccoons, and bats looking for a roofline. The **Oconto River system and the Machickanee Flowage** downstream add moisture and mosquitoes and give the county its fishing-and-recreation draw. And because so much local life happens outdoors — ATV trails, deer camps, the fairgrounds — people here spend real time in exactly the habitat where ticks and stinging insects live, which makes yard and cabin-edge control more than a cosmetic concern. The trail network that gives Gillett its ATV-capital reputation runs straight through brush and woodland edge, so a rider or a hunter can pick up ticks well away from the house and carry them home, and a yard program that pushes the tick line back from the lawn edge does real good for anyone who spends the season outdoors.
+Gillett sits right on the seam between Oconto County's farm country and its northern forest, and that edge drives a wide pest range. The **fields and pastures** are the reservoir for cluster flies and rodents that reload every fall. The **woodlots and forest** to the north bring the carpenter ants, the [ticks](/pest-library/ticks/) that carry Lyme along brushy edges, and the steady wildlife pressure — squirrels, raccoons, and bats looking for a roofline. The **Oconto River system and the Machickanee Flowage** downstream add moisture and mosquitoes and give the county its fishing-and-recreation draw. And because so much local life happens outdoors — ATV trails, deer camps, the fairgrounds — people here spend real time in exactly the habitat where ticks and stinging insects live, which makes yard and cabin-edge control more than a cosmetic concern. The trail network that gives Gillett its ATV-capital reputation runs straight through brush and woodland edge, so a rider or a hunter can pick up ticks well away from the house and carry them home, and a yard program that pushes the tick line back from the lawn edge does good for anyone who spends the season outdoors.
 
 Deer country also means [deer mice](/pest-library/deer-mice/), the rodent most associated with hantavirus in rural Wisconsin. That's why we clean cabins and outbuildings carefully rather than kicking up dust with a shop vac and a bare face.
 
@@ -87,7 +87,7 @@ On a rural or wooded lot the animals keep coming, so a trap alone never finishes
 
 ## Commercial and farm pest control in Gillett
 
-Gillett's commercial base is small but real — a downtown business strip, food service, the school district, and the fairgrounds — and the farms are businesses in their own right. Each needs documented, inspection-ready pest management. A restaurant needs rodent and fly control that passes inspection. A farm needs rodent exclusion and fly management coordinated across feed storage and outbuildings. BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the service records you need, and schedules discreetly. Because you deal with the owner directly, there's a real person accountable for the result.
+Gillett's commercial base is small but active — a downtown business strip, food service, the school district, and the fairgrounds — and the farms are businesses in their own right. Each needs documented, inspection-ready pest management. A restaurant needs rodent and fly control that passes inspection. A farm needs rodent exclusion and fly management coordinated across feed storage and outbuildings. BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the service records you need, and schedules discreetly. Because you deal with the owner directly, there's one person accountable for the result.
 
 ## Spiders, ground nests, and the rest of the Gillett picture
 

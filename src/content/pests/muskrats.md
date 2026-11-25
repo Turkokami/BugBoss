@@ -4,7 +4,7 @@ title: "Muskrats on Wisconsin Waterfront: Bank Burrows, Shoreline Collapse & Dam
 answer: "Muskrats dig bank burrows with hidden underwater entrances along the Waupaca Chain O' Lakes, the Wolf River, and area ponds, and their tunneling hollows out shorelines, undermines docks and boathouses, and threatens earthen dams. BugBoss removes muskrats and protects waterfront banks and structures, working within Wisconsin's nuisance-wildlife rules."
 faqs:
   - q: "How do I know if I have muskrats on my shoreline?"
-    a: "Look for a swimming animal leaving a narrow V-wake with a thin tail dragging behind, floating clipped cattail and vegetation, worn slides where the bank meets the water, and — the real tell — soft or sunken spots in the lawn near the shore. Muskrat burrow entrances sit underwater, so you rarely see the hole itself; you find the collapse it causes. A cave-in near a dock post or seawall is often the first obvious sign."
+    a: "Look for a swimming animal leaving a narrow V-wake with a thin tail dragging behind, floating clipped cattail and vegetation, worn slides where the bank meets the water, and — the tell — soft or sunken spots in the lawn near the shore. Muskrat burrow entrances sit underwater, so you rarely see the hole itself; you find the collapse it causes. A cave-in near a dock post or seawall is often the first obvious sign."
   - q: "Are muskrats the same as beavers?"
     a: "No. A muskrat is a rat-sized rodent, two to five pounds, with a thin, scaly, side-flattened tail. A beaver is far larger — thirty to seventy pounds — with a wide flat paddle tail, and beavers build dams and fell trees. Muskrats don't dam streams; their damage is bank burrowing that undermines shorelines, docks, and earthen dams from the inside. The two often share the same water, so it's worth confirming which one you have before you act. See our [beaver page](/pest-library/beavers/) for that animal."
   - q: "Why are muskrat burrows a problem for docks and boathouses?"
@@ -28,7 +28,7 @@ faqs:
   - q: "There are muskrats in my swimming pond — is that bad?"
     a: "It can be. In a small earthen-banked pond, muskrat burrowing can undermine the bank and, if the pond has an earthen dam or berm, threaten it with seepage. They also clear cattails and aquatic plants, which some pond owners actually want, but the trade-off is bank damage and murky, disturbed edges. Whether it's worth acting on depends on the pond's structure — a burrow in a dam berm is a very different matter from one in a natural low bank."
   - q: "Can I just fill in the muskrat holes myself?"
-    a: "Filling a visible cave-in without dealing with the animals or the underwater entrance rarely holds — the muskrats reopen the run or dig a new one, and loose fill in a dam can actually make seepage worse. On a dam or embankment the DNR's guidance is to excavate the burrow to eliminate all the voids and backfill in compacted layers, which is real earthwork, not a shovel of dirt. For anything beyond a natural low bank, get the animals out first, then repair properly."
+    a: "Filling a visible cave-in without dealing with the animals or the underwater entrance rarely holds — the muskrats reopen the run or dig a new one, and loose fill in a dam can actually make seepage worse. On a dam or embankment the DNR's guidance is to excavate the burrow to eliminate all the voids and backfill in compacted layers, which is earthwork, not a shovel of dirt. For anything beyond a natural low bank, get the animals out first, then repair properly."
   - q: "Does BugBoss handle muskrats on the Chain O' Lakes and the Wolf River?"
     a: "Yes. Shoreline muskrat work on the Waupaca Chain O' Lakes, the Wolf and Little Wolf and Embarrass rivers, and the ponds and dams around Waupaca County is part of our wildlife service. We locate the active burrows, remove the animals within Wisconsin's rules, and advise on protecting the bank, dock footings, boathouse, or dam so the problem doesn't simply return the following season."
 ---
@@ -61,7 +61,7 @@ Muskrats are active **year-round**, including all winter under the ice, which is
 
 **Spring**, right after ice-out, is when muskrat activity becomes visible again and when dispersing young from last year's litters are on the move looking for bank to claim. It's also when the winter's hidden damage first shows — the thaw softens the soil, and hollowed banks that held up under frozen ground start to slump and cave. Spring is the time a lot of lakefront owners open the cabin and discover a section of shoreline, a seawall, or a dock has shifted over the winter.
 
-**Summer** is peak breeding and peak feeding. Litters are being raised in the bank chambers, the animals are eating and digging hard, and burrow systems expand fastest. This is when a small, tolerated muskrat presence can turn into a real bank problem, especially on ponds and low earthen banks.
+**Summer** is peak breeding and peak feeding. Litters are being raised in the bank chambers, the animals are eating and digging hard, and burrow systems expand fastest. This is when a small, tolerated muskrat presence can turn into a bank problem, especially on ponds and low earthen banks.
 
 **Fall** brings the most obvious surface activity. Muskrats feed heavily and reinforce or extend their dens ahead of winter, so you'll see more swimming, more cut vegetation floating near shore, and more fresh digging. Fall is the ideal window to act, because you can find the active runs while the animals are working them, and get ahead of a winter's worth of under-ice tunneling.
 
@@ -101,7 +101,7 @@ The core of muskrat damage is **loss of bank integrity**. A hollowed bank is a w
 
 **Earthen dam and pond-berm failure — the serious one.** The DNR is explicit that muskrats tunnel into the **upstream face of embankment dams, typically starting six to eighteen inches below the waterline and angling upward** into the fill. Those burrows create **seepage pathways** through the embankment. Left alone, a seepage path can enlarge and "pipe," carrying soil out with the water and progressively weakening the dam until, in the worst case, it breaches. A dam breach is a safety and liability event, not a repair bill. This is why a muskrat in a dam is categorically different from a muskrat in a natural bank.
 
-**Injury and equipment risk.** A hidden void near the water's edge is a place for a person, a child, a pet, or a mower to break through — a real hazard on a steep bank or a dam crest.
+**Injury and equipment risk.** A hidden void near the water's edge is a place for a person, a child, a pet, or a mower to break through — a hazard on a steep bank or a dam crest.
 
 The disease angle exists — muskrats can carry giardia, and less commonly tularemia and leptospirosis, so nobody should handle them or let a dog mouth a carcass — but on a waterfront property the structural risk is what drives the urgency.
 
@@ -109,7 +109,7 @@ The disease angle exists — muskrats can carry giardia, and less commonly tular
 
 Homeowners try a predictable set of fixes on muskrats, and they fail for consistent, physical reasons.
 
-**Filling the holes.** The instinctive move is to shovel dirt into a visible cave-in. It rarely holds. The animals simply reopen the run or dig a fresh entrance, and — critically — on a **dam or berm**, dumping loose, uncompacted fill into a burrow can make the seepage problem *worse*, not better, because loose soil pipes even more readily than intact fill. Proper repair on an embankment means excavating the burrow to eliminate every void and backfilling in **compacted layers** with the surfaces scarified between lifts, which is real earthwork.
+**Filling the holes.** The instinctive move is to shovel dirt into a visible cave-in. It rarely holds. The animals simply reopen the run or dig a fresh entrance, and — critically — on a **dam or berm**, dumping loose, uncompacted fill into a burrow can make the seepage problem *worse*, not better, because loose soil pipes even more readily than intact fill. Proper repair on an embankment means excavating the burrow to eliminate every void and backfilling in **compacted layers** with the surfaces scarified between lifts, which is earthwork.
 
 **Trapping a few and stopping.** Muskrats breed fast and the shoreline refills. Pull two animals, leave the open burrows and the soft vegetated bank, and dispersing young move straight into the existing tunnels within weeks. Removal only lasts if it's paired with making the bank unattractive to the next muskrat.
 

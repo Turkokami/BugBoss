@@ -30,7 +30,7 @@ The first is **proximity**. The village is six miles north of 600 S. Main St. in
 
 The second is **the Embarrass River**. Riverside and low-lying property holds moisture longer than ground elsewhere in the county, and moisture is the underlying cause of a whole category of calls that people mistake for insect problems.
 
-## The moisture pests, and why they are not really pest problems
+## The moisture pests, and why they are not pest problems
 
 If your Embarrass basement produces [springtails](/pest-library/springtails/), [millipedes](/pest-library/millipedes/), [sowbugs](/pest-library/sowbugs-pillbugs/) or [centipedes](/pest-library/centipedes/) every spring, the useful thing to know is that **none of them can establish indoors unless it is damp.** They eat mold, algae and decaying plant matter. A thriving indoor population means a surface has been wet long enough to grow their food.
 

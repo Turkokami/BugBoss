@@ -2,13 +2,13 @@
 town: appleton
 pest: mosquitoes
 title: "Mosquito Control in Appleton, WI — the Ravines"
-answer: "Appleton's mosquito geography is not really the Fox River. It is the ravines and creek corridors cut into the city — shaded, damp, vegetated, and running right up to the back of residential lots. BugBoss comes down from Clintonville for scheduled work; a Fox Valley company will be faster for an emergency. What we treat is your harborage and your standing water, which is the part anybody can actually change."
+answer: "Appleton's mosquito geography is not the Fox River. It is the ravines and creek corridors cut into the city — shaded, damp, vegetated, and running right up to the back of residential lots. BugBoss comes down from Clintonville for scheduled work; a Fox Valley company will be faster for an emergency. What we treat is your harborage and your standing water, which is the part anybody can actually change."
 metaDescription: "Mosquito control in Appleton, WI — the ravines and creek corridors, not the Fox. Why a lot backing onto one runs worse, and why a lawn fog does little."
 faqs:
   - q: "Should I use a Clintonville company in Appleton at all?"
     a: "For planned seasonal work, yes, and we are straight about where the line falls. An Appleton or Fox Valley company will reach you sooner if you need somebody today. The reasons to use us are a program somebody actually walks rather than fogs, honesty about what will and will not work on your specific lot, and the fact that we do wildlife and exclusion as well — so one person covers the mosquitoes, the bats and the squirrel in the soffit. If speed is the priority, call someone closer."
   - q: "Is the Fox River the reason Appleton has mosquitoes?"
-    a: "Mostly not, and this surprises people. The Fox through Appleton moves fast through a gorge with locks and drops — that is poor mosquito habitat, because larvae cannot develop in current. The city's real mosquito geography is the ravine and creek network: the damp shaded corridors cut into the terrain, where water pools, vegetation is dense, and adults can sit out the day in cool shade a hundred feet from somebody's patio."
+    a: "Mostly not, and this surprises people. The Fox through Appleton moves fast through a gorge with locks and drops — that is poor mosquito habitat, because larvae cannot develop in current. The city's mosquito geography is the ravine and creek network: the damp shaded corridors cut into the terrain, where water pools, vegetation is dense, and adults can sit out the day in cool shade a hundred feet from somebody's patio."
   - q: "Why does my yard back onto a ravine and get hammered?"
     a: "Because a ravine supplies both halves of the problem at once. The bottom holds standing water in pockets after rain, and the sides are dense, shaded and humid, which is exactly where adult mosquitoes spend daylight. A lot backing onto a ravine or a creek corridor is adjacent to a permanent reservoir of harborage, and it will always run worse than a lot in the middle of a flat open block. That is topography, not anything you are doing wrong."
   - q: "What about the north-side creeks?"
@@ -18,7 +18,7 @@ faqs:
   - q: "Does spraying the lawn do anything?"
     a: "Very little, and it is the most commonly sold version of this service. Adults are not in open mown grass during the day. They are in cool shaded vegetation — shrub undersides, ground cover, tall grass at the lot line, the shaded side of the house and garage, the ravine or creek edge. That band is what a barrier treatment is for. If a company quotes you a yard fog without walking the property, they have not looked at where the mosquitoes are."
   - q: "How many treatments does a season need?"
-    a: "Fewer than monthly, done properly. Rain is the trigger: a real rainfall refills every container and low pocket at once and produces a hatch about a week later. A treatment landing in that window is worth two applied on a calendar. For most Appleton properties that means a handful of well-timed applications, plus the source reduction, rather than a standing visit."
+    a: "Fewer than monthly, done properly. Rain is the trigger: a soaking rainfall refills every container and low pocket at once and produces a hatch about a week later. A treatment landing in that window is worth two applied on a calendar. For most Appleton properties that means a handful of well-timed applications, plus the source reduction, rather than a standing visit."
   - q: "Do you do ticks on the same lot?"
     a: "On a ravine or creek-corridor property, usually yes, and often it matters more. The tick band and the mosquito harborage band are nearly the same line — where mown grass meets brush — so it is one pass. See the tick and Lyme yard program guide."
 ---
@@ -31,7 +31,7 @@ Before anything else: **we are not an Appleton company.** The shop is in Clinton
 
 The Fox through Appleton drops through a gorge with locks. It moves. **Larvae cannot complete development in moving water**, so the river is not the nursery.
 
-What the river does supply is humidity and shade, both of which let adult mosquitoes survive longer. That is a real effect and a secondary one.
+What the river does supply is humidity and shade, both of which let adult mosquitoes survive longer. That is an effect and a secondary one.
 
 ## The ravines are the actual story
 

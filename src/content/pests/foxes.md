@@ -18,7 +18,7 @@ faqs:
   - q: "Will a fox take my cat or small dog?"
     a: "It is uncommon but not impossible, and the risk is highest for very small pets, kittens, and small dogs left out unattended at night. Most adult cats are close enough to a fox in size that a fox will not engage — encounters between the two are usually stand-offs and mutual avoidance rather than predation. The sensible precautions are the ordinary ones for rural properties: bring small pets in at night, do not leave pet food outside, and supervise small dogs after dark, all of which also address coyotes."
   - q: "Are foxes useful to have around?"
-    a: "Genuinely, yes, and it is worth weighing before deciding to remove one. A single fox family eats an enormous number of mice, voles, rats, and rabbits over a season — a vixen feeding a litter is hunting almost constantly, and rodents make up the bulk of what she brings back. On a rural property that rodent suppression is real and valuable. Removing a resident fox also creates a vacancy that a new fox will fill within a season, so unless the specific conflict is resolved, removal often just changes which animal is there."
+    a: "Genuinely, yes, and it is worth weighing before deciding to remove one. A single fox family eats an enormous number of mice, voles, rats, and rabbits over a season — a vixen feeding a litter is hunting almost constantly, and rodents make up the bulk of what she brings back. On a rural property that rodent suppression is valuable. Removing a resident fox also creates a vacancy that a new fox will fill within a season, so unless the specific conflict is resolved, removal often just changes which animal is there."
   - q: "Is it legal to trap or remove a fox in Wisconsin?"
     a: "Red and gray foxes are native furbearing mammals in Wisconsin, and their trapping, handling, relocation, and dispatch are governed by state wildlife and furbearer regulation, including seasons and specific provisions for animals causing damage. These rules are worth following properly and they do change. Source: Wisconsin Department of Natural Resources furbearer and wildlife regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. We deal with the regulatory side as part of the work."
   - q: "How do I get a fox to move its den?"
@@ -41,7 +41,7 @@ Very often the honest answer is: **wait about six weeks and it will be gone on i
 
 That is not a way of avoiding the work. It is the answer that fits the biology. Fox dens under structures are overwhelmingly a spring event with a built-in end date. The vixen picks a sheltered void in March, the kits are born, they emerge and play through May, and by six to eight weeks they are mobile and moving out with the adults. The family abandons the natal den on its own. If the void is then closed properly, the problem is over permanently, and nothing needed removing.
 
-There are real conflicts that do need intervention — poultry losses, a den under an occupied building, a business that cannot have kits in the car park, an animal behaving abnormally — and this page covers those too. But the default response to a spring den is patience followed by exclusion, and any operator who leads with trapping is not giving you the full picture.
+There are conflicts that do need intervention — poultry losses, a den under an occupied building, a business that cannot have kits in the car park, an animal behaving abnormally — and this page covers those too. But the default response to a spring den is patience followed by exclusion, and any operator who leads with trapping is not giving you the full picture.
 
 ## What we have here
 
@@ -123,7 +123,7 @@ The exception worth knowing is **abnormal behavior** — staggering, circling, d
 
 **To pets: low but not zero.** Very small pets, kittens, and small dogs left out unattended at night carry some risk. Most adult cats are close enough in size that encounters are stand-offs rather than predation.
 
-**To poultry: real.** This is the conflict that matters, and it needs a physical solution.
+**To poultry, foxes are a direct threat.** This is the conflict that matters, and it needs a physical solution.
 
 **Disease:** foxes can carry rabies, mange, and parasites as any wild canid can. Mange is the one you are most likely to see, producing a patchy, thin, unwell-looking animal — worth reporting rather than approaching.
 
@@ -177,7 +177,7 @@ And the **benefit** deserves stating: a fox family eats a very large number of r
 
 ## When should you call BugBoss about foxes?
 
-Call when you find a **den under a structure** and want to know whether it needs anything — often the answer is reassuring, and the useful work is the sealing afterwards. Call when you are **losing poultry**, because that is a real conflict and the coop needs going over properly. Call if a fox is behaving **abnormally**. And call in **March**, before kits are born, if you know you have a void under the shed and want it closed before anything moves in — that is the cheapest version of this entire problem.
+Call when you find a **den under a structure** and want to know whether it needs anything — often the answer is reassuring, and the useful work is the sealing afterwards. Call when you are **losing poultry**, because that is a conflict and the coop needs going over properly. Call if a fox is behaving **abnormally**. And call in **March**, before kits are born, if you know you have a void under the shed and want it closed before anything moves in — that is the cheapest version of this entire problem.
 
 Brian handles fox work across the rural corridor — Clintonville, Marion, Tigerton, Embarrass, Bear Creek, Iola, Manawa, Waupaca, New London, Weyauwega, and the farmsteads and village properties between them — where open voids under outbuildings and backyard flocks put foxes and people in regular contact every spring.
 

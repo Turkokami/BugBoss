@@ -17,13 +17,13 @@ faqs:
   - q: "Can't I just wait for them to leave on their own?"
     a: "The mother will eventually move the kits once they're mobile, usually within a few weeks — but waiting has costs. In the meantime you can't safely use the fireplace, the animals may work their way into the smoke shelf or damper, the noise and smell build, and there's a risk a kit falls to a spot it can't climb out of. And once they leave, if you don't cap the chimney, next spring another raccoon uses it. Waiting doesn't solve anything permanently."
   - q: "Is a raccoon in the chimney dangerous?"
-    a: "There are real concerns. Raccoons can carry rabies and roundworm, their droppings are a health hazard, and a cornered raccoon is strong and defensive — not an animal to grab or corner yourself. There's also the fire and damper damage they can cause, and the risk of a raccoon or kit ending up in the firebox and then loose in the house. It's a job to handle carefully, not a DIY grab."
+    a: "There are concerns. Raccoons can carry rabies and roundworm, their droppings are a health hazard, and a cornered raccoon is strong and defensive — not an animal to grab or corner yourself. There's also the fire and damper damage they can cause, and the risk of a raccoon or kit ending up in the firebox and then loose in the house. It's a job to handle carefully, not a DIY grab."
   - q: "What is a chimney cap and why do I need one?"
     a: "A chimney cap is a metal cover with mesh sides that fits over the flue, letting smoke out while keeping animals, birds, rain, and debris out. It's the permanent fix — once the raccoons are out, capping the chimney is what stops the next one from moving in. An uncapped flue is an open invitation every spring. A properly fitted, sturdy cap is the whole difference between a one-time problem and an annual one."
   - q: "Why is my chimney so attractive to raccoons specifically?"
     a: "Because it mimics their preferred natural den — a large hollow tree — better than almost anything else on your house. It's tall, dark, dry, protected from weather and predators, and the flue gives good climbing purchase. Older masonry chimneys with open, uncapped flues are ideal. A female scouting for a place to raise kits will pick that over an exposed spot every time."
   - q: "Will the mother abandon her babies if disturbed?"
-    a: "A healthy mother raccoon is strongly bonded to her kits and will go to real lengths to recover and relocate them, which is exactly what humane eviction relies on — making the den unattractive so she moves them to a backup den herself. What breaks that is trapping or killing the mother separately, which strands the kits to starve. That's a big reason we handle mother-and-kits situations as a unit, not by removing the adult alone."
+    a: "A healthy mother raccoon is strongly bonded to her kits and will go to lengths to recover and relocate them, which is exactly what humane eviction relies on — making the den unattractive so she moves them to a backup den herself. What breaks that is trapping or killing the mother separately, which strands the kits to starve. That's a big reason we handle mother-and-kits situations as a unit, not by removing the adult alone."
   - q: "Do you clean up after the raccoons and repair the damage?"
     a: "Yes. After removal we clean and disinfect raccoon droppings and den debris from the smoke shelf and flue area — handled carefully because of the roundworm and disease concern — and address damage to the damper or flue where needed, then cap the chimney. Because we do wildlife removal and the exclusion repairs both, it's one company for the removal, the cleanup, and the permanent fix."
   - q: "Does BugBoss make me sign a contract for raccoon removal?"
@@ -38,13 +38,13 @@ That's the first thing to get right, and it leads straight to the second: **do n
 
 ## Why you must not light a fire
 
-It's the instinct everyone has and it's exactly wrong. The kits down there can't climb out — they're too young, that's the whole reason the mother chose a place she has to carry them in and out of. Light a fire or set off smoke and you don't evict anyone; you kill the young, frequently the mother too, and now you have **dead raccoons decomposing in your flue** — a severe odor problem, a real cleanup and disassembly job, and a smoke-logged house on top of it. Every year somebody learns this the hard way. Please don't be that call in June asking us to remove what a March fire left behind.
+It's the instinct everyone has and it's exactly wrong. The kits down there can't climb out — they're too young, that's the whole reason the mother chose a place she has to carry them in and out of. Light a fire or set off smoke and you don't evict anyone; you kill the young, frequently the mother too, and now you have **dead raccoons decomposing in your flue** — a severe odor problem, a cleanup and disassembly job, and a smoke-logged house on top of it. Every year somebody learns this the hard way. Please don't be that call in June asking us to remove what a March fire left behind.
 
 ## The timing: why it's almost always spring
 
 Wisconsin raccoons **mate in late winter — roughly January through March — and give birth to kits in April and May.** From birth through early summer, the mother needs a secure den to nurse and raise them, and that's the stretch when chimney calls flood in. So if it's spring or early summer and there's a raccoon in your chimney, the safe and usually correct assumption is that there are babies present, even if you've only seen or heard the adult. Handling it as a mother-and-kits situation from the start is what keeps the job humane and keeps you from stranding a litter you didn't know was there.
 
-## Is it really a raccoon?
+## Is it a raccoon?
 
 Weight and sound are the tells. Raccoons are big animals, and they sound like it — **substantial thumping, heavy scratching, and climbing**, not the light skittering of a squirrel or the flutter of birds. The giveaway in denning season is the **kits**: a chittering, crying, almost bird-like chorus coming from deep down in the flue, distinct from the lighter chittering of actual chimney birds like swifts up near the top. You'll also notice the mother's rhythm — leaving at dusk to forage, returning before dawn. Put that together and it's a raccoon den, not a stray.
 

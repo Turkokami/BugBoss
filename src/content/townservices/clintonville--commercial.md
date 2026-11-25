@@ -37,7 +37,7 @@ That is a proximity problem, and we are at **600 S. Main St.** It is also a cont
 
 **Rental and multi-unit property.** The most common failure here is scope rather than method — treating one unit at a time while the population moves through the shared walls. [Property management](/commercial-pest-control/property-management/).
 
-**Schools, care facilities and public buildings.** Sensitive populations, which means IPM in the real sense: monitoring, sanitation and exclusion first, low-impact targeted materials only when warranted, applied outside occupied hours. [Schools](/commercial-pest-control/schools-education/) and [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
+**Schools, care facilities and public buildings.** Sensitive populations, which means IPM in the sense: monitoring, sanitation and exclusion first, low-impact targeted materials only when warranted, applied outside occupied hours. [Schools](/commercial-pest-control/schools-education/) and [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
 
 **Manufacturing, warehousing and the ag buildings.** Around Clintonville this means machine shops and plants in town plus the grain storage, feed rooms, dairy parlors and pole barns beyond it. [Manufacturing](/commercial-pest-control/manufacturing/), [warehousing and distribution](/commercial-pest-control/warehousing-distribution/), and the [dairy farm guide](/guides/dairy-farm-pest-control/).
 

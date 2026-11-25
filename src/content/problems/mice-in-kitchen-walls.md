@@ -1,6 +1,6 @@
 ---
 title: "Mice in the Kitchen and Walls"
-answer: "Droppings behind the toaster and scratching in the wall at night mean mice have found the warmest, best-fed room in the house and the cavities around it. Cleaning and trapping the kitchen helps, but they're traveling in from entry points elsewhere. The real fix is finding those gaps and sealing them. BugBoss does the tracing and sealing across the Clintonville area."
+answer: "Droppings behind the toaster and scratching in the wall at night mean mice have found the warmest, best-fed room in the house and the cavities around it. Cleaning and trapping the kitchen helps, but they're traveling in from entry points elsewhere. The fix is finding those gaps and sealing them. BugBoss does the tracing and sealing across the Clintonville area."
 category: "Rodents"
 order: 3
 faqs:
@@ -10,14 +10,14 @@ faqs:
     a: "Very likely, if it's a light scratching or scurrying that moves along the wall and picks up after dark. Mice are nocturnal, so the noise starting in the evening fits. Scratching higher up or in the attic, or a heavier scampering, can mean squirrels or bats instead. The pattern, the timing, and what else you're finding tell us which."
   - q: "How do I know it's mice and not rats or squirrels?"
     a: "Size of the sign is the tell. Mouse droppings are rice-grain sized, a quarter inch, and you'll find scattered dozens of them; rat droppings are three-quarters of an inch and fewer. Squirrels are active in daylight and make heavier noise up high. Gnaw marks, the size of the greasy rub marks along runways, and where the sound comes from all point one way or another."
-  - q: "Is it enough to just clean the kitchen really well?"
+  - q: "Is it enough to just clean the kitchen well?"
     a: "It helps and it's worth doing, but it won't end it. Cleaning removes the easy food and slows them, but mice will still travel in from their nest in the wall or basement to forage, and a truly spotless kitchen still offers warmth and water. Cleaning plus trapping plus sealing the entry points is what actually clears them; cleaning alone just makes them work a little harder."
   - q: "How small a gap can a mouse fit through to get into the walls?"
     a: "About a quarter inch — the width of a pencil or the thickness of a dime. Once inside a wall cavity, mice travel freely up, down, and sideways through the framing, which is how they reach the kitchen from an entry point clear across the house. That's also why finding every gap matters: one overlooked opening keeps the whole network supplied."
   - q: "Where do mice get into a house to reach the kitchen?"
     a: "Common points: gaps where pipes and wires enter under the sink and behind appliances, the sill plate where the foundation meets the frame, garage-to-house doors and thresholds, gaps under exterior doors, dryer and utility vents, and foundation cracks. From any of those, the wall and floor cavities lead them to the kitchen. The entry point is often nowhere near where you're seeing droppings."
   - q: "Should I use poison bait for mice in my kitchen walls?"
-    a: "We're cautious with bait in a living space, especially in a kitchen or where there are kids and pets. A mouse that dies in a wall cavity from bait can create a real odor problem for weeks. In and around the home we lean on trapping and sealing, which is cleaner and lets us confirm results. Bait has its place, but it's not our first move inside a house."
+    a: "We're cautious with bait in a living space, especially in a kitchen or where there are kids and pets. A mouse that dies in a wall cavity from bait can create an odor problem for weeks. In and around the home we lean on trapping and sealing, which is cleaner and lets us confirm results. Bait has its place, but it's not our first move inside a house."
   - q: "Why do I get mice every fall even in a newer house?"
     a: "Because the fall cold-down pushes mice indoors everywhere, and even newer homes have the standard weak points — utility penetrations, garage thresholds, dryer vents, gaps behind kitchen and bath plumbing. Newer construction is tighter than an old farmhouse but rarely mouse-tight from the factory. The peak push is September through November, newer house or not."
   - q: "How do you find where they're getting in?"
@@ -38,13 +38,13 @@ Usually they're not. The kitchen is the **destination**, not the door. Mice get 
 
 BugBoss The X-Terminator works home rodent problems across Clintonville and the surrounding towns, out of the shop at 600 S. Main St. This page is about the house specifically — reading the signs, telling mice from the other things that scratch in walls, and fixing it at the source. It pairs with our [mice pest-library page](/pest-library/mice/) and our [residential pest control](/residential-pest-control/) service.
 
-## Is it really mice? Read the signs first
+## Is it mice? Read the signs first
 
 Before you fix anything, confirm what you've got, because the fix differs. A few tells:
 
 **Droppings** are the most reliable. Mouse droppings are about a quarter inch, dark, and pointed at the ends like a grain of rice, and mice leave a lot of them — scattered dozens along runways, in drawers, under the sink. If you're finding droppings three times that size and only a handful, you may be dealing with rats, which is a different page. 
 
-**Sound and timing** help too. Mice are nocturnal, so a light scratching or scurrying that starts once the house quiets in the evening fits. Heavier scampering up in the attic during the day leans toward squirrels; a soft rustling or chirping near a wall at dusk in summer can be bats. Where the sound is — down low along a first-floor wall versus up high in the ceiling — is a real clue.
+**Sound and timing** help too. Mice are nocturnal, so a light scratching or scurrying that starts once the house quiets in the evening fits. Heavier scampering up in the attic during the day leans toward squirrels; a soft rustling or chirping near a wall at dusk in summer can be bats. Where the sound is — down low along a first-floor wall versus up high in the ceiling — is a clue.
 
 **Other signs:** greasy rub marks along baseboards and openings where mice travel the same route repeatedly, gnaw marks on packaging and wood, shredded paper or insulation from nests, and a musky ammonia smell where activity is heavy. Put the signs together and the picture is usually clear.
 
@@ -70,7 +70,7 @@ And skip the ultrasonic plug-ins. Mice habituate to the sound within days and ne
 
 ## The BugBoss approach
 
-We start by inspecting the whole shell, inside and out — foundation and sill plate, every pipe and wire penetration, exterior doors and the garage, vents, the basement or crawlspace — and we read the interior signs to trace the runways back toward where the mice are entering. Rub marks and dropping trails map the route; they lead somewhere, and that somewhere is the real target.
+We start by inspecting the whole shell, inside and out — foundation and sill plate, every pipe and wire penetration, exterior doors and the garage, vents, the basement or crawlspace — and we read the interior signs to trace the runways back toward where the mice are entering. Rub marks and dropping trails map the route; they lead somewhere, and that somewhere is the target.
 
 Then we knock down the active population with a proper trapping setup placed on the runways, and we **seal the entry points** — from the accessible exterior and basement side, not by tearing into your finished kitchen walls. The gaps that matter are on the building shell, so that's where the work happens. We handle the surface cleanup of contaminated areas, and we follow up to confirm the traps have gone quiet and nothing new is getting in. If the inspection turns up something bigger — squirrels in the attic, bats, a raccoon — we handle that under [wildlife removal](/wildlife-removal/), since we do both sides.
 

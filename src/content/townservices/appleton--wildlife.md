@@ -37,7 +37,7 @@ Nearly every wildlife call we take in Appleton is booked as an animal problem an
 
 Remove the raccoon and the opening it tore stays open. That same gap is what the [squirrels](/pest-library/squirrels/) coming off the ravine trees will find in October, what the [wasps](/pest-library/wasps-hornets/) will build into next July, and the way every [cluster fly](/pest-library/cluster-flies/) and [lady beetle](/pest-library/asian-lady-beetles/) on the block gets in come September. The animal changes; the hole does not.
 
-One repair closes all of it. Which is why what we sell is not really removal — it is **getting the animals out, closing the building, and cleaning up what got left behind.**
+One repair closes all of it. Which is why what we sell is not removal — it is **getting the animals out, closing the building, and cleaning up what got left behind.**
 
 ## Telling them apart before anyone climbs
 

@@ -23,7 +23,7 @@ faqs:
   - q: "How fast does a landlord have to act?"
     a: "Wisconsin does not set a bed bug deadline, because it does not address bed bugs at all. The general standard is that repairs be made within a reasonable time, and what counts as reasonable scales with severity — bed bugs breed and spread, so weeks of delay is materially different from days. Practically, a landlord who moves within a week or two of a written report is on solid ground; one who does nothing for two months while the infestation reaches neighbouring units is not, and by then the cost has multiplied."
   - q: "Do neighbouring units have to be inspected?"
-    a: "They should be, and any treatment plan that skips them is not a real plan. Bed bugs travel through wall voids, along plumbing and electrical runs, and under doors, so by the time one unit reports them the adjacent units are frequently already involved — often without symptoms yet, because early infestations are easy to miss. Treating a single unit in a multi-unit building and declaring it solved is the single most common reason bed bugs come back. Only the landlord can authorise inspecting the neighbours, which is another reason this ends up being the landlord's problem to manage."
+    a: "They should be, and any treatment plan that skips them is not a plan. Bed bugs travel through wall voids, along plumbing and electrical runs, and under doors, so by the time one unit reports them the adjacent units are frequently already involved — often without symptoms yet, because early infestations are easy to miss. Treating a single unit in a multi-unit building and declaring it solved is the single most common reason bed bugs come back. Only the landlord can authorise inspecting the neighbours, which is another reason this ends up being the landlord's problem to manage."
   - q: "What preparation is the tenant responsible for?"
     a: "Usually a substantial amount, and it genuinely matters — a treatment fails without it. Typically that means laundering and bagging clothing and linens, emptying dressers and closets, pulling furniture away from walls, reducing clutter so harborage can be reached, and vacating for the required period. Your treatment provider will give a specific list. A tenant who cannot manage the prep — and elderly or disabled tenants often cannot — should say so early rather than let a scheduled treatment fail, because a failed treatment tends to be the thing that gets blamed on them."
   - q: "Should I throw out my mattress?"
@@ -92,7 +92,7 @@ It also reaches **hotels, motels, and short-term lodging**, where the exposure i
 
 **Report in writing, immediately.** Email or text, so it timestamps itself. Silence out of embarrassment is the most expensive thing a tenant can do here.
 
-**Prepare the unit** to the specification given. This is real work and the treatment fails without it.
+**Prepare the unit** to the specification given. This is work and the treatment fails without it.
 
 **Allow properly-noticed access**, including for follow-up visits.
 
@@ -108,7 +108,7 @@ It also reaches **hotels, motels, and short-term lodging**, where the exposure i
 
 **Civil claims** for habitability failures.
 
-**Spread, and cost.** The real penalty. A single unit treated promptly is a manageable job. The same infestation left for two months in a multi-unit building becomes a building-wide program costing many times more — and the landlord pays for that either way, because at that point nobody can argue any single tenant caused it.
+**Spread, and cost.** The penalty. A single unit treated promptly is a manageable job. The same infestation left for two months in a multi-unit building becomes a building-wide program costing many times more — and the landlord pays for that either way, because at that point nobody can argue any single tenant caused it.
 
 ## How BugBoss helps
 

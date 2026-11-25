@@ -1,7 +1,7 @@
 ---
 pest: grasshoppers
 title: "Grasshoppers in Northeast Wisconsin"
-answer: "Grasshoppers are a field and garden problem in Northeast Wisconsin, not a household one. They do not breed indoors, and numbers explode in hot dry summers because drought suppresses the fungal disease that normally crashes them. A yard treatment has real and specific limits on an exposed rural property, and it is worth knowing what they are before paying for one."
+answer: "Grasshoppers are a field and garden problem in Northeast Wisconsin, not a household one. They do not breed indoors, and numbers explode in hot dry summers because drought suppresses the fungal disease that normally crashes them. A yard treatment has specific limits on an exposed rural property, and it is worth knowing what they are before paying for one."
 faqs:
   - q: "Why are there so many grasshoppers this year?"
     a: "Weather, almost entirely. Grasshopper populations are normally held down by fungal pathogens that need humidity to spread, so a hot dry summer lets numbers climb that would otherwise have collapsed on their own. Two dry summers in a row give you the years people still talk about. A wet June does more for grasshopper control than anything anyone can spray, which is a frustrating fact but a useful one — it tells you the problem is cyclical rather than something you failed to prevent."
@@ -55,7 +55,7 @@ Eggs overwinter there and hatch the following spring. On a rural property the si
 
 Here is the honest division.
 
-**It can** protect a specific planting, knock down a heavy edge, and make a real difference if applied to the margin band **early**, while they are still nymphs and before they can fly well.
+**It can** protect a specific planting, knock down a heavy edge, and make a difference if applied to the margin band **early**, while they are still nymphs and before they can fly well.
 
 **It cannot** give you a grasshopper-free lawn in an outbreak year on an exposed property. Adults are strong fliers and reinvade continuously from surrounding land. A treated yard ringed by hay and roadside is being restocked daily, and no product changes that.
 

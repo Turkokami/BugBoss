@@ -15,13 +15,13 @@ faqs:
   - q: "Why are rats so much harder to trap than mice?"
     a: "Because they're neophobic — genuinely suspicious of anything new in their environment. Drop a baited trap in a rat runway and they'll avoid it for days. Effective rat trapping means placing unset traps first so they get used to them, using the right heavy traps in the right spots along established runways, and being patient and consistent. It's a technique, not a one-night job, which is why casual DIY trapping usually fails."
   - q: "Will poison bait get rid of the rats?"
-    a: "Bait has a real role in outbuilding rat control, used in proper tamper-resistant stations, but it isn't a standalone fix and it carries risks — secondary poisoning of barn cats, dogs, and raptors, and rats dying in inaccessible spots. We use it as part of a program alongside trapping, food removal, and sealing, and we place and manage it carefully. Bait alone, poorly placed, breeds bait-shy rats and hazards."
+    a: "Bait has a role in outbuilding rat control, used in proper tamper-resistant stations, but it isn't a standalone fix and it carries risks — secondary poisoning of barn cats, dogs, and raptors, and rats dying in inaccessible spots. We use it as part of a program alongside trapping, food removal, and sealing, and we place and manage it carefully. Bait alone, poorly placed, breeds bait-shy rats and hazards."
   - q: "What about the burrows outside the building?"
     a: "They're central to the job. Norway rats live in burrows along foundations, under slabs and concrete, and in junk and brush piles, and travel from there into the building to feed. If you only work the inside and ignore the burrows, the colony just keeps producing. We treat and collapse burrows, remove the harborage that shelters them, and trap the runways between burrow and feed."
   - q: "How do rats get into a pole barn or outbuilding?"
     a: "Low and by digging. They enter under doors, through gaps at the wall-to-slab joint, around penetrations, and by burrowing under the slab or foundation to come up inside. Rats can gnaw a small gap wider, so an opening that would just admit a mouse becomes a rat door over time. Sealing has to account for gnawing and digging, not just existing holes."
   - q: "Can rats damage the structure, not just the feed?"
-    a: "Yes. Their burrowing undermines slabs, foundations, and floors and can cause settling and cracking. They gnaw wiring — a fire risk — as well as wood, insulation, and stored equipment. Combine the structural burrowing, the wiring damage, and the contaminated feed, and rats cost a farm real money beyond the nuisance."
+    a: "Yes. Their burrowing undermines slabs, foundations, and floors and can cause settling and cracking. They gnaw wiring — a fire risk — as well as wood, insulation, and stored equipment. Combine the structural burrowing, the wiring damage, and the contaminated feed, and rats cost a farm money beyond the nuisance."
   - q: "How fast can a rat problem grow?"
     a: "Fast. Norway rats breed year-round when they're fed and sheltered, with several litters a year, so a couple of rats and a good food supply become a colony in months. That's why the response matters: a few rats noticed early is a much smaller job than an established colony with burrows all along the foundation. Sooner is cheaper and easier."
   - q: "Do you handle the whole job or just set traps?"
@@ -32,9 +32,9 @@ faqs:
 
 ## Rats are a different animal than mice — treat them like one
 
-When a farmer around here tells me they've got rats, the first thing I want to confirm is that it's actually rats, because the word gets used loosely. But when it's real — and on farms it often is — it's a bigger deal than a mouse problem, and it calls for a different, more aggressive approach. In Wisconsin, a rat in a farm building means one thing: the **Norway rat**, *Rattus norvegicus*, the heavy brown burrowing rat that has followed grain and livestock across the Midwest for two centuries. The climbing roof rat that plagues warmer states doesn't establish here in the cold, so we don't have to guess about the species — and knowing it's a Norway rat tells us exactly how it lives: burrowing low, along foundations and under slabs, not nesting up in the rafters.
+When a farmer around here tells me they've got rats, the first thing I want to confirm is that it's actually rats, because the word gets used loosely. But when it is rats — and on farms it often is — it's a bigger deal than a mouse problem, and it calls for a different, more aggressive approach. In Wisconsin, a rat in a farm building means one thing: the **Norway rat**, *Rattus norvegicus*, the heavy brown burrowing rat that has followed grain and livestock across the Midwest for two centuries. The climbing roof rat that plagues warmer states doesn't establish here in the cold, so we don't have to guess about the species — and knowing it's a Norway rat tells us exactly how it lives: burrowing low, along foundations and under slabs, not nesting up in the rafters.
 
-BugBoss The X-Terminator handles rat work on farms and outbuildings across Waupaca, Shawano, and the surrounding counties. This page lays out how to know you've got rats, why they're worse than mice, and what a real fix looks like. On a working livestock or dairy operation it ties into the broader program in our [dairy farm pest control guide](/guides/dairy-farm-pest-control/), and it pairs with our [rats pest-library page](/pest-library/rats/).
+BugBoss The X-Terminator handles rat work on farms and outbuildings across Waupaca, Shawano, and the surrounding counties. This page lays out how to know you've got rats, why they're worse than mice, and what a lasting fix looks like. On a working livestock or dairy operation it ties into the broader program in our [dairy farm pest control guide](/guides/dairy-farm-pest-control/), and it pairs with our [rats pest-library page](/pest-library/rats/).
 
 ## Rats or big mice? Confirm it first
 
@@ -50,11 +50,11 @@ And it grows fast. Norway rats breed year-round when they're fed and sheltered, 
 
 ## Why they cost you more than mice
 
-A rat colony hits a farm three ways at once. **Feed:** rats eat and, worse, contaminate far more than mice, fouling stored grain and feed with urine and droppings and rendering it unfit. **Structure:** their burrowing undermines slabs, foundations, and floors, causing settling and cracks, and they gnaw wood, insulation, and stored equipment. **Fire and disease:** they chew wiring, a genuine ignition risk in a building full of dry feed and fuel, and they carry disease and parasites that matter around livestock. Add it up and rats are a real cost, not a nuisance to shrug at.
+A rat colony hits a farm three ways at once. **Feed:** rats eat and, worse, contaminate far more than mice, fouling stored grain and feed with urine and droppings and rendering it unfit. **Structure:** their burrowing undermines slabs, foundations, and floors, causing settling and cracks, and they gnaw wood, insulation, and stored equipment. **Fire and disease:** they chew wiring, a genuine ignition risk in a building full of dry feed and fuel, and they carry disease and parasites that matter around livestock. Add it up and rats are a cost, not a nuisance to shrug at.
 
 ## Why farms out here are the setting for it
 
-Rats are less widespread in rural Wisconsin than mice — you don't find Norway rats in every woodlot the way you find deer mice — but where they do turn up, it's on farms, and the reason is concentration. A rat colony needs a dense, reliable resource base to establish, and a working livestock or grain operation supplies it in one place: bunks of feed, spilled grain, waterers running year-round, manure, and warm animal housing. That's a far richer, steadier setup than the scattered living a mouse gets by on, and it's what lets a rat population take hold and grow to real numbers.
+Rats are less widespread in rural Wisconsin than mice — you don't find Norway rats in every woodlot the way you find deer mice — but where they do turn up, it's on farms, and the reason is concentration. A rat colony needs a dense, reliable resource base to establish, and a working livestock or grain operation supplies it in one place: bunks of feed, spilled grain, waterers running year-round, manure, and warm animal housing. That's a far richer, steadier setup than the scattered living a mouse gets by on, and it's what lets a rat population take hold and grow to numbers.
 
 The building stock cooperates too. Older farmsteads accumulate outbuildings over generations — the original barn, a machine shed, a granary, a milkhouse, add-on lean-tos — many on aging slabs and foundations with plenty of low gaps and undermined edges to burrow beneath. Add the junk and equipment that collect around a long-running farm, and you've got harborage everywhere. A tidy, well-fed dairy can get rats as readily as a run-down place; it comes down to whether the feed is contained and the harborage is cleared, not to how clean the yard looks.
 
@@ -86,7 +86,7 @@ We start with a full inspection to map burrows, runways, and entry points, then 
 
 1. **Confirm rats rather than large mice.** Droppings the size of an olive pit, a thick scaly tail shorter than the body, and smooth worn burrow entrances along a foundation.
 
-2. **Find the burrows.** Rats live outside the building and commute in, so the burrow system along the foundation, under the slab or beneath a pallet stack is the real target.
+2. **Find the burrows.** Rats live outside the building and commute in, so the burrow system along the foundation, under the slab or beneath a pallet stack is the target.
 
 3. **Cut the food off first.** Spilled grain, open feed, pet food and an unmanaged compost pile will out-compete any bait or trap you set.
 

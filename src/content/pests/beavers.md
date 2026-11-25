@@ -13,7 +13,7 @@ faqs:
     a: "To a beaver, the sound and feel of water rushing through a culvert is exactly the signal that says 'plug this' — a constriction with flowing water is a natural dam site. They'll pack a culvert with sticks, mud, and debris overnight and rebuild it as fast as you clear it. Clearing the culvert over and over is a losing game; the durable fix is a culvert-protection fence or a flow device that stops the culvert from triggering their damming instinct."
   - q: "How do beavers flood a field or road?"
     a: "A beaver dam raises the water level upstream of it. On the flat glacial terrain around here, even a modest dam can back water up a long way, spreading it out over low fields, woodlots, driveways, and road ditches, and saturating ground that used to drain. When the dam sits at a culvert or bridge, it can flood the road itself and threaten the crossing. The flooding is a direct function of dam height, so managing the water level is central to the fix."
-  - q: "Can beavers really kill my trees?"
+  - q: "Can beavers kill my trees?"
     a: "Yes. Beavers fell trees for food and dam material, and they especially favor aspen, poplar, willow, alder, and birch — but they'll take valuable and ornamental hardwoods near the water too. A beaver can girdle or drop a good-sized tree in a single night, and they work through a shoreline's trees steadily. Wrapping the trunks of trees you want to keep is the reliable protection; a felled mature tree doesn't grow back."
   - q: "What is a pond leveler or flow device?"
     a: "It's a pipe system — the Clemson Beaver Pond Leveler is the classic design — run through a beaver dam to carry water past it in a way the beavers can't easily detect or plug. Because beavers respond to the sound and sensation of flowing water, a well-designed device pipes the water through quietly, holding the pond at a set level without triggering constant repair. In the right situation it lets the beavers stay while ending the flooding, which is sometimes the best outcome."
@@ -26,7 +26,7 @@ faqs:
   - q: "Will beavers damage my dock, boathouse, or shoreline?"
     a: "They can. Beavers burrow into banks as well as build lodges, and their bank dens and canals can undermine a shoreline near a dock or boathouse. More commonly on a developed lakefront, the damage is felled shoreline trees and raised water levels from a downstream dam. On the Chain O' Lakes and the Wolf River their impact is usually trees and water level; the bank-burrowing shoreline collapse is more often a [muskrat](/pest-library/muskrats/) issue."
   - q: "Is it worth trying to keep the beavers and just manage the water?"
-    a: "Sometimes, yes. Beaver ponds create valuable wetland and wildlife habitat, and if the only problem is water level, a flow device can hold the pond where you want it and let the beavers stay. That's a real option we'll lay out when the site allows it. But when beavers are flooding a road, threatening a crossing, or steadily destroying valuable trees, removal is usually the practical answer. It depends on what's actually being damaged."
+    a: "Sometimes, yes. Beaver ponds create valuable wetland and wildlife habitat, and if the only problem is water level, a flow device can hold the pond where you want it and let the beavers stay. That's an option we'll lay out when the site allows it. But when beavers are flooding a road, threatening a crossing, or steadily destroying valuable trees, removal is usually the practical answer. It depends on what's actually being damaged."
   - q: "How fast can beavers cause damage?"
     a: "Faster than most people expect. A pair or family can build a substantial dam in a few nights, plug a cleared culvert overnight, and fell a mature tree between dusk and dawn. Water that was in the channel last week can be standing in your field this week. That speed is exactly why waiting to 'see if it gets worse' usually just means a bigger dam, higher water, and more lost trees by the time you call."
   - q: "Does BugBoss work on beaver problems along the Wolf River and county streams?"
@@ -57,7 +57,7 @@ They build **dams** to create the deep, stable pond they need for safety, food s
 
 Beavers are strict **herbivores**. In the growing season they eat aquatic plants, grasses, and leaves; in fall and winter they rely on the **bark and cambium of trees**, favoring **aspen (poplar), willow, alder, and birch**, and they cache branches underwater near the lodge to eat under the ice. They generally leave large pines and old-growth alone, but they will absolutely take valuable ornamental and landscape hardwoods near the water. A beaver can girdle or fell a good-sized tree in a single night, and a colony works steadily through a shoreline's trees over a season. The felling serves double duty — food and dam material — which is why tree loss and dam-building always go together.
 
-Beavers are active **year-round** and do not hibernate. They're busiest in **fall**, stockpiling food and reinforcing dams and lodges before freeze-up, which is when tree-cutting and dam-building peak. Under the ice they live on their cache and keep the lodge maintained. That year-round activity means beaver damage, like the animal itself, never really takes the winter off.
+Beavers are active **year-round** and do not hibernate. They're busiest in **fall**, stockpiling food and reinforcing dams and lodges before freeze-up, which is when tree-cutting and dam-building peak. Under the ice they live on their cache and keep the lodge maintained. That year-round activity means beaver damage, like the animal itself, never takes the winter off.
 
 ## The season on the water here
 
@@ -101,7 +101,7 @@ Beaver damage falls into a few clear categories, and they compound.
 
 **Standing water and its knock-on effects.** A new beaver pond is also new mosquito habitat and can alter drainage well beyond the immediate flooding, affecting neighbors and downstream landowners. That's part of why beaver conflicts often pull in more than one property.
 
-Beavers can carry giardia (the "beaver fever" association is real), so their ponds are a reason not to drink untreated surface water, but as with muskrats the practical risk on a property is overwhelmingly the water and the trees, not disease.
+Beavers can carry giardia (the "beaver fever" association is accurate), so their ponds are a reason not to drink untreated surface water, but as with muskrats the practical risk on a property is overwhelmingly the water and the trees, not disease.
 
 ## Why doesn't DIY work on beavers?
 
@@ -121,7 +121,7 @@ Beaver problems defeat casual efforts for reasons rooted in the animal's biology
 
 We handle beaver conflicts as one job, matched to what's actually being damaged, and squarely within Wisconsin's rules.
 
-**Inspect and diagnose.** First we confirm it's a beaver and map the situation — the dam or dams, the flooding footprint, the lodge or bank dens, the trees at risk, and whether a road or public culvert is in play, which changes who needs to be involved. We figure out what the real objective is: end the flooding, save the trees, protect the crossing, or all three.
+**Inspect and diagnose.** First we confirm it's a beaver and map the situation — the dam or dams, the flooding footprint, the lodge or bank dens, the trees at risk, and whether a road or public culvert is in play, which changes who needs to be involved. We figure out what the objective is: end the flooding, save the trees, protect the crossing, or all three.
 
 **Sort out the regulatory picture.** We work within the framework: dams can be removed without a permit provided the streambed isn't disturbed; a landowner and family can trap or shoot beaver year-round on their own property without a license; explosives on a lodge need written DNR authorization; and public-infrastructure conflicts go through the town, county, DNR, or **USDA Wildlife Services**. We handle the coordination so the work is lawful, including contacting the local wildlife conservation warden where that's the right step.
 

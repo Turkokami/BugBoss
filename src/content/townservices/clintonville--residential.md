@@ -30,7 +30,7 @@ For pest work, Clintonville is not one place. It is three, and which one your ho
 
 **The mid-century neighborhoods.** Tighter shells, simpler rooflines, and generally a much easier building to seal. Their weak points are predictable rather than pervasive: the attached garage that was never sealed at the slab joint, soffit vents whose screening has failed, the utility penetrations behind the meter, and window seals that have given up after fifty winters.
 
-**The farm properties on the edge of town.** Here the house is not really the problem. The field, the outbuildings, and the feed are, and any work that stops at the back door will get undone by the pole barn within a season.
+**The farm properties on the edge of town.** Here the house is not the problem. The field, the outbuildings, and the feed are, and any work that stops at the back door will get undone by the pole barn within a season.
 
 We are based at **600 S. Main St.**, which means we know which of the three you are in before we get there.
 

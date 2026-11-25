@@ -30,7 +30,7 @@ faqs:
 
 A woodpecker hammering the same patch of your siding every morning is not being random. It is doing one of three things, and the fix depends entirely on which.
 
-**Feeding.** It can hear insect larvae inside the wood and is excavating to reach them. In Northeast Wisconsin the usual target is **carpenter bee larvae** — the bees drill neat round galleries in bare softwood, the grubs develop inside, and the birds hear them. Feeding damage looks irregular and follows the tunnels, often opening a tidy half-inch hole into a ragged trench several inches long. This is the version that does real structural harm, and on most carpenter bee jobs the woodpecker damage costs more to repair than the bees caused.
+**Feeding.** It can hear insect larvae inside the wood and is excavating to reach them. In Northeast Wisconsin the usual target is **carpenter bee larvae** — the bees drill neat round galleries in bare softwood, the grubs develop inside, and the birds hear them. Feeding damage looks irregular and follows the tunnels, often opening a tidy half-inch hole into a ragged trench several inches long. This is the version that does structural harm, and on most carpenter bee jobs the woodpecker damage costs more to repair than the bees caused.
 
 **Drumming.** A fast, rhythmic, surprisingly loud tapping on something resonant — metal flashing, a gutter, a downspout, a hollow spot in siding. This is territorial and mating display, peaks in spring, and does little or no damage. It is a noise problem, usually at six in the morning.
 

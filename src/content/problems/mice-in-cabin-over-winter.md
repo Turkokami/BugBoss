@@ -19,7 +19,7 @@ faqs:
   - q: "How small a gap does a mouse need to get into a cabin?"
     a: "About a quarter inch — the width of a pencil. If the skull fits, the mouse follows. Older cabins on block or pier foundations, with log or plank walls and add-on rooms, are full of quarter-inch gaps at the sill, around penetrations, and where sections meet. That's why sealing has to be thorough; one missed gap is an open door."
   - q: "What damage can mice do to a cabin sitting empty all winter?"
-    a: "More than droppings. They chew wiring — a fire risk in an unoccupied building nobody's watching — shred insulation and upholstery for nests, get into stored linens and mattresses, and leave urine and droppings through cabinets and drawers. A single fall's worth of mice, breeding undisturbed till spring, can leave a real mess and real repairs behind."
+    a: "More than droppings. They chew wiring — a fire risk in an unoccupied building nobody's watching — shred insulation and upholstery for nests, get into stored linens and mattresses, and leave urine and droppings through cabinets and drawers. A single fall's worth of mice, breeding undisturbed till spring, can leave a mess and repairs behind."
   - q: "When's the best time to mouse-proof a seasonal cabin?"
     a: "At closing, in early fall, before the cold-weather push that peaks September through November. Seal and clear the cabin when you shut it down for the season and you head off the move-in entirely. If you wait until spring you're cleaning up after the fact instead of preventing it."
   - q: "Can you seal my cabin when I'm not able to be there?"

@@ -14,7 +14,7 @@ faqs:
   - q: "There are neat rows of small holes in my siding — what is that?"
     a: "Evenly spaced horizontal rows of shallow holes are the signature of the yellow-bellied sapsucker, which drills 'wells' to feed on sap and the insects it attracts. On a house that pattern usually appears on wood siding and trim. It's different from the ragged, deeper excavation of a bird digging for borers or a nest cavity, and it points to a specific control approach."
   - q: "Does woodpecker damage mean I have an insect problem in my siding?"
-    a: "Often, yes — and this is the most important thing to check. When a woodpecker returns again and again to the same area and digs deep, ragged holes, it's usually mining wood-boring insect larvae it can hear inside the wood. Treating only the bird leaves the food source in place, so the pecking continues. Finding and fixing the insect problem is frequently the real solution."
+    a: "Often, yes — and this is the most important thing to check. When a woodpecker returns again and again to the same area and digs deep, ragged holes, it's usually mining wood-boring insect larvae it can hear inside the wood. Treating only the bird leaves the food source in place, so the pecking continues. Finding and fixing the insect problem is frequently the solution."
   - q: "Can I just fill the holes and repaint?"
     a: "You should repair the holes — open damage lets in water, rot, and more insects, and it can invite the bird back to an easy spot — but repair alone rarely stops the behavior if the underlying cause remains. If there are borers in the wood or a resonant surface the bird likes, it will simply work a new spot. Repair is part of the fix, not the whole fix."
   - q: "What kind of deterrents actually work on woodpeckers?"
@@ -24,7 +24,7 @@ faqs:
   - q: "Why does the woodpecker keep coming back after I chase it off?"
     a: "Because the reason it's there hasn't changed. If it's drumming, the resonant surface is still there; if it's feeding, the insects are still in the wood; if it's nesting, the soft cavity site is still available. Shooing a bird off treats the moment, not the cause. Durable results come from removing the attractant and deterring the specific spot, which is what a proper job does."
   - q: "Is a woodpecker hole in my house a fire or structural risk?"
-    a: "Not usually a fire risk, but the damage is real. Open holes and excavated cavities let in water, which leads to rot and further insect activity, and a nest cavity in the wall can mean weeks of enlargement and a mess of wood debris. Left alone across seasons, repeated woodpecker work on fascia, trim, and siding turns into meaningful repair costs and a recurring problem."
+    a: "Not usually a fire risk, but the damage matters. Open holes and excavated cavities let in water, which leads to rot and further insect activity, and a nest cavity in the wall can mean weeks of enlargement and a mess of wood debris. Left alone across seasons, repeated woodpecker work on fascia, trim, and siding turns into meaningful repair costs and a recurring problem."
   - q: "Can BugBoss remove a woodpecker from my house?"
     a: "We can't lethally remove or trap a native woodpecker — that's federally illegal without a permit — and that's not the right tool anyway. What we do is legal and more effective: identify why the bird is there, deter it from the target area, treat any wood-boring insect problem feeding it, and advise on repair and exclusion so the behavior stops and doesn't return."
   - q: "Do woodpeckers damage barns and outbuildings too?"
@@ -39,7 +39,7 @@ A woodpecker on the house is a genuinely different kind of pest problem, and und
 
 There's a second fact that shapes every woodpecker job in a way most pests don't: **native woodpeckers are federally protected**. Under the Migratory Bird Treaty Act, it is illegal to kill, trap, or harm them, or to destroy an active nest, without a federal permit. That isn't a technicality — it means the entire toolkit is **legal deterrence, exclusion, insect control, and repair**, never removal in the sense of trapping or dispatching the animal. Anyone who offers to "get rid of" a woodpecker by killing it is offering to break federal law and, worse, isn't addressing what actually drew the bird. BugBoss works entirely inside the law, and it happens that the lawful approach is also the effective one.
 
-The Clintonville area is prime woodpecker country. This is a landscape of woodlots, field-and-forest edges, and older buildings, and a great deal of the housing and farm stock is clad or trimmed in **cedar and other wood siding** — a material woodpeckers find both easy to drill and, frequently, full of the insects they eat. Put a wood-sided house at a woodland edge and you've built something close to ideal woodpecker habitat. Because BugBoss does **both pest control and wildlife work**, we can do the thing most bird-scaring outfits can't: find and treat the [wood-boring insects](/pest-library/carpenter-ants/) that are often the real reason the bird won't leave.
+The Clintonville area is prime woodpecker country. This is a landscape of woodlots, field-and-forest edges, and older buildings, and a great deal of the housing and farm stock is clad or trimmed in **cedar and other wood siding** — a material woodpeckers find both easy to drill and, frequently, full of the insects they eat. Put a wood-sided house at a woodland edge and you've built something close to ideal woodpecker habitat. Because BugBoss does **both pest control and wildlife work**, we can do the thing most bird-scaring outfits can't: find and treat the [wood-boring insects](/pest-library/carpenter-ants/) that are often the reason the bird won't leave.
 
 ## Identification: which woodpecker, and why it matters
 
@@ -65,11 +65,11 @@ Every woodpecker-on-a-house problem traces back to one of three behaviors, and s
 
 Woodpecker pressure on Northeast Wisconsin homes concentrates in two windows, with a low background hum in between.
 
-**Spring (April–June)** is the loud season. Territorial **drumming** peaks as males stake out breeding territory — this is when the dawn hammering on the chimney cap and gutters drives people out of bed — and **nest excavation** happens as pairs dig cavities. Damage from spring is a mix of cosmetic scarring on resonant surfaces and real cavity damage in soft wood.
+**Spring (April–June)** is the loud season. Territorial **drumming** peaks as males stake out breeding territory — this is when the dawn hammering on the chimney cap and gutters drives people out of bed — and **nest excavation** happens as pairs dig cavities. Damage from spring is a mix of cosmetic scarring on resonant surfaces and cavity damage in soft wood.
 
 **Summer (July–August)** is relatively quiet on the structural front once nesting winds down, though feeding on borers can continue any time the birds detect larvae, and young birds dispersing may test new surfaces.
 
-**Fall (September–November)** is the second peak. Birds excavate **roost holes** for winter shelter, and feeding activity on wood-borers often intensifies as the birds work harder for food heading into cold weather. Fall damage is easy to overlook because it lacks the noisy drumming of spring, but the excavation is just as real.
+**Fall (September–November)** is the second peak. Birds excavate **roost holes** for winter shelter, and feeding activity on wood-borers often intensifies as the birds work harder for food heading into cold weather. Fall damage is easy to overlook because it lacks the noisy drumming of spring, but the excavation does just as much damage.
 
 **Winter (December–March)** sees resident downy, hairy, red-bellied, and pileated woodpeckers stay active. They'll use roost cavities they dug in fall and continue feeding on insects in wood and at feeders, so a fresh hole can appear on a mild winter day.
 
@@ -103,7 +103,7 @@ Alongside the damage itself, you'll often **hear the bird** (the drumming or the
 
 ## The risks and the damage
 
-Woodpecker damage isn't a health hazard the way a [raccoon](/pest-library/raccoons/) latrine is, but the structural and financial toll is real and compounding.
+Woodpecker damage isn't a health hazard the way a [raccoon](/pest-library/raccoons/) latrine is, but the structural and financial toll keeps compounding.
 
 **Water intrusion and rot.** Every hole and cavity is a way in for water. Once moisture gets behind siding or into fascia and trim, you get rot — which softens the wood further, which attracts more borers, which draws more woodpeckers. Left unrepaired across seasons, a few holes become a maintenance problem that spreads.
 
@@ -113,7 +113,7 @@ Woodpecker damage isn't a health hazard the way a [raccoon](/pest-library/raccoo
 
 **The insect problem underneath.** Where feeding is the cause, the woodpecker damage is a warning sign of an active wood-borer infestation that is itself damaging your structure. Ignoring it means letting both the birds and the insects keep working. This is precisely where the value of a combined pest-and-wildlife company shows up.
 
-**Cosmetic and quality-of-life costs.** Dented flashing, scarred cedar, and dawn drumming that wakes the household are real nuisances even when the structural stakes are lower.
+**Cosmetic and quality-of-life costs.** Dented flashing, scarred cedar, and dawn drumming that wakes the household are nuisances even when the structural stakes are lower.
 
 ## Why doesn't DIY work on woodpeckers?
 

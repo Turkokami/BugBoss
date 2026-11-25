@@ -10,7 +10,7 @@ faqs:
   - q: "How did a snake get into my basement?"
     a: "Through the same ground-level gaps that let in mice: an unsealed sill plate, cracks in a block or fieldstone foundation, gaps around pipe and wire penetrations, unscreened floor drains, poorly fitted basement windows and window wells, and the space under an out-of-plumb bulkhead door. A snake following a mouse trail will use any opening the mouse used. In older farmhouses those openings are everywhere."
   - q: "Are garter snakes dangerous to my kids or pets?"
-    a: "No. Garter snakes are non-venomous and not aggressive; a cornered one may release a foul-smelling musk or give a harmless nip, but there is no medical danger. They are among the most beneficial animals on a rural property, eating slugs, insects, mice, and voles. The real reason to remove one is peace of mind, not danger — and BugBoss will do that without harming a beneficial animal."
+    a: "No. Garter snakes are non-venomous and not aggressive; a cornered one may release a foul-smelling musk or give a harmless nip, but there is no medical danger. They are among the most beneficial animals on a rural property, eating slugs, insects, mice, and voles. The reason to remove one is peace of mind, not danger — and BugBoss will do that without harming a beneficial animal."
   - q: "Is it a garter snake or something to worry about?"
     a: "The common Wisconsin garter snake has three light stripes running the length of a dark body — one down the spine and one along each side. It is slender, usually under three feet, and active by day. Northern water snakes near lakes and rivers are heavier-bodied and blotched and are sometimes mistaken for something dangerous, but they are also non-venomous. When in doubt, don't handle it — let us identify and remove it."
   - q: "How do I keep snakes out of the basement for good?"
@@ -97,15 +97,15 @@ Snakes are secretive, so you often infer them from evidence rather than sighting
 
 **A concurrent rodent problem** is a supporting sign; where you're finding mouse droppings, gnaw marks, and nests, you have the food that draws and holds snakes. **Snake scat** (dark, with a chalky white urate portion, often containing fur or bone fragments) may turn up in a basement or outbuilding. And in older homes, **snakes turning up inside** at all is itself the signal that ground-level gaps connect the outside to your living or storage space.
 
-## The real risks — and the ones that aren't
+## The risks — and the ones that aren't
 
 Let's be accurate about risk, because snakes attract more fear than they earn and the actual concerns are worth knowing.
 
 **Venom is not a concern in this area.** As covered above, no venomous snake occurs in the Clintonville region. A bite from a garter or water snake is a minor, non-venomous nip — an antiseptic-and-a-bandage matter, not a medical emergency — and it only happens if you handle or corner the animal.
 
-**The genuine concerns are practical and psychological.** Snakes in living or work spaces are a real quality-of-life problem — people avoid basements, dread the laundry, and worry about kids and pets. That stress is legitimate even though the animal is harmless. There's a modest **sanitation** angle where snakes are denning indoors (droppings and sheds), and, as with any wildlife, keeping snakes and their handling away from the household is sensible hygiene. A cornered snake's **defensive musk** is foul but harmless.
+**The genuine concerns are practical and psychological.** Snakes in living or work spaces are a quality-of-life problem — people avoid basements, dread the laundry, and worry about kids and pets. That stress is legitimate even though the animal is harmless. There's a modest **sanitation** angle where snakes are denning indoors (droppings and sheds), and, as with any wildlife, keeping snakes and their handling away from the household is sensible hygiene. A cornered snake's **defensive musk** is foul but harmless.
 
-**The most important risk is what the snakes are telling you.** A snake indoors is proof of two things: open ground-level entry points, and, usually, a rodent population feeding them. Both of those matter in their own right. The mice the snake is hunting bring their own contamination, wiring damage, and — with deer mice on farms and cabins — hantavirus concern. In that sense, taking snakes seriously is really taking your building envelope and your rodent problem seriously. The snake is the messenger.
+**The most important risk is what the snakes are telling you.** A snake indoors is proof of two things: open ground-level entry points, and, usually, a rodent population feeding them. Both of those matter in their own right. The mice the snake is hunting bring their own contamination, wiring damage, and — with deer mice on farms and cabins — hantavirus concern. In that sense, taking snakes seriously is taking your building envelope and your rodent problem seriously. The snake is the messenger.
 
 There's no meaningful structural damage from snakes themselves — they don't gnaw, dig their own tunnels, or chew wiring. The damage angle is entirely about the **rodents and the open envelope** that the snake's presence reveals.
 

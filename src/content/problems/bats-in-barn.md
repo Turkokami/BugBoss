@@ -15,14 +15,14 @@ faqs:
     a: "Usually big brown bats and little brown bats, the same two species that use house attics. Little brown bats form the larger maternity colonies you'll often find in a barn peak or loft; big browns are common too and more likely to overwinter in a structure. Both are protected in Wisconsin and both were affected by white-nose syndrome, so the humane exclusion approach is the same regardless of which you have."
   - q: "How do bats get into a barn?"
     a: "Up high, through the gaps a barn has in abundance: open gable ends, gaps at the ridge and peak, louvered vents, spaces where roofing meets the wall, cupolas, and open eaves. Barns are far leakier up top than houses, which is exactly why they host bigger colonies — there are more ways in and more undisturbed space to roost. That also means more exit points to find and seal."
-  - q: "Why is guano over the feed a real concern?"
+  - q: "Why is guano over the feed a concern?"
     a: "Because guano contaminates whatever it lands on, and feed and water fouled with droppings and urine isn't fit for livestock. Beyond the feed, accumulated guano can grow Histoplasma, the fungus behind histoplasmosis, a respiratory illness from inhaled spores — a concern when you're working, mucking stalls, or moving hay under an active roost. Keeping guano out of feed and work areas is the core reason to act."
   - q: "Can I just seal the barn up to keep bats out?"
     a: "Not without letting the current colony out first, and not during maternity season. Sealing an active roost traps the bats — flightless pups in summer, adults any time — which is inhumane, illegal in the maternity window, and creates a dead-animal mess. The order is always: one-way exclusion to empty the roost, confirm they're gone over at least a week, then seal. On a big leaky barn the sealing is the labor-intensive part."
   - q: "How is barn exclusion different from house exclusion?"
     a: "Same method, bigger and leakier building. Barns have far more potential entry points high up, larger colonies, and harder access at the peak and gable ends, so the inspection and the sealing take more work. The one-way devices and the timing rules are identical to a house. The main practical difference is scale, and deciding whether to fully exclude or just relocate the roost off the feed and work areas."
   - q: "How small a gap do barn bats use?"
-    a: "The same tiny gaps as anywhere — a big brown bat gets through around three-eighths of an inch, little browns through less. On a barn the difference is there are simply more of those gaps: every gable louver, ridge gap, and eave opening is a candidate. Finding and closing all the functional ones is what makes exclusion hold, and it's the part that takes real inspection on a large structure."
+    a: "The same tiny gaps as anywhere — a big brown bat gets through around three-eighths of an inch, little browns through less. On a barn the difference is there are simply more of those gaps: every gable louver, ridge gap, and eave opening is a candidate. Finding and closing all the functional ones is what makes exclusion hold, and it's the part that takes inspection on a large structure."
   - q: "Will putting up a bat house help?"
     a: "It can, as part of relocation. If the goal is to keep the insect control while getting bats out of the barn interior, mounting bat houses nearby before excluding gives the colony somewhere to go, and bats will often adopt them. It's a good fit for the farm situation where you value the bats but not the guano indoors. We can advise on placement as part of the plan."
   - q: "Is the guano cleanup part of the job?"
@@ -33,11 +33,11 @@ faqs:
 
 ## Bats in the barn are usually working for you — until the guano piles up
 
-Here's something I tell farmers all the time: the bats in your barn are, on balance, on your side. A summer maternity colony eats a staggering volume of insects every night — mosquitoes, moths, beetles, the crop and livestock pests that cost you real money — and a barn full of bats is a barn with a free, tireless insect-control crew. So barn bat work is a little different from house bat work. In a house, you want them gone, period. In a barn, the honest question is often not "how do I get rid of the bats" but "how do I keep the benefit while getting the **guano** out of my feed, my stalls, and my work areas."
+Here's something I tell farmers all the time: the bats in your barn are, on balance, on your side. A summer maternity colony eats a staggering volume of insects every night — mosquitoes, moths, beetles, the crop and livestock pests that cost you money — and a barn full of bats is a barn with a free, tireless insect-control crew. So barn bat work is a little different from house bat work. In a house, you want them gone, period. In a barn, the honest question is often not "how do I get rid of the bats" but "how do I keep the benefit while getting the **guano** out of my feed, my stalls, and my work areas."
 
 That distinction shapes the whole job. Sometimes the right answer is full exclusion; sometimes it's relocating the roost off the feed and out of the way while keeping the colony on the property. BugBoss The X-Terminator does both across the farms of Waupaca, Shawano, and the surrounding counties. This page pairs with the [bats pest-library page](/pest-library/bats/), our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/), and the [bats in the attic](/pest-problems/bats-in-attic/) page for the house version.
 
-## The guano is the real issue
+## The guano is the issue
 
 An active colony drops a lot of **guano**, and in a barn it lands where it does damage. Over feed and water, it's a contamination problem — droppings and urine make feed unfit for livestock, plain and simple. In stalls and work areas, it's a mess you're constantly cleaning and, more seriously, a **health hazard**: accumulated guano can grow **Histoplasma**, the fungus behind histoplasmosis, a respiratory illness caused by inhaling disturbed spores. Every time you muck a stall, move hay, or work under the roost, you risk stirring that dust into the air. So the case for acting isn't about the bats being unwelcome — it's about where their droppings end up.
 
@@ -53,7 +53,7 @@ Barns leak up top in a way houses don't. **Open gable ends, gaps at the ridge an
 
 ## Exclude or relocate — deciding the goal
 
-Before any devices go up, we settle what you actually want. If the colony roosts in a far corner of the loft and the guano isn't touching feed, stalls, or work areas, plenty of farmers reasonably leave it — the insect control is worth keeping. Exclusion earns its keep when the guano is **fouling feed, contaminating work or living areas, or building toward a real health concern.**
+Before any devices go up, we settle what you actually want. If the colony roosts in a far corner of the loft and the guano isn't touching feed, stalls, or work areas, plenty of farmers reasonably leave it — the insect control is worth keeping. Exclusion earns its keep when the guano is **fouling feed, contaminating work or living areas, or building toward a health concern.**
 
 Where the goal is to keep the bats' benefit but get them out of the barn interior, **relocation** is the play: mount bat houses nearby ahead of the exclusion so the colony has somewhere to go, exclude them from the barn, and they'll often adopt the new roost. You keep the insect control, you lose the guano indoors. It's a good fit for the farm, and we'll advise on bat-house placement as part of the plan.
 

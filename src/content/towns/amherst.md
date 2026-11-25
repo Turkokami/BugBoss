@@ -47,7 +47,7 @@ BugBoss The X-Terminator reaches Amherst from Clintonville at the western edge o
 
 ### Spring (March–May): thaw, swarmers, and the farmhouse wake-up
 
-Spring in Amherst begins with the farmhouse waking up. The first warm, sunny days heat the walls and attics, and the **[cluster flies](/pest-library/cluster-flies/) and [boxelder bugs](/pest-library/boxelder-bugs/)** that overwintered inside crawl toward the light at the windows — often by the dozen in an old farmhouse with generous wall voids. It looks like an invasion; it's really last fall's population leaving. Spraying them indoors does nothing lasting.
+Spring in Amherst begins with the farmhouse waking up. The first warm, sunny days heat the walls and attics, and the **[cluster flies](/pest-library/cluster-flies/) and [boxelder bugs](/pest-library/boxelder-bugs/)** that overwintered inside crawl toward the light at the windows — often by the dozen in an old farmhouse with generous wall voids. It looks like an invasion; it's last fall's population leaving. Spraying them indoors does nothing lasting.
 
 As the frost leaves the ground, **carpenter ant** swarmers appear. Winged ants at a window, or big black ants trailing across a farmhouse kitchen on a cold day, usually mean a nest inside the structure — and in old, moisture-prone farm wood near the river and millpond, indoor nests are common. Our [carpenter ants](/pest-library/carpenter-ants/) page covers the signs. Spring is also when **[mice](/pest-library/mice/)** that wintered in the house or the barn are breeding hard, and when the barns and outbuildings come alive after the cold — wasps scouting the rafters, rodents moving between shed and house. Along the pasture and woodlot edges, **[ticks](/pest-library/ticks/)** wake as soon as the grass greens.
 
@@ -91,11 +91,11 @@ Removing the animal is only half the job. The half that lasts is **exclusion** �
 
 ## Commercial pest control in Amherst
 
-Amherst's commercial base is small but real. There's a **village business district**, the K-12 **Tomorrow River School District** campus, and the **Portage County Fairgrounds**, which draw crowds and concentrated food every fair season and through the summer event calendar. Each has pest and record-keeping needs of its own — a village restaurant needs documented rodent and fly management, a school needs discreet and careful treatment, and event grounds handling summer crowds need help staying ahead of the flies, wasps, and rodents that crowds and waste bring.
+Amherst's commercial base is small but active. There's a **village business district**, the K-12 **Tomorrow River School District** campus, and the **Portage County Fairgrounds**, which draw crowds and concentrated food every fair season and through the summer event calendar. Each has pest and record-keeping needs of its own — a village restaurant needs documented rodent and fly management, a school needs discreet and careful treatment, and event grounds handling summer crowds need help staying ahead of the flies, wasps, and rodents that crowds and waste bring.
 
 The **Tomorrow River State Trail** and the fairgrounds also draw seasonal foot traffic and food vendors that spike fly and yellowjacket pressure through the warm months, and the agricultural operations around the village — dairy, cropping, and grain handling — carry their own rodent and stored-product demands that overlap with the residential work.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) sized to a small-town operation, keeps inspection-ready records on hand, and schedules discreetly. Because you deal with the owner, there's a real person accountable for the result — and out here, that accountability counts for a lot.
+BugBoss builds [commercial programs](/commercial-pest-control/) sized to a small-town operation, keeps inspection-ready records on hand, and schedules discreetly. Because you deal with the owner, there's one person accountable for the result — and out here, that accountability counts for a lot.
 
 ## The rest of the Amherst picture: rats, wasps, and stored-product pests
 

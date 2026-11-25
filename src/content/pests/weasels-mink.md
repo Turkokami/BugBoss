@@ -11,7 +11,7 @@ faqs:
     a: "No, and this is the single most common and most expensive misunderstanding in backyard poultry keeping. Chicken wire is designed to keep chickens in, not predators out. The mesh openings are far too large for a weasel — it walks through without touching the sides — and the wire itself is thin enough to be forced or torn by a determined raccoon. What you need is half-inch hardware cloth: a heavier gauge welded mesh with openings small enough to exclude a weasel, fastened with screws and washers rather than staples, and skirted or buried at the base."
   - q: "What is the difference between a weasel and a mink?"
     a: "Size, color, and where you find them. Mink are noticeably larger — roughly the size of a small cat, dark chocolate brown year-round, often with a small white chin patch — and they are semi-aquatic, so they stay close to rivers, creeks, ponds, and marshes and take fish, muskrats, and waterfowl as well as poultry. Weasels are much smaller and slimmer, brown above and white or cream below in summer, and in Wisconsin the long-tailed and short-tailed species turn entirely white in winter. Weasels hunt mice and voles across fields, woods, and farmyards."
-  - q: "Do weasels really turn white in winter?"
+  - q: "Do weasels turn white in winter?"
     a: "Yes. Long-tailed and short-tailed weasels in Wisconsin molt to pure white in winter — the animal in that coat is called an ermine — usually keeping a black tip on the tail. The change is triggered by day length rather than temperature and it is a genuinely effective camouflage against snow. Practically, this catches people out: a white animal glimpsed in a barn in January reads as something unfamiliar and often gets misidentified. If you see a small, fast, white animal with a black-tipped tail moving through an outbuilding, that is a weasel."
   - q: "How do I know it was a weasel and not a raccoon or a fox?"
     a: "Look at the entry and the pattern of loss. A weasel or mink gets in through a very small opening and typically kills multiple birds in one visit, often leaving them mostly uneaten, with wounds concentrated at the head and neck. A raccoon needs a much larger opening or tears one, has dexterous hands and often reaches through mesh, and usually leaves considerable mess. A fox generally takes one bird and carries it away, leaving scattered feathers and often a scent trail, and it usually digs rather than squeezing through."
@@ -133,7 +133,7 @@ That last point deserves emphasis, because it produces a pattern I have seen man
 
 ## Are weasels and mink dangerous?
 
-**To people: negligible.** Weasels and mink avoid humans and will retreat given any opportunity. A cornered animal will defend itself with real determination, which is a sound reason never to reach into a space where one is trapped, but they do not seek confrontation.
+**To people: negligible.** Weasels and mink avoid humans and will retreat given any opportunity. A cornered animal will defend itself with determination, which is a sound reason never to reach into a space where one is trapped, but they do not seek confrontation.
 
 **To pets: low.** Cats and dogs are larger than typical prey. A confrontation can go badly for both animals, but it is not a common outcome.
 

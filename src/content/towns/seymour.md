@@ -16,7 +16,7 @@ faqs:
   - q: "Do I need a contract for pest control in Seymour?"
     a: "No. BugBoss never uses long-term contracts or cancellation fees. Choose a one-time treatment or a recurring seasonal or farm program, and stop whenever you want. You deal directly with Brian, the owner — not a national call center."
   - q: "How do mice and rats get into Seymour farm buildings?"
-    a: "Through gaps as small as a dime, plus the wide-open doorways, feed spills, and foundation gaps that come with barns and outbuildings. Field mice and deer mice pour in from harvested fields in fall. Exclusion — sealing what can be sealed and cutting off food and harborage — is the real fix; trapping alone just clears what's already inside."
+    a: "Through gaps as small as a dime, plus the wide-open doorways, feed spills, and foundation gaps that come with barns and outbuildings. Field mice and deer mice pour in from harvested fields in fall. Exclusion — sealing what can be sealed and cutting off food and harborage — is the fix; trapping alone just clears what's already inside."
   - q: "Does BugBoss treat carpenter ants in Seymour?"
     a: "Yes. Carpenter ants excavate moisture-damaged wood to nest, and older Seymour homes and farm buildings with slow leaks, damp sills, or wood in contact with soil are prime sites. We locate the parent and satellite nests and correct the moisture, rather than just spraying the ants you see."
   - q: "Are there ticks around Seymour?"
@@ -28,7 +28,7 @@ faqs:
   - q: "Does BugBoss handle wildlife in barns and outbuildings, not just houses?"
     a: "Yes. Raccoons, skunks, squirrels, and bats all move into barns, sheds, corn cribs, and pole buildings. We exclude them humanely, seal the access, and clean up the contamination — droppings, latrines, and fouled insulation — which matters near feed and animals."
   - q: "Why do I get mice even though my Seymour house is clean?"
-    a: "Mice have nothing to do with cleanliness. They come in from the surrounding fields as the weather cools, through gaps around pipes, under garage doors, and at the base of the siding. In farm country the pressure is constant. Sealing the building is the real fix."
+    a: "Mice have nothing to do with cleanliness. They come in from the surrounding fields as the weather cools, through gaps around pipes, under garage doors, and at the base of the siding. In farm country the pressure is constant. Sealing the building is the fix."
   - q: "Does BugBoss serve the towns around Seymour?"
     a: "Yes. From Seymour we cover the surrounding dairy country including Black Creek, Nichols, Shiocton, Bonduel, and Pulaski, along with the farms and small towns across the Appleton–Green Bay corridor."
 ---
@@ -39,7 +39,7 @@ Seymour is a small Outagamie County city of about **3,546 people** sitting squar
 
 That heritage isn't just trivia — it tells you what kind of town this is. Seymour is a **food-and-farm town**. It has restaurants, a fair, a summer festival that draws crowds and grills by the dozen, and it sits in the middle of working dairy and crop country, with the Seymour Community School District spreading across 175 square miles and a dozen municipalities. Where there's food and livestock, there are flies and rodents; where there are older homes and open fields, there are cluster flies and mice.
 
-That's the environment BugBoss The X-Terminator was built for. We're not a franchise dispatching a truck out of the Fox Valley and locking you into a contract — we work the Appleton–Green Bay corridor on a regular route, and we do **both pest control and wildlife removal**, which most of the pest-only outfits serving this area won't. In a town split between a small-town residential core, a real food-service base, and the surrounding dairy farms, that range is exactly what the work here demands.
+That's the environment BugBoss The X-Terminator was built for. We're not a franchise dispatching a truck out of the Fox Valley and locking you into a contract — we work the Appleton–Green Bay corridor on a regular route, and we do **both pest control and wildlife removal**, which most of the pest-only outfits serving this area won't. In a town split between a small-town residential core, a food-service base, and the surrounding dairy farms, that range is exactly what the work here demands.
 
 ## The Seymour pest calendar, season by season
 
@@ -77,7 +77,7 @@ The **farm buildings** — dairy barns, milkhouses, machine sheds, corn cribs, a
 
 ## Rivers, fields, and woodlots: the ecology behind the pests
 
-The **Shioc River and Black Creek** corridors bring moisture, mosquito breeding, and travel cover for rodents and wildlife. The **surrounding dairy and crop land** is the engine behind most of Seymour's pest pressure — cluster flies off the field soil, mice and voles out of the fencerows, and barn flies breeding in manure and bedding. The **woodlots and brushy edges** are where ticks wait for a host; the blacklegged ticks here carry Lyme disease, a real concern for anyone working fields or walking woods, which is why our [tick and Lyme yard program](/guides/tick-lyme-yard-program/) targets that edge directly. None of this is a knock on Seymour — it's simply what pest control looks like in a food-and-farm town, and it's what BugBoss is built to handle.
+The **Shioc River and Black Creek** corridors bring moisture, mosquito breeding, and travel cover for rodents and wildlife. The **surrounding dairy and crop land** is the engine behind most of Seymour's pest pressure — cluster flies off the field soil, mice and voles out of the fencerows, and barn flies breeding in manure and bedding. The **woodlots and brushy edges** are where ticks wait for a host; the blacklegged ticks here carry Lyme disease, a concern for anyone working fields or walking woods, which is why our [tick and Lyme yard program](/guides/tick-lyme-yard-program/) targets that edge directly. None of this is a knock on Seymour — it's simply what pest control looks like in a food-and-farm town, and it's what BugBoss is built to handle.
 
 ## Rodents and food safety: the through-line in a food town
 
@@ -87,7 +87,7 @@ That's why our approach in Seymour leans hard on **exclusion and monitoring** ra
 
 ## Spiders, ants, and the everyday pests
 
-Between the seasonal invasions, Seymour homes and buildings collect the steady background pests. **[Spiders](/pest-library/spiders/)** are common wherever there's an insect food supply — around barn and porch lights, in basements and machine sheds, in the corners of any building that stays quiet — and heavy spider activity is really a sign of the insects they're eating. Treating the perimeter and cutting off that food does more than sweeping webs. **[Ants](/pest-library/ants/)**, beyond the wood-damaging carpenter ants, show up as the small nuisance trails that follow moisture and food scraps across kitchens and along foundations, especially in spring and after rain. Both come in through the same gaps as the seasonal pests, so we treat them as one perimeter problem rather than a series of separate calls.
+Between the seasonal invasions, Seymour homes and buildings collect the steady background pests. **[Spiders](/pest-library/spiders/)** are common wherever there's an insect food supply — around barn and porch lights, in basements and machine sheds, in the corners of any building that stays quiet — and heavy spider activity is a sign of the insects they're eating. Treating the perimeter and cutting off that food does more than sweeping webs. **[Ants](/pest-library/ants/)**, beyond the wood-damaging carpenter ants, show up as the small nuisance trails that follow moisture and food scraps across kitchens and along foundations, especially in spring and after rain. Both come in through the same gaps as the seasonal pests, so we treat them as one perimeter problem rather than a series of separate calls.
 
 ## Wildlife in Seymour: houses, barns, and the law
 

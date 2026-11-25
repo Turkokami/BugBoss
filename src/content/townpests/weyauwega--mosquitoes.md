@@ -16,7 +16,7 @@ faqs:
   - q: "Do you treat the whole yard?"
     a: "No. Treating open lawn is close to wasted — adults are not there during the day. They rest in cool shaded vegetation, so the application goes under shrub foliage, into dense ground cover, along the tall grass at the lot edge, on the shaded side of the house and outbuildings, and into any wooded margin. People are often surprised that the treated band is nowhere near the patio where they were being bitten. That is how it is supposed to look."
   - q: "How many visits does a season take?"
-    a: "Fewer than a monthly schedule, if the timing is right. A real rain refills every container and low spot at once and you get a hatch about a week later; a treatment landing in that window does the work of two applied on a calendar. Most Weyauwega properties do well on a small number of well-timed applications rather than a standing visit, and that is a cheaper program than the one most companies sell."
+    a: "Fewer than a monthly schedule, if the timing is right. A soaking rain refills every container and low spot at once and you get a hatch about a week later; a treatment landing in that window does the work of two applied on a calendar. Most Weyauwega properties do well on a small number of well-timed applications rather than a standing visit, and that is a cheaper program than the one most companies sell."
   - q: "Can you treat before an event?"
     a: "Yes, and it is a common request here — graduations, weddings, family gatherings by the water. Two or three days ahead gives the best result. It is not permanent and we will not suggest it is, but for a specific date on a specific property it works well."
   - q: "Ticks as well?"

@@ -8,7 +8,7 @@ faqs:
   - q: "What's the most common pest problem on Matteson dairy farms?"
     a: "Rodents, without much competition. A working dairy in Matteson feeds mice and rats year-round — spilled grain, feed bunks, and warm barns give them everything they need. The problem isn't a dirty operation; it's that agriculture concentrates food and shelter. The fix is exclusion at the milkhouse and feed storage plus a baiting program on the perimeter, not just traps in the barn."
   - q: "Why does my Matteson farmhouse fill with flies in fall and again in winter?"
-    a: "Those are cluster flies. Their larvae develop inside earthworms in the pasture and field soil around your house, so any farmhouse ringed by lawn and cropland grows its own population no matter how clean you keep the place. They pack into wall voids and attics in September and October, then wake on warm winter days and crawl to the windows. Exterior treatment plus sealing is the real fix."
+    a: "Those are cluster flies. Their larvae develop inside earthworms in the pasture and field soil around your house, so any farmhouse ringed by lawn and cropland grows its own population no matter how clean you keep the place. They pack into wall voids and attics in September and October, then wake on warm winter days and crawl to the windows. Exterior treatment plus sealing is the fix."
   - q: "Do I need a contract for pest control in Matteson?"
     a: "No. BugBoss never puts Matteson customers on a long-term contract and never charges a cancellation fee. Choose a one-time treatment or a recurring seasonal program and stop whenever you want. You deal directly with Brian, the owner, not a national call center or a rotating route tech."
   - q: "Can you treat mice in an old Matteson farmhouse without poisoning the barn cats?"
@@ -16,11 +16,11 @@ faqs:
   - q: "Does BugBoss remove bats from Matteson barns and farmhouses?"
     a: "Yes, and we do it legally. Wisconsin protects its bats, so we keep exit points open during the DNR maternity season of June 1 through July 31 and run the humane exclusion before or after that window. We install one-way doors, wait for the colony to leave, then seal — we never trap bats inside. Old farmhouses and barns are classic roost sites."
   - q: "How fast can you get to a farm in Matteson?"
-    a: "Usually same week, often same day for urgent problems. We're based in Clintonville, not Appleton or Green Bay, so Matteson is a real service area for us and not the far edge of a franchise territory. Call 866-BUGBOSS to check today's schedule."
+    a: "Usually same week, often same day for urgent problems. We're based in Clintonville, not Appleton or Green Bay, so Matteson is a service area for us and not the far edge of a franchise territory. Call 866-BUGBOSS to check today's schedule."
   - q: "What about carpenter ants in Matteson homes?"
     a: "Common, especially in farmhouses with a history of roof, gutter, or plumbing leaks and in homes with mature yard trees. Carpenter ants tunnel through moisture-damaged wood rather than eating it. We locate the parent nest (often outdoors in a tree or stump) and the indoor satellites, treat both, and correct the moisture that invited them."
   - q: "Do you handle stinging insects on Matteson properties?"
-    a: "Yes. Paper wasps, yellowjackets, and bald-faced hornets are heavy out here — barns, pole sheds, eaves, and machinery all offer nest sites. Ground-nesting yellowjackets in a hay field or near a walkway are a real hazard by August. We treat and remove nests and can knock back the pressure around the yard and outbuildings."
+    a: "Yes. Paper wasps, yellowjackets, and bald-faced hornets are heavy out here — barns, pole sheds, eaves, and machinery all offer nest sites. Ground-nesting yellowjackets in a hay field or near a walkway are a hazard by August. We treat and remove nests and can knock back the pressure around the yard and outbuildings."
   - q: "Are ticks a problem in Matteson?"
     a: "Yes. Deer ticks that carry Lyme disease live in the brushy edges where lawn meets woodlot, fencerow, and tall grass — which describes most Matteson farmsteads. Pressure peaks in late spring and again in fall. A yard tick program treating those edge zones cuts your exposure around the house and outbuildings."
   - q: "Can BugBoss service a dairy or livestock operation in Matteson?"
@@ -63,7 +63,7 @@ Cluster flies are worth understanding because farm families take them personally
 
 ### Winter (November–February): whatever got in is what you've got
 
-By winter the outdoor invasion is over and the indoor situation is set. [Mice](/pest-library/mice/) that found a warm, feed-rich nest — and a dairy provides that in abundance — breed year-round once inside, so a handful in November becomes a real infestation by February if the entry points stay open. A mild spell in midwinter warms the wall voids and coaxes the dormant cluster flies back out to the farmhouse windows. Winter work in Matteson is mostly **rodent exclusion and knockdown**, cleanup of the fall invaders, and protecting stored feed and grain from the rodents that would otherwise winter in it.
+By winter the outdoor invasion is over and the indoor situation is set. [Mice](/pest-library/mice/) that found a warm, feed-rich nest — and a dairy provides that in abundance — breed year-round once inside, so a handful in November becomes a full infestation by February if the entry points stay open. A mild spell in midwinter warms the wall voids and coaxes the dormant cluster flies back out to the farmhouse windows. Winter work in Matteson is mostly **rodent exclusion and knockdown**, cleanup of the fall invaders, and protecting stored feed and grain from the rodents that would otherwise winter in it.
 
 ## Farm buildings and farmhouses: where the pests actually get in
 
@@ -83,7 +83,7 @@ The rodent you least want to ignore on a farm is the **deer mouse**. They're the
 
 ## Geography and ecology: dairy ground, woodlots, and field edges
 
-Matteson's pest pressure comes straight off its landscape. The **cropland and pasture** are the reservoir for cluster flies and for the mice and deer mice that flood in every fall. The **woodlots and fencerows** hold the ticks, the carpenter ant parent nests, and the wildlife — raccoons, squirrels, and skunks — that follow the cover onto your buildings. **Low, damp field edges and ditches** breed the mosquitoes that make evening chores miserable in July. Deer mice are worth a specific mention on farms because they can carry hantavirus; cleaning out a rodent-infested shed or grain bin without the right precautions is a real health risk, and it's part of why we handle rodent cleanup as its own job.
+Matteson's pest pressure comes straight off its landscape. The **cropland and pasture** are the reservoir for cluster flies and for the mice and deer mice that flood in every fall. The **woodlots and fencerows** hold the ticks, the carpenter ant parent nests, and the wildlife — raccoons, squirrels, and skunks — that follow the cover onto your buildings. **Low, damp field edges and ditches** breed the mosquitoes that make evening chores miserable in July. Deer mice are worth a specific mention on farms because they can carry hantavirus; cleaning out a rodent-infested shed or grain bin without the right precautions is a health risk, and it's part of why we handle rodent cleanup as its own job.
 
 None of this reflects on how a place is kept. It's simply what pest control looks like on a Waupaca County dairy farm, and it's the environment BugBoss was built to work in.
 

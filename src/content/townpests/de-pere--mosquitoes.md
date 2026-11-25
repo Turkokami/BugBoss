@@ -18,7 +18,7 @@ faqs:
   - q: "Do you fog the yard?"
     a: "No, and you should be wary of a company that leads with fogging. Adult mosquitoes do not spend daylight in open mown grass — they rest in cool shaded vegetation. The application goes under shrub foliage, into dense ground cover, along tall grass at the lot edge, on the shaded side of the house and garage, and into any wooded margin. The treated band usually looks nothing like the patio where you were being bitten, and that is correct."
   - q: "How do you schedule a property this far from your shop?"
-    a: "In runs rather than one-offs, and timed to weather rather than to an interval. A real rain fills every container and low spot at once and produces a hatch about a week later; landing in that window is worth two visits made on a calendar. Practically that means calling with some notice if you want a particular date, and it means we will sometimes suggest moving a visit a few days because the forecast changed."
+    a: "In runs rather than one-offs, and timed to weather rather than to an interval. A soaking rain fills every container and low spot at once and produces a hatch about a week later; landing in that window is worth two visits made on a calendar. Practically that means calling with some notice if you want a particular date, and it means we will sometimes suggest moving a visit a few days because the forecast changed."
   - q: "Ticks as well?"
     a: "Worth combining on any lot backing onto the East River corridor, a greenway or a wooded edge. The treated band for ticks is largely the same line as the mosquito harborage band, so one pass covers both. Our tick and Lyme yard program guide explains how that side is run."
 ---

@@ -5,7 +5,7 @@ category: "Fall Invaders"
 order: 23
 faqs:
   - q: "Are brown marmorated stink bugs dangerous to people or pets?"
-    a: "No. They don't bite, sting, or transmit disease, and they won't hurt a dog or cat that swats or eats one. The only real problems they cause indoors are the smell when they're crushed or vacuumed and the sheer nuisance of finding them on walls, curtains, and windowsills. Their damage is agricultural — outdoors, on crops — not a threat to your health or your house."
+    a: "No. They don't bite, sting, or transmit disease, and they won't hurt a dog or cat that swats or eats one. The only problems they cause indoors are the smell when they're crushed or vacuumed and the sheer nuisance of finding them on walls, curtains, and windowsills. Their damage is agricultural — outdoors, on crops — not a threat to your health or your house."
   - q: "Why do they smell so bad?"
     a: "Stink bugs have scent glands on the underside of the thorax and release a pungent, cilantro-and-dirty-sock odor as a defense when they feel threatened, get crushed, or get sucked into a vacuum. The chemical compounds (aldehydes) linger and can stain light fabrics and surfaces. That's exactly why smashing them or vacuuming them with a bagless machine is the wrong move indoors."
   - q: "Do brown marmorated stink bugs reproduce inside my house?"
@@ -42,7 +42,7 @@ The brown marmorated stink bug is easy to pick out once you know it. It's roughl
 
 Here's the reassuring part: indoors, this bug is a nuisance and nothing more. It **does not bite or sting**, it carries no disease, it won't chew your woodwork or your wool sweaters, and it won't lay eggs in your pantry or your walls. It can't even reproduce indoors — the overwintering adults are shut down for the season. The one genuine downside is the smell. Stink bugs carry scent glands on the underside of the thorax, and when they're alarmed, squished, or vacuumed up, they release a rank, oily, cilantro-meets-old-gym-sock odor that lingers and can stain light-colored fabric. That single fact drives the whole strategy for dealing with them indoors: **do not crush them.**
 
-The real damage this species does is agricultural and happens far from your living room. Outdoors, brown marmorated stink bugs feed on a huge range of crops — apples, sweet corn, soybeans, peppers, tree fruit — piercing the plant and leaving corky, deformed damage. That's why entomologists at UW and the state ag department track its spread so closely. For a homeowner, though, the concern is simply keeping them out of the house.
+The damage this species does is agricultural and happens far from your living room. Outdoors, brown marmorated stink bugs feed on a huge range of crops — apples, sweet corn, soybeans, peppers, tree fruit — piercing the plant and leaving corky, deformed damage. That's why entomologists at UW and the state ag department track its spread so closely. For a homeowner, though, the concern is simply keeping them out of the house.
 
 ## Why northeast Wisconsin gets them
 
@@ -52,7 +52,7 @@ The local building stock does them a lot of favors. The older farmhouses, mid-ce
 
 The aggregation behavior compounds it year to year. As they settle in for winter, overwintering stink bugs give off a chemical signal — an **aggregation pheromone** — that tells other bugs this is a good spot. A house that let them in one October smells, to a stink bug, like a recommended hotel the next October. Left unaddressed, the annual numbers tend to climb.
 
-## The real fix: outside, not inside
+## The fix: outside, not inside
 
 The instinct is to reach for a can of spray and hit the bugs on the window, or to have the inside of the house treated. Neither works well, and here's why. By the time you're seeing bugs indoors, the population is dispersed deep in wall voids and attic spaces where interior sprays can't reach, and killing bugs inside a void just leaves decaying insects that can attract secondary pests like carpet beetles. The bugs you see are a small, visible fraction of what's tucked away.
 
@@ -88,4 +88,4 @@ Prevention is exclusion plus timing, and the best time to start is the summer be
 
 ## When to call
 
-Call BugBoss when you're seeing stink bugs indoors in any real number, when the problem is worse than last year, or — best of all — in **late summer, before** they start clustering on the house, so we can time the exterior treatment right. If you've got an older farmhouse or a seasonal cabin with a lot of gaps at the roofline and around the windows, an exclusion inspection is worth it, because that same work protects you from the whole fall-invader lineup and from mice come November. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/). We cover [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns.
+Call BugBoss when you're seeing stink bugs indoors in any number, when the problem is worse than last year, or — best of all — in **late summer, before** they start clustering on the house, so we can time the exterior treatment right. If you've got an older farmhouse or a seasonal cabin with a lot of gaps at the roofline and around the windows, an exclusion inspection is worth it, because that same work protects you from the whole fall-invader lineup and from mice come November. Reach Brian directly at **866-BUGBOSS**, or [request a quote](/contact/). We cover [Clintonville](/service-area/clintonville/), [Marion](/service-area/marion/), [Manawa](/service-area/manawa/), [Waupaca](/service-area/waupaca/), and the surrounding rural towns.

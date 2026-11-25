@@ -10,12 +10,12 @@ import { webPageNode, faqPageNode, breadcrumbNode } from '@/lib/schema';
 const url = business.url + '/case-studies/';
 const items = (await getCollection('caseStudies')).sort((a, b) => a.data.order - b.data.order);
 const answer =
-  'Real BugBoss jobs, written up properly: what the pest was, what kind of building it was in, what was actually done, and how it ended. These are the jobs other companies turned down or had already failed at — a 150-bat colony, an eight-plex with years of bed bugs, an attic-sized yellowjacket nest, and baby raccoons in a wall.';
-const desc = 'Real pest and wildlife jobs completed by BugBoss The X-Terminator in Northeast Wisconsin — the problem, the method, and the outcome.';
+  'BugBoss jobs, written up properly: what the pest was, what kind of building it was in, what was actually done, and how it ended. These are the jobs other companies turned down or had already failed at — a 150-bat colony, an eight-plex with years of bed bugs, an attic-sized yellowjacket nest, and baby raccoons in a wall.';
+const desc = 'Pest and wildlife jobs completed by BugBoss The X-Terminator in Northeast Wisconsin — the problem, the method, and the outcome.';
 const faqs = [
   {
     q: 'Why are there only a few case studies?',
-    a: 'Because these are real jobs with real locations attached, and we would rather publish four we can stand behind than twenty invented ones. Every write-up here names the town the work happened in. That is a claim a customer in that town can check, which is the entire point of publishing it — and it is why the list grows slowly rather than filling up with generic before-and-after copy.',
+    a: 'Because these are actual jobs with actual locations attached, and we would rather publish four we can stand behind than twenty invented ones. Every write-up here names the town the work happened in. That is a claim a customer in that town can check, which is the entire point of publishing it — and it is why the list grows slowly rather than filling up with generic before-and-after copy.',
   },
   {
     q: 'Are these your typical jobs?',
@@ -37,7 +37,7 @@ const pageNodes = [
   breadcrumbNode(url, [{ name: 'Home', url: business.url + '/' }, { name: 'Case Studies', url }]),
 ];
 ---
-<BaseLayout title="Case Studies — Real BugBoss Jobs" description={desc} path="/case-studies/" pageNodes={pageNodes}>
+<BaseLayout title="Case Studies — BugBoss Jobs" description={desc} path="/case-studies/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
       <h1>Case Studies</h1>

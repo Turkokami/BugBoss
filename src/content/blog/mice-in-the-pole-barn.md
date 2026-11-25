@@ -11,7 +11,7 @@ faqs:
   - q: "Why does my pole barn get mice every fall?"
     a: "From September through November, as the fields go cold and harvest strips away cover and food, field mice move toward warmth and stored food. A pole barn full of feed, seed, and clutter, sitting in the middle of open country, is the obvious target. It's a seasonal migration off the landscape, not a sign anything's wrong with how you keep the building."
   - q: "Will traps alone get rid of mice in an outbuilding?"
-    a: "No. Trapping clears the mice currently inside but does nothing about the open perimeter gap and unsealed doors, so the fields keep resupplying — especially in fall. You end up trapping the same problem every year. The real fix pairs removal with exclusion: sealing the base and penetrations with materials mice can't chew, and getting feed into metal containers."
+    a: "No. Trapping clears the mice currently inside but does nothing about the open perimeter gap and unsealed doors, so the fields keep resupplying — especially in fall. You end up trapping the same problem every year. The fix pairs removal with exclusion: sealing the base and penetrations with materials mice can't chew, and getting feed into metal containers."
   - q: "How do I store feed and seed so mice can't get to it?"
     a: "In sealed metal containers with tight lids — galvanized cans or steel drums — not paper bags, cardboard, or thin plastic bins, all of which mice chew through easily. Keep containers up off the floor and away from the walls, and don't leave open bags of birdseed, pet food, or livestock feed sitting out. Feed left accessible is the single biggest draw in most pole barns."
   - q: "What materials actually keep mice out?"
@@ -38,7 +38,7 @@ The mouse problem has a hard seasonal rhythm, and late fall is when it comes due
 
 A pole barn is the nearest and best target for a lot of them. By November you're seeing the results — droppings along the walls, chewed feed bags, nests in the equipment, the scurrying when you flip the lights on. This isn't a reflection on how clean the building is. It's a migration off the landscape, and your outbuilding is standing in its path. The only question is whether the building is sealed well enough to turn it away.
 
-And the clock matters, because mice don't stop once they're in. A heated shop or a barn with any warmth lets them breed year-round, so a handful that get in during the November push become a real population by February. Catching it now beats fighting a flood later.
+And the clock matters, because mice don't stop once they're in. A heated shop or a barn with any warmth lets them breed year-round, so a handful that get in during the November push become a population by February. Catching it now beats fighting a flood later.
 
 ## Where they get in — the pole-barn tour
 
@@ -58,7 +58,7 @@ Mice exploit specific weaknesses, and on a pole barn they're predictable. If you
 
 The standard response is a line of snap traps or a few bait stations, and it fails for the same reason every year: it treats the symptom and leaves the cause wide open. As long as that perimeter gap and those door corners are unsealed, the fields keep supplying fresh mice every fall. You trap, you get a lull, the next wave arrives, and you conclude you just have to live with mice in the barn. You don't.
 
-Bait carries its own headaches out here. A mouse that eats bait often dies tucked inside the wall or equipment, and now you've got odor and, frequently, a secondary fly problem. Bait also raises real concerns around barn cats, dogs, and non-target wildlife, and — this is the key point — it does nothing to keep the *next* mouse out. It's a body count, not a solution.
+Bait carries its own headaches out here. A mouse that eats bait often dies tucked inside the wall or equipment, and now you've got odor and, frequently, a secondary fly problem. Bait also raises concerns around barn cats, dogs, and non-target wildlife, and — this is the key point — it does nothing to keep the *next* mouse out. It's a body count, not a solution.
 
 The piece homeowners consistently underestimate is exclusion, and specifically doing it with the **right materials**. Mice chew straight through expanding foam, rubber, and plastic, and loose steel wool rusts and works loose, so a lot of well-meant sealing simply gets gnawed open again by spring. Effective exclusion means the right material at each gap — sealed sheet metal along the base, hardware cloth over larger openings, proper door sweeps and seals, and appropriate sealants at penetrations — installed to hold against constant gnawing. That's the difference between a temporary lull and a building that stays sealed.
 

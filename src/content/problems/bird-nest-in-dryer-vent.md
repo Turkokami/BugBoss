@@ -35,7 +35,7 @@ They build fast — a packed mass of grass, twigs, feathers and litter, wedged i
 
 Two things make this different from other bird problems.
 
-**The fire risk is real.** A dryer vent blocked with nesting material stops exhausting. Heat and lint accumulate in the duct, and lint is highly flammable. Blocked dryer venting is a recognized cause of house fires, and a nest is one of the most complete blockages a duct can get.
+**This is a fire risk.** A dryer vent blocked with nesting material stops exhausting. Heat and lint accumulate in the duct, and lint is highly flammable. Blocked dryer venting is a recognized cause of house fires, and a nest is one of the most complete blockages a duct can get.
 
 **They come back.** Starlings and sparrows return to a site that worked, year after year. Clearing the nest without guarding the opening buys you about six weeks.
 

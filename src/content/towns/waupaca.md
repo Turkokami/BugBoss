@@ -16,7 +16,7 @@ faqs:
   - q: "Do I need a contract for pest control in Waupaca?"
     a: "No. BugBoss never locks Waupaca customers into long-term contracts or charges cancellation fees. Choose a one-time treatment or a recurring seasonal program and stop whenever you want. That flexibility fits seasonal-cabin owners especially well — why pay year-round for a place you use four months? You deal directly with Brian, the owner."
   - q: "Why do cluster flies swarm inside my cabin on a warm spring or winter day?"
-    a: "Those are cluster flies that entered the walls and attic the previous fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. Spraying them indoors doesn't fix it — the real solution is an exterior treatment and exclusion done in early fall before they get in, which is exactly what closing service handles."
+    a: "Those are cluster flies that entered the walls and attic the previous fall. A warm, sunny day heats the wall voids and wakes them, and they crawl toward the light at the windows. Spraying them indoors doesn't fix it — the solution is an exterior treatment and exclusion done in early fall before they get in, which is exactly what closing service handles."
   - q: "When should I schedule cabin opening and closing service in Waupaca?"
     a: "Closing service is best in early fall, before the cabin is shut for winter — that's when sealing and treating stops the problem before four empty months let it grow. Opening service is best in spring, when a quick inspection catches whatever tried to move in over winter before it ruins your first weekend at the lake. Line the two up with how you use the cabin."
   - q: "Does BugBoss handle carpenter ants in Waupaca?"
@@ -93,7 +93,7 @@ Trapping the raccoon or evicting the bats is only half a Chain O' Lakes wildlife
 
 Waupaca's commercial base is shaped by its lakes. There's a downtown business district and county-seat offices, but the standout is the **tourism and hospitality trade** — resorts, lodging, restaurants, campgrounds, and marinas that run at capacity all summer around the Chain O' Lakes. Each of those has its own pests and its own record-keeping needs. A restaurant needs documented, inspection-ready rodent and fly management. A resort or lodge needs discreet service guests never notice, plus a bed bug protocol for high-turnover rooms. And **campgrounds, marinas, and event grounds** dealing with the summer crush need help staying ahead of the flies, wasps, and rodents that big crowds and concentrated waste bring.
 
-BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly. For campgrounds, marinas, and lake venues, our [campground, RV, and marina pest control guide](/guides/campground-rv-marina-pest-control/) speaks directly to the seasonal-crowd problem. Because you deal with the owner, there's a real person accountable for the result.
+BugBoss builds [commercial programs](/commercial-pest-control/) around the specific operation, keeps the service records you need on hand, and schedules discreetly. For campgrounds, marinas, and lake venues, our [campground, RV, and marina pest control guide](/guides/campground-rv-marina-pest-control/) speaks directly to the seasonal-crowd problem. Because you deal with the owner, there's one person accountable for the result.
 
 ## Spiders, ants, and the rest of the Waupaca picture
 

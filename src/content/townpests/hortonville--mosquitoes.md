@@ -63,7 +63,7 @@ The treated band usually looks nothing like the spot where you were getting bitt
 
 ## Timing over frequency
 
-Rain is the trigger. A real rainfall refills everything simultaneously and you get a **synchronised hatch** about a week later. One treatment landing in that window beats two applied on a fixed interval.
+Rain is the trigger. A soaking rainfall refills everything simultaneously and you get a **synchronised hatch** about a week later. One treatment landing in that window beats two applied on a fixed interval.
 
 For most properties in the village that means a handful of well-timed applications across the season rather than a standing monthly visit — which is a cheaper program, and we would rather sell you the one that works.
 

@@ -20,13 +20,13 @@ faqs:
   - q: "Do I need a contract for pest control in Berlin?"
     a: "No. BugBoss never puts Berlin customers on a long-term contract and never charges a cancellation fee. Choose a one-time treatment or a seasonal plan and stop whenever you want. You deal directly with the owner, Brian, not a national call center."
   - q: "How do mice get into Berlin homes?"
-    a: "Through gaps as small as a dime — around pipe and utility penetrations, at the base of the siding, under garage doors, and through the fieldstone and block foundations common in Berlin's older housing. Sealing the building is the real fix; trapping alone just clears what's inside while more come in from the river corridor and fields."
+    a: "Through gaps as small as a dime — around pipe and utility penetrations, at the base of the siding, under garage doors, and through the fieldstone and block foundations common in Berlin's older housing. Sealing the building is the fix; trapping alone just clears what's inside while more come in from the river corridor and fields."
   - q: "Are ticks and mosquitoes a problem around Berlin?"
     a: "Yes. The Fox River bottomland and low, damp ground breed mosquitoes all summer, and the wooded and brushy edges around town carry blacklegged (deer) ticks that spread Lyme disease. A yard program treats mosquito resting sites and the tick edge zones in the seasons they're most active."
   - q: "Does BugBoss deal with raccoons and squirrels in Berlin attics?"
     a: "Yes. Raccoons den in chimneys and torn soffits, and squirrels chew into attics through weak roof edges — both common on Berlin's older homes. We remove the animal humanely, exclude the entry so the next one can't follow, and clean up. Trapping without sealing just invites a replacement."
   - q: "Can BugBoss service Berlin businesses and food operations?"
-    a: "Yes. Berlin has a real commercial base — manufacturing rooted in its leather and industrial heritage, food processing, retail, healthcare, and food service — that needs documented, inspection-ready pest management. We build a discreet program around your building and keep records ready for inspectors and auditors."
+    a: "Yes. Berlin has an established commercial base — manufacturing rooted in its leather and industrial heritage, food processing, retail, healthcare, and food service — that needs documented, inspection-ready pest management. We build a discreet program around your building and keep records ready for inspectors and auditors."
   - q: "When should I schedule pest work in Berlin?"
     a: "Late summer into early fall — August through October — is the highest-value window. You get ahead of cluster flies, boxelder bugs, and mice heading indoors, and it's prime bat-exclusion time once the DNR maternity window closes. Everything you seal and treat then pays off across the winter."
   - q: "What towns near Berlin does BugBoss serve?"
@@ -39,7 +39,7 @@ Berlin is an old industrial river city in Green Lake County, straddling into Wau
 
 One thing to set straight, because it gets repeated: Berlin is **not** the "Pearl of the Rock River." Berlin sits on the **Fox River**, which runs north-south straight through the center of the city — the Rock River is a different watershed entirely. That distinction isn't trivia for a pest company; the Fox River corridor is one of the single biggest drivers of pest pressure in Berlin, and knowing the actual geography is part of knowing the work.
 
-Here's the honest framing on service. **Dedicated pest-and-wildlife help based in Berlin is thin.** Most work in this corridor is handled by national brands routing trucks in from the Fox Valley or Oshkosh, or by homeowners themselves, and hardly any of them touch wildlife. BugBoss The X-Terminator covers Berlin from our shop at **600 S. Main St. in Clintonville**, about **50 to 55 miles northeast**. We're upfront that it's a real drive, and we plan our southern trips to make it worthwhile. What you get is an operator that does **both pest control and wildlife exclusion**, honors the state's bat laws, answers the phone directly, and never asks for a contract. For an old river city this size, that combination has been missing.
+Here's the honest framing on service. **Dedicated pest-and-wildlife help based in Berlin is thin.** Most work in this corridor is handled by national brands routing trucks in from the Fox Valley or Oshkosh, or by homeowners themselves, and hardly any of them touch wildlife. BugBoss The X-Terminator covers Berlin from our shop at **600 S. Main St. in Clintonville**, about **50 to 55 miles northeast**. We're upfront that it's a long drive, and we plan our southern trips to make it worthwhile. What you get is an operator that does **both pest control and wildlife exclusion**, honors the state's bat laws, answers the phone directly, and never asks for a contract. For an old river city this size, that combination has been missing.
 
 ## The Berlin pest calendar, season by season
 
@@ -67,7 +67,7 @@ Fall is the highest-value time to get ahead of everything, because what you seal
 
 ### Winter (November–February): the payoff and what's already inside
 
-By winter the outdoor invasion is over and what's indoors is what got in during fall. Mice that found a warm, food-rich nest breed year-round once inside, so a few in November become a real infestation by February if the entries stay open. On mild, bright winter days the south-wall voids warm and the fall cluster flies crawl back to the windows. Winter work in Berlin is mostly **rodent exclusion**, cleanup of the fall invaders, and handling anything that hitchhiked home from holiday travel.
+By winter the outdoor invasion is over and what's indoors is what got in during fall. Mice that found a warm, food-rich nest breed year-round once inside, so a few in November become a full infestation by February if the entries stay open. On mild, bright winter days the south-wall voids warm and the fall cluster flies crawl back to the windows. Winter work in Berlin is mostly **rodent exclusion**, cleanup of the fall invaders, and handling anything that hitchhiked home from holiday travel.
 
 ## Berlin's housing and building stock
 
@@ -95,7 +95,7 @@ Berlin isn't just houses. Its fur-and-leather heritage left a genuine manufactur
 
 BugBoss builds [commercial programs](/commercial-pest-control/) around the specific building and industry, keeps the documentation ready, and schedules discreetly so the work doesn't disrupt your operation. Dealing directly with the owner means one accountable person behind the result — not a rotating route crew from another county.
 
-## Why a real operator beats the alternative out here
+## Why a local operator beats the alternative out here
 
 The national outfits are engineered for dense subdivisions where a route truck knocks out a dozen stops in a tight loop. An old river city 50-plus miles from our shop doesn't fit that model, which is part of why Berlin has been underserved. What matters here is a company that will make the drive, knows the ground — including which river actually runs through town — and can tell a cluster fly off the Fox River bottomland from a stable fly, a big brown bat from a little brown, a carpenter-ant nest in a damp riverfront sill from a harmless porch trail. And it's a company that does [residential pest control](/residential-pest-control/) and wildlife both, so you're not making two calls.
 
@@ -107,7 +107,7 @@ Every Berlin job runs the same order. We **inspect** inside and out to pin down 
 
 ## Why DIY usually fails in Berlin
 
-Most Berlin homeowners try to handle a pest problem themselves before calling anyone, which makes sense when dedicated help is a drive away. But the retail approach treats what you can see, and the pests here are driven by what you can't. Wasp spray drops the workers on contact and leaves the nest producing more. A trap by the pantry catches one mouse while a dime-sized gap at a pipe penetration keeps feeding the rest. A store-bought bait thins a carpenter-ant trail while the parent colony keeps chewing a damp basement sill — because in a Fox River town the real driver is almost always moisture, not the ants.
+Most Berlin homeowners try to handle a pest problem themselves before calling anyone, which makes sense when dedicated help is a drive away. But the retail approach treats what you can see, and the pests here are driven by what you can't. Wasp spray drops the workers on contact and leaves the nest producing more. A trap by the pantry catches one mouse while a dime-sized gap at a pipe penetration keeps feeding the rest. A store-bought bait thins a carpenter-ant trail while the parent colony keeps chewing a damp basement sill — because in a Fox River town the driver is almost always moisture, not the ants.
 
 The piece a homeowner can't easily reach is the diagnosis: species, nest location, entry route, and the condition that invited it. Along the Fox River corridor that condition is often a wet basement corner, a downspout dumping against the foundation, or bottomland that drains poorly and keeps the sill damp. Solve the pest without solving the water and it's back next season. What BugBoss brings to a Berlin job isn't a harsher chemical; it's the building read and the entomology that separate a one-time solve from an annual ritual — and the wildlife side that the pest-only franchises simply don't offer.
 
@@ -121,7 +121,7 @@ Berlin's role in pioneering Wisconsin's cranberry industry points at another pie
 
 ## The industrial-era housing legacy
 
-The fur-and-leather boom and the manufacturing that followed left Berlin with a dense core of late-1800s and early-1900s homes, many built for the immigrant workers who came for the tanneries and mills. That housing is handsome and solid, but it carries the entry points of its age: rubble and fieldstone foundations, balloon-framed walls that run open from cellar to attic, cut-stone thresholds that have settled, and additions tacked on over a century that never quite sealed at the seams. These are exactly the buildings where a single soffit gap becomes an attic full of cluster flies and a foundation crack becomes a mouse highway. They reward a careful, old-house exclusion inspection more than almost any other stock we work — and they're the kind of homes the route-truck franchises tend to spray and leave rather than actually seal. Working these buildings properly is slow, hands-on work, and it's the work Berlin's core neighborhoods have needed a real operator for.
+The fur-and-leather boom and the manufacturing that followed left Berlin with a dense core of late-1800s and early-1900s homes, many built for the immigrant workers who came for the tanneries and mills. That housing is handsome and solid, but it carries the entry points of its age: rubble and fieldstone foundations, balloon-framed walls that run open from cellar to attic, cut-stone thresholds that have settled, and additions tacked on over a century that never quite sealed at the seams. These are exactly the buildings where a single soffit gap becomes an attic full of cluster flies and a foundation crack becomes a mouse highway. They reward a careful, old-house exclusion inspection more than almost any other stock we work — and they're the kind of homes the route-truck franchises tend to spray and leave rather than actually seal. Working these buildings properly is slow, hands-on work, and it's the work Berlin's core neighborhoods have needed a local operator for.
 
 ## Nearby communities we also serve
 

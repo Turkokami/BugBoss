@@ -18,7 +18,7 @@ faqs:
   - q: "When does the season start and end here?"
     a: "Roughly from the point spring warmth is sustained through to the first hard frosts, with the heaviest pressure through midsummer and a strong surge after any significant rain — because rain fills every container and low spot at once and you get a synchronized hatch about a week later. Timing treatments to that pattern, rather than at fixed intervals regardless of weather, is what makes a program work."
   - q: "Is this about disease or nuisance?"
-    a: "Mostly nuisance in this part of Wisconsin, and it is a real nuisance — it decides whether you can use your own deck in July. Mosquito-borne disease exists in the state and is worth taking seriously, but for most Manawa households the practical driver is being able to sit outside. If you want the disease-risk conversation, the more pressing one out here is usually ticks, which are a separate program."
+    a: "Mostly nuisance in this part of Wisconsin, and it is a nuisance — it decides whether you can use your own deck in July. Mosquito-borne disease exists in the state and is worth taking seriously, but for most Manawa households the practical driver is being able to sit outside. If you want the disease-risk conversation, the more pressing one out here is usually ticks, which are a separate program."
   - q: "Can you treat before an event?"
     a: "Yes, and it is one of the more common requests around Manawa — graduations, weddings, the rodeo weekend, family gatherings on the river. A treatment a couple of days before gives the best result. It is not a permanent fix and we will say so, but for a specific date on a specific property it works well, and it is a reasonable thing to want."
   - q: "Do you handle ticks at the same time?"

@@ -44,13 +44,13 @@ BugBoss The X-Terminator is based at **600 S. Main St. in Clintonville** and bui
 
 ## The three ways pests get into a warehouse
 
-Understanding the routes in is the whole game, because a warehouse program is really an exclusion and interception program.
+Understanding the routes in is the whole game, because a warehouse program is an exclusion and interception program.
 
 **They walk in.** Rodents exploit the dock. A [mouse](/pest-library/mice/) needs a gap about a quarter inch wide — a pencil's width — and finds it at dock-door corners, worn dock seals and levelers, overhead-door bottoms, personnel-door gaps, and conduit or pipe penetrations. [Norway rats](/pest-library/rats/) work the exterior — landscaping, dumpsters, and burrows along the foundation — and push in through larger gaps and door bottoms.
 
 **They fly in.** Birds and [flies](/pest-library/flies/) come through open dock doors, roof-line and louver gaps, and wall penetrations. In a high-bay building the birds go straight up into the rafters, out of easy reach.
 
-**They ride in.** This is the route that surprises people. **Stored-product insects and rodents arrive inside incoming pallets, cases, and returnable containers** from a supplier or another facility. A spotless warehouse can get an infestation from a single contaminated inbound load. That is why **receiving inspection** — actually looking at incoming freight for signs of pests, damaged packaging, and webbing or frass — is part of a real warehouse program, not an afterthought.
+**They ride in.** This is the route that surprises people. **Stored-product insects and rodents arrive inside incoming pallets, cases, and returnable containers** from a supplier or another facility. A spotless warehouse can get an infestation from a single contaminated inbound load. That is why **receiving inspection** — actually looking at incoming freight for signs of pests, damaged packaging, and webbing or frass — is part of a warehouse program, not an afterthought.
 
 ## What Wisconsin warehouses actually store — and why it matters
 

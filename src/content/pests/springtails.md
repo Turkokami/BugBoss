@@ -18,7 +18,7 @@ faqs:
   - q: "Can springtails live in my potted plants?"
     a: "Yes, and overwatered houseplants are one of the most common indoor sources, particularly in winter when everything else is frozen. Consistently wet potting soil grows the fungal and organic material springtails eat, and a well-established pot can maintain a population indefinitely and seed the rest of the room. The fix is watering practice rather than pesticide: let the top of the soil dry between waterings, empty standing water from saucers, and repot anything with soil that has gone sour. Fungus gnats often show up in exactly the same pots for the same reason."
   - q: "Do springtails bite people?"
-    a: "They cannot. Springtails have chewing mouthparts adapted to scraping mold and decaying plant material, and they are physically incapable of piercing skin. People do sometimes report an itching or crawling sensation when large numbers are present, which is a real experience — but it is a reaction to the sensation of tiny animals on the skin, or to the same damp moldy conditions the springtails are living in, rather than to any bite. If someone in the house genuinely has bites, springtails are not the cause and we should be looking for something else."
+    a: "They cannot. Springtails have chewing mouthparts adapted to scraping mold and decaying plant material, and they are physically incapable of piercing skin. People do sometimes report an itching or crawling sensation when large numbers are present, which is an experience — but it is a reaction to the sensation of tiny animals on the skin, or to the same damp moldy conditions the springtails are living in, rather than to any bite. If someone in the house genuinely has bites, springtails are not the cause and we should be looking for something else."
   - q: "Why are they in my bathroom and around the sink?"
     a: "Because that is where the water is. Bathrooms combine standing humidity with the specific damp spots springtails need: the gap behind a toilet base, under a leaking trap, the grout in a shower, the edge of a bath surround, and any wall cavity where a slow leak has kept the framing wet. Finding springtails in a bathroom is often the first symptom of a leak nobody knew about, and I have traced several genuine plumbing failures that way. It is worth taking the hint and looking behind the fixtures."
   - q: "Will they go away on their own?"
@@ -118,7 +118,7 @@ The rural corridor has some particular contributors worth naming, because they a
 
 Genuinely minimal, and it deserves to be stated clearly: springtails **do not bite, sting, spread disease, damage structures or belongings, or infest food.** They cannot live on people or pets. There is no health hazard and no property damage.
 
-People sometimes report itching or a crawling sensation during heavy infestations. That is a real experience, but it is a response to the sensation of tiny animals on skin, or to the damp moldy conditions both they and the springtails are in, rather than to any bite. If there are genuine bites, something else is causing them and we should look properly.
+People sometimes report itching or a crawling sensation during heavy infestations. That is an experience, but it is a response to the sensation of tiny animals on skin, or to the damp moldy conditions both they and the springtails are in, rather than to any bite. If there are genuine bites, something else is causing them and we should look properly.
 
 The risk that actually matters is **the condition they are reporting on**. A thriving indoor springtail population means sustained dampness and enough fungal growth to feed them. That points to mold, and potentially to rot, structural moisture damage, and indoor air quality problems — all of which are worth more of your attention than the springtails ever will be. Treat them as an alarm rather than a threat.
 
@@ -138,7 +138,7 @@ The risk that actually matters is **the condition they are reporting on**. A thr
 
 **1. Confirm what they are.** First job, always, and it usually saves the customer money immediately — springtails rather than fleas means the flea plan can be canceled.
 
-**2. Find the water.** This is the real work. Interior: bathrooms, under sinks, around the toilet base, the basement slab and walls, the crawlspace, the sump, plumbing runs, and any water staining. Exterior: grading, downspouts and extensions, hose bibs, mulch depth and placement, thatch, irrigation, window wells, and low spots that hold water. Springtail concentrations are a map — they cluster where the moisture is, and following them usually leads straight to the cause.
+**2. Find the water.** This is the work. Interior: bathrooms, under sinks, around the toilet base, the basement slab and walls, the crawlspace, the sump, plumbing runs, and any water staining. Exterior: grading, downspouts and extensions, hose bibs, mulch depth and placement, thatch, irrigation, window wells, and low spots that hold water. Springtail concentrations are a map — they cluster where the moisture is, and following them usually leads straight to the cause.
 
 **3. Check for mold.** Where they are feeding tells you where fungal growth is, including places that are not visible.
 

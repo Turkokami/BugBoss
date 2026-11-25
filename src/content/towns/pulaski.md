@@ -12,17 +12,17 @@ faqs:
   - q: "Does BugBoss remove bats in Pulaski?"
     a: "Yes, and legally. Bats are protected in Wisconsin, and we use humane one-way exclusion on the DNR timeline that keeps exits open June 1 through July 31. We evict the colony, seal every entry, and clean up the guano — never sealing bats in. Both older homes and larger newer homes with complex rooflines get bats here."
   - q: "Do I need a contract for pest control in Pulaski?"
-    a: "No. BugBoss never uses long-term contracts or cancellation fees. Pick a one-time treatment or a recurring seasonal program and stop whenever you want. You deal directly with Brian, the owner, not a national call center — a real contrast with the big brands that dispatch into Pulaski from Green Bay."
+    a: "No. BugBoss never uses long-term contracts or cancellation fees. Pick a one-time treatment or a recurring seasonal program and stop whenever you want. You deal directly with Brian, the owner, not a national call center — a contrast with the big brands that dispatch into Pulaski from Green Bay."
   - q: "How fast can BugBoss get to Pulaski?"
     a: "Pulaski is an easy run from our Clintonville home base, so response is fast — often same day. Call 866-BUGBOSS to check today's availability."
   - q: "Are carpenter ants a problem in Pulaski?"
     a: "Yes, in both older homes and newer ones. Older Polish-era homes have aged wood and decades of small leaks; newer homes get carpenter ants through moisture around decks, window and door flashing, and roof-edge leaks. Either way, control means finding the parent and satellite nests and fixing the moisture, not just spraying trails."
   - q: "Does BugBoss handle commercial pest control for Pulaski businesses?"
-    a: "Yes. Pulaski has a real commercial base — a downtown district, restaurants and taverns, schools, food service, and businesses serving the Green Bay metro — and each needs documented, inspection-ready pest management. We build a discreet program around your building and industry, with records ready when an inspector asks."
+    a: "Yes. Pulaski has an established commercial base — a downtown district, restaurants and taverns, schools, food service, and businesses serving the Green Bay metro — and each needs documented, inspection-ready pest management. We build a discreet program around your building and industry, with records ready when an inspector asks."
   - q: "Does Pulaski Polka Days bring extra pest concerns?"
     a: "Big summer events like Pulaski Polka Days concentrate food, waste, and crowds in July heat, which draws yellow jackets, flies, and rodents to venues, food vendors, and nearby businesses. Event grounds and the restaurants and halls around them benefit from pre-season treatment and stinging-insect control timed to the event."
   - q: "How do mice get into Pulaski homes?"
-    a: "Through gaps as small as a dime — utility and pipe penetrations, garage-door corners, soffit and siding gaps, and sill plates. Newer homes leak at construction junctions; older homes leak at stone and block foundations. With farm fields close by, sealing the building is the real fix; trapping alone only clears what's already inside."
+    a: "Through gaps as small as a dime — utility and pipe penetrations, garage-door corners, soffit and siding gaps, and sill plates. Newer homes leak at construction junctions; older homes leak at stone and block foundations. With farm fields close by, sealing the building is the fix; trapping alone only clears what's already inside."
   - q: "Are ticks a concern in Pulaski?"
     a: "Yes, especially on the edges of the village where lawns meet woodlots, trails, and farm fields. Deer ticks carry Lyme disease and peak in late spring and again in fall. A perimeter tick program targets the tall-grass and brushy edges where they wait for a host."
   - q: "What about wasps and hornets in Pulaski?"
@@ -39,7 +39,7 @@ faqs:
 
 Pulaski is the biggest place in this corner of BugBoss's territory — a village of about **3,900 people** and growing, unusual for spanning **three counties**: Brown, Shawano, and Oconto, with most residents on the Brown County side inside the **Green Bay metro**. It was named for the Polish Revolutionary War cavalry general **Casimir Pulaski**, and that heritage is the village's calling card. Pulaski bills itself the **"Polka Capital of the World,"** and every summer **Pulaski Polka Days** draws big crowds for one of the largest Polish festivals in the country, closing with a parade and a traditional Polish Catholic Mass. Unlike the small farm villages nearby, Pulaski has grown steadily — from about 3,500 residents in 2010 to nearly 3,900 in 2020 — adding **subdivisions** on the edges even as older Polish-era homes hold the center and farm fields press in all around.
 
-That mix is what makes Pulaski's pest picture broader than a single-industry village, and it's why **BugBoss The X-Terminator** approaches it on multiple fronts. Pulaski isn't only old farmhouses or only new construction — it's both, side by side, plus a real commercial district and a big annual event. New subdivisions built right up against active farm fields get the same fall cluster flies and mice as a century-old house, just through different entry points. The older core has the aged-wood carpenter ant and rodent issues of any settled town. And the restaurants, taverns, and event grounds carry the commercial pest load that comes with crowds and food.
+That mix is what makes Pulaski's pest picture broader than a single-industry village, and it's why **BugBoss The X-Terminator** approaches it on multiple fronts. Pulaski isn't only old farmhouses or only new construction — it's both, side by side, plus an established commercial district and a big annual event. New subdivisions built right up against active farm fields get the same fall cluster flies and mice as a century-old house, just through different entry points. The older core has the aged-wood carpenter ant and rodent issues of any settled town. And the restaurants, taverns, and event grounds carry the commercial pest load that comes with crowds and food.
 
 We're based down the road in Clintonville at **600 S. Main St.**, an easy run over to Pulaski, so we're close enough for fast service without the Green Bay dispatch delay of the national brands. And because we do **both pest control and wildlife removal**, a Pulaski homeowner with cluster flies inside and bats or raccoons in the attic gets it handled by one company — a genuine edge over the pest-only franchises that service this area.
 
@@ -89,7 +89,7 @@ Trapping the raccoon in the chimney handles today; **exclusion** — capping the
 
 ## Commercial pest control for Pulaski's business base
 
-Pulaski has a real commercial base for a village its size — a downtown district, restaurants and taverns, schools, food service, lodging, and businesses tied into the Green Bay metro — and each needs documented, inspection-ready pest management. A restaurant needs rodent and fly control with records for the health inspector. A tavern or event hall needs sanitation-pest and stinging-insect control, especially around **Polka Days** and the summer event season. A school needs discreet, low-impact service scheduled around the calendar. We build [commercial programs](/commercial-pest-control/) around the specific building and industry, keep the documentation on hand, and — because you deal with the owner directly — put a real person on the hook for the result, not a rotating cast of route techs.
+Pulaski has an established commercial base for a village its size — a downtown district, restaurants and taverns, schools, food service, lodging, and businesses tied into the Green Bay metro — and each needs documented, inspection-ready pest management. A restaurant needs rodent and fly control with records for the health inspector. A tavern or event hall needs sanitation-pest and stinging-insect control, especially around **Polka Days** and the summer event season. A school needs discreet, low-impact service scheduled around the calendar. We build [commercial programs](/commercial-pest-control/) around the specific building and industry, keep the documentation on hand, and — because you deal with the owner directly — put a person on the hook for the result, not a rotating cast of route techs.
 
 ## Why a local company beats the national brands here
 
@@ -97,7 +97,7 @@ Pulaski sits close enough to Green Bay that the national brands treat it as the 
 
 ## Beyond the fall invaders: the rest of the Pulaski pest picture
 
-Cluster flies and mice lead the list, but a growing village with a real commercial district and farm edges carries a broader mix, and each gets its own treatment.
+Cluster flies and mice lead the list, but a growing village with an established commercial district and farm edges carries a broader mix, and each gets its own treatment.
 
 **Nuisance ants** are one of the most common calls we get from Pulaski's newer subdivisions. Pavement ants trailing up out of driveway and patio cracks, odorous house ants in the kitchen — these aren't the wood-damaging carpenter ants, and spraying the visible trail just scatters them. The fix is finding the colony and treating it at the source. Our [ants](/pest-library/ants/) page covers the difference between nuisance ants and carpenter ants, which matters because people often confuse the two.
 
