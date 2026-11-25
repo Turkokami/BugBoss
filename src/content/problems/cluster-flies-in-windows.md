@@ -30,7 +30,7 @@ faqs:
 
 ## The slow flies at the glass
 
-You notice them on a mild afternoon in October. A dozen, then more, **sluggish dark flies bumping the inside of the windows**, drifting toward the light, too slow to be house flies and showing up long after the summer fly season should be over. You kill them, and the next warm day there are more. Then winter comes and they vanish — until a bright day in February, when they're suddenly back at the same windows, crawling on the glass as if spring had arrived. It hasn't.
+You notice them on a mild afternoon in October. A dozen, then more, **sluggish dark flies bumping the inside of the windows**, drifting toward the light, too slow to be house flies and showing up long after the summer fly season should be over. You kill them, and the next warm day there are more. Then winter comes and they vanish — until a bright day in February, when they're suddenly back at the same windows, crawling on the glass as if spring had arrived, though it hasn't.
 
 These are **cluster flies**, and the window is only where you meet them. The story is happening in your walls and out in your yard, and once you understand that, the reason spraying the window never works becomes obvious.
 

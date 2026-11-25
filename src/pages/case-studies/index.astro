@@ -54,7 +54,7 @@ const pageNodes = [
         {items.map((c) => (
           <a class="card" href={`/case-studies/${c.slug}/`}>
             <h3 style="margin:0 0 .2rem">{c.data.title}</h3>
-            <p class="card-sub">{c.data.pestLabel}</p>
+            <p class="link-sub">{c.data.pestLabel}</p>
             <p style="font-size:.93rem;color:var(--muted);margin:0 0 .5rem">{c.data.propertyType}</p>
             <p style="font-size:.95rem;margin:0"><strong>Outcome:</strong> {c.data.outcome}</p>
           </a>
@@ -70,5 +70,5 @@ const pageNodes = [
   </section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these case studies: FAQs" /></div></section>
   <Cta />
-  <style>.card-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
+  <style>.link-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
 </BaseLayout>

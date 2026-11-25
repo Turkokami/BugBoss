@@ -83,7 +83,7 @@ A useful trick for the lady beetles: drop a knee-high nylon stocking into the va
 
 Here is the genuinely productive thing to do in January and February, and hardly anybody does it: **work out where they are coming in, while the evidence is fresh.**
 
-Note which rooms produce insects and which do not. Which windows. Which side of the house. Whether they come from the ceiling — which points at the attic and the top plate — or from around a window frame, which points at the fenestration itself. On a bright day, look at the outside of the walls where you are getting them and look hard at:
+Note which rooms produce insects and which do not, which windows, and which side of the house. Whether they come from the ceiling — which points at the attic and the top plate — or from around a window frame, which points at the fenestration itself. On a bright day, look at the outside of the walls where you are getting them and look hard at:
 
 - The **soffit** — the vent strips, the joint where soffit meets fascia, and anywhere the panel has pulled or torn.
 - The **frieze board** where the siding meets the soffit. On a lot of older houses out here that joint is simply open.

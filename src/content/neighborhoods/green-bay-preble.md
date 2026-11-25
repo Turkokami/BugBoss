@@ -2,7 +2,7 @@
 title: "Pest Control in Preble, WI"
 city: "Green Bay"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems on Green Bay's east side in the Preble area, Brown County — mid-century homes near the East River and newer subdivisions farther east. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems on Green Bay's east side in the Preble area, Brown County — mid-century homes near the East River and newer subdivisions farther east. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife, with no contracts."
 metaDescription: "Pest control in Preble, Green Bay — postwar ranches and capes, with the Baird Creek greenway pushing mice, squirrels and fall invaders into the blocks."
 order: 11
 faqs:
@@ -38,7 +38,7 @@ The **older core**, closer to the East River and the Bay Beach area, filled in t
 
 ## Two housing eras, two sets of entry points
 
-The mistake homeowners in Preble's newer subdivisions make is assuming a modern house is pest-proof. It isn't. It just leaks in different, more hidden places than an old one.
+The mistake homeowners in Preble's newer subdivisions make is assuming a modern house is pest-proof, when it just leaks in different, more hidden places than an old one.
 
 **Mid-century east-side homes** near the East River have the weak points of any settled sixty-year-old house: **block foundations** that have cracked and shifted, soffit and fascia gaps that have loosened, roof-edge openings, and utility penetrations that were never sealed tight. These are visible problems once you know where to look, and they reward a careful exclusion inspection.
 
@@ -50,7 +50,7 @@ And the newer subdivisions have geography working against them. Much of eastern 
 
 Every September and October, Preble gets the same wave every rural home in our territory gets. **Cluster flies**, **boxelder bugs**, and **Asian lady beetles** mass on the warm south- and west-facing walls, then work into wall voids and attics to overwinter. On a warm day in late winter they wake up and turn up at the windows, looking like a brand-new invasion.
 
-Homeowners in Preble's newer subdivisions are often shocked to get hammered by [cluster flies](/pest-library/cluster-flies/), assuming it's an old-house problem. It isn't. Cluster fly larvae **parasitize earthworms** in the soil, so a two-year-old house sitting on former farm ground produces the same fall population as a mid-century home near the river — it just lets them in through soffit returns and weep holes instead of a foundation crack. [Boxelder bugs](/pest-library/boxelder-bugs/) feed on boxelder and maple seeds from the trees around every neighborhood, and [Asian lady beetles](/pest-library/asian-lady-beetles/) pile in beside them.
+Homeowners in Preble's newer subdivisions are often shocked to get hammered by [cluster flies](/pest-library/cluster-flies/), assuming it's an old-house problem. That assumption is wrong: cluster fly larvae **parasitize earthworms** in the soil, so a two-year-old house sitting on former farm ground produces the same fall population as a mid-century home near the river — it just lets them in through soffit returns and weep holes instead of a foundation crack. [Boxelder bugs](/pest-library/boxelder-bugs/) feed on boxelder and maple seeds from the trees around every neighborhood, and [Asian lady beetles](/pest-library/asian-lady-beetles/) pile in beside them.
 
 Build date barely matters here — a 1955 ranch and a 2015 build on the same block both get them, because the draw is the sunny wall and the open ground behind it, not the age of the house. The fix is a **timed early-fall exterior treatment** on those walls plus sealing the seams, done before the flies mass rather than after. Our [cluster fly control guide](/guides/cluster-fly-control/) covers the timing, and if they are already stacking up on the glass, see [cluster flies in windows](/pest-problems/cluster-flies-in-windows/).
 

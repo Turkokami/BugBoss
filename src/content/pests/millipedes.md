@@ -59,7 +59,7 @@ And they live a surprisingly long time — several years is normal. That longevi
 
 Worth settling, because they mean quite different things.
 
-**Millipede**: slow, rounded and tube-like, dark, two pairs of short legs per segment, coils into a spiral when disturbed. Eats decaying plants. Arrives in mass numbers in autumn. Harmless.
+**Millipede**: slow, rounded and tube-like, dark, two pairs of short legs per segment, coils into a spiral when disturbed. Eats decaying plants. Arrives in mass numbers in autumn but is harmless.
 
 **Centipede**: fast — startlingly so — flattened rather than round, one pair of long legs per segment splayed out to the sides, and it runs for cover rather than curling up. A predator that hunts other insects. Shows up as individuals, year-round, wherever it is damp. See the [centipedes](/pest-library/centipedes/) page.
 
@@ -144,23 +144,23 @@ And as with every moisture pest, the underlying **signal** matters: conditions i
 
 **Missing the window wells.** Frequently the single biggest local concentration, and almost always overlooked until someone actually goes and looks in one.
 
-**Assuming it will keep getting worse.** It will not. Migrations end. The right response is to prepare for next autumn, not to escalate treatment mid-event.
+**Assuming it will keep getting worse.** It will not, because migrations end. The right response is to prepare for next autumn, not to escalate treatment mid-event.
 
 ## How does BugBoss handle millipedes?
 
-**1. Confirm what it is.** Millipede, centipede, or sowbug — a moment's work that determines everything else, because those three animals are telling you different things.
+**1. Confirm what it is:** Millipede, centipede, or sowbug — a moment's work that determines everything else, because those three animals are telling you different things.
 
-**2. Inspect the foundation band.** The strip of ground within a few feet of the building: thatch depth, mulch depth and placement, leaf litter, boards and timbers on soil, grading, downspout discharge, window wells, and which sides stay damp longest.
+**2. Inspect the foundation band:** The strip of ground within a few feet of the building: thatch depth, mulch depth and placement, leaf litter, boards and timbers on soil, grading, downspout discharge, window wells, and which sides stay damp longest.
 
-**3. Find the entry routes.** Foundation cracks, sill plate gaps, utility penetrations, garage door bottom seals, thresholds, basement window seals, and floor drains. During a migration, animals are pressing along the whole base of the wall, so every ground-level gap counts.
+**3. Find the entry routes:** Foundation cracks, sill plate gaps, utility penetrations, garage door bottom seals, thresholds, basement window seals, and floor drains. During a migration, animals are pressing along the whole base of the wall, so every ground-level gap counts.
 
-**4. Seal at ground level.** This is where the work goes. Above waist height is irrelevant for millipedes.
+**4. Seal at ground level:** This is where the work goes. Above waist height is irrelevant for millipedes.
 
-**5. Time the perimeter treatment to the season.** Late summer into early autumn, before the movement starts, so arrivals contact the treatment at the foundation rather than after they are indoors. On properties with a migration history we schedule this to the calendar rather than waiting for the call — it is a far better use of the money.
+**5. Time the perimeter treatment to the season:** Late summer into early autumn, before the movement starts, so arrivals contact the treatment at the foundation rather than after they are indoors. On properties with a migration history we schedule this to the calendar rather than waiting for the call — it is a far better use of the money.
 
-**6. Lay out the habitat plan.** Dethatching, mulch depth and setback, leaf clearance, lifting timbers and boards, window well clearing and covers, downspouts and grading. Specific and prioritized, with a clear line between what we handle and what belongs to a landscaper or an excavator.
+**6. Lay out the habitat plan:** Dethatching, mulch depth and setback, leaf clearance, lifting timbers and boards, window well clearing and covers, downspouts and grading. Specific and prioritized, with a clear line between what we handle and what belongs to a landscaper or an excavator.
 
-**7. Book the autumn visit.** Millipedes are one of the genuinely predictable pests. A property that got hit last September will very likely be hit again, and treating it as an annual scheduled item rather than an annual emergency works much better.
+**7. Book the autumn visit:** Millipedes are one of the genuinely predictable pests. A property that got hit last September will very likely be hit again, and treating it as an annual scheduled item rather than an annual emergency works much better.
 
 ## How do you keep millipedes out?
 

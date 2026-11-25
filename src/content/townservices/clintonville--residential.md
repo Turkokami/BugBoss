@@ -42,7 +42,7 @@ The work here runs on a calendar you could set a watch by.
 
 **October and November** is rodents. [Mice](/pest-library/mice/) move in off the fields and the ditches as the nights drop, and they need about a quarter inch. The frost that opened your foundation joints last winter is still open.
 
-**Winter** is mostly slow, except for the fall invaders waking up on warm days and appearing at the sunny windows. There is nothing to treat at that point — they have been in the wall since September. [Here is what is actually happening](/blog/bugs-indoors-in-january/).
+**Winter** is mostly slow, except for the fall invaders waking up on warm days and appearing at the sunny windows. There is nothing to treat at that point — they have been in the wall since September. Related reading: [Here is what is actually happening](/blog/bugs-indoors-in-january/).
 
 **Spring** is [carpenter ants](/pest-library/carpenter-ants/), particularly along the Pigeon River and anywhere with mature trees, and the first ant foraging. Large black ants active *indoors* in February or March usually mean a nest inside the structure, because the outdoor colonies are still dormant — which makes it worth investigating rather than waiting out.
 
@@ -54,7 +54,7 @@ The work here runs on a calendar you could set a watch by.
 
 **Treat the specific problem**, not the house. A blanket spray on a schedule is easy to sell and it is not what most of these homes need.
 
-**Seal the entry points**, which is the part with lasting value because it works on everything using the same opening. The gap that lets in cluster flies in September lets in mice in November and gave the wasps a soffit void in July. One repair.
+**Seal the entry points**, which is the part with lasting value because it works on everything using the same opening. The gap that lets in cluster flies in September lets in mice in November and gave the wasps a soffit void in July. One repair closes all of it.
 
 **Say when you do not need us.** Springtails and millipedes in a damp basement are a moisture problem, and the honest answer is a dehumidifier and a downspout extension rather than a program. You will hear that from us.
 

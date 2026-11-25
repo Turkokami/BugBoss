@@ -67,7 +67,7 @@ That last point is what turns a handful of eggs into a visible infestation. A ba
 
 They also **spread between packages**. Adults leave the original source and find other suitable material nearby, so by the time you notice, three or four packages may be involved. This is why "I threw out the cereal and they came back" is such a common report — the cereal was where they were noticed, not where they started.
 
-And they feed on things you would not think to check. Birdseed. Dry pet food. Pet treats. Dried flower arrangements and potpourri. Decorative gourds and seed ornaments. Rodent bait in a garage. Spilled dry food behind or under an appliance. Old spice jars nobody has opened in five years. Any of these can be the reservoir that keeps a kitchen reinfesting after a thorough cleanout.
+And they feed on things you would not think to check: birdseed, dry pet food, pet treats, dried flower arrangements and potpourri. Decorative gourds and seed ornaments. Rodent bait in a garage. Spilled dry food behind or under an appliance. Old spice jars nobody has opened in five years. Any of these can be the reservoir that keeps a kitchen reinfesting after a thorough cleanout.
 
 ## When are pantry pests active in Northeast Wisconsin?
 
@@ -130,19 +130,19 @@ Our service area has some specific reservoirs worth naming, because they are the
 
 ## How does BugBoss handle pantry pests?
 
-**1. Identify the insect.** Beetle or moth, and which beetle. This immediately narrows where to look — weevils mean whole grains, flour beetles mean milled products, drugstore beetles mean spices and non-obvious material.
+**1. Identify the insect:** Beetle or moth, and which beetle. This immediately narrows where to look — weevils mean whole grains, flour beetles mean milled products, drugstore beetles mean spices and non-obvious material.
 
-**2. Systematic source search.** Every package in every food storage location, not just the kitchen: pantry, cabinets, basement shelving, garage, mudroom, utility room, outbuildings. Birdseed and pet food specifically. Spices specifically. Decorative dried material specifically. This is the bulk of the visit and it is where the problem gets solved.
+**2. Systematic source search:** Every package in every food storage location, not just the kitchen: pantry, cabinets, basement shelving, garage, mudroom, utility room, outbuildings. Check birdseed, pet food, spices and decorative dried material specifically. This is the bulk of the visit and it is where the problem gets solved.
 
-**3. Remove and dispose properly.** Infested material out of the building, not into the kitchen bin where adults simply walk back out.
+**3. Remove and dispose properly:** Infested material out of the building, not into the kitchen bin where adults simply walk back out.
 
-**4. Clean the harborage.** Thorough vacuuming of shelf crevices, cabinet corners, hinge recesses, and the gaps under and behind appliances, where spilled material and insect debris accumulate and sustain a low-level population.
+**4. Clean the harborage:** Thorough vacuuming of shelf crevices, cabinet corners, hinge recesses, and the gaps under and behind appliances, where spilled material and insect debris accumulate and sustain a low-level population.
 
-**5. Targeted treatment only where it helps.** Cracks, crevices, and structural voids in persistent cases — restrained, appropriate to a food-handling environment, and never a substitute for source removal.
+**5. Targeted treatment only where it helps:** Cracks, crevices, and structural voids in persistent cases — restrained, appropriate to a food-handling environment, and never a substitute for source removal.
 
-**6. Fix the storage.** Which containers to use, what to repackage, what to freeze on arrival, how to rotate. This is the part that determines whether you see us again.
+**6. Fix the storage:** Which containers to use, what to repackage, what to freeze on arrival, how to rotate. This is the part that determines whether you see us again.
 
-**7. Follow up.** A check a few weeks later to confirm the tail of stragglers has ended and nothing was missed.
+**7. Follow up:** A check a few weeks later to confirm the tail of stragglers has ended and nothing was missed.
 
 ## How do you keep pantry pests out?
 

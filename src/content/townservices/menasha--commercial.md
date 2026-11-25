@@ -69,7 +69,7 @@ The practical point for an owner: **arguing about blame while it spreads is how 
 
 **Manufacturing and warehousing** in and around the mill-era industrial stock. [Manufacturing](/commercial-pest-control/manufacturing/), [warehousing and distribution](/commercial-pest-control/warehousing-distribution/).
 
-**Care facilities and senior housing.** Sensitive occupancy plus the multi-unit scope problem at the same time — the hardest combination in this trade, and the one where getting the scope right matters most. [Healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
+**Care facilities and senior housing.** Sensitive occupancy plus the multi-unit scope problem at the same time — the hardest combination in this trade, and the one where getting the scope right matters most. Related reading: [Healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
 
 ## What you get in writing
 

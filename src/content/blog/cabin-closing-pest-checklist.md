@@ -1,7 +1,7 @@
 ---
 title: "Closing the Cabin? A Pest-Proofing Checklist for Wisconsin Seasonal Homes"
 seoTitle: "Closing the Cabin: a Wisconsin Pest-Proofing Checklist"
-description: "An empty cabin is exactly what mice, bats, and fall invaders want for winter. Here's the pest-proofing checklist to run before you close up a Wisconsin lake home for the season."
+description: "An empty, closed-up cabin is exactly what mice, bats, and fall invaders want for winter. Here's the pest-proofing checklist to run before you close up a Wisconsin lake home for the season."
 pubDate: "2025-09-22"
 cluster: "general-pest-control"
 window: "Sep–Oct"
@@ -9,7 +9,7 @@ faqs:
   - q: "When should I pest-proof my cabin for winter?"
     a: "During your closing trip, ideally late September or early October — the same weeks mice start pushing indoors off the cooling fields and fall invaders begin massing on warm walls. Sealing and cleaning out food while you're already there for the season means the building is buttoned up before the invasion rather than after. If you close later, do it then; the point is to seal before the cold drives everything in."
   - q: "Why do empty cabins get worse pest problems than year-round homes?"
-    a: "Because a closed cabin offers exactly what overwintering pests want: warmth held in the structure, no disturbance, and no people to disturb them for six months straight. Mice breed undisturbed, fall invaders settle into wall voids, and small problems compound all winter with nobody there to notice. An occupied house gets interrupted daily; a cabin gives pests an uninterrupted season."
+    a: "Because a closed cabin offers exactly what overwintering pests want: warmth held in the structure, shelter, and no people to disturb them for six months straight. Mice breed undisturbed, fall invaders settle into wall voids, and small problems compound all winter with nobody there to notice. An occupied house gets interrupted daily; a cabin gives pests an uninterrupted season."
   - q: "How do I keep mice out of a cabin over the winter?"
     a: "Seal the entry points with materials mice can't chew — around utility penetrations, where siding meets the foundation, at the sill, and with tight door sweeps — and remove every scrap of food, including pantry staples, in favor of sealed metal containers or hauling it out. Mice come for warmth and food; deny both. Trapping alone won't hold over a six-month absence, so sealing is the fix."
   - q: "Should I leave traps or bait out in a closed cabin?"

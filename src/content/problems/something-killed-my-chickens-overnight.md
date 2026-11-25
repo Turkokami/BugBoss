@@ -23,7 +23,7 @@ faqs:
   - q: "Should I just kill it?"
     a: "Weasels and mink are native furbearing mammals in Wisconsin, and their trapping, handling and dispatch are governed by state wildlife and furbearer regulation, including seasons and specific provisions for animals causing damage. Those rules matter and they do change. Source: Wisconsin Department of Natural Resources furbearer and wildlife regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. We handle the regulatory side as part of the job rather than leaving owners to interpret it. And trapping alone does not solve it anyway — the gap is still there."
   - q: "What should I do before restocking?"
-    a: "Seal the coop properly first, then restock. Half-inch hardware cloth over every opening including windows, vents and the gaps above and below doors, fastened with screws and washers, and skirted outward about eighteen inches at ground level or buried to defeat digging. Positive-latching doors. Do the torch test to confirm. Putting new birds into the same building with the same gap, while an animal that regards it as a cache site is still in the area, is how people lose two flocks instead of one."
+    a: "Seal the coop properly first, then restock. Half-inch hardware cloth over every opening including windows, vents and the gaps above and below doors, fastened with screws and washers, and skirted outward about eighteen inches at ground level or buried to defeat digging, with positive-latching doors. Do the torch test to confirm. Putting new birds into the same building with the same gap, while an animal that regards it as a cache site is still in the area, is how people lose two flocks instead of one."
 ---
 
 ## Why this happens

@@ -69,9 +69,9 @@ On a rural Waupaca, Shawano, or Oconto county property, there are two overlappin
 
 **Wildlife** is the source that makes rural flea problems distinctive and stubborn, and it is why a home with no pets at all can still get fleas. The cat flea feeds readily on a wide range of wild mammals, and several of them love to den in and around rural buildings:
 
-- **Raccoons** in an attic, chimney, or under a deck or porch are prolific flea carriers, and an attic den in particular deposits a heavy load of flea eggs into insulation and voids right above your living space. See [raccoons](/pest-library/raccoons/).
-- **Opossums** sheltering under porches, decks, sheds, and in crawlspaces carry and drop fleas wherever they nest. See [opossums](/pest-library/opossums/).
-- **Squirrels** nesting in soffits, attics, and wall voids bring fleas into the upper structure. See [squirrels](/pest-library/squirrels/).
+- **Raccoons** in an attic, chimney, or under a deck or porch are prolific flea carriers, and an attic den in particular deposits a heavy load of flea eggs into insulation and voids right above your living space. Related reading: [raccoons](/pest-library/raccoons/).
+- **Opossums** sheltering under porches, decks, sheds, and in crawlspaces carry and drop fleas wherever they nest. Related reading: [opossums](/pest-library/opossums/).
+- **Squirrels** nesting in soffits, attics, and wall voids bring fleas into the upper structure. Related reading: [squirrels](/pest-library/squirrels/).
 - **Feral and stray cats** sheltering in barns, outbuildings, under porches, and in crawlspaces are among the most direct wildlife sources of cat fleas, since they are a primary host.
 - **Skunks and other mammals** denning under structures add to the load.
 

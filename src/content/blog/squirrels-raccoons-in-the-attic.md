@@ -92,7 +92,7 @@ The animal has usually been assessing your house for weeks before you hear anyth
 
 ## The three mistakes
 
-**1. Sealing the hole first.** This is the big one, and it is almost always done with good intentions.
+**1. Sealing the hole first:** This is the big one, and it is almost always done with good intentions.
 
 In spring and early summer, an adult female entering an attic is very often a mother with dependent young somewhere back in the insulation. Seal the entrance and she is locked out and they starve in your ceiling — inhumane, and practically speaking a severe odor problem plus a fly and dermestid beetle problem inside your insulation for months.
 
@@ -100,9 +100,9 @@ Seal a **raccoon** in, at any time of year, and it will simply make a new hole. 
 
 Confirm the space is empty — and that there are no young — before anything gets closed.
 
-**2. Repellents and gadgets.** Ultrasonic devices have not been shown to drive wildlife out of structures, and animals habituate to noise and light within days. Mothballs and ammonia in an attic push fumes down through the ceiling into your bedrooms and do not reliably move anything. Every dollar spent here is a dollar not spent on the exclusion work that actually solves it.
+**2. Repellents and gadgets:** Ultrasonic devices have not been shown to drive wildlife out of structures, and animals habituate to noise and light within days. Mothballs and ammonia in an attic push fumes down through the ceiling into your bedrooms and do not reliably move anything. Every dollar spent here is a dollar not spent on the exclusion work that actually solves it.
 
-**3. Going up there yourself.** Attics are dark, hot or freezing, full of things to fall through, and the animal is cornered and frightened. Raccoons in particular can injure a person. Add health considerations around droppings and roost material and it is simply not a reasonable place to go poking around.
+**3. Going up there yourself:** Attics are dark, hot or freezing, full of things to fall through, and the animal is cornered and frightened. Raccoons in particular can injure a person. Add health considerations around droppings and roost material and it is simply not a reasonable place to go poking around.
 
 ## What a proper job looks like
 

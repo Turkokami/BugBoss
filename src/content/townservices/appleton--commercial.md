@@ -39,13 +39,13 @@ If what you actually need is somebody who can be there in an hour, hire a Fox Va
 
 ## The buildings we work in here
 
-**Food service.** Restaurants, bars, cafés and taverns, mostly on the early-morning or after-close schedule. The work is inspection, drains and sanitation focus, targeted treatment rather than broadcast spraying, and a schedule that does not collide with service. See [restaurants and food service](/commercial-pest-control/restaurants-food-service/).
+**Food service.** Restaurants, bars, cafés and taverns, mostly on the early-morning or after-close schedule. The work is inspection, drains and sanitation focus, targeted treatment rather than broadcast spraying, and a schedule that does not collide with service. Related reading: [restaurants and food service](/commercial-pest-control/restaurants-food-service/).
 
-**Property management and multi-family.** The largest share of what we do in Appleton. The failure mode here is scope rather than method, and we deal with it by inspecting and scheduling the building rather than the complaint. [Property management](/commercial-pest-control/property-management/).
+**Property management and multi-family.** The largest share of what we do in Appleton. The failure mode here is scope rather than method, and we deal with it by inspecting and scheduling the building rather than the complaint. Related reading: [Property management](/commercial-pest-control/property-management/).
 
 **Retail and convenience.** Receiving docks, stockroom cardboard, stored-product insects in pet food and birdseed, and a sales floor where appearance is part of the finding. [Retail stores](/commercial-pest-control/retail-stores/) and [grocery and convenience](/commercial-pest-control/grocery-convenience/).
 
-**Offices and professional buildings.** Break rooms, refuse handling, entry doors, and the autumn fall-invader complaints that actually generate the tickets. [Offices](/commercial-pest-control/offices/).
+**Offices and professional buildings.** Break rooms, refuse handling, entry doors, and the autumn fall-invader complaints that actually generate the tickets. Related reading: [Offices](/commercial-pest-control/offices/).
 
 **Schools, daycares and senior living.** Sensitive populations, which means IPM in the sense — monitoring, sanitation and exclusion first, low-impact targeted material only when warranted, applied outside occupied hours, with Wis. Stat. 94.715 notice where it applies. [Schools](/commercial-pest-control/schools-education/) and [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
 

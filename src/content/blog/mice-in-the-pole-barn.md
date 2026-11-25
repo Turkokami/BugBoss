@@ -56,7 +56,7 @@ Mice exploit specific weaknesses, and on a pole barn they're predictable. If you
 
 ## Why traps and bait don't fix it
 
-The standard response is a line of snap traps or a few bait stations, and it fails for the same reason every year: it treats the symptom and leaves the cause wide open. As long as that perimeter gap and those door corners are unsealed, the fields keep supplying fresh mice every fall. You trap, you get a lull, the next wave arrives, and you conclude you just have to live with mice in the barn. You don't.
+The standard response is a line of snap traps or a few bait stations, and it fails for the same reason every year: it treats the symptom and leaves the cause wide open. As long as that perimeter gap and those door corners are unsealed, the fields keep supplying fresh mice every fall. You trap, you get a lull, the next wave arrives, and you conclude you just have to live with mice in the barn. You don't have to.
 
 Bait carries its own headaches out here. A mouse that eats bait often dies tucked inside the wall or equipment, and now you've got odor and, frequently, a secondary fly problem. Bait also raises concerns around barn cats, dogs, and non-target wildlife, and — this is the key point — it does nothing to keep the *next* mouse out. It's a body count, not a solution.
 

@@ -31,11 +31,11 @@ That is a proximity problem, and we are at **600 S. Main St.** It is also a cont
 
 ## The buildings we work in around here
 
-**Downtown food and drink.** Restaurants, bars, supper clubs and cafés on and around Main Street. Older buildings, shared walls, floor drains, and kitchens that run long hours. The work is mostly inspection, drain and sanitation focus, targeted treatment rather than broadcast spraying, and a schedule that does not collide with service. See [restaurants and food service](/commercial-pest-control/restaurants-food-service/).
+**Downtown food and drink.** Restaurants, bars, supper clubs and cafés on and around Main Street. Older buildings, shared walls, floor drains, and kitchens that run long hours. The work is mostly inspection, drain and sanitation focus, targeted treatment rather than broadcast spraying, and a schedule that does not collide with service. Related reading: [restaurants and food service](/commercial-pest-control/restaurants-food-service/).
 
 **Grocery, convenience and retail.** Docks, cull bins, bulk aisles, and the storage nobody has moved in a year. [Grocery and convenience](/commercial-pest-control/grocery-convenience/) and [retail stores](/commercial-pest-control/retail-stores/).
 
-**Rental and multi-unit property.** The most common failure here is scope rather than method — treating one unit at a time while the population moves through the shared walls. [Property management](/commercial-pest-control/property-management/).
+**Rental and multi-unit property.** The most common failure here is scope rather than method — treating one unit at a time while the population moves through the shared walls. Related reading: [Property management](/commercial-pest-control/property-management/).
 
 **Schools, care facilities and public buildings.** Sensitive populations, which means IPM in the sense: monitoring, sanitation and exclusion first, low-impact targeted materials only when warranted, applied outside occupied hours. [Schools](/commercial-pest-control/schools-education/) and [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
 

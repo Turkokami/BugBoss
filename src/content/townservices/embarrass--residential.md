@@ -52,17 +52,17 @@ People assume the river is the mosquito source and that there is nothing to be d
 
 The mosquitoes biting you in your own yard are largely breeding **in your own yard** — in container water. The clogged gutter, the tarp, the tire, the boat cover, the wheelbarrow, the saucer under a planter, the low spot that holds water for a week after rain. A surprising amount of relief comes from an hour of tipping things over.
 
-Beyond that, treating the shaded resting sites where adults spend the day — dense shrubs, the yard edge, under decks — does more than anything aimed at open water. [Mosquito and tick control](/residential-pest-control/mosquito-tick/).
+Beyond that, treating the shaded resting sites where adults spend the day — dense shrubs, the yard edge, under decks — does more than anything aimed at open water. Related reading: [Mosquito and tick control](/residential-pest-control/mosquito-tick/).
 
 ## The rest of the calendar
 
-**Late August into early September** — the fall invader window, and the most important two weeks of the year. [Cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) treated on the exterior *before* they mass on the siding, plus sealing. After they are in the wall it is largely too late for that year. [What is actually happening in there](/blog/bugs-indoors-in-january/).
+**Late August into early September** — the fall invader window, and the most important two weeks of the year. [Cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) treated on the exterior *before* they mass on the siding, plus sealing. After they are in the wall it is largely too late for that year. Related reading: [What is actually happening in there](/blog/bugs-indoors-in-january/).
 
 **October and November** — [mice](/pest-library/mice/) off the fields. A quarter inch is enough, and the frost that moved your foundation last winter left the doors open.
 
-**July through September** — [wasps and hornets](/pest-library/wasps-hornets/) on eaves, outbuildings and in the ground. [Which nests can wait and which cannot](/blog/wasp-hornet-nest-when-to-call/).
+**July through September** — [wasps and hornets](/pest-library/wasps-hornets/) on eaves, outbuildings and in the ground. Related reading: [Which nests can wait and which cannot](/blog/wasp-hornet-nest-when-to-call/).
 
-**Spring** — the thaw walk-around, which on a rural property is the most revealing hour of the year. [What to look for](/blog/spring-thaw-pest-check/).
+**Spring** — the thaw walk-around, which on a rural property is the most revealing hour of the year. Related reading: [What to look for](/blog/spring-thaw-pest-check/).
 
 ## Farm buildings count
 

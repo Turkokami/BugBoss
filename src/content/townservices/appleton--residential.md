@@ -14,7 +14,7 @@ faqs:
   - q: "My north-side subdivision is nearly new. Why do I have mice?"
     a: "Because of what was there before it, and because nothing has settled yet. A subdivision built on former farmland gets heavy rodent and cluster fly pressure for the first several autumns while the field population adjusts to the buildings. On top of that, new construction leaves compacted soil shedding water into low spots, unestablished drainage, and builder-grade gutter and downspout work nobody has yet discovered is holding water. New is frequently worse than old for the first few years, which surprises people."
   - q: "What is the single most useful thing I can do?"
-    a: "Get the exterior sealed, and get the fall treatment timed properly — late August into early September, before the cluster flies and lady beetles mass on the siding. That one window decides most of your winter. The identical treatment applied in late October, once they are in the wall voids, does very little, and the distance between those two facts is the most common reason people conclude that pest control does not work. It worked. It was six weeks late."
+    a: "Get the exterior sealed, and get the fall treatment timed properly — late August into early September, before the cluster flies and lady beetles mass on the siding. That one window decides most of your winter. The identical treatment applied in late October, once they are in the wall voids, does very little, and the distance between those two facts is the most common reason people conclude that pest control does not work. The treatment worked; it was six weeks late."
   - q: "Do you charge extra for the drive?"
     a: "No surcharge. The quote is the quote and you get it before anything starts. Distance affects scheduling rather than price — Appleton work gets grouped into runs rather than dropped into any open slot, so if you need a particular day it is worth calling with some notice. It also means we will occasionally suggest moving a mosquito or tick visit by a few days because the forecast changed, which is worth more than hitting a date."
   - q: "Do you handle bed bugs and cockroaches in an apartment?"
@@ -35,11 +35,11 @@ That is not a positioning exercise so much as a consequence of where we came fro
 
 **Historic central.** Balloon-framed, original soffit runs, settled trim, deep attics, and a century of small openings nobody has fully closed. In a balloon-framed wall the cavity runs open from sill plate to attic, so anything entering at the foundation has a clear route to the second floor. This is why [cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) appear at an upstairs window in February in a house where nothing visibly gets in downstairs. More on [historic central](/neighborhoods/appleton-historic-central/).
 
-**The postwar east side.** Tighter shells, simpler rooflines, predictable rather than pervasive weak points: the attached garage never sealed at the slab joint, soffit vents with failed screening, utility penetrations behind the meter. [The east side](/neighborhoods/appleton-east-side/).
+**The postwar east side.** Tighter shells, simpler rooflines, predictable rather than pervasive weak points: the attached garage never sealed at the slab joint, soffit vents with failed screening, utility penetrations behind the meter. Related reading: [The east side](/neighborhoods/appleton-east-side/).
 
-**The Highlands and the wooded lots.** Larger properties, heavy tree cover, ravine edges. [Carpenter ants](/pest-library/carpenter-ants/) wherever wood has been wet, [squirrels](/pest-library/squirrels/) with a highway onto the roof, and the heaviest tick exposure in the city. [The Highlands](/neighborhoods/appleton-highlands/).
+**The Highlands and the wooded lots.** Larger properties, heavy tree cover, ravine edges. [Carpenter ants](/pest-library/carpenter-ants/) wherever wood has been wet, [squirrels](/pest-library/squirrels/) with a highway onto the roof, and the heaviest tick exposure in the city. Related reading: [The Highlands](/neighborhoods/appleton-highlands/).
 
-**The north-side subdivisions.** Built on what was recently farmland, which produces heavy first-few-autumns rodent and cluster fly pressure, plus unsettled grading and drainage. Frequently worse than older housing for the first few years. [The north side](/neighborhoods/appleton-north-side/).
+**The north-side subdivisions.** Built on what was recently farmland, which produces heavy first-few-autumns rodent and cluster fly pressure, plus unsettled grading and drainage. Frequently worse than older housing for the first few years. Related reading: [The north side](/neighborhoods/appleton-north-side/).
 
 ## The ravines decide a lot of it
 
@@ -58,7 +58,7 @@ The answer is late August into the first week of September, and it is not a pref
 
 Apply the identical product in late October, after they have settled into the wall voids, and almost nothing happens. Those two sentences describe the same treatment and the same house. The gap between them is why so many people have decided pest control is a scam — the chemistry was fine, the date was six weeks out.
 
-By January there is nothing to treat at all. What you are seeing at the sunny window has been in the wall since September, and it cannot breed indoors, so the number that got in is the maximum you will ever have. [Why that happens](/blog/bugs-indoors-in-january/).
+By January there is nothing to treat at all. What you are seeing at the sunny window has been in the wall since September, and it cannot breed indoors, so the number that got in is the maximum you will ever have. Related reading: [Why that happens](/blog/bugs-indoors-in-january/).
 
 ## The rest of the year
 
@@ -66,11 +66,11 @@ By January there is nothing to treat at all. What you are seeing at the sunny wi
 
 **Late spring into early summer** — the tick nymph window, which is the one that matters most for Lyme because at 1–3 mm they go unnoticed.
 
-**July–September** — [wasps and hornets](/residential-pest-control/stinging-insects/) hit colony peak, and the calls all land at once because that is when the nests become visible. [Which ones can wait and which cannot](/blog/wasp-hornet-nest-when-to-call/).
+**July–September** — [wasps and hornets](/residential-pest-control/stinging-insects/) hit colony peak, and the calls all land at once because that is when the nests become visible. Related reading: [Which ones can wait and which cannot](/blog/wasp-hornet-nest-when-to-call/).
 
 **October–December** — [rodents](/residential-pest-control/rodent-control/) moving in. A quarter inch is enough.
 
-**March** — the short window after the snow goes and before anything leafs out, when every frost-opened joint and ice-damaged soffit on the house is plainly visible from the ground. [What to look at](/blog/spring-thaw-pest-check/).
+**March** — the short window after the snow goes and before anything leafs out, when every frost-opened joint and ice-damaged soffit on the house is plainly visible from the ground. Related reading: [What to look at](/blog/spring-thaw-pest-check/).
 
 ## When to call somebody else
 

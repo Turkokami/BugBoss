@@ -73,7 +73,7 @@ A large share of what we do in Appleton. [Starlings, pigeons and house sparrows]
 
 This is an exclusion project, not a spray: sealing entries, netting or screening roost areas, deterrents where they land. Those three species are not federally protected, though almost every other bird is.
 
-The part people do not anticipate: the nests left behind carry **bird mites**, which move indoors looking for a host when the birds leave. That is how a bird problem on a roof becomes a complaint about biting insects in the office below. See [commercial pest control in Appleton](/service-area/appleton/commercial/).
+The part people do not anticipate: the nests left behind carry **bird mites**, which move indoors looking for a host when the birds leave. That is how a bird problem on a roof becomes a complaint about biting insects in the office below. Related reading: [commercial pest control in Appleton](/service-area/appleton/commercial/).
 
 ## What a job runs through
 

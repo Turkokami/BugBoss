@@ -68,7 +68,7 @@ This is the part that actually protects your house, and it happens **before the 
 
 **Unpack somewhere that is not the bedroom.** The garage, the porch, the mudroom, the laundry room, the entry — anywhere with a hard floor and no upholstery.
 
-**Everything fabric goes straight into the dryer on high for thirty minutes.** Not the hamper. Not the floor. The dryer. Sustained heat kills bed bugs at every life stage, eggs included, and a household dryer on high reaches it. Wash afterward if you like, but the heat is doing the work — a cold or warm wash on its own is not reliable.
+**Everything fabric goes straight into the dryer on high for thirty minutes.** It goes in the dryer, not the hamper or the floor. Sustained heat kills bed bugs at every life stage, eggs included, and a household dryer on high reaches it. Wash afterward if you like, but the heat is doing the work — a cold or warm wash on its own is not reliable.
 
 This covers the things people forget: the jacket you never wore, the clean clothes you did not touch, the shoes, the backpack, the stuffed animal the kids took. If it will survive a hot dryer, it goes in the dryer.
 

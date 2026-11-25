@@ -78,7 +78,7 @@ It also reaches **hotels, motels, and short-term lodging**, where the exposure i
 
 **Respond within a reasonable time** to a written report. No deadline is set, but bed bugs multiply, so "reasonable" is short.
 
-**Use a licensed applicator.** Retail products and DIY heat attempts routinely make infestations worse by scattering bugs into adjacent voids and units. See [how to check an applicator's license](/compliance/pesticide-applicator-licensing/).
+**Use a licensed applicator.** Retail products and DIY heat attempts routinely make infestations worse by scattering bugs into adjacent voids and units. Related reading: [how to check an applicator's license](/compliance/pesticide-applicator-licensing/).
 
 **Inspect adjacent units.** Not optional in a multi-unit building if you want the problem to end.
 
@@ -108,7 +108,7 @@ It also reaches **hotels, motels, and short-term lodging**, where the exposure i
 
 **Civil claims** for habitability failures.
 
-**Spread, and cost.** The penalty. A single unit treated promptly is a manageable job. The same infestation left for two months in a multi-unit building becomes a building-wide program costing many times more — and the landlord pays for that either way, because at that point nobody can argue any single tenant caused it.
+**Spread, and cost.** This is where the cost comes from. A single unit treated promptly is a manageable job. The same infestation left for two months in a multi-unit building becomes a building-wide program costing many times more — and the landlord pays for that either way, because at that point nobody can argue any single tenant caused it.
 
 ## How BugBoss helps
 

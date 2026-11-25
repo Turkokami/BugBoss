@@ -67,7 +67,7 @@ Requirements scale with the operation. A food processing plant carries a heavier
 
 In roughly this order:
 
-**Live activity.** Anything moving. The most serious finding.
+**Live activity.** Anything moving is the most serious finding.
 
 **Evidence.** Rodent droppings along walls and behind equipment, gnaw marks, urine staining under UV, insect casings and shed skins, dead insects accumulating in light fixtures and window channels. Inspectors look behind and underneath things, because that is where evidence survives cleaning.
 

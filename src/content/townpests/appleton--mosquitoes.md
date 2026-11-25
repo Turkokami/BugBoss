@@ -29,7 +29,7 @@ Before anything else: **we are not an Appleton company.** The shop is in Clinton
 
 ## The Fox is not breeding them
 
-The Fox through Appleton drops through a gorge with locks. It moves. **Larvae cannot complete development in moving water**, so the river is not the nursery.
+The Fox through Appleton drops through a gorge with locks, so the water keeps moving. **Larvae cannot complete development in moving water**, so the river is not the nursery.
 
 What the river does supply is humidity and shade, both of which let adult mosquitoes survive longer. That is an effect and a secondary one.
 

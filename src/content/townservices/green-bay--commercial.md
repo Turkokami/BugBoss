@@ -49,11 +49,11 @@ We took an [eight-unit building with years of bed bugs to zero](/case-studies/ei
 
 **Food service.** Restaurants, bars, cafés and institutional kitchens. Drains, grease film, equipment voids and dock gaps rather than broadcast spraying, and a schedule that does not collide with service. [Restaurants and food service](/commercial-pest-control/restaurants-food-service/), and what the rules actually require in [Wisconsin food service](/compliance/food-service-pest-requirements/).
 
-**Warehousing and distribution.** Green Bay's port, rail and highway position makes this a category. Dock doors, overhead door seals, racking, and stored-product pests in anything food-related. [Warehousing and distribution](/commercial-pest-control/warehousing-distribution/).
+**Warehousing and distribution.** Green Bay's port, rail and highway position makes this a category. Dock doors, overhead door seals, racking, and stored-product pests in anything food-related. Related reading: [Warehousing and distribution](/commercial-pest-control/warehousing-distribution/).
 
 **Retail and grocery.** Docks, cull bins, bulk aisles and back storage. [Grocery and convenience](/commercial-pest-control/grocery-convenience/) and [retail stores](/commercial-pest-control/retail-stores/).
 
-**Hotels and lodging.** Where bed bug work is a reputational problem as much as a pest one, and where a per-room approach fails for the same reason it fails in an apartment building. [Hotels and lodging](/commercial-pest-control/hotels-lodging/).
+**Hotels and lodging.** Where bed bug work is a reputational problem as much as a pest one, and where a per-room approach fails for the same reason it fails in an apartment building. Related reading: [Hotels and lodging](/commercial-pest-control/hotels-lodging/).
 
 **Offices, schools and care facilities.** Sensitive occupancy, which means monitoring, sanitation and exclusion first and low-impact targeted materials only when warranted. [Offices](/commercial-pest-control/offices/), [schools](/commercial-pest-control/schools-education/), [healthcare and senior living](/commercial-pest-control/healthcare-senior-living/).
 
@@ -63,7 +63,7 @@ Birds on **signage, parapets, ledges and loading canopies** are a routine commer
 
 **Starlings, pigeons and house sparrows** are non-native and are not protected under the Migratory Bird Treaty Act, so they can be excluded and removed directly. **Native birds are protected**, and acting on a misidentification is a federal violation rather than a technicality.
 
-So every bird job starts by confirming which species is actually causing the problem. After that it is exclusion and deterrence — netting, spikes, ledge modification — plus cleanup, and dealing with whatever is drawing them, which is often food waste handling. [Nuisance birds](/pest-library/nuisance-birds/).
+So every bird job starts by confirming which species is actually causing the problem. After that it is exclusion and deterrence — netting, spikes, ledge modification — plus cleanup, and dealing with whatever is drawing them, which is often food waste handling. Related reading: [Nuisance birds](/pest-library/nuisance-birds/).
 
 ## What you get in writing
 

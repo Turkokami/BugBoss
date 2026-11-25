@@ -60,7 +60,7 @@ There's no way around it: **trapping is the reliable fix for moles**, and it com
 
 The method is to find the live runs first. We **tamp down sections of the surface ridges** and mark them, then come back the next day to see which have been **pushed back up** — those repaired runs are active. The straight, deeper travel tunnels that connect feeding areas are the other reliable set locations. Traps go on those confirmed runs, positioned and set correctly for the tunnel type, and checked and adjusted until the resident moles are removed. Because moles are **solitary and territorial**, a yard that looks overrun is often just one or two animals covering a lot of ground — so removing the residents genuinely stops the damage, rather than being an endless battle.
 
-Repellents and grub control have supporting roles. Castor-oil products can make soil temporarily less palatable and nudge a mole to shift, and cutting a heavy grub load helps where grubs are also damaging the turf — but neither reliably evicts an established mole on its own. Trapping does.
+Repellents and grub control have supporting roles. Castor-oil products can make soil temporarily less palatable and nudge a mole to shift, and cutting a heavy grub load helps where grubs are also damaging the turf — but neither reliably evicts an established mole on its own. Trapping does that job.
 
 ## The BugBoss approach
 

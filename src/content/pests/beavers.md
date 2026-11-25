@@ -109,7 +109,7 @@ Beaver problems defeat casual efforts for reasons rooted in the animal's biology
 
 **Breaching the dam and walking away.** The most common attempt, and the most reliably futile. As long as the colony is present, a torn-out dam is rebuilt within a night or two — the flowing water from the breach is itself the trigger that brings them out to repair it. Repeated breaching becomes an endless chore, stirs up erosion, and never ends the problem. Breaching only sticks when it's paired with removing the beavers or installing a flow device.
 
-**Clearing the culvert over and over.** Same story. A cleared culvert is a flowing constriction, which is precisely what says "dam here" to a beaver, so they re-plug it overnight. Without a culvert-protection fence or a flow device, you're committing to clearing it indefinitely.
+**Clearing the culvert over and over.** This fails for the same reason. A cleared culvert is a flowing constriction, which is precisely what says "dam here" to a beaver, so they re-plug it overnight. Without a culvert-protection fence or a flow device, you're committing to clearing it indefinitely.
 
 **Trapping without a plan.** Pulling a beaver or two from an active colony can help, but if you leave the dam, the pond, and the tree supply intact, dispersing beavers recolonize a prime site quickly. And beaver trapping is genuinely skilled work — done wrong it's ineffective and can be unsafe.
 

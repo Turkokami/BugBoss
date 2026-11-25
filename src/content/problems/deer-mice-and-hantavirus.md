@@ -45,7 +45,7 @@ The house mouse is the classic town-and-house mouse. The deer mouse is the **fie
 
 ## How exposure actually happens
 
-The virus lives in the deer mouse's **urine, droppings, and saliva**. People don't get it from a bite or from touching a mouse in passing. They get it by **breathing in aerosolized dust** when dried contamination is disturbed and thrown into the air. Dried droppings crumble into fine particles readily; a nest torn open sends up a cloud; a broom or a vacuum turns a undisturbed corner of contamination into an airborne hazard in seconds.
+The virus lives in the deer mouse's **urine, droppings, and saliva**. People don't get it from a bite or from touching a mouse in passing. They get it by **breathing in aerosolized dust** when dried contamination is disturbed and thrown into the air. Dried droppings crumble into fine particles readily; a nest torn open sends up a cloud; a broom or a vacuum turns an undisturbed corner of contamination into an airborne hazard in seconds.
 
 That mechanism is the whole key to safety, and it points straight at the rule that governs everything else: **keep it out of the air.** Do that and the risk drops to almost nothing. Fail to do it and you've created the one condition the virus needs.
 

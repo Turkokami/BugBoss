@@ -81,11 +81,11 @@ The response differs by species, so getting this right matters.
 
 **Raccoon**: needs a large opening or makes one, tears mesh and forces latches, reaches through wire, usually leaves considerable mess and often partially eaten carcasses. Very often several failed attempts before a success, so there is usually warning.
 
-**Fox**: typically takes one bird and carries it off, leaving scattered feathers and sometimes a scent. Digs under rather than squeezing through. See [foxes](/pest-library/foxes/).
+**Fox**: typically takes one bird and carries it off, leaving scattered feathers and sometimes a scent. Digs under rather than squeezing through. Related reading: [foxes](/pest-library/foxes/).
 
 **Owl or hawk**: daytime or dusk loss in an uncovered run, bird taken or killed in the open, plucked feathers scattered in a circle.
 
-**Rat**: kills chicks and takes eggs rather than adult birds, and leaves droppings and gnawing. See [rats](/pest-library/rats/).
+**Rat**: kills chicks and takes eggs rather than adult birds, and leaves droppings and gnawing. Related reading: [rats](/pest-library/rats/).
 
 **Dog**: chases, scatters, and mauls; damage widespread over the body rather than concentrated; usually considerable disturbance and often birds killed outside the coop.
 
@@ -159,19 +159,19 @@ Set against that, the **benefit deserves honest weight**. A weasel is among the 
 
 ## How does BugBoss handle weasels and mink?
 
-**1. Confirm which predator.** Entry size, wound pattern, extent of loss, tracks, and droppings. The response is completely different for a weasel than for a raccoon or a fox, so this comes first.
+**1. Confirm which predator:** Entry size, wound pattern, extent of loss, tracks, and droppings. The response is completely different for a weasel than for a raccoon or a fox, so this comes first.
 
-**2. Find the entry.** Systematically, with a torch, from inside the coop after dark — anywhere light shows through is an opening. Then the same treatment for the outbuildings, since the animal is likely denning in one.
+**2. Find the entry:** Systematically, with a torch, from inside the coop after dark — anywhere light shows through is an opening. Then the same treatment for the outbuildings, since the animal is likely denning in one.
 
-**3. Deal with the animal, within the regulations.** Weasels and mink are native furbearers and their handling is governed by state rules, including seasons and damage provisions. We manage that side rather than leaving owners to interpret it.
+**3. Deal with the animal, within the regulations:** Weasels and mink are native furbearers and their handling is governed by state rules, including seasons and damage provisions. We manage that side rather than leaving owners to interpret it.
 
-**4. Exclude properly.** Half-inch hardware cloth over every opening — walls, windows, vents, gaps above and below doors — fastened with screws and washers, and skirted outward about eighteen inches at ground level or buried. Positive-latching doors. This is the part of the job that actually ends the problem.
+**4. Exclude properly:** Half-inch hardware cloth over every opening — walls, windows, vents, gaps above and below doors — fastened with screws and washers, and skirted outward about eighteen inches at ground level or buried, with positive-latching doors. This is the part of the job that actually ends the problem.
 
-**5. Address the rodents.** The mice and voles in the barn are what drew the predator in. Leaving them in place leaves the attractant in place, so rodent work is part of a proper resolution rather than a separate sale.
+**5. Address the rodents:** The mice and voles in the barn are what drew the predator in. Leaving them in place leaves the attractant in place, so rodent work is part of a proper resolution rather than a separate sale.
 
-**6. Look at the wider property.** Hay stacks, lumber piles, rock and brush piles near buildings, and other outbuildings that could hold a den.
+**6. Look at the wider property:** Hay stacks, lumber piles, rock and brush piles near buildings, and other outbuildings that could hold a den.
 
-**7. Follow up.** These animals return to what they treat as a cache site, so a check after the initial work matters more here than with most wildlife.
+**7. Follow up:** These animals return to what they treat as a cache site, so a check after the initial work matters more here than with most wildlife.
 
 ## How do you keep weasels and mink out?
 

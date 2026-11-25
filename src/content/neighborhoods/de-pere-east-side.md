@@ -2,7 +2,7 @@
 title: "Pest Control in East De Pere, WI"
 city: "De Pere"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems on the east side of De Pere, Brown County — the original riverfront city east of the Fox River, from the historic downtown out to the newer east-side neighborhoods. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems on the east side of De Pere, Brown County — the original riverfront city east of the Fox River, from the historic downtown out to the newer east-side neighborhoods. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife, with no contracts."
 metaDescription: "Pest control in east De Pere — older near-river housing plus newer subdivisions, with the East River corridor supplying both moisture pests and wildlife."
 order: 13
 faqs:

@@ -60,7 +60,7 @@ Those connections are exactly what lets pests move between units without ever cr
 
 **The midge and mayfly hatches are not a pest control problem.** They come off open water in enormous numbers on their own schedule, they do not breed on your property, and nothing sprayed on a building affects a hatch. Anyone selling you a treatment for them is selling something that will not work. What helps is screening, exterior lighting changes so the building is less of a beacon, and cleanup.
 
-**Mosquitoes are the opposite** — they breed in standing water on your own property, and that responds well. The clogged gutter, the tarp, the tire, the boat cover, the wheelbarrow, the saucer under a planter, the low spot that holds water a week after rain. Source reduction plus treating the shaded resting sites where adults spend the day. [Mosquito and tick control](/residential-pest-control/mosquito-tick/).
+**Mosquitoes are the opposite** — they breed in standing water on your own property, and that responds well. The clogged gutter, the tarp, the tire, the boat cover, the wheelbarrow, the saucer under a planter, the low spot that holds water a week after rain. Source reduction plus treating the shaded resting sites where adults spend the day. Related reading: [Mosquito and tick control](/residential-pest-control/mosquito-tick/).
 
 **The damp-basement pests** — [springtails](/pest-library/springtails/), [sowbugs](/pest-library/sowbugs-pillbugs/), [millipedes](/pest-library/millipedes/), [centipedes](/pest-library/centipedes/) — come with the water table. They are moisture indicators first, and the honest fix is a dehumidifier, downspouts, grading and a vapor barrier rather than a program.
 
@@ -69,10 +69,10 @@ Those connections are exactly what lets pests move between units without ever cr
 Away from the water, Menasha runs the standard Fox Valley year:
 
 - **April–May** — [carpenter ants](/pest-library/carpenter-ants/) where wood has been wet, and wasp queens starting nests still the size of a walnut.
-- **July–September** — [wasps and hornets](/residential-pest-control/stinging-insects/) at colony peak. [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
+- **July–September** — [wasps and hornets](/residential-pest-control/stinging-insects/) at colony peak. Related reading: [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
 - **Late August–September** — the [fall invader](/residential-pest-control/fall-invaders/) window, and the single most important two weeks of the year. Before they mass on the siding, not after.
 - **October–December** — [rodents](/residential-pest-control/rodent-control/). A quarter inch is enough.
-- **January–February** — nothing to treat. What is at the window has been in the wall since September and cannot breed indoors. [Why](/blog/bugs-indoors-in-january/).
+- **January–February** — nothing to treat. What is at the window has been in the wall since September and cannot breed indoors. Related reading: [Why](/blog/bugs-indoors-in-january/).
 
 ## Also in Menasha
 

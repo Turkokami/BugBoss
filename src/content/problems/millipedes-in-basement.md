@@ -52,7 +52,7 @@ Millipedes also live several years, which is why populations build gradually in 
 
 4. **Look at what is against the foundation.** Thatch, mulch depth, leaf litter, boards and timbers lying on soil, and which side of the house stays damp. That is where the population lives and it is usually within a few feet of where you are sweeping.
 
-5. **Expect it to stop.** It will. The wave ends. Escalating treatment mid-event is money spent on a problem that is already resolving.
+5. **Expect it to stop.** The wave ends on its own. Escalating treatment mid-event is money spent on a problem that is already resolving.
 
 6. **Put a note in the calendar for late August.** That is the useful action, and it is the one nobody takes.
 

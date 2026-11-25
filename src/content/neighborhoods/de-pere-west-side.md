@@ -2,7 +2,7 @@
 title: "Pest Control in West De Pere, WI"
 city: "De Pere"
 county: "Brown County"
-answer: "BugBoss The X-Terminator handles pest and wildlife problems on the west side of De Pere, Brown County — west of the Fox River, from the St. Norbert College area and Broadway district out to the newer subdivisions. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife. No contracts."
+answer: "BugBoss The X-Terminator handles pest and wildlife problems on the west side of De Pere, Brown County — west of the Fox River, from the St. Norbert College area and Broadway district out to the newer subdivisions. We're a Clintonville-based rural specialist reaching the metro edge for cluster flies, mice, carpenter ants, and attic wildlife, with no contracts."
 order: 14
 faqs:
   - q: "Does BugBoss serve the west side of De Pere?"
@@ -39,7 +39,7 @@ For pest control, the west side reads as two zones. The **older neighborhoods** 
 
 ## Two housing eras, two sets of entry points
 
-The mistake homeowners in the west side's newer subdivisions make is assuming a modern house is pest-proof. It isn't. It just leaks in more hidden places than an old one.
+The mistake homeowners in the west side's newer subdivisions make is assuming a modern house is pest-proof, when it just leaks in more hidden places than an old one.
 
 **Older homes** near the college and Broadway have the weak points of any settled house: foundations that have cracked and shifted over decades of Wisconsin freeze-thaw, loosened soffit and fascia, aging windows gapped at the sash, and older masonry chimneys that have lost their caps. Many have full, spacious **attics** — good harborage for overwintering insects and wildlife.
 
@@ -51,7 +51,7 @@ And the newer subdivisions have geography working against them. Much of the west
 
 Every September and October, the west side gets the wave every home in our territory gets. **Cluster flies**, **boxelder bugs**, and **Asian lady beetles** mass on the warm south- and west-facing walls, then work inside to overwinter. On a mild day in late winter they wake in the wall voids and turn up at the windows, looking like a fresh invasion.
 
-Homeowners in the newer subdivisions are often shocked to get hammered by [cluster flies](/pest-library/cluster-flies/), assuming it's an old-house problem. It isn't. Cluster fly larvae **parasitize earthworms** in the soil, so a two-year-old house sitting on former farm ground produces the same fall population as an older home near the college — it just lets them in through soffit returns and weep holes instead of a foundation crack. [Boxelder bugs](/pest-library/boxelder-bugs/) feed on boxelder and maple seeds from the trees around every neighborhood, and [Asian lady beetles](/pest-library/asian-lady-beetles/) pile in beside them.
+Homeowners in the newer subdivisions are often shocked to get hammered by [cluster flies](/pest-library/cluster-flies/), assuming it's an old-house problem. That assumption is wrong: cluster fly larvae **parasitize earthworms** in the soil, so a two-year-old house sitting on former farm ground produces the same fall population as an older home near the college — it just lets them in through soffit returns and weep holes instead of a foundation crack. [Boxelder bugs](/pest-library/boxelder-bugs/) feed on boxelder and maple seeds from the trees around every neighborhood, and [Asian lady beetles](/pest-library/asian-lady-beetles/) pile in beside them.
 
 The fix is the same regardless of build date: a **timed early-fall exterior treatment** on the sunny walls, plus sealing the seams. Our [cluster fly control guide](/guides/cluster-fly-control/) covers the timing, and if they're already stacking up on the glass, see [cluster flies in windows](/pest-problems/cluster-flies-in-windows/).
 

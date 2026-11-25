@@ -55,11 +55,11 @@ Genuinely most of it, and it costs nothing:
 
 **[Cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/)** — a cabin sitting alone in open or wooded ground is exactly the conspicuous warm surface they aim for, and an unoccupied building means nobody vacuums them for eight months.
 
-**[Bats](/pest-library/bats/)** — older cottages with open soffits and unscreened gable vents are ideal roosts, and an undisturbed building gets found. This one has a legal calendar and it collides awkwardly with the season you are actually there. See [the bat exclusion law](/guides/wisconsin-bat-exclusion-law/).
+**[Bats](/pest-library/bats/)** — older cottages with open soffits and unscreened gable vents are ideal roosts, and an undisturbed building gets found. This one has a legal calendar and it collides awkwardly with the season you are actually there. Related reading: [the bat exclusion law](/guides/wisconsin-bat-exclusion-law/).
 
-**[Wasps and hornets](/pest-library/wasps-hornets/)** — seasonal structures grow the worst nests precisely because nobody disturbs them from May to August. [Which ones can wait and which cannot](/blog/wasp-hornet-nest-when-to-call/).
+**[Wasps and hornets](/pest-library/wasps-hornets/)** — seasonal structures grow the worst nests precisely because nobody disturbs them from May to August. Related reading: [Which ones can wait and which cannot](/blog/wasp-hornet-nest-when-to-call/).
 
-**[Ticks](/pest-library/ticks/)** — the genuine health risk on a wooded lot, and it lives at the edges rather than in the middle of the mowed area. Woodland edge, tall grass along the drive, brush and rock piles, under the deck. A daily tick check with same-day removal is the highest-value habit there is. [The yard program](/guides/tick-lyme-yard-program/).
+**[Ticks](/pest-library/ticks/)** — the genuine health risk on a wooded lot, and it lives at the edges rather than in the middle of the mowed area. Woodland edge, tall grass along the drive, brush and rock piles, under the deck. A daily tick check with same-day removal is the highest-value habit there is. Related reading: [The yard program](/guides/tick-lyme-yard-program/).
 
 **[Mosquitoes](/residential-pest-control/mosquito-tick/)** — lake country, so source reduction on your own property matters more than anything sprayed: the tarp, the tire, the boat cover, the clogged gutter, the saucer under the planter.
 

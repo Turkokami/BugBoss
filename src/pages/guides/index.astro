@@ -57,7 +57,7 @@ const pageNodes = [
         {guides.map((g) => (
           <a class="card" href={`/guides/${g.slug}/`}>
             <h3 style="margin:0 0 .2rem">{g.data.title}</h3>
-            <p class="card-sub">{g.data.category}</p>
+            <p class="link-sub">{g.data.category}</p>
             <p style="font-size:.95rem;color:var(--muted);margin:0">{g.data.answer.slice(0, 140)}…</p>
           </a>
         ))}
@@ -67,5 +67,5 @@ const pageNodes = [
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these guides: FAQs" /></div></section>
   <Cta />
   <style>.g-intro { margin: 1.6rem 0 2rem; max-width: 68ch; }</style>
-  <style>.card-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
+  <style>.link-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
 </BaseLayout>

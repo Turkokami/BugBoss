@@ -86,7 +86,7 @@ This is the same disciplined approach we bring to the [mice](/pest-library/mice/
 
 A few instincts make the problem worse or just burn cash:
 
-**Indoor foggers and aerosols.** They don't reach the flies in the voids, and they put pesticide where your family lives for no gain. Skip them.
+**Indoor foggers and aerosols.** They don't reach the flies in the voids, and they put pesticide where your family lives for no gain, so skip them.
 
 **Crushing the flies.** Not the end of the world with cluster flies specifically — they don't stain and stink like [boxelder bugs](/pest-library/boxelder-bugs/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) — but a vacuum is still the better tool because it clears them fast without smearing them on the glass. Empty the canister afterward so they don't crawl back out.
 

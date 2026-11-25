@@ -144,19 +144,19 @@ Third — and this is the one that actually costs money — **woodpeckers**. Dow
 
 ## How does BugBoss handle carpenter bees?
 
-**1. Find every gallery.** Underneath the deck, up under the fascia and soffits, along the barn rafters, with a light. Mapping the full extent, not just the obvious holes, is most of the value of the visit — and it is where most DIY attempts fall short.
+**1. Find every gallery:** Underneath the deck, up under the fascia and soffits, along the barn rafters, with a light. Mapping the full extent, not just the obvious holes, is most of the value of the visit — and it is where most DIY attempts fall short.
 
-**2. Assess the wood.** How far have the galleries run, is there rot from water entry, is there woodpecker damage, and is any member structurally compromised. You need to know whether this is a treatment job or a treatment-and-carpentry job.
+**2. Assess the wood:** How far have the galleries run, is there rot from water entry, is there woodpecker damage, and is any member structurally compromised. You need to know whether this is a treatment job or a treatment-and-carpentry job.
 
-**3. Treat the active galleries in late spring.** Application into the entrances so that adults moving in and out contact the material, and so it reaches the brood cells inside.
+**3. Treat the active galleries in late spring:** Application into the entrances so that adults moving in and out contact the material, and so it reaches the brood cells inside.
 
-**4. Let it work, then seal.** After the treatment has taken effect, galleries get plugged properly — dowel and glue, or solid exterior filler. Not caulk. Sealing an untreated gallery is worse than leaving it open.
+**4. Let it work, then seal:** After the treatment has taken effect, galleries get plugged properly — dowel and glue, or solid exterior filler, never caulk. Sealing an untreated gallery is worse than leaving it open.
 
-**5. Address the woodpeckers.** Where they have already found the site, the priority is removing the food source, because that is what stops the drumming and excavation. Repair guidance for what they have opened up comes with it.
+**5. Address the woodpeckers:** Where they have already found the site, the priority is removing the food source, because that is what stops the drumming and excavation. Repair guidance for what they have opened up comes with it.
 
-**6. Plan the finish.** This is the prevention conversation, and it is honest rather than idealistic: nobody is going to paint an entire barn. So we identify the surfaces where finishing actually pays — the deck rails, the house fascia, the porch — and where the realistic answer is annual treatment and monitoring instead.
+**6. Plan the finish:** This is the prevention conversation, and it is honest rather than idealistic: nobody is going to paint an entire barn. So we identify the surfaces where finishing actually pays — the deck rails, the house fascia, the porch — and where the realistic answer is annual treatment and monitoring instead.
 
-**7. Come back next spring.** One generation a year means one meaningful check a year. On properties with barns and long histories of carpenter bee activity, an annual May visit is genuinely the efficient way to keep it from compounding.
+**7. Come back next spring:** One generation a year means one meaningful check a year. On properties with barns and long histories of carpenter bee activity, an annual May visit is genuinely the efficient way to keep it from compounding.
 
 ## How do you keep carpenter bees out?
 

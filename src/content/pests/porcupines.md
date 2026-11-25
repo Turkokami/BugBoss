@@ -144,19 +144,19 @@ Porcupines can carry parasites and disease as any wild mammal can, but that is n
 
 ## How does BugBoss handle porcupines?
 
-**1. Confirm the animal.** Chew pattern, tree damage, scat, quills, and trails. Porcupine sign is distinctive once you know it, and the salt-tracking chew pattern is usually conclusive on its own.
+**1. Confirm the animal:** Chew pattern, tree damage, scat, quills, and trails. Porcupine sign is distinctive once you know it, and the salt-tracking chew pattern is usually conclusive on its own.
 
-**2. Find the den.** Under sheds, barns, decks, porches, and outbuildings; in rock piles, brush piles, and hollow logs on the property. The scat mound gives it away.
+**2. Find the den:** Under sheds, barns, decks, porches, and outbuildings; in rock piles, brush piles, and hollow logs on the property. The scat mound gives it away.
 
-**3. Handle the animal within the regulations.** Porcupines are native wildlife and their handling is governed by state rules, with specific provisions for damage situations. We deal with that side so the property owner is not left interpreting regulations.
+**3. Handle the animal within the regulations:** Porcupines are native wildlife and their handling is governed by state rules, with specific provisions for damage situations. We deal with that side so the property owner is not left interpreting regulations.
 
-**4. Close the den properly.** Hardware cloth, well fastened, with the base buried or skirted outward against digging. Built to hold against a determined heavy rodent, not to look tidy.
+**4. Close the den properly:** Hardware cloth, well fastened, with the base buried or skirted outward against digging. Built to hold against a determined heavy rodent, not to look tidy.
 
-**5. Remove the attractants.** This is the part that determines whether you get a repeat with a different animal. Securing salt and mineral blocks, storing tools and leather inside, protecting exposed plywood edges, and parking vehicles where they are not accessible.
+**5. Remove the attractants:** This is the part that determines whether you get a repeat with a different animal. Securing salt and mineral blocks, storing tools and leather inside, protecting exposed plywood edges, and parking vehicles where they are not accessible.
 
-**6. Protect the trees that matter.** Metal bands or hardware cloth wraps on valuable trunks, focused on the trees they have already shown interest in.
+**6. Protect the trees that matter:** Metal bands or hardware cloth wraps on valuable trunks, focused on the trees they have already shown interest in.
 
-**7. Check the rest of the property.** Where there is one suitable void there are usually others — the barn, the old shed, the deck at the back. Closing one den and leaving three open moves the problem rather than solving it.
+**7. Check the rest of the property:** Where there is one suitable void there are usually others — the barn, the old shed, the deck at the back. Closing one den and leaving three open moves the problem rather than solving it.
 
 ## How do you keep porcupines out?
 

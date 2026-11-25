@@ -136,19 +136,19 @@ And their presence is a **moisture signal** — which is the part that actually 
 
 ## How does BugBoss handle sowbugs and pillbugs?
 
-**1. Identify.** Sowbug, pillbug, or millipede — and confirm it is not something that actually needs different handling. This takes moments and it settles what the rest of the visit is about.
+**1. Identify:** Sowbug, pillbug, or millipede — and confirm it is not something that actually needs different handling. This takes moments and it settles what the rest of the visit is about.
 
-**2. Inspect the foundation strip.** The two-to-three-foot band of ground around the building is where the population lives. Mulch depth and placement, leaf litter, boards, stones, timbers, firewood, grading, downspout discharge, hose bibs, window wells, and the shaded side. We lift things, because that is where they are.
+**2. Inspect the foundation strip:** The two-to-three-foot band of ground around the building is where the population lives. Mulch depth and placement, leaf litter, boards, stones, timbers, firewood, grading, downspout discharge, hose bibs, window wells, and the shaded side. We lift things, because that is where they are.
 
-**3. Inspect inside.** Where they are getting in and, more importantly, whether anything indoors is damp enough for them to survive in — crawlspace soil and vapor barrier, basement walls and slab, sill plates, sump, floor drains, and any water staining.
+**3. Inspect inside:** Where they are getting in and, more importantly, whether anything indoors is damp enough for them to survive in — crawlspace soil and vapor barrier, basement walls and slab, sill plates, sump, floor drains, and any water staining.
 
-**4. Seal the ground-level routes.** Foundation cracks, sill plate gaps, utility penetrations, garage door bottom seals, thresholds, and basement window and window well seals. Ground level is where this battle is fought.
+**4. Seal the ground-level routes:** Foundation cracks, sill plate gaps, utility penetrations, garage door bottom seals, thresholds, and basement window and window well seals. Ground level is where this battle is fought.
 
-**5. Treat the perimeter where warranted.** After a heavy season, or where pressure is high while habitat corrections are underway. Targeted at the harborage band, not the whole property, and never presented as the fix on its own.
+**5. Treat the perimeter where warranted:** After a heavy season, or where pressure is high while habitat corrections are underway. Targeted at the harborage band, not the whole property, and never presented as the fix on its own.
 
-**6. Give you the habitat plan.** Specific and prioritized: which mulch to pull back, which timbers to lift, which downspout to extend, whether the window wells need clearing and covering, whether the crawlspace needs a vapor barrier. We say clearly which items are ours and which belong to a landscaper, an excavator, or a plumber.
+**6. Give you the habitat plan:** Specific and prioritized: which mulch to pull back, which timbers to lift, which downspout to extend, whether the window wells need clearing and covering, whether the crawlspace needs a vapor barrier. We say clearly which items are ours and which belong to a landscaper, an excavator, or a plumber.
 
-**7. Check back.** Particularly where a drainage or grading correction was part of the plan, since the result only shows after the next serious rain.
+**7. Check back:** Particularly where a drainage or grading correction was part of the plan, since the result only shows after the next serious rain.
 
 ## How do you keep sowbugs and pillbugs out?
 

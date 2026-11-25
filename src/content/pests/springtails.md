@@ -136,19 +136,19 @@ The risk that actually matters is **the condition they are reporting on**. A thr
 
 ## How does BugBoss handle springtails?
 
-**1. Confirm what they are.** First job, always, and it usually saves the customer money immediately — springtails rather than fleas means the flea plan can be canceled.
+**1. Confirm what they are:** First job, always, and it usually saves the customer money immediately — springtails rather than fleas means the flea plan can be canceled.
 
-**2. Find the water.** This is the work. Interior: bathrooms, under sinks, around the toilet base, the basement slab and walls, the crawlspace, the sump, plumbing runs, and any water staining. Exterior: grading, downspouts and extensions, hose bibs, mulch depth and placement, thatch, irrigation, window wells, and low spots that hold water. Springtail concentrations are a map — they cluster where the moisture is, and following them usually leads straight to the cause.
+**2. Find the water:** This is the work. Interior: bathrooms, under sinks, around the toilet base, the basement slab and walls, the crawlspace, the sump, plumbing runs, and any water staining. Exterior: grading, downspouts and extensions, hose bibs, mulch depth and placement, thatch, irrigation, window wells, and low spots that hold water. Springtail concentrations are a map — they cluster where the moisture is, and following them usually leads straight to the cause.
 
-**3. Check for mold.** Where they are feeding tells you where fungal growth is, including places that are not visible.
+**3. Check for mold:** Where they are feeding tells you where fungal growth is, including places that are not visible.
 
-**4. Treat where it earns its place.** A perimeter treatment to knock down heavy outdoor pressure while the corrections are made, and targeted work at entry points. Restrained, and never sold as the solution.
+**4. Treat where it earns its place:** A perimeter treatment to knock down heavy outdoor pressure while the corrections are made, and targeted work at entry points. Restrained, and never sold as the solution.
 
-**5. Seal the routes in.** Foundation cracks, sill plate gaps, utility penetrations, window well and basement window seals, and gaps around floor drains.
+**5. Seal the routes in:** Foundation cracks, sill plate gaps, utility penetrations, window well and basement window seals, and gaps around floor drains.
 
-**6. Lay out the drying plan.** Specific and prioritized: which downspout, which grade, which hose bib, whether the crawlspace needs a vapor barrier, what humidity target the dehumidifier should hold. We say plainly which items we handle and which belong to a plumber, an excavator, or a contractor.
+**6. Lay out the drying plan:** Specific and prioritized: which downspout, which grade, which hose bib, whether the crawlspace needs a vapor barrier, what humidity target the dehumidifier should hold. We say plainly which items we handle and which belong to a plumber, an excavator, or a contractor.
 
-**7. Follow up.** After the corrections, a check to confirm the population has gone rather than paused.
+**7. Follow up:** After the corrections, a check to confirm the population has gone rather than paused.
 
 ## How do you keep springtails out?
 

@@ -37,7 +37,7 @@ faqs:
 
 ## What carpenter ants are
 
-The big black ants marching across your kitchen counter after dark, or the winged ones showing up at a spring window, are almost certainly **carpenter ants** — genus *Camponotus*, and in Northeast Wisconsin most often the black carpenter ant, *Camponotus pennsylvanicus*. They are the largest ants in the state, and they earn their name honestly: they carve smooth nest galleries into wood. But the name misleads a lot of homeowners into thinking the ants are eating their house. They aren't. Carpenter ants excavate wood strictly to make room for the colony, and they haul the shavings back out. Their diet is something else entirely.
+The big black ants marching across your kitchen counter after dark, or the winged ones showing up at a spring window, are almost certainly **carpenter ants** — genus *Camponotus*, and in Northeast Wisconsin most often the black carpenter ant, *Camponotus pennsylvanicus*. They are the largest ants in the state, and they earn their name honestly: they carve smooth nest galleries into wood. But the name misleads a lot of homeowners into thinking the ants are eating their house, but they are not. Carpenter ants excavate wood strictly to make room for the colony, and they haul the shavings back out. Their diet is something else entirely.
 
 This distinction is the key to everything that follows. Because carpenter ants don't eat wood, you can't starve them out of a structure, and because they prefer wood that moisture has already softened, they are as much a symptom of a water problem as a pest in their own right. A carpenter ant infestation is very often the house telling you it has a leak. Treat the ants without finding the water, and you've done half the job.
 

@@ -37,7 +37,7 @@ The city is not one pest environment, and which one you are in decides almost ev
 
 **The century-old near-downtown and near-east neighborhoods.** Balloon framing, original soffit runs, settled trim, deep attics, and a hundred years of small openings nobody has fully closed. In a balloon-framed wall the cavity runs open from sill plate to attic, so anything that gets in at the foundation has a clear route to the second floor. This is why [cluster flies](/pest-library/cluster-flies/) and [Asian lady beetles](/pest-library/asian-lady-beetles/) turn up at an upstairs window in February in a house where nothing visibly gets in downstairs. The [Astor neighborhood page](/neighborhoods/green-bay-astor/) goes further into this.
 
-**The postwar east-side grid.** Ranches and capes on smaller lots — generally tighter shells with predictable rather than pervasive weak points: the attached garage that was never sealed at the slab joint, soffit vents with failed screening, and the utility penetrations behind the meter. Out toward the Baird Creek greenway the woodland edge pushes [mice](/pest-library/mice/), [squirrels](/pest-library/squirrels/) and fall invaders straight into the neighborhood. See [Preble](/neighborhoods/green-bay-preble/).
+**The postwar east-side grid.** Ranches and capes on smaller lots — generally tighter shells with predictable rather than pervasive weak points: the attached garage that was never sealed at the slab joint, soffit vents with failed screening, and the utility penetrations behind the meter. Out toward the Baird Creek greenway the woodland edge pushes [mice](/pest-library/mice/), [squirrels](/pest-library/squirrels/) and fall invaders straight into the neighborhood. Related reading: [Preble](/neighborhoods/green-bay-preble/).
 
 **The newer subdivisions on the edge.** Built on what was recently farmland, which produces heavy first-few-autumns rodent and cluster fly pressure. New construction is often *worse* in that window, not better — the field population has not adjusted to the buildings and nobody sealed the penetrations when the house went up.
 
@@ -45,9 +45,9 @@ The city is not one pest environment, and which one you are in decides almost ev
 
 Late August into early September. That is when the [fall invaders](/residential-pest-control/fall-invaders/) begin massing on warm south and west walls looking for a way in, and an exterior treatment applied **before** they arrive works well.
 
-The same treatment in late October, once they are inside the wall voids, does very little — and the distance between those two facts is the single most common reason people conclude pest control does not work. It worked. It was applied six weeks late.
+The same treatment in late October, once they are inside the wall voids, does very little — and the distance between those two facts is the single most common reason people conclude pest control does not work. The treatment worked; it was applied six weeks late.
 
-By January there is nothing to treat at all. What you are seeing at the sunny window has been in your wall since September, and it cannot breed indoors, so the number that got in is the maximum you will ever have. [Why that happens](/blog/bugs-indoors-in-january/).
+By January there is nothing to treat at all. What you are seeing at the sunny window has been in your wall since September, and it cannot breed indoors, so the number that got in is the maximum you will ever have. Related reading: [Why that happens](/blog/bugs-indoors-in-january/).
 
 ## Water runs through the whole city
 
@@ -61,11 +61,11 @@ Standing water also drives [mosquitoes](/residential-pest-control/mosquito-tick/
 
 **April–May** — [carpenter ants](/pest-library/carpenter-ants/) wherever wood has been wet, and wasp queens starting nests that are still the size of a walnut and trivially dealt with.
 
-**July–September** — [wasps and hornets](/residential-pest-control/stinging-insects/) at colony peak. A nest that was a walnut in May is a dinner plate by August. [Which ones can wait](/blog/wasp-hornet-nest-when-to-call/).
+**July–September** — [wasps and hornets](/residential-pest-control/stinging-insects/) at colony peak. A nest that was a walnut in May is a dinner plate by August. Related reading: [Which ones can wait](/blog/wasp-hornet-nest-when-to-call/).
 
 **October–December** — [rodents](/residential-pest-control/rodent-control/) moving in. A quarter inch is enough.
 
-**March** — the two weeks after the snow comes off, when every frost gap and ice-damaged soffit is visible before anything grows back. [The walk-around](/blog/spring-thaw-pest-check/).
+**March** — the two weeks after the snow comes off, when every frost gap and ice-damaged soffit is visible before anything grows back. Related reading: [The walk-around](/blog/spring-thaw-pest-check/).
 
 ## When to call somebody else
 

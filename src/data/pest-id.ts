@@ -155,7 +155,7 @@ export const pestId: Record<string, PestId> = {
   },
   centipedes: {
     size: 'House centipede: 25–40 mm body with 15 pairs of very long legs, so it looks considerably bigger than it is.',
-    look: 'Yellow-gray with three dark stripes down the back and banded legs. Very fast. A millipede is cylindrical, slow, and has two pairs of legs per segment.',
+    look: 'Yellow-gray with three dark stripes down the back and banded legs, and very fast. A millipede is cylindrical, slow, and has two pairs of legs per segment.',
     where: 'Damp basements, floor drains, crawlspaces, bathrooms and the underside of stored boxes.',
     risk: 'A moisture indicator before it is a pest, and a predator of other insects. A bite is possible but rare and minor.',
   },

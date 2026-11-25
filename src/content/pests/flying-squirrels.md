@@ -37,7 +37,7 @@ faqs:
 
 ## The call that starts at sunset
 
-Almost every flying squirrel job begins the same way. Somebody rings up and says there is something in the attic, and that the strange part is *when* — it is quiet all day, and then right around sunset it comes alive. Scampering. Light, quick footfalls. Soft thumps, like something landing. And it carries on, on and off, all night.
+Almost every flying squirrel job begins the same way. Somebody rings up and says there is something in the attic, and that the strange part is *when* — it is quiet all day, and then right around sunset it comes alive with scampering, light, quick footfalls. Soft thumps, like something landing. And it carries on, on and off, all night.
 
 That timing is the whole diagnosis. Gray squirrels and red squirrels are daytime animals; if you have those, the attic is noisy in the morning and quiet after dark. Mice run at night but sound like mice — scratching and gnawing in the walls, not scampering across the joists. An animal that switches on within minutes of sunset, moves with weight and speed across the attic floor, and switches off around dawn is a **northern flying squirrel**, and in this part of Wisconsin it is very rarely anything else.
 
@@ -93,7 +93,7 @@ The properties that get them share one feature — **mature trees close to the s
 - Village-edge homes in Clintonville, Marion, Tigerton, and Embarrass where the woods run up close
 - Any building with a complicated roofline — dormers, valleys, multiple soffit returns — near woods
 
-Seasonal properties are especially vulnerable. A cabin sitting empty from October to May is a undisturbed, well-insulated cavity in the middle of good habitat, and nobody is there to hear the first winter's worth of scampering. Owners routinely arrive in spring to a colony well established and a great deal of soiled insulation.
+Seasonal properties are especially vulnerable. A cabin sitting empty from October to May is an undisturbed, well-insulated cavity in the middle of good habitat, and nobody is there to hear the first winter's worth of scampering. Owners routinely arrive in spring to a colony well established and a great deal of soiled insulation.
 
 ## Signs of a flying squirrel colony
 
@@ -137,21 +137,21 @@ Seasonal properties are especially vulnerable. A cabin sitting empty from Octobe
 
 ## How does BugBoss handle flying squirrels?
 
-**1. Confirm the species by timing.** Standing outside at dusk and watching the roofline is often all it takes. Flying squirrel emergence is tightly synchronized, so the animals show us the exit themselves within minutes of sunset. That single observation identifies the species and locates the primary entry.
+**1. Confirm the species by timing:** Standing outside at dusk and watching the roofline is often all it takes. Flying squirrel emergence is tightly synchronized, so the animals show us the exit themselves within minutes of sunset. That single observation identifies the species and locates the primary entry.
 
-**2. Full roofline and attic inspection.** Every soffit return, fascia junction, gable vent, valley, dormer intersection, gutter line, and roof penetration. Then the attic itself — latrine areas, nesting sites, insulation condition, wiring damage, and whether young are present. Small openings mean this has to be methodical.
+**2. Full roofline and attic inspection:** Every soffit return, fascia junction, gable vent, valley, dormer intersection, gutter line, and roof penetration. Then the attic itself — latrine areas, nesting sites, insulation condition, wiring damage, and whether young are present. Small openings mean this has to be methodical.
 
-**3. Assess timing against breeding.** If there are dependent young, we plan around them. That may mean waiting until the juveniles are mobile, or hand-removing a nest for reunification. Sealing a mother out from her litter is not something we do.
+**3. Assess timing against breeding:** If there are dependent young, we plan around them. That may mean waiting until the juveniles are mobile, or hand-removing a nest for reunification. Sealing a mother out from her litter is not something we do.
 
-**4. Seal everything except one exit.** All secondary openings closed with materials that hold up to rodent chewing — heavy-gauge hardware cloth, metal flashing, structural repair where the wood is gone. Not foam, not screening, not a patch that looks tidy from the ground.
+**4. Seal everything except one exit:** All secondary openings closed with materials that hold up to rodent chewing — heavy-gauge hardware cloth, metal flashing, structural repair where the wood is gone. Not foam, not screening, not a patch that looks tidy from the ground.
 
-**5. Fit the one-way door.** Over the remaining active entry. Animals push out at dusk and cannot get back. Because the whole colony emerges on the same schedule, this clears the group in a matter of nights rather than sampling it the way trapping does.
+**5. Fit the one-way door:** Over the remaining active entry. Animals push out at dusk and cannot get back. Because the whole colony emerges on the same schedule, this clears the group in a matter of nights rather than sampling it the way trapping does.
 
-**6. Monitor, then close.** We verify that emergence has stopped and nothing remains inside before the one-way comes off. Then the final opening is sealed permanently, to the same standard as the rest.
+**6. Monitor, then close:** We verify that emergence has stopped and nothing remains inside before the one-way comes off. Then the final opening is sealed permanently, to the same standard as the rest.
 
-**7. Clean up.** Contaminated insulation removed, the site treated for parasites and odor, and the residual scent that advertises the attic dealt with. On colony jobs this is frequently the largest part of the work.
+**7. Clean up:** Contaminated insulation removed, the site treated for parasites and odor, and the residual scent that advertises the attic dealt with. On colony jobs this is frequently the largest part of the work.
 
-**8. Come back and check.** A follow-up on the seal and the attic. Roofline exclusion is only as good as its weakest point, and a job worth doing is worth verifying.
+**8. Come back and check:** A follow-up on the seal and the attic. Roofline exclusion is only as good as its weakest point, and a job worth doing is worth verifying.
 
 ## How do you keep flying squirrels out?
 

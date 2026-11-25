@@ -57,7 +57,7 @@ const pageNodes = [
         {pages.map((c) => (
           <a class="card" href={`/compliance/${c.slug}/`}>
             <h3 style="margin:0 0 .2rem">{c.data.short}</h3>
-            <p class="card-sub">{c.data.audience}</p>
+            <p class="link-sub">{c.data.audience}</p>
             <p style="font-size:.95rem;color:var(--muted);margin:0">{c.data.answer.slice(0, 150)}…</p>
           </a>
         ))}
@@ -74,5 +74,5 @@ const pageNodes = [
   <style>
     .note { margin-top: 1.8rem; font-size: .9rem; color: var(--muted); }
   </style>
-  <style>.card-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
+  <style>.link-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
 </BaseLayout>

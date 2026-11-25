@@ -147,17 +147,17 @@ Set against that, understand the regional risk calculus. In Northeast Wisconsin,
 
 ## How does BugBoss handle termites?
 
-**1. Identify before anything else.** Brian starts with the evidence — the insect, the wings, the frass, the galleries, the tubes. Nothing else is worth doing until it is settled which insect you have, and this step resolves the majority of these calls on the spot.
+**1. Identify before anything else:** Brian starts with the evidence — the insect, the wings, the frass, the galleries, the tubes. Nothing else is worth doing until it is settled which insect you have, and this step resolves the majority of these calls on the spot.
 
-**2. Inspect the full soil-to-structure interface.** The foundation perimeter inside and out, sill plates, rim joists, piers, crawlspace, slab edges and penetrations, and every point where wood approaches or touches soil. Probing and sounding suspect wood, not just looking at it.
+**2. Inspect the full soil-to-structure interface:** The foundation perimeter inside and out, sill plates, rim joists, piers, crawlspace, slab edges and penetrations, and every point where wood approaches or touches soil. Probing and sounding suspect wood, not just looking at it.
 
-**3. Find the moisture.** Whichever insect is involved, water is usually the enabling condition. Grading, downspouts, hose bibs, crawlspace vapor barriers, plumbing leaks, ventilation. This gets documented as part of the finding, because a treatment that ignores the moisture is a treatment with an expiry date.
+**3. Find the moisture:** Whichever insect is involved, water is usually the enabling condition. Grading, downspouts, hose bibs, crawlspace vapor barriers, plumbing leaks, ventilation. This gets documented as part of the finding, because a treatment that ignores the moisture is a treatment with an expiry date.
 
-**4. Tell you plainly what you have.** If it is carpenter ants, we say so and we treat them, and that is core BugBoss work — colony location, direct treatment, and correcting the wet wood that let them in. If it is genuinely subterranean termites, we say that too, we explain exactly what a soil barrier or baiting program involves, and where a specialist is the right call we will point you to one rather than sell you something ill-fitting.
+**4. Tell you plainly what you have:** If it is carpenter ants, we say so and we treat them, and that is core BugBoss work — colony location, direct treatment, and correcting the wet wood that let them in. If it is genuinely subterranean termites, we say that too, we explain exactly what a soil barrier or baiting program involves, and where a specialist is the right call we will point you to one rather than sell you something ill-fitting.
 
-**5. Fix the conditions.** Wood-to-soil contact removed, firewood moved off the wall, mulch pulled back, grading and drainage corrected, damaged wood identified for repair. This is the part that determines whether you are dealing with this again.
+**5. Fix the conditions:** Wood-to-soil contact removed, firewood moved off the wall, mulch pulled back, grading and drainage corrected, damaged wood identified for repair. This is the part that determines whether you are dealing with this again.
 
-**6. Re-inspect.** Wood-destroying insect situations get a follow-up. Slow-developing problems need a second look, not a one-visit assumption.
+**6. Re-inspect:** Wood-destroying insect situations get a follow-up. Slow-developing problems need a second look, not a one-visit assumption.
 
 ## How do you keep termites out?
 

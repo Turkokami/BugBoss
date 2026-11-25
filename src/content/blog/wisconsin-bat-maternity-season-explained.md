@@ -56,13 +56,13 @@ It's also worth saying plainly: bats are on your side most of the year. A single
 
 Done right, evicting a colony is a patient, mechanical process, not a spray-and-done job. It runs in four steps:
 
-**1. Find the exits.** Bats can use gaps as small as a finger's width, and they favor the high, hidden junctions of a roof — gable vents, ridge and soffit gaps, chimney flashing, the seams where a dormer or an addition meets the main roof. We inspect the structure and, when needed, watch the building at dusk to see where the colony streams out. You cannot exclude a colony you haven't fully mapped, because a missed exit becomes the door they keep using.
+**1. Find the exits:** Bats can use gaps as small as a finger's width, and they favor the high, hidden junctions of a roof — gable vents, ridge and soffit gaps, chimney flashing, the seams where a dormer or an addition meets the main roof. We inspect the structure and, when needed, watch the building at dusk to see where the colony streams out. You cannot exclude a colony you haven't fully mapped, because a missed exit becomes the door they keep using.
 
-**2. Install one-way devices.** At the confirmed exits we fit one-way doors or valves that let bats crawl and fly *out* at dusk to feed but block them from crawling back *in*. The colony empties itself over several nights.
+**2. Install one-way devices:** At the confirmed exits we fit one-way doors or valves that let bats crawl and fly *out* at dusk to feed but block them from crawling back *in*. The colony empties itself over several nights.
 
-**3. Wait — at least a week.** The devices stay in place long enough to be sure every bat has cleared, including stragglers. Rushing this step is how you accidentally seal a bat inside.
+**3. Wait — at least a week:** The devices stay in place long enough to be sure every bat has cleared, including stragglers. Rushing this step is how you accidentally seal a bat inside.
 
-**4. Seal permanently.** Only once the building is confirmed empty do we permanently close the openings with materials and methods that hold, so the colony can't re-establish next year. Then comes cleanup of the guano and any contaminated insulation, and the repairs that make the attic bat-proof going forward.
+**4. Seal permanently:** Only once the building is confirmed empty do we permanently close the openings with materials and methods that hold, so the colony can't re-establish next year. Then comes cleanup of the guano and any contaminated insulation, and the repairs that make the attic bat-proof going forward.
 
 You never, ever seal a live colony in. And during June and July, if a colony is active, the one-way doors stay open and step four waits until the season ends. Our [attic wildlife removal guide](/guides/attic-wildlife-removal/) walks through this alongside the [squirrels](/pest-library/squirrels/) and [raccoons](/pest-library/raccoons/) that get into the same spaces.
 

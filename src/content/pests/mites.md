@@ -75,7 +75,7 @@ Because the bites resemble other things, getting this right saves money and worr
 
 **Bed bugs** are large enough to see clearly, hide in mattress seams, headboards, and furniture joints, and leave dark faecal spotting on bedding and around harborage. Bed bug bites are usually on skin exposed during sleep and often in lines. If you can find live insects or spotting on the mattress, you are dealing with [bed bugs](/pest-library/bed-bugs/), not mites.
 
-**Fleas** are visible, jump conspicuously, bite mostly around ankles and lower legs, and are usually associated with a pet — though a wildlife infestation can leave fleas behind in exactly the same way it leaves mites. See [fleas](/pest-library/fleas/).
+**Fleas** are visible, jump conspicuously, bite mostly around ankles and lower legs, and are usually associated with a pet — though a wildlife infestation can leave fleas behind in exactly the same way it leaves mites. Related reading: [fleas](/pest-library/fleas/).
 
 **Scabies** is a medical condition. Those mites burrow into human skin, spread person to person, and require a doctor and prescription treatment. Nothing about scabies involves a nest in the structure.
 
@@ -141,19 +141,19 @@ The **associated risks** are worth noting too, since a mite problem always means
 
 ## How does BugBoss handle bird and rodent mites?
 
-**1. Establish the story.** What animals were present, when they left, when biting started, and which rooms are affected. With mites the history is more diagnostic than anything physical, and it usually tells us roughly where the nest is before we start looking.
+**1. Establish the story:** What animals were present, when they left, when biting started, and which rooms are affected. With mites the history is more diagnostic than anything physical, and it usually tells us roughly where the nest is before we start looking.
 
-**2. Confirm it is mites.** White card and a torch, inspection of sills, fixtures, and surfaces, and a check of the mattress and furniture to rule out bed bugs. Ruling things out properly matters here, because the alternative diagnoses have very different costs.
+**2. Confirm it is mites:** White card and a torch, inspection of sills, fixtures, and surfaces, and a check of the mattress and furniture to rule out bed bugs. Ruling things out properly matters here, because the alternative diagnoses have very different costs.
 
-**3. Find the nest.** Vents, soffits, eaves, gable vents, attic, chimney, wall voids, above ceilings, and in outbuildings the rafters and ledges. Old nests count. This is the part of the job that determines whether it works.
+**3. Find the nest:** Vents, soffits, eaves, gable vents, attic, chimney, wall voids, above ceilings, and in outbuildings the rafters and ledges. Old nests count. This is the part of the job that determines whether it works.
 
-**4. Remove nest and debris.** Physically out of the structure — nesting material, droppings, and accumulated debris, not just the visible nest.
+**4. Remove nest and debris:** Physically out of the structure — nesting material, droppings, and accumulated debris, not just the visible nest.
 
-**5. Treat the site and the routes.** The void, the surrounding surfaces, and the paths mites are using to reach living space — around fixtures, penetrations, and vent runs. Where relief is needed immediately, targeted treatment in the affected rooms as well, as a supporting measure rather than the main event.
+**5. Treat the site and the routes:** The void, the surrounding surfaces, and the paths mites are using to reach living space — around fixtures, penetrations, and vent runs. Where relief is needed immediately, targeted treatment in the affected rooms as well, as a supporting measure rather than the main event.
 
-**6. Seal the entry permanently.** Vent guards, heavy-gauge hardware cloth on gable and soffit vents, chimney cap, repaired soffit and fascia, rodent-proofed penetrations. If the host can come back, so can the mites.
+**6. Seal the entry permanently:** Vent guards, heavy-gauge hardware cloth on gable and soffit vents, chimney cap, repaired soffit and fascia, rodent-proofed penetrations. If the host can come back, so can the mites.
 
-**7. Follow up.** Biting should fall away within days and stop within a week or two. We check, because a tail that does not end means something was missed and that is worth knowing rather than assuming.
+**7. Follow up:** Biting should fall away within days and stop within a week or two. We check, because a tail that does not end means something was missed and that is worth knowing rather than assuming.
 
 ## How do you keep bird and rodent mites out?
 

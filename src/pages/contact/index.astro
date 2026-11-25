@@ -29,7 +29,7 @@ const pageNodes = [
       <div>
         <h1>Contact BugBoss</h1>
         <p class="lead">Have a pest or wildlife problem? Call or send a message and Brian will get right back to you.</p>
-        <div class="contact-card">
+        <div class="contact-details">
           <p><strong>Call or text:</strong> <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> ({business.phoneTollFree})</p>
           <p><strong>Email:</strong> <a href={`mailto:${business.email}`}>{business.email}</a></p>
           <p><strong>Address:</strong> {fullAddress}</p>
@@ -70,7 +70,7 @@ const pageNodes = [
     .steps { padding-left: 1.2rem; max-width: 68ch; }
     .steps li { margin-bottom: .7rem; }
     .contact-grid { display: grid; gap: 2rem; grid-template-columns: 1fr; }
-    .contact-card p { margin: .4rem 0; }
+    .contact-details p { margin: .4rem 0; }
     @media (min-width: 820px) { .contact-grid { grid-template-columns: 1fr 1fr; } }
   </style>
 </BaseLayout>

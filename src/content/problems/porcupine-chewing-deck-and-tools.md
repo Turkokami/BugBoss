@@ -44,7 +44,7 @@ They den in the void under sheds, barns, porches and outbuildings — dry, shelt
 
 1. **Deal with a quilled dog first.** If that has happened, it is a same-day veterinary visit and it outranks everything else on this page. Do not attempt removal at home.
 
-2. **Follow the salt.** Look at what has been chewed and you will usually be able to predict what gets hit next. Move it.
+2. **Follow the salt.** Look at what has been chewed and you will usually be able to predict what gets hit next, so move it out of reach.
 
 3. **Find the den.** Under the shed, barn, deck or porch, marked by a mound of pellet scat at the entrance and shed quills nearby. In snow, follow the worn trails.
 

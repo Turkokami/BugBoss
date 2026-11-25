@@ -8,7 +8,8 @@
     "build": "astro build && node scripts/split-sitemap.mjs && node scripts/ai-files.mjs --mode static --out dist --robots",
     "preview": "astro preview",
     "audit": "node scripts/audit.mjs",
-    "astro": "astro"
+    "astro": "astro",
+    "lint:copy": "node scripts/copy-lint.mjs"
   },
   "dependencies": {
     "@astrojs/sitemap": "^3.2.1",

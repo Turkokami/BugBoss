@@ -152,7 +152,7 @@ A few well-meaning moves make things worse or waste money, and they come up on n
 
 **Don't wait until they're inside to act.** By far the most common mistake. Once the insects are in the wall voids, the effective treatment window has closed. If you're seeing them indoors, mark your calendar for an exterior treatment *next* August rather than emptying spray cans this winter.
 
-**Don't crush them.** Squashing boxelder bugs and lady beetles stains surfaces and, in the case of lady beetles, releases a foul fluid and can attract more. Vacuum instead.
+**Don't crush them.** Squashing boxelder bugs and lady beetles stains surfaces and, in the case of lady beetles, releases a foul fluid and can attract more, so vacuum them up instead.
 
 **Don't rely on repellents or foggers.** Indoor foggers and repellents don't reach the insects in the voids and put chemicals where your family lives for no gain.
 

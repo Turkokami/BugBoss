@@ -63,7 +63,7 @@ The behavioral fact that governs everything is **habituation.** A wild coyote is
 
 ## When are coyotes active in Northeast Wisconsin?
 
-**Late winter (January–March).** Breeding season. Peak howling, bold territorial movement, and the start of heightened pressure near farms. Losses of poultry and small stock begin climbing.
+**Late winter (January–March).** This is breeding season, with peak howling, bold territorial movement, and the start of heightened pressure near farms. Losses of poultry and small stock begin climbing.
 
 **Spring (April–June).** The hardest window. Pups are born in April and the adults hunt relentlessly to feed them, pushing hard against poultry, lambs, and kids and coming in close to buildings, often at dawn and dusk as much as at night. Most depredation calls cluster here.
 

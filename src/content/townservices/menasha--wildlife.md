@@ -59,7 +59,7 @@ Birds on **signage, parapets, ledges and loading canopies** are a routine commer
 
 **Starlings, pigeons and house sparrows** are non-native and are not protected under the Migratory Bird Treaty Act, so they can be excluded and removed directly. **Native birds are protected**, and acting on a misidentification is a federal violation.
 
-So every bird job starts by confirming the species. After that it is exclusion and deterrence — netting, spikes, ledge modification — plus cleanup and dealing with whatever is drawing them, which is frequently food waste handling. [Nuisance birds](/pest-library/nuisance-birds/).
+So every bird job starts by confirming the species. After that it is exclusion and deterrence — netting, spikes, ledge modification — plus cleanup and dealing with whatever is drawing them, which is frequently food waste handling. Related reading: [Nuisance birds](/pest-library/nuisance-birds/).
 
 ## The water side
 

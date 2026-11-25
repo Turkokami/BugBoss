@@ -49,7 +49,7 @@ They are also, unusually among pests, almost completely solvable with a change t
 
 Under a hand lens the distinguishing feature is obvious: the **front pair of legs is dramatically longer than the others**, extending forward past the head, so that people frequently mistake them for antennae. The body is rounded, reddish to reddish-brown, and darkens with age.
 
-They feed exclusively on **plants** — grasses, clover, dandelion, and other lawn vegetation — piercing plant cells and drawing out the contents. Those mouthparts are built for plant tissue and cannot penetrate skin. This is worth being clear about, because the instinctive worry when you find thousands of tiny red things in a bedroom is that they might bite. They cannot.
+They feed exclusively on **plants** — grasses, clover, dandelion, and other lawn vegetation — piercing plant cells and drawing out the contents. Those mouthparts are built for plant tissue and cannot penetrate skin. This is worth being clear about, because the instinctive worry when you find thousands of tiny red things in a bedroom is that they might bite, and they cannot.
 
 ## Why the populations get so large
 
@@ -128,19 +128,19 @@ The **nuisance is considerable** even though the risk is low. Thousands of movin
 
 ## How does BugBoss handle clover mites?
 
-**1. Confirm the identification.** Clover mite, spider mite, or something that actually bites. Establishing that nothing here is biting anyone is usually the most reassuring part of the visit.
+**1. Confirm the identification:** Clover mite, spider mite, or something that actually bites. Establishing that nothing here is biting anyone is usually the most reassuring part of the visit.
 
-**2. Map the pressure.** Which walls, which windows, which rooms. Clover mites concentrate so strongly on sunny aspects that a few minutes walking the building tells us exactly where the work needs to go.
+**2. Map the pressure:** Which walls, which windows, which rooms. Clover mites concentrate so strongly on sunny aspects that a few minutes walking the building tells us exactly where the work needs to go.
 
-**3. Look at the foundation edge.** Turf type and density, how it is fertilized, whether it touches the siding, foundation plantings, mulch and gravel, and whether there is any barren band at all. This is where the problem is manufactured.
+**3. Look at the foundation edge:** Turf type and density, how it is fertilized, whether it touches the siding, foundation plantings, mulch and gravel, and whether there is any barren band at all. This is where the problem is manufactured.
 
-**4. Treat the exterior, timed to the peak.** The walls they are massing on and the band of turf and soil at the foundation, applied when the spring migration is beginning rather than after it is in full flow. On properties with a history we schedule this to the season rather than waiting for the call.
+**4. Treat the exterior, timed to the peak:** The walls they are massing on and the band of turf and soil at the foundation, applied when the spring migration is beginning rather than after it is in full flow. On properties with a history we schedule this to the season rather than waiting for the call.
 
-**5. Seal the entries.** Gaps around window frames and sashes, door thresholds and weatherstripping, siding joints and gaps at the sill plate, and utility penetrations. Small gaps matter for an animal this size.
+**5. Seal the entries:** Gaps around window frames and sashes, door thresholds and weatherstripping, siding joints and gaps at the sill plate, and utility penetrations. Small gaps matter for an animal this size.
 
-**6. Lay out the habitat change.** The barren strip — 18 to 24 inches of gravel, stone, or bare soil between lawn and foundation — plus a lighter fertilizer hand in the few feet nearest the house and keeping dense plantings off the wall. This is the part that makes next spring different.
+**6. Lay out the habitat change:** The barren strip — 18 to 24 inches of gravel, stone, or bare soil between lawn and foundation — plus a lighter fertilizer hand in the few feet nearest the house and keeping dense plantings off the wall. This is the part that makes next spring different.
 
-**7. Advise on cleanup.** Vacuum, soft brush, no wiping. It sounds trivial and it saves people a set of stained sills.
+**7. Advise on cleanup:** Vacuum, soft brush, no wiping. It sounds trivial and it saves people a set of stained sills.
 
 ## How do you keep clover mites out?
 

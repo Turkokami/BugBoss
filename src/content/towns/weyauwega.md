@@ -95,7 +95,7 @@ BugBoss builds [commercial programs](/commercial-pest-control/) around the speci
 
 ## Spiders, ants, and the rest of the Weyauwega picture
 
-Beyond the mice, cluster flies, and wildlife, a water-and-farm town grows its own supporting cast. **Spiders** are a common complaint, especially on waterfront and porch-heavy homes, because the insect-rich air off the lake and river feeds them and a undisturbed corner lets webs build. A heavy spider showing is usually a symptom of the insect supply gathering at lights and gaps, not a problem in its own right, and it eases when those are handled. Our [spiders](/pest-library/spiders/) page covers the common species.
+Beyond the mice, cluster flies, and wildlife, a water-and-farm town grows its own supporting cast. **Spiders** are a common complaint, especially on waterfront and porch-heavy homes, because the insect-rich air off the lake and river feeds them and an undisturbed corner lets webs build. A heavy spider showing is usually a symptom of the insect supply gathering at lights and gaps, not a problem in its own right, and it eases when those are handled. Our [spiders](/pest-library/spiders/) page covers the common species.
 
 The small trailing **ants** — not carpenter ants — track in on moisture and crumbs, and the [ants](/pest-library/ants/) page explains why the nest matters more than the trail you can see. On the farm edges around Weyauwega, the [mice](/pest-library/mice/) pressure runs heavy every fall as the fields are harvested, and **skunks** denning under decks, porches, and outbuildings are a routine spring call. Each is its own problem with its own fix, which is why a single blanket spray so rarely settles a rural property for long.
 

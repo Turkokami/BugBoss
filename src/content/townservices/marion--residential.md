@@ -29,7 +29,7 @@ Most residential pest advice is written for a house on a quarter-acre lot with o
 
 What is here is **farmsteads, pole barns, grain storage, and modest village homes**, sitting in dairy country on the Waupaca–Shawano line. And the single most useful thing to understand about pest control on a property like that is that **the house is downstream.** The pressure is generated in the fields, the fencerows, the outbuildings, and the feed — the house is just the warmest thing in that landscape when the weather turns.
 
-Which is why treating the house alone so often fails, and why people conclude nothing works. It worked. It just got reloaded from a hundred feet away.
+Which is why treating the house alone so often fails, and why people conclude nothing works. The treatment worked; it just got reloaded from a hundred feet away.
 
 ## The two seasons that matter
 

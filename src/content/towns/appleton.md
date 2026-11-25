@@ -45,17 +45,17 @@ A corridor delivers two things at once:
 - **Standing water in pockets** after rain — shallow, shaded, undisturbed, fish-free, which is good mosquito habitat
 - **Continuous dense shaded vegetation**, which is where adult mosquitoes spend daylight and where [ticks](/service-area/appleton/ticks/) quest at ankle height in the narrow band where mown turf meets brush
 
-A property backing onto one is next to a permanent reservoir of both. That is topography rather than anything the owner has done wrong — and it is also why treatment on those lots is a defined boundary band rather than a yard spray. See [mosquito control in Appleton](/service-area/appleton/mosquitoes/).
+A property backing onto one is next to a permanent reservoir of both. That is topography rather than anything the owner has done wrong — and it is also why treatment on those lots is a defined boundary band rather than a yard spray. Related reading: [mosquito control in Appleton](/service-area/appleton/mosquitoes/).
 
 ## Four cities in one city
 
-**Historic central.** Balloon-framed, original soffit runs, deep attics, a century of small openings. In a balloon-framed wall the cavity runs open from sill plate to attic, so an insect entering at the foundation reaches a second-floor bedroom without crossing a room. That is why [cluster flies](/pest-library/cluster-flies/) turn up at an upstairs window in February in a house where nothing visibly gets in downstairs. [More on historic central](/neighborhoods/appleton-historic-central/).
+**Historic central.** Balloon-framed, original soffit runs, deep attics, a century of small openings. In a balloon-framed wall the cavity runs open from sill plate to attic, so an insect entering at the foundation reaches a second-floor bedroom without crossing a room. That is why [cluster flies](/pest-library/cluster-flies/) turn up at an upstairs window in February in a house where nothing visibly gets in downstairs. Related reading: [More on historic central](/neighborhoods/appleton-historic-central/).
 
-**The postwar east side.** Tighter shells, simpler rooflines. Weak points are predictable rather than pervasive: the attached garage never sealed at the slab joint, soffit vents with failed screening, the utility penetrations behind the meter. [The east side](/neighborhoods/appleton-east-side/).
+**The postwar east side.** Tighter shells, simpler rooflines. Weak points are predictable rather than pervasive: the attached garage never sealed at the slab joint, soffit vents with failed screening, the utility penetrations behind the meter. Related reading: [The east side](/neighborhoods/appleton-east-side/).
 
-**The Highlands and the wooded lots.** Larger properties, heavy canopy, ravine edges. [Carpenter ants](/pest-library/carpenter-ants/) wherever wood has stayed wet, [squirrels](/pest-library/squirrels/) with a continuous highway onto the roof, and the heaviest tick exposure in the city. [The Highlands](/neighborhoods/appleton-highlands/).
+**The Highlands and the wooded lots.** Larger properties, heavy canopy, ravine edges. [Carpenter ants](/pest-library/carpenter-ants/) wherever wood has stayed wet, [squirrels](/pest-library/squirrels/) with a continuous highway onto the roof, and the heaviest tick exposure in the city. Related reading: [The Highlands](/neighborhoods/appleton-highlands/).
 
-**The north-side subdivisions.** Built on recent farmland, which means heavy rodent and cluster fly pressure through the first several autumns, plus unsettled grading and drainage. Reliably worse than older housing for a few years, which nobody expects. [The north side](/neighborhoods/appleton-north-side/).
+**The north-side subdivisions.** Built on recent farmland, which means heavy rodent and cluster fly pressure through the first several autumns, plus unsettled grading and drainage. Reliably worse than older housing for a few years, which nobody expects. Related reading: [The north side](/neighborhoods/appleton-north-side/).
 
 ## The commercial side
 
@@ -71,7 +71,7 @@ Most pest companies working the Fox Valley do not do wildlife. They treat insect
 
 Wildlife is a different trade: animal handling and carpentry together, which does not fit a route schedule. Out in the rural corridor there was frequently nobody else to hand a raccoon to, so we learned both halves. In a metro that combination is comparatively rare.
 
-What that means in practice is the animal out, the building closed properly with hardware cloth and flashing, and the contaminated insulation removed, sanitized and replaced — rather than a removal and a referral. Plus commercial bird work on signage and rooftop units. See [wildlife removal in Appleton](/service-area/appleton/wildlife/).
+What that means in practice is the animal out, the building closed properly with hardware cloth and flashing, and the contaminated insulation removed, sanitized and replaced — rather than a removal and a referral. Plus commercial bird work on signage and rooftop units. Related reading: [wildlife removal in Appleton](/service-area/appleton/wildlife/).
 
 ## The one date that decides your winter
 
@@ -79,7 +79,7 @@ What that means in practice is the animal out, the building closed properly with
 
 The same product in late October, after they are in the wall voids, does almost nothing. Those two sentences describe the same house and the same treatment, and the distance between them is why a lot of people have concluded pest control is a waste of money.
 
-By January there is nothing left to treat — what you are seeing at the sunny window has been in the wall since September, and it cannot breed indoors. [Why that happens](/blog/bugs-indoors-in-january/).
+By January there is nothing left to treat — what you are seeing at the sunny window has been in the wall since September, and it cannot breed indoors. Related reading: [Why that happens](/blog/bugs-indoors-in-january/).
 
 ## Everything in Appleton
 

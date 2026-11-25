@@ -63,15 +63,15 @@ The [farmhouse rodent exclusion guide](/guides/farmhouse-rodent-exclusion/) is t
 
 Nothing much, and that is the honest answer. Once the fall invaders are in the wall voids, no treatment reaches them and sealing traps them inside — where they die, and where dead insects in a void draw [carpet beetles](/pest-library/carpet-beetles/) later.
 
-So: **vacuum rather than crush** (Asian lady beetles stain, stink bugs smell), and use the winter to **make the list** of where they are appearing — which rooms, which windows, which side of the house, ceiling or window frame. That list is next August's work order, and having it in hand in summer is what turns intending to fix it into fixing it. [The full explanation](/blog/bugs-indoors-in-january/).
+So: **vacuum rather than crush** (Asian lady beetles stain, stink bugs smell), and use the winter to **make the list** of where they are appearing — which rooms, which windows, which side of the house, ceiling or window frame. That list is next August's work order, and having it in hand in summer is what turns intending to fix it into fixing it. Related reading: [The full explanation](/blog/bugs-indoors-in-january/).
 
 ## The woodlot side
 
-**[Ticks](/pest-library/ticks/)** — the genuine health risk here, concentrated at the edges: where mowed lawn meets woods, along fencerows, in brush and rock piles. A daily tick check with same-day removal is the highest-value habit available, because Lyme transmission generally needs a long attachment. [The yard program](/guides/tick-lyme-yard-program/).
+**[Ticks](/pest-library/ticks/)** — the genuine health risk here, concentrated at the edges: where mowed lawn meets woods, along fencerows, in brush and rock piles. A daily tick check with same-day removal is the highest-value habit available, because Lyme transmission generally needs a long attachment. Related reading: [The yard program](/guides/tick-lyme-yard-program/).
 
 **[Carpenter ants](/pest-library/carpenter-ants/)** — wherever farmhouse wood has been wet. They excavate rather than eat wood, so finding them is usually how people discover a gutter, grade or flashing problem. Large black ants active indoors in February or March generally mean a nest inside the structure, since outdoor colonies are still dormant.
 
-**[Wasps and hornets](/pest-library/wasps-hornets/)** — July through September, and around here that means outbuildings as much as eaves. Nests in machine sheds and granaries grow large precisely because nobody is in there weekly to notice, and ground nests along field edges are what catch people mowing. [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
+**[Wasps and hornets](/pest-library/wasps-hornets/)** — July through September, and around here that means outbuildings as much as eaves. Nests in machine sheds and granaries grow large precisely because nobody is in there weekly to notice, and ground nests along field edges are what catch people mowing. Related reading: [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
 
 ## Spring is worth an hour
 

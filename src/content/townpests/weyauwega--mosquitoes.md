@@ -37,7 +37,7 @@ It is also public water, and nothing anybody should be treating. What it means f
 
 Flowing water breeds nothing. Larvae cannot complete development in current.
 
-What matters along the **Waupaca** is the still water beside it — backwater pockets, the slack inside of a bend, and low ground that holds after the river rises and falls. Those produce, they are mostly not on your land, and that is why work on river-adjacent lots leans toward harborage treatment rather than source reduction.
+What matters along the **Waupaca** is the still water beside it — backwater pockets, the slack inside of a bend, and low ground that holds after the river rises and falls. Those places produce mosquitoes, they are mostly not on your land, and that is why work on river-adjacent lots leans toward harborage treatment rather than source reduction.
 
 ## Why the valley is worse than the ridge
 

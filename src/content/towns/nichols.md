@@ -45,7 +45,7 @@ We're based just down the road in Clintonville at **600 S. Main St.**, a straigh
 
 ### Spring (March–May): thaw, swarmers, and reawakening
 
-When the frost comes out of the ground around Nichols, two things wake up at once. The **overwintering insects** that spent the cold months in wall voids and attics — cluster flies, boxelder bugs, the odd Asian lady beetle — start moving toward the light and turning up at windows and in upstairs rooms. People assume it's a fresh invasion. It isn't. It's the fall population finally stirring, and it tells you exactly where the gaps in the building are.
+When the frost comes out of the ground around Nichols, two things wake up at once. The **overwintering insects** that spent the cold months in wall voids and attics — cluster flies, boxelder bugs, the odd Asian lady beetle — start moving toward the light and turning up at windows and in upstairs rooms. People assume it's a fresh invasion, but it's the fall population finally stirring, and it tells you exactly where the gaps in the building are.
 
 Spring is also when **carpenter ants** get active. Nichols farmhouses are prime carpenter ant real estate: old wood, decades of minor roof and gutter leaks, porches and additions with wood near damp soil, and big yard trees that host the outdoor parent colony. In April and May you'll see large black ants indoors and, if a colony is mature, winged **swarmers** near windows. Swarmers appearing inside while it's still cold out is a strong sign the nest is living in the heated structure, not just foraging in — and that's the point where dealing with it early saves you money in wood repair. The full rundown is on our [carpenter ants](/pest-library/carpenter-ants/) page.
 

@@ -149,19 +149,19 @@ The delayed nature of it is what catches people. A girdled tree often leafs out 
 
 ## How does BugBoss handle rabbits?
 
-**1. Confirm the animal.** Rabbit, deer, vole, or porcupine — the cut angle and the damage height settle it quickly, and the fencing spec depends entirely on the answer.
+**1. Confirm the animal:** Rabbit, deer, vole, or porcupine — the cut angle and the damage height settle it quickly, and the fencing spec depends entirely on the answer.
 
-**2. Inventory what needs protecting.** Not everything does. Established thick-barked trees are at little risk; young fruit trees, new plantings, valuable ornamentals, and shelterbelt stock are where the money is. Prioritizing keeps the job proportionate.
+**2. Inventory what needs protecting:** Not everything does. Established thick-barked trees are at little risk; young fruit trees, new plantings, valuable ornamentals, and shelterbelt stock are where the money is. Prioritizing keeps the job proportionate.
 
-**3. Specify the barriers properly.** Quarter-inch hardware cloth cylinders for trunks, staked clear of the bark, and tall enough to clear expected snow with margin. Two-foot one-inch mesh fencing for beds and vegetable plots, with the base buried or aproned outward and pinned.
+**3. Specify the barriers properly:** Quarter-inch hardware cloth cylinders for trunks, staked clear of the bark, and tall enough to clear expected snow with margin. Two-foot one-inch mesh fencing for beds and vegetable plots, with the base buried or aproned outward and pinned.
 
-**4. Find and address the cover.** Brush piles, wood piles, dense low skirts, overgrown fence lines, tall grass, and voids under decks, sheds, and porches. This is the part that reduces the population rather than just defending against it.
+**4. Find and address the cover:** Brush piles, wood piles, dense low skirts, overgrown fence lines, tall grass, and voids under decks, sheds, and porches. This is the part that reduces the population rather than just defending against it.
 
-**5. Close the voids.** Hardware cloth, skirted or buried, on anything open under a structure — which also handles the skunks, groundhogs, and foxes that would otherwise move in.
+**5. Close the voids:** Hardware cloth, skirted or buried, on anything open under a structure — which also handles the skunks, groundhogs, and foxes that would otherwise move in.
 
 **6. Trap where genuinely warranted**, within state regulations, understanding that it is a supporting measure rather than the solution.
 
-**7. Set the autumn routine.** Guards on before first snow, off in spring, cover cleared in the same pass. Rabbits are a predictable annual problem, and treating them as a scheduled autumn task works far better than reacting each March.
+**7. Set the autumn routine:** Guards on before first snow, off in spring, cover cleared in the same pass. Rabbits are a predictable annual problem, and treating them as a scheduled autumn task works far better than reacting each March.
 
 ## How do you keep rabbits out?
 

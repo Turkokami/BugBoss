@@ -43,7 +43,7 @@ The village sits on the **Embarrass River**, ringed by farmsteads and rural prop
 
 **[Muskrats](/pest-library/muskrats/) and [beavers](/pest-library/beavers/)** — river corridor animals, and a different kind of problem: bank damage, blocked culverts, and flooded low ground rather than anything in a building.
 
-The time of day the noise happens does most of the identification before anybody climbs. [The longer version](/blog/squirrels-raccoons-in-the-attic/).
+The time of day the noise happens does most of the identification before anybody climbs. Related reading: [The longer version](/blog/squirrels-raccoons-in-the-attic/).
 
 ## Bats have a legally binding calendar
 

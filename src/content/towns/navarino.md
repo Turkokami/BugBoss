@@ -14,7 +14,7 @@ faqs:
   - q: "Do I need a contract for pest control in Navarino?"
     a: "No. BugBoss never locks Navarino customers into long-term contracts and never charges cancellation fees. Choose a one-time treatment or a seasonal program and stop whenever you like. You deal directly with Brian, the owner — not a distant call center."
   - q: "I have a hunting cabin near Navarino that sits empty. What should I watch for?"
-    a: "Rodents, mainly. A cabin closed up between seasons is a undisturbed place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal the entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers the routine."
+    a: "Rodents, mainly. A cabin closed up between seasons is an undisturbed place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal the entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers the routine."
   - q: "How fast can BugBoss reach Navarino?"
     a: "Quickly. From our Clintonville base we're a short drive to Navarino and the wildlife-area edge, well ahead of any national route truck dispatched from the Fox Valley or Green Bay. Call 866-BUGBOSS to check today's availability."
   - q: "Are ticks worse in Navarino because of the wildlife area?"

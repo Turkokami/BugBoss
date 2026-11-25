@@ -35,7 +35,7 @@ The usual assumption is that the river and the lake produce the mosquitoes and t
 
 The mosquitoes biting you in your own yard are largely breeding **in your own yard**, in container water — the clogged gutter, the tarp over the boat, the tire, the wheelbarrow, the saucer under a planter, the tipped-over kayak, the low spot that holds water for a week after rain. Several species complete a generation in under two weeks in a few tablespoons of water. An hour spent tipping things over in June does more than most people expect.
 
-Beyond that, the productive treatment target is the **shaded resting sites** where adult mosquitoes spend the day — dense shrubs, the yard edge, under decks — rather than open water, which is neither practical nor lawful to treat wholesale. [Mosquito and tick control](/residential-pest-control/mosquito-tick/).
+Beyond that, the productive treatment target is the **shaded resting sites** where adult mosquitoes spend the day — dense shrubs, the yard edge, under decks — rather than open water, which is neither practical nor lawful to treat wholesale. Related reading: [Mosquito and tick control](/residential-pest-control/mosquito-tick/).
 
 ## Cluster flies and the river-facing wall
 
@@ -43,7 +43,7 @@ River-facing homes here get hit hard by [cluster flies](/pest-library/cluster-fl
 
 Cluster fly larvae develop inside **earthworms in the soil**, and the damp, worm-rich ground of a river corridor supports a large local population. Then, in September, a house facing open water presents an unobstructed sunny wall that warms in the afternoon — precisely the surface the flies orient to. Nothing about it relates to how the house is kept.
 
-The intervention is timed rather than reactive: an **exterior treatment in late August or early September**, before they arrive on the siding, plus sealing the seams. In late October, when they are in the wall voids, that same treatment does very little. [What is happening in the wall all winter](/blog/bugs-indoors-in-january/).
+The intervention is timed rather than reactive: an **exterior treatment in late August or early September**, before they arrive on the siding, plus sealing the seams. In late October, when they are in the wall voids, that same treatment does very little. Related reading: [What is happening in the wall all winter](/blog/bugs-indoors-in-january/).
 
 ## The damp-basement pests
 
@@ -55,9 +55,9 @@ So the honest recommendation is generally a dehumidifier below about fifty perce
 
 **October and November** — [mice](/pest-library/mice/) off the fields and the ditches. A quarter inch is enough.
 
-**July through September** — [wasps and hornets](/pest-library/wasps-hornets/). Around open grassy ground, the ones that cause trouble are **ground-nesting yellowjackets**, invisible until a mower or a weed-whip sets them off. Walking the edges before you mow in August is worth two minutes. [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
+**July through September** — [wasps and hornets](/pest-library/wasps-hornets/). Around open grassy ground, the ones that cause trouble are **ground-nesting yellowjackets**, invisible until a mower or a weed-whip sets them off. Walking the edges before you mow in August is worth two minutes. Related reading: [Which nests can wait](/blog/wasp-hornet-nest-when-to-call/).
 
-**Spring** — [carpenter ants](/pest-library/carpenter-ants/) wherever wood has stayed wet, which near water is a recurring theme, and the thaw walk-around that shows you the whole winter's rodent traffic before the grass grows back. [The March walk](/blog/spring-thaw-pest-check/).
+**Spring** — [carpenter ants](/pest-library/carpenter-ants/) wherever wood has stayed wet, which near water is a recurring theme, and the thaw walk-around that shows you the whole winter's rodent traffic before the grass grows back. Related reading: [The March walk](/blog/spring-thaw-pest-check/).
 
 ## Seasonal and lake property
 

@@ -59,7 +59,7 @@ Worth settling, because the animals need different responses.
 
 **Red fox**: small, ten to fifteen pounds, slender, big pointed ears, black legs, bushy **white-tipped** tail, rusty coat. Runs with the tail out level.
 
-**Coyote**: two to three times heavier, grayer or more tawny, proportionally larger muzzle and head, **black-tipped** tail carried low when running. Much more substantial in the body. See [coyotes](/pest-library/coyotes/).
+**Coyote**: two to three times heavier, grayer or more tawny, proportionally larger muzzle and head, **black-tipped** tail carried low when running. Much more substantial in the body. Related reading: [coyotes](/pest-library/coyotes/).
 
 **Gray fox**: fox-sized but grizzled gray, black-tipped tail, climbs trees.
 
@@ -93,7 +93,7 @@ An important behavioral detail: a vixen almost always maintains **several altern
 
 **Poultry.** The main genuine conflict, and it is common across the rural corridor. Foxes take birds during the day as well as at night, usually **one at a time, carried off**, leaving scattered feathers. This is quite different from a weasel, which kills many and leaves them.
 
-**Rabbits and small caged livestock.** Same exposure.
+**Rabbits and small caged livestock.** These face the same exposure.
 
 **Dens under outbuildings.** Sheds, decks, porches, barn floors, mobile homes, and old foundations across every farmstead and village property in the area.
 
@@ -147,21 +147,21 @@ And the **benefit** deserves stating: a fox family eats a very large number of r
 
 ## How does BugBoss handle foxes?
 
-**1. Identify the animal and the situation.** Fox, coyote, or dog; den or passing through; kits present or not; what the actual conflict is. That last question matters, because "there is a fox" and "I am losing birds" call for different responses.
+**1. Identify the animal and the situation:** Fox, coyote, or dog; den or passing through; kits present or not; what the actual conflict is. That last question matters, because "there is a fox" and "I am losing birds" call for different responses.
 
-**2. Give you the honest recommendation.** For a spring den with no active conflict, that is usually to wait a few weeks and then seal the void — and we will say so rather than sell a removal. It is a better outcome and it costs less.
+**2. Give you the honest recommendation:** For a spring den with no active conflict, that is usually to wait a few weeks and then seal the void — and we will say so rather than sell a removal. It is a better outcome and it costs less.
 
-**3. Where intervention is needed, start with harassment.** Increased activity, light, and sound around the entrance will typically prompt a vixen to move the litter to one of her alternate dens within a few days. Humane, effective, and it avoids separating a family.
+**3. Where intervention is needed, start with harassment:** Increased activity, light, and sound around the entrance will typically prompt a vixen to move the litter to one of her alternate dens within a few days. Humane, effective, and it avoids separating a family.
 
 **4. Handle the animal where that is genuinely required**, within the regulations — repeated poultry losses, a den under an occupied structure, or an animal behaving abnormally. Foxes are native furbearers and the rules governing trapping and handling matter; we manage that side rather than leaving it to the property owner.
 
-**5. Seal the void permanently.** Hardware cloth, properly fastened, with the base skirted outward or buried. This is the step that makes it a one-time job instead of an annual event, and it is the step most often skipped.
+**5. Seal the void permanently:** Hardware cloth, properly fastened, with the base skirted outward or buried. This is the step that makes it a one-time job instead of an annual event, and it is the step most often skipped.
 
-**6. Secure the poultry.** Covered run, hardware cloth rather than chicken wire, base skirted or buried against digging, positive latches, birds shut in at night. Get this right and it also handles weasels, raccoons, and most of what else is out there.
+**6. Secure the poultry:** Covered run, hardware cloth rather than chicken wire, base skirted or buried against digging, positive latches, birds shut in at night. Get this right and it also handles weasels, raccoons, and most of what else is out there.
 
-**7. Remove the attractants.** Pet food indoors, rubbish secured, fallen fruit cleared, and rodent control in the barn and feed storage — because the rodents are usually the reason the fox is on your property at all.
+**7. Remove the attractants:** Pet food indoors, rubbish secured, fallen fruit cleared, and rodent control in the barn and feed storage — because the rodents are usually the reason the fox is on your property at all.
 
-**8. Close the other voids.** Where there is one accessible space under a structure there are usually more. Sealing one and leaving three open just relocates the den.
+**8. Close the other voids:** Where there is one accessible space under a structure there are usually more. Sealing one and leaving three open just relocates the den.
 
 ## How do you keep foxes out?
 
