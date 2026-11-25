@@ -18,7 +18,6 @@ const pageNodes = [
 <BaseLayout title="Common Pest & Wildlife Problems" description={desc} metaDescription={"Specific pest and wildlife problems, with what to do now — bats in the attic, a wasp nest in the soffit, mice in a pole barn, a skunk under the deck."} path="/pest-problems/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
-      <p class="eyebrow">Got this problem?</p>
       <h1>Common Pest &amp; Wildlife Problems</h1>
       <p class="lead">The specific situations we get called about most across rural Northeast Wisconsin — with a straight answer and what it actually takes to fix each one.</p>
       {items.length === 0 ? <p>Problem pages are being published.</p> : Object.entries(byCat).map(([cat, list]) => (

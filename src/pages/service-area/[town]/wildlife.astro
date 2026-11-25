@@ -51,8 +51,8 @@ const pageNodes = [
 <BaseLayout title={`Wildlife Removal & Exclusion in ${t.name}, WI`} description={answerFinal} metaDescription={metaFinal} path={`/service-area/${t.slug}/wildlife/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Wildlife</p>
       <h1>Wildlife Removal &amp; Exclusion in {t.name}, WI</h1>
+      <p class="page-meta">See all our services on the <a href={`/service-area/${t.slug}/`}>{t.name} page</a>.</p>
       <AnswerBox text={answerFinal} />
       <p class="lead">{L.intro}</p>
       <p>Wildlife work in {t.name} is exclusion work, not a spray. On {L.housing}, animals get into attics, chimneys, soffits, barns, and crawlspaces — and the only lasting fix is to remove them and seal the structure. BugBoss does both, and handles the DNR-regulated bat work most companies out here won’t take on.</p>
@@ -68,11 +68,11 @@ const pageNodes = [
 
       <div class="callout">
         <p class="mt0"><strong>Something in the attic or barn in {t.name}?</strong> Call Brian — don’t corner the animal.</p>
-        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href="/wildlife-removal/" class="btn btn-ghost">About wildlife service →</a></div>
+        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href="/wildlife-removal/" class="btn btn-ghost">About wildlife service</a></div>
       </div>
     </div>
   </section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqsFinal} heading={`Wildlife Removal in ${t.name}: FAQs`} /></div></section>
   <Cta />
-  <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
+  <style>.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
 </BaseLayout>

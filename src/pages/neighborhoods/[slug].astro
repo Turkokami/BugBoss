@@ -44,13 +44,13 @@ const pageNodes = [
 <BaseLayout title={n.data.title} description={n.data.answer} metaDescription={n.data.metaDescription} path={`/neighborhoods/${n.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href="/neighborhoods/">Neighborhoods</a> · {cityPath ? <a href={cityPath}>{n.data.city}</a> : n.data.city}, {n.data.county}</p>
       <h1>{n.data.title}</h1>
+      <p class="page-meta">One of our <a href="/neighborhoods/">Fox Valley and Green Bay neighborhood pages</a>, covering part of {cityPath ? <a href={cityPath}>{n.data.city}</a> : n.data.city} in {n.data.county}.</p>
       <AnswerBox text={n.data.answer} />
       <article class="prose"><Content /></article>
     </div>
   </section>
   {n.data.faqs.length > 0 && <section class="soft"><div class="wrap narrow"><Faq items={n.data.faqs} /></div></section>}
   <Cta />
-  <style>.eyebrow a{color:var(--green-600);text-decoration:none}</style>
+  
 </BaseLayout>

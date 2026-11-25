@@ -5,5 +5,5 @@ interface Props { text: string; }
 const { text } = Astro.props;
 ---
 <div class="answer-box" role="note">
-  <p class="mt0" style="margin-bottom:0">{text}</p>
+  <p class="mt0" style="margin-bottom:0"><span class="answer-label">Quick answer:</span> {text}</p>
 </div>

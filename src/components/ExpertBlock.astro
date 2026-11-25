@@ -32,8 +32,8 @@ const { owner } = business;
     <div>
       <p class="mt0 name"><a href="/about/">{owner.name}</a> — {owner.role}</p>
       <p class="mt0 cred">
-        Wisconsin {owner.applicatorType} Pesticide Applicator, Cert #{owner.licenseNumber}
-        · {owner.applicatorCategories.join(' · ')}
+        Wisconsin {owner.applicatorType} Pesticide Applicator, Cert #{owner.licenseNumber},
+        categories {owner.applicatorCategories.join(' and ')}
       </p>
     </div>
   </div>
@@ -48,7 +48,6 @@ const { owner } = business;
 <style>
   .expert {
     border: 1px solid var(--line);
-    border-left: 4px solid var(--neon);
     border-radius: var(--radius);
     padding: 1.1rem 1.25rem;
     margin: 2rem 0;

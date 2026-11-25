@@ -51,8 +51,8 @@ const pageNodes = [
 <BaseLayout title={`Commercial Pest Control in ${t.name}, WI`} description={answerFinal} metaDescription={metaFinal} path={`/service-area/${t.slug}/commercial/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Commercial</p>
       <h1>Commercial Pest Control in {t.name}, WI</h1>
+      <p class="page-meta">See all our services on the <a href={`/service-area/${t.slug}/`}>{t.name} page</a>.</p>
       <AnswerBox text={answerFinal} />
       <p class="lead">{L.intro}</p>
       <p>Commercial pest control in {t.name} means documented, discreet, industry-specific service — a restaurant, a shop, a lodging property, and an agricultural operation each have different pests and different compliance needs. BugBoss builds the program around your building and gives you the records you need when an inspector asks.</p>
@@ -68,11 +68,11 @@ const pageNodes = [
 
       <div class="callout">
         <p class="mt0"><strong>Need a commercial program in {t.name}?</strong></p>
-        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href="/commercial-pest-control/" class="btn btn-ghost">About commercial service →</a></div>
+        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href="/commercial-pest-control/" class="btn btn-ghost">About commercial service</a></div>
       </div>
     </div>
   </section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqsFinal} heading={`Commercial Pest Control in ${t.name}: FAQs`} /></div></section>
   <Cta />
-  <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
+  <style>.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
 </BaseLayout>

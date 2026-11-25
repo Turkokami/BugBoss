@@ -48,7 +48,6 @@ const pageNodes = [
 <BaseLayout title="Reviews" description={desc} path="/reviews/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
-      <p class="eyebrow">Reviews</p>
       <h1>What Northeast Wisconsin says about BugBoss</h1>
       <AnswerBox text={answer} />
       <p class="lead"><span class="stars">★★★★★</span> {business.rating.value} out of 5 from {business.rating.count} reviews across Google, Facebook, and Yelp.</p>
@@ -60,17 +59,17 @@ const pageNodes = [
           <li><strong>It got fixed.</strong> Not managed, not reduced — stopped. Several reviews specifically describe a problem ending after one visit rather than becoming a standing arrangement.</li>
           <li><strong>He came quickly.</strong> Including a Saturday, and including jobs nobody enjoys — one of these is somebody crawling under a house to find a dead animal after new skirting went on.</li>
           <li><strong>The price was fair and it was known up front.</strong> Every job is quoted after looking at the property, which is why there is no price list on this site.</li>
-          <li><strong>He was respectful of the house.</strong> Shoe covers, working around whether anyone is home, and treating the place as somebody\u2019s home rather than a job site.</li>
+          <li><strong>He was respectful of the house.</strong> Shoe covers, working around whether anyone is home, and treating the place as somebody’s home rather than a job site.</li>
         </ul>
         <p>That is a fairly narrow set of expectations, and it is roughly what we would want a small local pest company to be judged on.</p>
       </div>
 
       <div class="grid cols-2" style="margin-top:1.5rem">
         {reviews.map((r) => (
-          <blockquote class="card">
+          <blockquote class="review">
             <span class="stars">{stars(r.stars)}</span>
             <p>“{r.text}”</p>
-            <cite>— {r.name} · Verified {r.source} review</cite>
+            <cite>{r.name}, verified {r.source} review</cite>
           </blockquote>
         ))}
       </div>

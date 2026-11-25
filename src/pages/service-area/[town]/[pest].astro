@@ -70,8 +70,8 @@ const pageNodes = [
 <BaseLayout title={e.data.title} description={e.data.answer} metaDescription={e.data.metaDescription} path={`/service-area/${t.slug}/${p.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href={townHref}>{t.name}</a> · {p.name}</p>
       <h1>{e.data.title}</h1>
+      <p class="page-meta">Local notes on {p.name.toLowerCase()} for {t.name}. See everything we do there on the <a href={townHref}>{t.name} page</a>.</p>
       <AnswerBox text={e.data.answer} />
       {note && <ExpertBlock note={note} />}
       <article class="prose"><Content /></article>
@@ -97,7 +97,6 @@ const pageNodes = [
     sub={`Brian is ${proximityClause(t)} — licensed, insured, and no long-term contract.`}
   />
   <style>
-    .eyebrow a { color: var(--green-600); text-decoration: none; }
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.2rem 1.4rem; margin: 2rem 0 0; }
   </style>
 </BaseLayout>

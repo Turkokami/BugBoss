@@ -45,7 +45,6 @@ const pageNodes = [
 <BaseLayout title="Wisconsin Pest Control Rules & Compliance" description={desc} metaDescription={"Wisconsin pest control rules in plain language — food code, applicator licensing, who pays in a rental. Sourced, dated, reviewed by a licensed applicator."} path="/compliance/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
-      <p class="eyebrow">Compliance</p>
       <h1>Wisconsin Pest Control Rules &amp; Compliance</h1>
       <AnswerBox text={answer} />
       <p class="lead">
@@ -57,8 +56,8 @@ const pageNodes = [
       <div class="grid cols-2">
         {pages.map((c) => (
           <a class="card" href={`/compliance/${c.slug}/`}>
-            <span class="tag">{c.data.audience}</span>
-            <h3 style="margin:.4rem 0 .3rem">{c.data.short}</h3>
+            <h3 style="margin:0 0 .2rem">{c.data.short}</h3>
+            <p class="card-sub">{c.data.audience}</p>
             <p style="font-size:.95rem;color:var(--muted);margin:0">{c.data.answer.slice(0, 150)}…</p>
           </a>
         ))}
@@ -75,4 +74,5 @@ const pageNodes = [
   <style>
     .note { margin-top: 1.8rem; font-size: .9rem; color: var(--muted); }
   </style>
+  <style>.card-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
 </BaseLayout>

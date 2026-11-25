@@ -63,13 +63,13 @@ const pageNodes = [
 <BaseLayout title={deep?.data.title ?? `Pest Control & Wildlife Removal in ${t.name}, WI`} description={answer} metaDescription={townMeta[t.slug]} path={`/service-area/${t.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href="/service-area/">Service Area</a> · {t.county}</p>
       <h1>Pest Control &amp; Wildlife Removal in {t.name}, WI</h1>
+      <p class="page-meta">{t.name} is in {t.county} and part of our <a href="/service-area/">service area</a>.</p>
       <AnswerBox text={answer} />
 
       {spokes.length > 0 && (
         <div class="grid cols-2" style="margin:1.4rem 0 .4rem">
-          {spokes.map((s) => <a class="card" href={s.href}><h3 style="margin:0;font-size:1rem">{s.label} →</h3></a>)}
+          {spokes.map((s) => <a class="card" href={s.href}><h3 style="margin:0;font-size:1rem">{s.label}</h3></a>)}
         </div>
       )}
 
@@ -104,10 +104,9 @@ const pageNodes = [
         <>
           <h2>A job we did in {t.name}</h2>
           {townCases.map((c) => (
-            <a class="case-card" href={`/case-studies/${c.slug}/`}>
-              <span class="tag">{c.data.pestLabel}</span>
+            <a class="card case-card" href={`/case-studies/${c.slug}/`}>
               <strong>{c.data.title}</strong>
-              <span class="case-outcome">{c.data.outcome}</span>
+              <span class="case-outcome">{c.data.pestLabel}: {c.data.outcome}</span>
             </a>
           ))}
         </>
@@ -117,7 +116,7 @@ const pageNodes = [
         <p class="mt0"><strong>Pest or wildlife problem in {t.name}?</strong> You’ll reach Brian directly — local, licensed, and no contract required.</p>
         <div class="cta-row">
           <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
-          <a href="/contact/" class="btn btn-ghost">Request a Quote →</a>
+          <a href="/contact/" class="btn btn-ghost">Request a Quote</a>
         </div>
       </div>
     </div>
@@ -125,11 +124,9 @@ const pageNodes = [
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading={`Pest Control in ${t.name}: FAQs`} /></div></section>
   <Cta title={`Serving ${t.name} and all of ${t.county}`} />
   <style>
-    .eyebrow a { color: var(--green-600); text-decoration: none; }
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
-    .case-card { display: block; border: 1px solid var(--line); border-left: 4px solid var(--green-600); border-radius: var(--radius-lg); padding: 1rem 1.2rem; margin: 1rem 0 0; text-decoration: none; color: inherit; transition: box-shadow .15s ease; }
-    .case-card:hover { box-shadow: var(--shadow); }
-    .case-card strong { display: block; margin: .4rem 0 .3rem; }
+    .case-card { margin: 1rem 0 0; }
+    .case-card strong { display: block; margin: 0 0 .3rem; }
     .case-outcome { display: block; font-size: .93rem; color: var(--muted); }
   </style>
 </BaseLayout>

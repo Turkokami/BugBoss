@@ -44,7 +44,6 @@ const pageNodes = [
 <BaseLayout title="Rural Wisconsin Pest & Wildlife Guides" description={desc} metaDescription={"In-depth guides for rural Wisconsin property — cabins, dairy farms, bat exclusion law, cluster flies, tick programs. Written for the problems out here."} path="/guides/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
-      <p class="eyebrow">Guides</p>
       <h1>Rural Wisconsin Pest &amp; Wildlife Guides</h1>
       <AnswerBox text={answer} />
       <p class="lead">Deep, local references on the problems that actually define pest and wildlife work out here — written by the people who do it.</p>
@@ -57,8 +56,8 @@ const pageNodes = [
       <div class="grid cols-2">
         {guides.map((g) => (
           <a class="card" href={`/guides/${g.slug}/`}>
-            <span class="tag">{g.data.category}</span>
-            <h3 style="margin:.4rem 0 .3rem">{g.data.title}</h3>
+            <h3 style="margin:0 0 .2rem">{g.data.title}</h3>
+            <p class="card-sub">{g.data.category}</p>
             <p style="font-size:.95rem;color:var(--muted);margin:0">{g.data.answer.slice(0, 140)}…</p>
           </a>
         ))}
@@ -68,4 +67,5 @@ const pageNodes = [
   <section class="soft"><div class="wrap narrow"><Faq items={faqs} heading="About these guides: FAQs" /></div></section>
   <Cta />
   <style>.g-intro { margin: 1.6rem 0 2rem; max-width: 68ch; }</style>
+  <style>.card-sub { font-size: .85rem; font-weight: 700; color: var(--green-800); margin: 0 0 .4rem; }</style>
 </BaseLayout>

@@ -27,20 +27,19 @@ const pageNodes = [
   <section>
     <div class="wrap contact-grid">
       <div>
-        <p class="eyebrow">Get in touch</p>
         <h1>Contact BugBoss</h1>
         <p class="lead">Have a pest or wildlife problem? Call or send a message and Brian will get right back to you.</p>
-        <div class="card contact-card">
+        <div class="contact-card">
           <p><strong>Call or text:</strong> <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> ({business.phoneTollFree})</p>
           <p><strong>Email:</strong> <a href={`mailto:${business.email}`}>{business.email}</a></p>
           <p><strong>Address:</strong> {fullAddress}</p>
           <p><strong>Hours:</strong> {business.hours}</p>
           <p><strong>Payment:</strong> {business.paymentMethods.join(', ')}</p>
-          <p style="margin-bottom:0"><a href={business.social.googleMaps} class="btn btn-ghost" rel="noopener">Get directions →</a></p>
+          <p style="margin-bottom:0"><a href={business.social.googleMaps} class="btn btn-ghost" rel="noopener">Get directions</a></p>
         </div>
       </div>
       <div>
-        <div class="card">
+        <div>
           <QuoteForm />
         </div>
       </div>

@@ -51,8 +51,8 @@ const pageNodes = [
 <BaseLayout title={`Residential Pest Control in ${t.name}, WI`} description={answerFinal} metaDescription={metaFinal} path={`/service-area/${t.slug}/residential/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href={`/service-area/${t.slug}/`}>{t.name}</a> · Residential</p>
       <h1>Residential Pest Control in {t.name}, WI</h1>
+      <p class="page-meta">See all our services on the <a href={`/service-area/${t.slug}/`}>{t.name} page</a>.</p>
       <AnswerBox text={answerFinal} />
       <p class="lead">{L.intro}</p>
       <p>Homes in {t.name} — {L.housing} — face a predictable seasonal pest calendar. BugBoss treats the specific problem and finds how it’s getting in, so you’re not calling about the same pest again next year. The heaviest local pressures we handle: {L.pestPressures.join(', ')}.</p>
@@ -68,11 +68,11 @@ const pageNodes = [
 
       <div class="callout">
         <p class="mt0"><strong>Home pest problem in {t.name}?</strong> Call Brian directly.</p>
-        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href={`/service-area/${t.slug}/`} class="btn btn-ghost">All {t.name} services →</a></div>
+        <div class="cta-row"><a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a><a href={`/service-area/${t.slug}/`} class="btn btn-ghost">All {t.name} services</a></div>
       </div>
     </div>
   </section>
   <section class="soft"><div class="wrap narrow"><Faq items={faqsFinal} heading={`Home Pest Control in ${t.name}: FAQs`} /></div></section>
   <Cta />
-  <style>.eyebrow a{color:var(--green-600);text-decoration:none}.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
+  <style>.callout{background:var(--green-050);border-radius:var(--radius-lg);padding:1.4rem 1.5rem;margin:2rem 0}</style>
 </BaseLayout>

@@ -36,8 +36,8 @@ const pageNodes = [
 <BaseLayout title={p.data.seoTitle ?? p.data.title} description={p.data.description} metaDescription={p.data.metaDescription} path={`/blog/${p.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href="/blog/">Blog</a>{p.data.window ? ` · ${p.data.window}` : ''}</p>
       <h1>{p.data.title}</h1>
+      <p class="page-meta">From the <a href="/blog/">BugBoss blog</a>{p.data.window ? (p.data.window === 'Year-round' ? ', useful year-round' : `, timed for ${p.data.window}`) : ''}.</p>
       <p class="lead">{p.data.description}</p>
       <hr class="divider" />
       <article class="prose"><Content /></article>
@@ -45,5 +45,5 @@ const pageNodes = [
   </section>
   {p.data.faqs.length > 0 && <section class="soft"><div class="wrap narrow"><Faq items={p.data.faqs} /></div></section>}
   <Cta />
-  <style>.eyebrow a{color:var(--green-600);text-decoration:none}</style>
+  
 </BaseLayout>

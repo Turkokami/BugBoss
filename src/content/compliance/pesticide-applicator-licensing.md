@@ -73,7 +73,7 @@ Three specifics, verifiable with DATCP, and a legitimate operator will give you 
 
 - **Applicator:** Brian Zahringer
 - **Wisconsin Commercial Pesticide Applicator certification #103689**
-- **Categories:** 005.0 Aquatic & Mosquito · 007.1 Structural
+- **Categories:** 005.0 Aquatic & Mosquito and 007.1 Structural
 - **Valid through:** 31 October 2027
 
 Those categories are published on this site because they match the work advertised on it. Structural covers pest control in and around buildings. Aquatic and mosquito covers mosquito work and treatment around water. If a company advertises work its categories do not cover, that is worth noticing.

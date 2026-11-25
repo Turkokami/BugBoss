@@ -24,7 +24,6 @@ const pageNodes = [
 <BaseLayout title="Blog" description={desc} path="/blog/" pageNodes={pageNodes}>
   <section>
     <div class="wrap">
-      <p class="eyebrow">Field notes</p>
       <h1>BugBoss Blog</h1>
       <p class="lead">Seasonal, Wisconsin-specific pest and wildlife guidance — timed to the pest calendar of Northeast Wisconsin.</p>
       {posts.length === 0 ? (
@@ -36,14 +35,13 @@ const pageNodes = [
                 itself, which is a real section of this page. */}
             <div class="cluster-head">
               <h2>{g.cluster.label}</h2>
-              <a href={g.cluster.spokeUrl} class="spoke-link">{g.cluster.spokeLabel} →</a>
+              <a href={g.cluster.spokeUrl} class="spoke-link">{g.cluster.spokeLabel}</a>
             </div>
             <div class="grid cols-2">
               {g.posts.map((p) => (
                 <a class="card" href={`/blog/${p.slug}/`}>
-                  {p.data.window && <span class="tag">{p.data.window}</span>}
-                  <h3 style="margin:.4rem 0 .3rem">{p.data.title}</h3>
-                  <p style="font-size:.95rem;color:var(--muted);margin:0">{p.data.description}</p>
+                  <h3 style="margin:0 0 .3rem">{p.data.title}</h3>
+                  <p style="font-size:.95rem;color:var(--muted);margin:0">{p.data.description}{p.data.window && p.data.window !== 'Year-round' ? ` Timed for ${p.data.window}.` : ''}</p>
                 </a>
               ))}
             </div>

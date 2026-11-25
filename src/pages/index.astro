@@ -37,14 +37,13 @@ const pageNodes = [
   <section class="hero">
     <div class="wrap hero-grid">
       <div>
-        <p class="eyebrow">Family-owned · Licensed &amp; Insured · Clintonville, WI</p>
         <h1>Pest Control &amp; Wildlife Removal for <span class="hl">Rural Northeast Wisconsin</span></h1>
         <p class="lead">BugBoss The X-Terminator is your local exterminator for pests and wildlife — from cluster flies and mice to bats and raccoons. No call center, no long-term contract. You talk to Brian, and the problem gets solved.</p>
         <div class="cta-row">
           <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
           <a href="/contact/" class="btn btn-green">Request a Quote</a>
         </div>
-        <p class="trust"><span class="stars">★★★★★</span> {business.rating.value}/5 from {business.rating.count}+ reviews · Serving 6 counties</p>
+        <p class="trust"><span class="stars" aria-hidden="true">★★★★★</span> Rated {business.rating.value}/5 from {business.rating.count}+ reviews. Family-owned, licensed and insured in Clintonville, WI, serving 6 counties.</p>
       </div>
       <figure class="hero-photo">
         {/* The LCP element. Eager + high priority, and `sizes` matches the
@@ -75,13 +74,12 @@ const pageNodes = [
        reference. Same GHL form, so leads land in the same tracking. -->
   <section class="soft">
     <div class="wrap narrow">
-      <p class="eyebrow center">Get in touch</p>
       <h2 class="mt0 center">Tell Brian what you’re dealing with</h2>
       <p class="lead center form-intro">
         Send the details and you’ll hear back from Brian himself — no call center, no
         long-term contract. Serving Clintonville and the rural corridor around it.
       </p>
-      <div class="card form-card">
+      <div class="form-card">
         {/* No heading prop: the section already has an h2 above, and the GHL
             form renders its own "Request A Free Estimate" title inside the
             iframe. A third heading between them just reads as a stutter. */}
@@ -93,14 +91,13 @@ const pageNodes = [
   <!-- SERVICES -->
   <section>
     <div class="wrap">
-      <p class="eyebrow">What we do</p>
       <h2 class="mt0">Three ways BugBoss protects your property</h2>
       <div class="grid cols-3">
         {services.map((s) => (
           <a class="card" href={`/${s.slug}/`}>
             <h3>{s.name}</h3>
             <p>{s.answer}</p>
-            <span class="btn btn-ghost">Learn more →</span>
+            <span class="more">Learn more about {s.name.toLowerCase()}</span>
           </a>
         ))}
       </div>
@@ -110,7 +107,6 @@ const pageNodes = [
   <!-- LOCAL POSITIONING -->
   <section class="soft">
     <div class="wrap narrow">
-      <p class="eyebrow">Built for rural Wisconsin</p>
       <h2 class="mt0">The national companies aren’t built for out here</h2>
       <figure class="band-photo">
         <Photo src="/images/truck-sunset.webp" sizes="(min-width: 1180px) 1140px, 100vw"
@@ -128,7 +124,6 @@ const pageNodes = [
   <!-- PEST LIBRARY TEASER -->
   <section>
     <div class="wrap">
-      <p class="eyebrow">Pest Library</p>
       <h2 class="mt0">Know your pest</h2>
       <p class="lead">Straight answers on the pests and wildlife of Northeast Wisconsin — what they are, why they’re here, and how to deal with them.</p>
       <div class="grid cols-4">
@@ -148,8 +143,7 @@ const pageNodes = [
   <!-- IN THE FIELD TEASER -->
   <section>
     <div class="wrap">
-      <p class="eyebrow">In the field</p>
-      <h2 class="mt0">Real jobs, real Wisconsin homes</h2>
+      <h2 class="mt0">Photos from our jobs around Wisconsin</h2>
       <p class="lead">No stock photos — this is Brian and the BugBoss team on actual service calls across the area.</p>
       <div class="field-row">
         <a href="/gallery/"><Photo src="/images/field-owner-portrait.webp" sizes="(min-width: 720px) 25vw, 50vw" alt="Brian Zahringer, owner of BugBoss The X-Terminator, in the field" /></a>
@@ -164,13 +158,12 @@ const pageNodes = [
   <!-- SERVICE AREA TEASER -->
   <section>
     <div class="wrap">
-      <p class="eyebrow">Where we work</p>
       <h2 class="mt0">Serving the towns the big companies skip</h2>
       <p class="lead">Deep local coverage across rural Waupaca, Shawano, and the surrounding counties.</p>
       <div class="tag-grid">
         {tier1.map((t) => <a href={`/service-area/${t.slug}/`} class="tag">{t.name}</a>)}
       </div>
-      <p style="margin-top:1rem"><a href="/service-area/" class="btn btn-ghost">See all towns we serve →</a></p>
+      <p style="margin-top:1rem"><a href="/service-area/" class="btn btn-ghost">See all towns we serve</a></p>
     </div>
   </section>
 
@@ -195,6 +188,7 @@ const pageNodes = [
     .hero-photo :global(img) { width: 100%; height: 100%; object-fit: cover; display: block; }
     .form-intro { max-width: 46rem; margin-left: auto; margin-right: auto; }
     .form-card { margin-top: 1.4rem; }
+    .card .more { font-weight: 700; color: var(--green-700); text-decoration: underline; }
     .why-band { padding: 1.6rem 0; }
     .why-grid { display: grid; gap: .3rem 1.6rem; margin: 0; }
     @media (min-width: 720px) { .why-grid { grid-template-columns: 1fr 1fr; } }

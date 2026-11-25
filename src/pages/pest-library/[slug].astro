@@ -90,8 +90,8 @@ const pageNodes = [
 <BaseLayout title={`${pest.name} in Northeast Wisconsin`} description={answer} metaDescription={pestMeta[pest.slug]} path={`/pest-library/${pest.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href="/pest-library/">Pest Library</a> · {pest.season}</p>
       <h1>{pest.name} in Northeast Wisconsin</h1>
+      <p class="page-meta">From the <a href="/pest-library/">Pest Library</a>. Season in Wisconsin: {pest.season}.</p>
       <AnswerBox text={answer} />
       {note && <ExpertBlock note={note} />}
 
@@ -127,7 +127,7 @@ const pageNodes = [
           <strong>{pest.name} where you are:</strong>{' '}
           {crossings.map((c, i) => (
             <>
-              {i > 0 && ' · '}
+              {i > 0 && (i === crossings.length - 1 ? ' and ' : ', ')}
               <a href={`/service-area/${c.town.slug}/${pest.slug}/`}>{c.town.name}</a>
             </>
           ))}
@@ -138,7 +138,7 @@ const pageNodes = [
         <p class="mt0"><strong>Have {pest.name.toLowerCase()}?</strong> BugBoss handles this across rural Northeast Wisconsin — locally, with no long-term contract.</p>
         <div class="cta-row">
           <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
-          <a href={svc.href} class="btn btn-ghost">{svc.label} →</a>
+          <a href={svc.href} class="btn btn-ghost">{svc.label}</a>
         </div>
       </div>
     </div>
@@ -150,7 +150,6 @@ const pageNodes = [
   />
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
-    .eyebrow a { color: var(--green-600); text-decoration: none; }
     .study-line { margin-top: 1.6rem; padding: 1rem 1.2rem; background: var(--green-050); border-radius: var(--radius); font-size: .95rem; }
     .study-line p + p { margin-top: .5rem; }
     .at-a-glance { margin: 2rem 0 2.4rem; }

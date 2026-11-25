@@ -68,8 +68,8 @@ const pageNodes = [
 <BaseLayout title={`${s.name} in Northeast Wisconsin`} description={answer} metaDescription={metaFinal} path={`/residential-pest-control/${s.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow"><a href="/residential-pest-control/">Residential Pest Control</a> · {s.short}</p>
       <h1>{s.name} in Northeast Wisconsin</h1>
+      <p class="page-meta">Part of our <a href="/residential-pest-control/">residential pest control</a> service.</p>
       <AnswerBox text={answer} />
       {s.photo && (
         <figure class="band-photo">
@@ -89,7 +89,7 @@ const pageNodes = [
           <div class="tag-grid">
             {pests.map((p) => <a href={`/pest-library/${p!.slug}/`} class="tag">{p!.name}</a>)}
           </div>
-          <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library →</a></p>
+          <p style="margin-top:1rem"><a href="/pest-library/" class="btn btn-ghost">See the full Pest Library</a></p>
         </>
       )}
 
@@ -112,7 +112,7 @@ const pageNodes = [
         <p class="mt0"><strong>Need {s.short.toLowerCase()} at your home?</strong> BugBoss handles this across rural Northeast Wisconsin — locally, with no long-term contract.</p>
         <div class="cta-row">
           <a href={`tel:${business.phoneTollFreeE164}`} class="btn btn-action">Call {business.phoneVanity}</a>
-          <a href="/residential-pest-control/" class="btn btn-ghost">All residential services →</a>
+          <a href="/residential-pest-control/" class="btn btn-ghost">All residential services</a>
         </div>
       </div>
     </div>
@@ -122,7 +122,6 @@ const pageNodes = [
   <Cta title="Home pest problem? Let’s solve it." />
   <style>
     .callout { background: var(--green-050); border-radius: var(--radius-lg); padding: 1.4rem 1.5rem; margin: 2rem 0; }
-    .eyebrow a { color: var(--green-600); text-decoration: none; }
     .band-photo { margin: 1.4rem auto; max-width: 380px; border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow); }
     .band-photo :global(img) { width: 100%; height: auto; display: block; }
   </style>

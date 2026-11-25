@@ -22,7 +22,6 @@ const pageNodes = [
 <BaseLayout title="Terms of Service" description={desc} path="/terms/" pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow">Legal</p>
       <h1>Terms of Service</h1>
       <p class="lead">Last updated {business.contentReviewDateDisplay}.</p>
 
@@ -102,7 +101,7 @@ const pageNodes = [
       <p>
         {business.name}<br />
         {fullAddress}<br />
-        <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> · <a href={`mailto:${business.email}`}>{business.email}</a>
+        <a href={`tel:${business.phoneTollFreeE164}`}>{business.phoneVanity}</a> or <a href={`mailto:${business.email}`}>{business.email}</a>
       </p>
     </div>
   </section>

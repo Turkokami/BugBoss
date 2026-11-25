@@ -28,7 +28,7 @@ const posts = (await getCollection('blog', (p) => p.data.cluster === cluster)).s
       {posts.map((p) => (
         <li>
           <a href={`/blog/${p.slug}/`}>{p.data.title}</a>
-          {p.data.window && <span class="when">{p.data.window}</span>}
+          {p.data.window && <span class="when">({p.data.window})</span>}
           <p>{p.data.description}</p>
         </li>
       ))}
@@ -38,9 +38,9 @@ const posts = (await getCollection('blog', (p) => p.data.cluster === cluster)).s
 
 <style>
   .post-list { list-style: none; padding: 0; margin: 1rem 0 0; display: grid; gap: 1rem; }
-  .post-list li { border-left: 3px solid var(--green-200, #cfe6d6); padding-left: 1rem; }
+  .post-list li { padding: 0; }
   .post-list a { font-weight: 700; color: var(--ink); text-decoration: none; }
   .post-list a:hover { color: var(--green-800); text-decoration: underline; }
-  .when { display: inline-block; margin-left: .5rem; font-size: .78rem; font-weight: 700; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+  .when { margin-left: .4rem; font-size: .9rem; color: var(--muted); }
   .post-list p { margin: .3rem 0 0; font-size: .93rem; color: var(--muted); }
 </style>

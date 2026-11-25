@@ -34,7 +34,6 @@ const pageNodes = [
 <BaseLayout title={`${s.name} in Northeast Wisconsin`} description={s.answer} path={`/${s.slug}/`} pageNodes={pageNodes}>
   <section>
     <div class="wrap narrow">
-      <p class="eyebrow">Residential Service</p>
       <h1>Residential Pest Control in Northeast Wisconsin</h1>
       <AnswerBox text={s.answer} />
       <figure class="band-photo">
@@ -81,7 +80,6 @@ const pageNodes = [
 
   <section class="soft">
     <div class="wrap">
-      <p class="eyebrow">Find your service</p>
       <h2 class="mt0">Home pest services</h2>
       <p class="lead" style="max-width:60ch">Every home problem has a focused service behind it — from a recurring general plan to rodent exclusion, bed bugs, stinging insects, and the fall invaders that rural Wisconsin homes fight every year. Pick the one that fits, or call and we’ll point you to it.</p>
       {groups.map((g) => (
@@ -97,7 +95,7 @@ const pageNodes = [
           </div>
         </>
       ))}
-      <p style="margin-top:1.4rem"><a href="/pest-library/" class="btn btn-ghost">Prefer to browse by pest? See the full Pest Library →</a></p>
+      <p style="margin-top:1.4rem"><a href="/pest-library/" class="btn btn-ghost">Prefer to browse by pest? See the full Pest Library</a></p>
     </div>
   </section>
 
