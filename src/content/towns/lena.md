@@ -63,7 +63,7 @@ Cluster flies are near-universal here because their larvae parasitize **earthwor
 
 ### Winter (November–February): the payoff and the pests already inside
 
-By winter the outdoor invasion is over, but a farm never goes quiet on the rodent front. Mice breed year-round once warm and fed, and a barn or feed room offers exactly that, so an unaddressed fall population multiplies straight through the winter — chewing wiring, fouling feed, and spreading into the farmhouse. In the house itself, a warm January day heats the wall voids and sends the fall cluster flies back to the windows. Winter work in Lena is mostly rodent exclusion and management across the farmstead, cleanup of the fall invaders, and planning the spring bat and wildlife exclusions whose timing is fixed months ahead.
+By winter the outdoor invasion is over, but a farm never gets a break on the rodent front. Mice breed year-round once warm and fed, and a barn or feed room offers exactly that, so an unaddressed fall population multiplies straight through the winter — chewing wiring, fouling feed, and spreading into the farmhouse. In the house itself, a warm January day heats the wall voids and sends the fall cluster flies back to the windows. Winter work in Lena is mostly rodent exclusion and management across the farmstead, cleanup of the fall invaders, and planning the spring bat and wildlife exclusions whose timing is fixed months ahead.
 
 ## Lena housing and farm building stock
 

@@ -28,7 +28,7 @@ faqs:
   - q: "Should I cut down my pine trees to get rid of them?"
     a: "No. Removing established conifers is drastic, rarely practical, and would not solve the problem — the bugs fly and will arrive from neighboring pines and woodlots. Conifers are one of the best features of a Northeast Wisconsin property. The right fix is to intercept the bugs on the walls in early fall and seal the house so they cannot get inside, not to change your landscape."
   - q: "Does BugBoss treat these in seasonal cabins near the lakes?"
-    a: "Yes. Cabins around the Waupaca Chain O' Lakes, Iola, and the Wolf River corridor sit among exactly the pines and spruces these bugs feed on, and an empty cabin makes an ideal quiet overwintering site. We time treatment to your closing schedule so the place is protected while it sits shut for the winter, as part of our cabin seasonal pest control work."
+    a: "Yes. Cabins around the Waupaca Chain O' Lakes, Iola, and the Wolf River corridor sit among exactly the pines and spruces these bugs feed on, and an empty cabin makes an ideal overwintering site. We time treatment to your closing schedule so the place is protected while it sits shut for the winter, as part of our cabin seasonal pest control work."
   - q: "Do I need a contract for seed bug control?"
     a: "No. BugBoss never locks anyone into a long-term contract or charges cancellation fees. Because these bugs re-invade from the surrounding conifers every fall, many homeowners choose a recurring early-fall visit as the most cost-effective way to stay ahead of them — but that is your choice each season, not an obligation. You deal directly with the owner, Brian Zahringer."
 ---
@@ -57,13 +57,13 @@ Because the whole population depends on conifers, the bug follows the trees. A p
 
 The seasonal calendar lines up almost exactly with the rest of the fall-invader complex, which is why a single well-timed visit can handle all of them together.
 
-Through **spring and summer**, the bugs are outdoors on the conifers, feeding and developing, and you have no reason to notice them. They are quiet and dispersed among the trees.
+Through **spring and summer**, the bugs are outdoors on the conifers, feeding and developing, and you have no reason to notice them. They are dispersed among the trees.
 
 Then, as **the nights cool in late August and through September**, the newly matured adults start hunting for a place to overwinter. On warm, sunny afternoons they crawl up the sides of buildings and gather on the sun-warmed south and west walls, drawn to the heat the siding holds as the air cools around them. This is the most important window, and the one most homeowners miss, because the bugs are still outside and not yet an indoor problem. Late August into September is when an exterior treatment does nearly all of its work.
 
 By **October**, and especially as the first hard cold arrives, the bugs work their way inside — through soffit and fascia gaps, around window and door frames, at the roofline, through vents, and any crack the warm wall offers. They settle into wall voids, attics, and unused upper rooms and go dormant for the winter.
 
-Through the **cold months** they stay hidden and quiet. Then, on any warm sunny day, even in the dead of winter, the void warms, the bugs rouse, and they crawl or fly toward light and warmth — buzzing loudly around lamps in the evening and collecting at windows during the day. People assume a bug flew in from outside in January, which is impossible in our winters. It came out of the wall. When spring genuinely arrives, the survivors head back outside to the conifers to start the cycle again.
+Through the **cold months** they stay hidden and inactive. Then, on any warm sunny day, even in the dead of winter, the void warms, the bugs rouse, and they crawl or fly toward light and warmth — buzzing loudly around lamps in the evening and collecting at windows during the day. People assume a bug flew in from outside in January, which is impossible in our winters. It came out of the wall. When spring genuinely arrives, the survivors head back outside to the conifers to start the cycle again.
 
 ## Where western conifer seed bugs hit hardest around Clintonville
 
@@ -71,7 +71,7 @@ The pattern here is simple: the closer and the more numerous the conifers, and t
 
 **Rural homes and farmhouses with pine windbreaks** are a classic case. Generations of Wisconsin farmers planted rows of red and white pine and spruce as windbreaks along the north and west edges of the yard, and those mature evergreens are seed-bug factories. A farmhouse sitting just downwind of its own windbreak, with tall two-story south and west walls collecting the afternoon sun, draws a heavy population every fall. The older construction — settled seams, unsealed soffit and fascia gaps, and balloon-framed walls that run open from the sill plate to the attic — gives the bugs easy entry and vast voids to disappear into. A bug entering at a soffit gap can end up dormant on the first floor, which is why they turn up in rooms with no obvious point of entry.
 
-**Seasonal cabins** around the Waupaca Chain O' Lakes, Iola, and the Wolf and Little Wolf River corridors sit right among the pines and spruces the bug depends on, and they stand quiet and empty exactly when the bugs want an undisturbed overwintering site. Nobody is there in October to see them massing on the siding, and the population builds all winter until the owner opens up in spring. Timing treatment to the cabin's closing schedule is the whole game, and it is central to our [cabin seasonal pest control](/guides/cabin-seasonal-pest-control/) work.
+**Seasonal cabins** around the Waupaca Chain O' Lakes, Iola, and the Wolf and Little Wolf River corridors sit right among the pines and spruces the bug depends on, and they stand empty exactly when the bugs want an undisturbed overwintering site. Nobody is there in October to see them massing on the siding, and the population builds all winter until the owner opens up in spring. Timing treatment to the cabin's closing schedule is the whole game, and it is central to our [cabin seasonal pest control](/guides/cabin-seasonal-pest-control/) work.
 
 **Village homes** in Clintonville with a landscape pine or spruce, or a neighbor's conifer over the lot line, get them too, usually in smaller numbers. And **any warm south- or west-facing wall** near conifers acts as a magnet regardless of the home's age, because it is the warmth of the wall the bugs are answering.
 

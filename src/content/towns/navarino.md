@@ -14,7 +14,7 @@ faqs:
   - q: "Do I need a contract for pest control in Navarino?"
     a: "No. BugBoss never locks Navarino customers into long-term contracts and never charges cancellation fees. Choose a one-time treatment or a seasonal program and stop whenever you like. You deal directly with Brian, the owner — not a distant call center."
   - q: "I have a hunting cabin near Navarino that sits empty. What should I watch for?"
-    a: "Rodents, mainly. A cabin closed up between seasons is a quiet, undisturbed place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal the entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers the routine."
+    a: "Rodents, mainly. A cabin closed up between seasons is a undisturbed place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal the entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers the routine."
   - q: "How fast can BugBoss reach Navarino?"
     a: "Quickly. From our Clintonville base we're a short drive to Navarino and the wildlife-area edge, well ahead of any national route truck dispatched from the Fox Valley or Green Bay. Call 866-BUGBOSS to check today's availability."
   - q: "Are ticks worse in Navarino because of the wildlife area?"
@@ -71,7 +71,7 @@ Living beside the corridor means your structure is under constant test, so the b
 
 **Older farmhouses and lake-and-river cabins** around Navarino often sit on fieldstone or block foundations with unsealed sill plates, and many older ones are balloon-framed — meaning the wall cavities run straight from the crawlspace to the attic, an open route for a mouse that enters at the sill or a bat that slips behind fascia. Seasonal cabins add a wrinkle: they sit empty and undisturbed for long stretches, which is precisely when rodents move in and settle.
 
-**Soffits, fascia, and roof edges** are the wildlife-entry front line here. In a high-traffic corridor, a lifted soffit return or a gap at a fascia board is an open invitation to bats and squirrels, and an uncapped chimney is a raccoon den waiting to happen. **Decks, porches, and outbuildings** with open skirting are where skunks and raccoons den underneath. And **crawlspaces and damp basements** near the water table invite carpenter ants and springtails, and give rodents a cool, quiet harborage.
+**Soffits, fascia, and roof edges** are the wildlife-entry front line here. In a high-traffic corridor, a lifted soffit return or a gap at a fascia board is an open invitation to bats and squirrels, and an uncapped chimney is a raccoon den waiting to happen. **Decks, porches, and outbuildings** with open skirting are where skunks and raccoons den underneath. And **crawlspaces and damp basements** near the water table invite carpenter ants and springtails, and give rodents a cool, undisturbed harborage.
 
 We inspect all of it and treat the structure as the actual solution — because on a wetland edge, no amount of spraying substitutes for closing the building.
 
@@ -101,7 +101,7 @@ The same honesty applies to timing: mosquito pressure tracks rainfall and heat, 
 
 ## Living with the nature center and the recreation traffic
 
-Navarino isn't only farmsteads and cabins — the wildlife area draws steady recreation traffic, and the Navarino Nature Center brings school groups, hikers, skiers, and birders to the edge of the marsh year-round. That mix means the properties here range from quiet family homes to buildings that host the public, and each has its own pest sensitivities. A building that sees visitors can't have wasp nests over the entrance or a rodent problem in a storage room, and it needs pest work done discreetly and on a schedule that doesn't collide with programming.
+Navarino isn't only farmsteads and cabins — the wildlife area draws steady recreation traffic, and the Navarino Nature Center brings school groups, hikers, skiers, and birders to the edge of the marsh year-round. That mix means the properties here range from ordinary family homes to buildings that host the public, and each has its own pest sensitivities. A building that sees visitors can't have wasp nests over the entrance or a rodent problem in a storage room, and it needs pest work done discreetly and on a schedule that doesn't collide with programming.
 
 It also means people here tend to care about how pest control is done. Doing exclusion-first work — sealing structures rather than blanketing the property in product — fits a community that lives next to a protected natural area on purpose. Our approach leans that way regardless, because on a wetland edge it's also simply what works: you cannot out-spray a 15,000-acre habitat, so the durable answer is always to close the building and target treatments precisely where the pest actually is.
 

@@ -49,7 +49,7 @@ The bats are the same two species you'd find in a house attic: **big brown bats*
 
 ## Why barns host bigger colonies
 
-Barns leak up top in a way houses don't. **Open gable ends, gaps at the ridge and peak, louvered vents, cupolas, open eaves, and spaces where the roofing meets the wall** — a barn offers dozens of high entry points and acres of quiet, undisturbed space to roost. That's precisely why colonies in barns tend to be larger than in houses: more ways in, more room to grow. The flip side is that exclusion on a barn is more work — more entry points to find on a bigger, taller structure, and more sealing to do once the colony's out. The gaps themselves are the same tiny sizes — a big brown bat slips through around three-eighths of an inch — there are just more of them.
+Barns leak up top in a way houses don't. **Open gable ends, gaps at the ridge and peak, louvered vents, cupolas, open eaves, and spaces where the roofing meets the wall** — a barn offers dozens of high entry points and acres of undisturbed space to roost. That's precisely why colonies in barns tend to be larger than in houses: more ways in, more room to grow. The flip side is that exclusion on a barn is more work — more entry points to find on a bigger, taller structure, and more sealing to do once the colony's out. The gaps themselves are the same tiny sizes — a big brown bat slips through around three-eighths of an inch — there are just more of them.
 
 ## Exclude or relocate — deciding the goal
 

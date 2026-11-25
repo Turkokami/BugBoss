@@ -32,7 +32,7 @@ faqs:
 
 ## An empty cabin is exactly what a mouse is looking for
 
-The Waupaca Chain O' Lakes and the woodlots and river bottoms around it are full of seasonal cabins — places that hum with people all summer and then go dark and quiet from October to May. That dark, quiet stretch is the problem. A cabin closed for winter isn't a home with a mouse problem; it's a purpose-built mouse habitat that happens to be yours. No people, no pets, no lights, no disturbance — just warm cavities, soft things to nest in, and often a pantry that got left in a hurry. Out in lake and woods country there's never a shortage of deer mice hunting for winter shelter, and your cabin is the best offer around.
+The Waupaca Chain O' Lakes and the woodlots and river bottoms around it are full of seasonal cabins — places that hum with people all summer and then go dark and empty from October to May. That dark, empty stretch is the problem. A cabin closed for winter isn't a home with a mouse problem; it's a purpose-built mouse habitat that happens to be yours. No people, no pets, no lights, no disturbance — just warm cavities, soft things to nest in, and often a pantry that got left in a hurry. Out in lake and woods country there's never a shortage of deer mice hunting for winter shelter, and your cabin is the best offer around.
 
 So they move in during the fall cold-down, and with nobody there to interrupt, they settle, breed, and multiply through the winter. You don't find out until you open the door in spring to that unmistakable musky smell and a season's worth of droppings in the silverware drawer.
 

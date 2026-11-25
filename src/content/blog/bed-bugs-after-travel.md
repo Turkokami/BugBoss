@@ -22,7 +22,7 @@ faqs:
   - q: "Should I throw out my mattress?"
     a: "Almost never, and please do not do it before getting advice. A zippered bed bug encasement traps anything inside the mattress and box spring and it dies in there, which is cheaper and works better than replacement. Throwing out a mattress while the rest of the room is still infested just means the new mattress gets colonized — and dragging an infested mattress through the house or down a shared stairwell spreads bugs into rooms and units that did not have them."
   - q: "I rent — whose responsibility is it?"
-    a: "In Wisconsin this comes down to the habitability rules and to who introduced the infestation, and it is a common enough dispute that we wrote it up separately. See our page on bed bugs in Wisconsin rentals for how the responsibility question is usually handled and what to document. The practical advice regardless of who ends up paying is the same: report it in writing immediately, do not attempt to treat it quietly yourself, and do not move furniture into another unit."
+    a: "In Wisconsin this comes down to the habitability rules and to who introduced the infestation, and it is a common enough dispute that we wrote it up separately. See our page on bed bugs in Wisconsin rentals for how the responsibility question is usually handled and what to document. The practical advice regardless of who ends up paying is the same: report it in writing immediately, do not attempt to treat it yourself without reporting it, and do not move furniture into another unit."
 ---
 
 ## The one that has nothing to do with how you keep house

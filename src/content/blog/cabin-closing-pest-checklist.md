@@ -1,7 +1,7 @@
 ---
 title: "Closing the Cabin? A Pest-Proofing Checklist for Wisconsin Seasonal Homes"
 seoTitle: "Closing the Cabin: a Wisconsin Pest-Proofing Checklist"
-description: "A quiet, empty cabin is exactly what mice, bats, and fall invaders want for winter. Here's the pest-proofing checklist to run before you close up a Wisconsin lake home for the season."
+description: "An empty cabin is exactly what mice, bats, and fall invaders want for winter. Here's the pest-proofing checklist to run before you close up a Wisconsin lake home for the season."
 pubDate: "2025-09-22"
 cluster: "general-pest-control"
 window: "Sep–Oct"
@@ -9,7 +9,7 @@ faqs:
   - q: "When should I pest-proof my cabin for winter?"
     a: "During your closing trip, ideally late September or early October — the same weeks mice start pushing indoors off the cooling fields and fall invaders begin massing on warm walls. Sealing and cleaning out food while you're already there for the season means the building is buttoned up before the invasion rather than after. If you close later, do it then; the point is to seal before the cold drives everything in."
   - q: "Why do empty cabins get worse pest problems than year-round homes?"
-    a: "Because a closed cabin offers exactly what overwintering pests want: warmth held in the structure, total quiet, and no people to disturb them for six months straight. Mice breed undisturbed, fall invaders settle into wall voids, and small problems compound all winter with nobody there to notice. An occupied house gets interrupted daily; a cabin gives pests an uninterrupted season."
+    a: "Because a closed cabin offers exactly what overwintering pests want: warmth held in the structure, no disturbance, and no people to disturb them for six months straight. Mice breed undisturbed, fall invaders settle into wall voids, and small problems compound all winter with nobody there to notice. An occupied house gets interrupted daily; a cabin gives pests an uninterrupted season."
   - q: "How do I keep mice out of a cabin over the winter?"
     a: "Seal the entry points with materials mice can't chew — around utility penetrations, where siding meets the foundation, at the sill, and with tight door sweeps — and remove every scrap of food, including pantry staples, in favor of sealed metal containers or hauling it out. Mice come for warmth and food; deny both. Trapping alone won't hold over a six-month absence, so sealing is the fix."
   - q: "Should I leave traps or bait out in a closed cabin?"
@@ -19,7 +19,7 @@ faqs:
   - q: "What should I do about the water and food when closing up?"
     a: "Remove all food or seal it in metal, empty and clean the pantry and cupboards, take out the trash, and clean up crumbs and spills — you're removing the reward that makes the cabin worth invading. On the water side, follow your normal winterizing, and remember that standing water and damp are what draw some pests; a dry, food-free cabin is a far less attractive target."
   - q: "Can bats or squirrels get into a cabin over the winter?"
-    a: "Yes. A quiet cabin is prime attic habitat, and squirrels in particular look for warm winter denning space. Bats may already be roosting in an attic before you close up. Both are wildlife exclusion jobs, not spray jobs, and bat work in particular has to follow Wisconsin's seasonal legal rules. It's worth an inspection before you close if you've heard anything in the attic."
+    a: "Yes. An empty cabin is prime attic habitat, and squirrels in particular look for warm winter denning space. Bats may already be roosting in an attic before you close up. Both are wildlife exclusion jobs, not spray jobs, and bat work in particular has to follow Wisconsin's seasonal legal rules. It's worth an inspection before you close if you've heard anything in the attic."
   - q: "Is it worth hiring someone to pest-proof a seasonal cabin?"
     a: "For a cabin you leave empty six months a year, yes — the sealing has to be thorough and done with the right materials, because you won't be there to catch a problem until spring, by which point a winter's worth of damage is done. A pro inspection catches the entry points you'd miss and handles the exterior fall-invader treatment on the right timeline. And a local company can time the work to your closing trip."
   - q: "Does BugBoss service seasonal cabins on the Chain O' Lakes?"
@@ -28,7 +28,7 @@ faqs:
 
 ## An empty cabin is an open invitation
 
-The whole appeal of a lake cabin on the [Waupaca Chain O' Lakes](/guides/cabin-seasonal-pest-control/) is that it sits quiet in the woods by the water. That's also exactly what makes it a target the moment you lock the door in October. For six months the building holds a little warmth, makes no noise, and has nobody in it — which is precisely the winter setup mice, cluster flies, and denning wildlife are looking for. You leave in fall with everything tidy and come back in spring to droppings in the drawers, flies on the windowsills, and a nest in the attic insulation.
+The whole appeal of a lake cabin on the [Waupaca Chain O' Lakes](/guides/cabin-seasonal-pest-control/) is that it sits empty in the woods by the water. That's also exactly what makes it a target the moment you lock the door in October. For six months the building holds a little warmth, makes no noise, and has nobody in it — which is precisely the winter setup mice, cluster flies, and denning wildlife are looking for. You leave in fall with everything tidy and come back in spring to droppings in the drawers, flies on the windowsills, and a nest in the attic insulation.
 
 It doesn't have to go that way. The closing trip is the single best chance you get all year to pest-proof the place, because you're already there in the exact weeks the invasion starts. This is the checklist to run before you shut the door. For the full seasonal strategy, our [cabin seasonal pest control guide](/guides/cabin-seasonal-pest-control/) is the deep reference; this post is the practical, do-it-at-closing version.
 
@@ -75,7 +75,7 @@ Sealing helps with flies and beetles, but on an older cabin you'll never find ev
 
 ### 4. Check the attic for wildlife before you go
 
-A quiet cabin is prime winter denning habitat. [Squirrels](/pest-library/squirrels/) look for warm space to hole up, [raccoons](/pest-library/raccoons/) will move into an accessible attic, and [bats](/pest-library/bats/) may already be roosting up there. If you've heard anything overhead, get an inspection before you close — wildlife is an exclusion job, not a spray job, and bat work in particular has to follow Wisconsin's seasonal legal rules on when a colony can be sealed out. Our [attic wildlife removal guide](/guides/attic-wildlife-removal/) covers what that involves.
+An empty cabin is prime winter denning habitat. [Squirrels](/pest-library/squirrels/) look for warm space to hole up, [raccoons](/pest-library/raccoons/) will move into an accessible attic, and [bats](/pest-library/bats/) may already be roosting up there. If you've heard anything overhead, get an inspection before you close — wildlife is an exclusion job, not a spray job, and bat work in particular has to follow Wisconsin's seasonal legal rules on when a colony can be sealed out. Our [attic wildlife removal guide](/guides/attic-wildlife-removal/) covers what that involves.
 
 ## What not to do
 

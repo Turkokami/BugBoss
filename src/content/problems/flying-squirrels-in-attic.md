@@ -38,7 +38,7 @@ Two features of the animal explain the whole problem.
 
 An insulated attic, above a heated house, near mature woods, is the best overwintering site available for a hundred yards in any direction. From the squirrel's point of view your house is simply the best tree on the property.
 
-The buildings that get them are the ones near mature trees: farmsteads with old windbreaks, homes backing onto hardwood stands, cabins in timber around Iola and the Chain O' Lakes, and village-edge properties in Clintonville, Marion and Tigerton where the woods come close. Seasonal properties are especially vulnerable — a cabin sitting empty from October to May is quiet, undisturbed, well insulated, and nobody is there to hear the first winter.
+The buildings that get them are the ones near mature trees: farmsteads with old windbreaks, homes backing onto hardwood stands, cabins in timber around Iola and the Chain O' Lakes, and village-edge properties in Clintonville, Marion and Tigerton where the woods come close. Seasonal properties are especially vulnerable — a cabin sitting empty from October to May is undisturbed, well insulated, and nobody is there to hear the first winter.
 
 ## What to do now
 

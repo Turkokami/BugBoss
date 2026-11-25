@@ -11,7 +11,7 @@ summary:
   who: "Landlords and tenants of residential rental property in Wisconsin, including single units in a shared building."
   obligation: "No Wisconsin statute addresses bed bugs by name. The duty comes from the landlord's obligation to keep the premises habitable, the terms of the lease, and the residential rental practices rules — in practice the landlord arranges treatment and the tenant prepares the unit and allows access."
   penalty: "Municipal health or building code citations, DATCP complaints under the rental practices rules, and civil claims for habitability failures. There is no single bed-bug penalty."
-  act: "Report in writing and keep a copy; do not treat it quietly yourself; do not move a mattress or furniture into another unit or a shared hallway."
+  act: "Report in writing and keep a copy; do not treat it yourself without reporting it; do not move a mattress or furniture into another unit or a shared hallway."
 reviewed: "August 2026"
 faqs:
   - q: "Does Wisconsin have a bed bug law?"

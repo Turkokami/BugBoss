@@ -37,7 +37,7 @@ faqs:
 
 The most useful thing to understand about spiders is that they are predators, and predators go where the food is. A spider does not come into your basement or set up on your porch because of your house; it comes because your house is where the insects are. That single fact reshapes the whole approach to spider control. Chasing individual spiders with a shoe or a can of spray is an endless game, because as long as the flies, gnats, moths, and [fall invaders](/pest-library/cluster-flies/) keep coming, new spiders will keep arriving to eat them. Control the prey and the shelter, and the spiders thin out on their own.
 
-The second thing worth saying plainly, because it drives so much needless fear, is that the spiders in Central and Northeast Wisconsin are essentially all harmless. This is not a region with a dangerous-spider problem. The brown recluse is not established here, and the northern black widow is vanishingly rare and confined to a few pockets far to the south of us. The spiders you will actually meet around Clintonville, in the farmhouse basement, on the garage ceiling, across the cabin porch, are nuisance spiders whose bites are rare and, in the unlikely event one happens, minor. They are also genuinely beneficial, quietly eating a large share of the insects you would otherwise be dealing with.
+The second thing worth saying plainly, because it drives so much needless fear, is that the spiders in Central and Northeast Wisconsin are essentially all harmless. This is not a region with a dangerous-spider problem. The brown recluse is not established here, and the northern black widow is vanishingly rare and confined to a few pockets far to the south of us. The spiders you will actually meet around Clintonville, in the farmhouse basement, on the garage ceiling, across the cabin porch, are nuisance spiders whose bites are rare and, in the unlikely event one happens, minor. They are also genuinely beneficial, eating a large share of the insects you would otherwise be dealing with.
 
 ## Identification: the spiders you will actually see
 
@@ -65,7 +65,7 @@ Because spiders are predators rather than colony insects, they do not build up t
 
 ## The spider season here
 
-Spring and early summer are quiet on the spider front. The overwintered egg sacs hatch, spiderlings disperse and start growing, and the spiders present are small and easy to overlook. This is also when the insects they will later feed on are building up, so it is a good window to get ahead of the problem by managing prey and clearing last year's egg sacs before they hatch.
+Spring and early summer are uneventful on the spider front. The overwintered egg sacs hatch, spiderlings disperse and start growing, and the spiders present are small and easy to overlook. This is also when the insects they will later feed on are building up, so it is a good window to get ahead of the problem by managing prey and clearing last year's egg sacs before they hatch.
 
 Through summer, spiders grow and outdoor populations build alongside the insect populations they depend on. Around the [Chain O' Lakes](/service-area/iola/) and the river corridors, summer is when the insect production from the water, mayflies, midges, mosquitoes, is at its peak, and the spider numbers on lakeside and riverside buildings climb right along with it. Cabin owners often notice the buildup on siding, soffits, and dock structures as the season goes on.
 

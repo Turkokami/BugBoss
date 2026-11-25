@@ -63,7 +63,7 @@ Fall is the most important season in Waupaca, because it's the window that decid
 
 Cluster flies deserve special mention in cabin country because owners so often blame the building. They don't breed indoors; their larvae parasitize **earthworms** in the soil, so any lot surrounded by lawn, woods, or field grows its own population regardless of how the cabin is kept. The fix is an **early-fall exterior treatment** of the walls they gather on, plus sealing the gaps at soffits, windows, and penetrations. Our [cluster fly control guide](/guides/cluster-fly-control/) lays out the timing.
 
-Fall is when **closing service** earns its keep. Sealing, treating, and inspecting a cabin before it's shut for the winter is the single most effective thing an owner can do, because it stops the problem before four months of empty quiet let it grow into an established infestation. Skip it, and you're not saving money — you're deferring a bigger bill to spring.
+Fall is when **closing service** earns its keep. Sealing, treating, and inspecting a cabin before it's shut for the winter is the single most effective thing an owner can do, because it stops the problem before four months of vacancy let it grow into an established infestation. Skip it, and you're not saving money — you're deferring a bigger bill to spring.
 
 ### Winter (November–February): the empty-cabin problem
 
@@ -97,7 +97,7 @@ BugBoss builds [commercial programs](/commercial-pest-control/) around the speci
 
 ## Spiders, ants, and the rest of the Waupaca picture
 
-Cabin country produces a whole supporting cast beyond the headline pests. **Spiders** top the list at opening, because a closed cabin's eaves, porch, and boathouse collect the flying insects spiders eat, and weeks of quiet let webs pile up. Owners walk in and assume the worst; more often it's simply the insect supply drawn to lights and gaps, and it clears when those are handled. Our [spiders](/pest-library/spiders/) page covers the species common on the chain.
+Cabin country produces a whole supporting cast beyond the headline pests. **Spiders** top the list at opening, because a closed cabin's eaves, porch, and boathouse collect the flying insects spiders eat, and weeks of vacancy let webs pile up. Owners walk in and assume the worst; more often it's simply the insect supply drawn to lights and gaps, and it clears when those are handled. Our [spiders](/pest-library/spiders/) page covers the species common on the chain.
 
 The small trailing **ants** — not the wood-nesting carpenter ants — home in on moisture and crumbs, and a cabin kitchen opened and closed all season is a dependable draw; the [ants](/pest-library/ants/) page explains why finding the nest beats spraying the trail. Because rentals and shared family cabins turn over guests and used furniture, the occasional [bed bug](/pest-library/bed-bugs/) call comes with lake-country territory too — they're hitchhikers, not a cleanliness problem, and for rental cabins catching them early is everything. And on wooded lots the [squirrels](/pest-library/squirrels/) and their attic chewing are a year-round wildlife concern, not just a fall one.
 

@@ -22,7 +22,7 @@ faqs:
   - q: "How do I store feed and seed so it stops drawing mice?"
     a: "Get it into metal or heavy-duty sealed containers and off the floor, and clean up spilled grain promptly. Loose feed in paper or woven bags is an open buffet, and a barn with a steady food source will sustain a population no matter how many you trap. Remove the food and seal the room and the barn stops being worth moving into."
   - q: "Is one visit enough to fix mice in a pole barn?"
-    a: "Usually not in one. We inspect, knock down the active population, then seal the entry points, and we follow up to confirm the traps have gone quiet and nothing new is getting in. A single older barn might be a visit or two; a property with several outbuildings takes longer because each one has its own gaps."
+    a: "Usually not in one. We inspect, knock down the active population, then seal the entry points, and we follow up to confirm the traps have stopped catching and nothing new is getting in. A single older barn might be a visit or two; a property with several outbuildings takes longer because each one has its own gaps."
   - q: "Do you handle bigger animals in the barn too, or just mice?"
     a: "Both. Barns pull in more than mice — rats, bats in the loft, raccoons, squirrels, the occasional skunk under the slab. Because BugBoss does pest control and wildlife exclusion, one crew handles the mice and the larger animals and the sealing that keeps all of them out. You're not juggling two companies."
   - q: "Does BugBoss lock me into a contract for barn rodent work?"

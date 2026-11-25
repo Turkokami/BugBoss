@@ -79,7 +79,7 @@ The **pole barns and machine sheds** are rarely tight to begin with: big sliding
 
 The **farmhouses** skew old, with fieldstone or block foundations, unsealed sill plates, and in the oldest homes, balloon framing — an open vertical cavity from basement to attic that lets a mouse entering at the foundation nest in the attic, and lets cluster flies entering at a soffit end up upstairs. On an old Union farmhouse a careful exclusion inspection is worth more than any number of spray visits. Our [farmhouse rodent exclusion guide](/guides/farmhouse-rodent-exclusion/) covers the specifics.
 
-## Stored-product pests: the farm's quiet infestation
+## Stored-product pests: the farm's hidden infestation
 
 The pest problem that catches Union farm families off guard is the one that starts in the grain and ends in the kitchen. **Stored-product pests** — Indian meal moths, sawtoothed and merchant grain beetles, granary and rice weevils — breed in stored grain, feed, birdseed, pet food, and dry pantry goods, and they move freely between the farm's bulk storage and the house. An Indian meal moth infestation is the classic example: you notice the adult moths flying in loose, drifting flight near the ceiling, follow them back, and find webbing and larvae in a bag of feed, a forgotten sack of birdseed, or the flour in the pantry. Warmth speeds the whole lifecycle, so a warm bin or a heated pantry can turn out generation after generation year-round.
 
@@ -87,7 +87,7 @@ Control isn't about spraying. It's about **finding and removing the source** —
 
 ## Antique machinery, stored textiles, and the collector's pests
 
-Union is a town that keeps its old equipment, and stored machinery and collections bring pests of their own. **Parked machinery** — whether a modern combine or a restored steam tractor — makes prime rodent harborage over winter, and a mouse nest in a wiring harness, a seat, or an air cleaner is an expensive, smelly surprise come spring. Beyond rodents, the upholstered seats, canvas, leather, and stored fabric that come with old equipment and homesteading collections draw **fabric pests**: clothes moths and carpet beetles whose larvae feed on wool, felt, hair, and other natural fibers, quietly chewing through seat cushions, tarps, and stored textiles in a shed nobody heats. If you store equipment or collections, keeping the rodents out and monitoring for fabric pests protects value — and it's the kind of problem a suburban route tech never has to think about.
+Union is a town that keeps its old equipment, and stored machinery and collections bring pests of their own. **Parked machinery** — whether a modern combine or a restored steam tractor — makes prime rodent harborage over winter, and a mouse nest in a wiring harness, a seat, or an air cleaner is an expensive, smelly surprise come spring. Beyond rodents, the upholstered seats, canvas, leather, and stored fabric that come with old equipment and homesteading collections draw **fabric pests**: clothes moths and carpet beetles whose larvae feed on wool, felt, hair, and other natural fibers, chewing through seat cushions, tarps, and stored textiles in a shed nobody heats. If you store equipment or collections, keeping the rodents out and monitoring for fabric pests protects value — and it's the kind of problem a suburban route tech never has to think about.
 
 ## Geography and ecology: fields, fencerows, and low ground
 

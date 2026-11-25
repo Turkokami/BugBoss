@@ -59,7 +59,7 @@ Pavement ants run relatively conventional colonies, typically with a single quee
 
 Odorous house ants are a different animal. Their populations are **polygyne**, meaning many queens, and they are **polydomous**, meaning many connected nests. A single odorous house ant population can spread across a yard and into a house as a network of satellite nests sharing workers and brood. Crucially, when the colony is stressed, by weather, by disturbance, or by a repellent insecticide, it responds by **budding**: one or more queens leave with a group of workers and start a new nest elsewhere. This is why a homeowner who sprays every trail they see often reports that the ants seemed to spread to new rooms. They did. The spray split the colony.
 
-Pharaoh ants take that same multi-queen, budding behavior to an extreme. A single colony can contain many queens and thousands of workers and will fracture into multiple new colonies at the first sign of chemical pressure. In a heated building they never truly go dormant, breeding year-round, which is why they can quietly build enormous numbers before anyone notices. Everything about their biology says the same thing: bait patiently, never spray.
+Pharaoh ants take that same multi-queen, budding behavior to an extreme. A single colony can contain many queens and thousands of workers and will fracture into multiple new colonies at the first sign of chemical pressure. In a heated building they never truly go dormant, breeding year-round, which is why they can build enormous numbers before anyone notices. Everything about their biology says the same thing: bait patiently, never spray.
 
 ## The ant season in Central and Northeast Wisconsin
 

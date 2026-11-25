@@ -25,7 +25,7 @@ faqs:
   - q: "Do you provide documentation for AAHA accreditation and inspections?"
     a: "Every visit produces a work order recording what was inspected, what was found, what was treated and when — the record a health inspector or sanitarian normally asks to see, kept current. If your facility answers to a third-party audit scheme, tell us what your auditor requires before we start so we can agree the record-keeping up front rather than discovering a gap during the audit."
   - q: "Can you schedule around our clinic hours and boarding schedule?"
-    a: "Yes. We schedule service around appointment blocks, surgery days, feeding and cleaning routines, and boarding turnover so pest work never interrupts patient care or stresses boarders. Many clinics prefer early-morning, end-of-day, or closed-day service, and monitoring-heavy programs mean most visits are quiet inspections and device checks rather than disruptive treatments. You deal directly with the owner, so scheduling is a conversation, not a ticket in a national dispatch queue."
+    a: "Yes. We schedule service around appointment blocks, surgery days, feeding and cleaning routines, and boarding turnover so pest work never interrupts patient care or stresses boarders. Many clinics prefer early-morning, end-of-day, or closed-day service, and monitoring-heavy programs mean most visits are routine inspections and device checks rather than disruptive treatments. You deal directly with the owner, so scheduling is a conversation, not a ticket in a national dispatch queue."
   - q: "What about ticks the dogs bring in from outside?"
     a: "Dogs are tick taxis — they pick up blacklegged (deer) ticks and American dog ticks from any woodland edge, tall grass, or field on a walk or in an outdoor run, and carry them straight inside. For clinics and kennels with grounds, we can add an exterior tick-pressure-reduction program on the property edge where lawn meets brush, which is where ticks wait. That is the same edge-habitat approach we use in our [tick and Lyme yard program](/guides/tick-lyme-yard-program/), adapted to a facility with animals on site."
   - q: "Do you require a long-term contract?"
@@ -84,7 +84,7 @@ Pest pressure at a clinic or kennel is not constant — it rides the Wisconsin c
 
 **Fall (September–November).** The rodents arrive. As nights cool, [mice](/pest-library/mice/) and the occasional rat push indoors hard, and a feed and food-storage room is the destination. This is the make-or-break window for rodent exclusion — the gaps you seal in September are the mice you do not fight in January. Fall invaders mass on warm south and west walls of older buildings and work into the structure, setting up the spring emergence.
 
-**Winter (December–February).** Outdoor pressure drops, but the pests already inside settle in for the season: rodents nesting in warm wall voids and around equipment, a resident flea population living off the constant supply of boarders, and any brown dog tick infestation quietly continuing its indoor life cycle regardless of the snow outside. Winter is inspection-and-exclusion season — the quiet months to find harborage, seal the building, and keep monitoring so nothing establishes unseen.
+**Winter (December–February).** Outdoor pressure drops, but the pests already inside settle in for the season: rodents nesting in warm wall voids and around equipment, a resident flea population living off the constant supply of boarders, and any brown dog tick infestation continuing its indoor life cycle regardless of the snow outside. Winter is inspection-and-exclusion season — the slow months to find harborage, seal the building, and keep monitoring so nothing establishes unseen.
 
 ## Different facilities, different programs
 
@@ -126,7 +126,7 @@ The program is built in a specific order, and the order matters.
 
 **Document and monitor.** Every visit produces a work order — findings, device readings, what was treated and with what. An AAHA accreditation review, a DATCP inspector or your own biosecurity protocol may want more than that: product labels and SDS on file, a pest-trend log over time, a device map. Tell us what yours requires and we will agree it before the program starts.
 
-**Follow up on the animal's schedule.** Ongoing monitoring visits, most of them quiet inspections rather than treatments, catch problems while they are small — scheduled around appointment blocks, feeding and cleaning routines, and boarding turnover so the work never disrupts patient care.
+**Follow up on the animal's schedule.** Ongoing monitoring visits, most of them routine inspections rather than treatments, catch problems while they are small — scheduled around appointment blocks, feeding and cleaning routines, and boarding turnover so the work never disrupts patient care.
 
 ## The rural facility problem BugBoss was built to solve
 

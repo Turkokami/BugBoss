@@ -41,9 +41,9 @@ There is one fact that solves most pantry pest problems, and almost nobody start
 
 Not through a window. Not up from the basement. Not from the yard. Somewhere between the mill and your cupboard — at the processing plant, in a warehouse, on a pallet, on the store shelf — something got into a bag or a box, and you carried it home and put it away. Everything you see afterwards descends from that.
 
-Once you accept that, the work becomes clear. You are not hunting an invasion, you are conducting a search for one item. Find it, bin it, and the problem is essentially over. Fail to find it, and you can scrub, spray, and throw out half the kitchen while it quietly keeps producing beetles from the back of a cupboard.
+Once you accept that, the work becomes clear. You are not hunting an invasion, you are conducting a search for one item. Find it, bin it, and the problem is essentially over. Fail to find it, and you can scrub, spray, and throw out half the kitchen while it keeps producing beetles from the back of a cupboard.
 
-It also settles a question people are often quietly embarrassed about. Pantry pests are **not a housekeeping failure**. They are a supply chain artefact. The tidiest kitchen in Waupaca County gets them if the wrong bag of flour comes through the door.
+It also settles a question people are often privately embarrassed about. Pantry pests are **not a housekeeping failure**. They are a supply chain artefact. The tidiest kitchen in Waupaca County gets them if the wrong bag of flour comes through the door.
 
 ## Which insect do you have?
 
@@ -93,7 +93,7 @@ Our service area has some specific reservoirs worth naming, because they are the
 
 **Decorative material.** Dried flower arrangements, Indian corn, seed wreaths, potpourri. Drugstore beetles in particular are happy in all of it.
 
-**Spice jars.** The most overlooked spot in the kitchen. Something bought in 2019 and used twice can quietly host a drugstore beetle population indefinitely.
+**Spice jars.** The most overlooked spot in the kitchen. Something bought in 2019 and used twice can host a drugstore beetle population indefinitely.
 
 ## How do you know you have pantry pests?
 

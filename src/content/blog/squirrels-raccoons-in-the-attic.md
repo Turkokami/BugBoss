@@ -15,7 +15,7 @@ faqs:
   - q: "Why do I hear them most in the fall?"
     a: "Because that is when they are looking for a winter den. Squirrels, raccoons, mice, and bats are all shopping for a sheltered space from roughly late September through November, and a warm attic with a gap at the soffit is the best offer in the neighborhood. Fall is also when the year's young are dispersing and looking for their own space. The animal was probably testing your roofline for weeks before you heard anything."
   - q: "How much damage can a squirrel actually do?"
-    a: "More than people expect, and the wiring is the part that matters. Rodent incisors grow continuously and squirrels gnaw to manage them, which in an attic means structural wood, ductwork, plumbing, stored belongings — and electrical cable. Chewed insulation on a live conductor is a genuine fire risk and is not a wait-and-see item. Beyond that they compact and soil insulation, which quietly costs you heating all winter, and they will enlarge a small entry hole into a large one."
+    a: "More than people expect, and the wiring is the part that matters. Rodent incisors grow continuously and squirrels gnaw to manage them, which in an attic means structural wood, ductwork, plumbing, stored belongings — and electrical cable. Chewed insulation on a live conductor is a genuine fire risk and is not a wait-and-see item. Beyond that they compact and soil insulation, which costs you heating all winter, and they will enlarge a small entry hole into a large one."
   - q: "Do I need to replace the insulation?"
     a: "Sometimes, and it depends on the animal and how long it was there. A squirrel that used one corner for a few weeks usually means spot cleanup. A raccoon latrine, or a long-established bat roost, contaminates and compacts insulation over a wide area and generally does need removal and replacement — both for the health considerations and because compacted, soiled insulation has lost most of its R-value. An honest assessment tells you which case you are in; not every job needs a full attic restoration and you should be suspicious of one that is quoted before anyone has looked."
   - q: "Will a repellent or an ultrasonic device get them out?"
@@ -82,7 +82,7 @@ The animal has usually been assessing your house for weeks before you hear anyth
 
 **The wiring is the part to take seriously.** Squirrels and mice gnaw continuously to manage teeth that never stop growing, and in an attic the available material includes electrical cable. Chewed insulation on a live conductor is a fire risk. If you have had squirrels or mice in an attic, having the wiring looked at is not overcautious.
 
-**Insulation is the quiet cost.** Animals compact it, tunnel through it, and soil it. Compacted insulation has lost much of its R-value, so you pay for it every month of the heating season without ever seeing a line item for it.
+**Insulation is the hidden cost.** Animals compact it, tunnel through it, and soil it. Compacted insulation has lost much of its R-value, so you pay for it every month of the heating season without ever seeing a line item for it.
 
 **Structural and mechanical.** Torn ductwork, chewed plumbing lines, damaged vent stacks, gnawed sheathing and rafters, and — with raccoons — soffit and roof-edge damage that then lets water in.
 

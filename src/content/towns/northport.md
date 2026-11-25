@@ -35,7 +35,7 @@ faqs:
 
 ## A river-valley community where the water shapes the pest picture
 
-Northport is a small rural community in Waupaca County, out toward **Manawa** in the valley of the **Little Wolf River**, about thirteen miles from our Clintonville base. This is quiet farm-and-river country — scattered farmsteads, rural homes, woodlots, and the river winding through low, green bottomland. That last part matters more than anything else when it comes to pests. Water and the damp, thickly vegetated ground around it change what shows up here and when, and a company that understands the difference between a high, dry lot and a low, river-adjacent one will treat the two very differently.
+Northport is a small rural community in Waupaca County, out toward **Manawa** in the valley of the **Little Wolf River**, about thirteen miles from our Clintonville base. This is farm-and-river country — scattered farmsteads, rural homes, woodlots, and the river winding through low, green bottomland. That last part matters more than anything else when it comes to pests. Water and the damp, thickly vegetated ground around it change what shows up here and when, and a company that understands the difference between a high, dry lot and a low, river-adjacent one will treat the two very differently.
 
 That's the frame BugBoss The X-Terminator works in around Northport. We're not a franchise dispatching a truck from Appleton or Green Bay; our storefront is at **600 S. Main St. in Clintonville**, a short drive up the county roads, which means Northport gets fast, local response — frequently same-day — for both pest control and wildlife. The pests here come from the river corridor, the surrounding fields, and the woodlots, and they move on a seasonal schedule you can nearly set a calendar by. Below is how the year plays out in the valley, and what actually fixes each problem.
 
@@ -61,7 +61,7 @@ Cluster flies are worth understanding, because the valley is heavy cluster-fly c
 
 ### Winter (November–February): living with what got in
 
-By winter the invasion is over and you're living with whatever established during fall. Mice that found a warm, food-rich nest breed year-round indoors, so a handful in November becomes a full infestation by February if the entry points aren't sealed. A warm January day heats the wall voids and sends the cluster flies that wintered there crawling toward the sunniest windows in the house. Winter is rodent-cleanup and exclusion season in the valley, and the quiet stretch to do the sealing that keeps next fall's wave out.
+By winter the invasion is over and you're living with whatever established during fall. Mice that found a warm, food-rich nest breed year-round indoors, so a handful in November becomes a full infestation by February if the entry points aren't sealed. A warm January day heats the wall voids and sends the cluster flies that wintered there crawling toward the sunniest windows in the house. Winter is rodent-cleanup and exclusion season in the valley, and the slow stretch to do the sealing that keeps next fall's wave out.
 
 ## Housing and building stock in the valley
 
@@ -111,7 +111,7 @@ Some of Northport's pests carry risk. Standing water in the river bottom breeds 
 
 ## Why DIY usually falls short here
 
-Store-bought sprays and traps rarely finish a river-valley pest problem, because the drivers sit outside the reach of a quick pass. You can spray the carpenter ants on the counter all week, but until the moisture that softened the wood is corrected and the nest is found, the colony holds. You can fog for mosquitoes at dusk, but if the floodplain pools and clogged gutters keep breeding new ones, you're mopping with the tap running. And you can trap the mice you see while the unsealed crawlspace quietly admits more. The pests that dominate Northport are moisture-and-access problems, and those take diagnosis and exclusion, not a product off the shelf.
+Store-bought sprays and traps rarely finish a river-valley pest problem, because the drivers sit outside the reach of a quick pass. You can spray the carpenter ants on the counter all week, but until the moisture that softened the wood is corrected and the nest is found, the colony holds. You can fog for mosquitoes at dusk, but if the floodplain pools and clogged gutters keep breeding new ones, you're mopping with the tap running. And you can trap the mice you see while the unsealed crawlspace admits more. The pests that dominate Northport are moisture-and-access problems, and those take diagnosis and exclusion, not a product off the shelf.
 
 ## How BugBoss handles a Northport job
 

@@ -8,7 +8,7 @@ faqs:
   - q: "With this much water, is treatment even worth it?"
     a: "Yes, and the reason is that open water is a poor mosquito nursery. Wind, wave action and fish all work against larvae, so Lake Winnebago is not producing the mosquitoes biting you. What produces is sheltered, weedy, shallow margin water out of the wind — plus everything holding rain on your own lot. That second category is usually larger than owners expect and it is entirely addressable, which is why treatment plus a walk-round works here."
   - q: "What is the difference between the lake shore and the channel?"
-    a: "Exposure, mostly. The Winnebago shore is windy and wave-worked, which suppresses larval habitat except where a sheltered pocket or a weedy bay breaks the wind. The Fox channel moves, and moving water produces nothing. Little Lake Butte des Morts is shallower and has more quiet vegetated edge, so it contributes more per acre than the big lake does. If your lot is on a sheltered weedy edge anywhere in the city, that is the one that matters."
+    a: "Exposure, mostly. The Winnebago shore is windy and wave-worked, which suppresses larval habitat except where a sheltered pocket or a weedy bay breaks the wind. The Fox channel moves, and moving water produces nothing. Little Lake Butte des Morts is shallower and has more sheltered vegetated edge, so it contributes more per acre than the big lake does. If your lot is on a sheltered weedy edge anywhere in the city, that is the one that matters."
   - q: "Do the lake flies have anything to do with this?"
     a: "No, and conflating them wastes money. The midge and mayfly hatches that come off Winnebago in enormous numbers are not mosquitoes, do not bite, and cannot be treated — nothing sprayed on a building affects a hatch coming off open water. Mosquitoes are a genuinely different problem with a genuinely different answer, because they breed in standing water on land and they do respond to source reduction and harborage treatment."
   - q: "I'm on Doty Island. Does that change anything?"
@@ -35,8 +35,8 @@ The channel does not produce either, because it moves and larvae cannot complete
 
 What does produce:
 
-- **Sheltered, weedy, shallow margins** out of the wind — a quiet bay, a vegetated edge, a pocket behind a breakwall
-- **Little Lake Butte des Morts**, which is shallower with more quiet vegetated edge, and so contributes more per acre than the big lake
+- **Sheltered, weedy, shallow margins** out of the wind — a sheltered bay, a vegetated edge, a pocket behind a breakwall
+- **Little Lake Butte des Morts**, which is shallower with more sheltered vegetated edge, and so contributes more per acre than the big lake
 - Everything holding rainwater on your own lot
 
 The last of those is almost always larger than the owner expects.

@@ -67,7 +67,7 @@ At the same time, the **fall invaders** arrive: cluster flies, boxelder bugs, an
 
 ### Winter (November–February): the payoff, and what's inside
 
-By winter the outdoor invasion is done and you're living with what got in. Mice that established a warm nest keep breeding through the cold. A warm winter day heats the wall voids and sends the overwintering flies and beetles back to the windows, which fools people into thinking something new has hatched inside. And for the village's seasonal camps and riverside cabins that sit empty over winter, the closed-up quiet is exactly what rodents want. Winter work in Big Falls is rodent exclusion, cleanup of the fall invaders, and checking the seasonal properties. Our [cabin and seasonal pest control guide](/guides/cabin-seasonal-pest-control/) covers the empty-building problem.
+By winter the outdoor invasion is done and you're living with what got in. Mice that established a warm nest keep breeding through the cold. A warm winter day heats the wall voids and sends the overwintering flies and beetles back to the windows, which fools people into thinking something new has hatched inside. And for the village's seasonal camps and riverside cabins that sit empty over winter, the closed-up emptiness is exactly what rodents want. Winter work in Big Falls is rodent exclusion, cleanup of the fall invaders, and checking the seasonal properties. Our [cabin and seasonal pest control guide](/guides/cabin-seasonal-pest-control/) covers the empty-building problem.
 
 ## Big Falls housing: lumber-era homes and riverside camps
 

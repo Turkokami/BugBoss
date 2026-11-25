@@ -61,7 +61,7 @@ The mistake people make is fighting boxelder bugs indoors in November with a can
 
 ### Winter (November–February): living with what got in
 
-By winter the invasion is done and you're living with whatever established during fall. The boxelder bugs and cluster flies packed into the wall voids stir on a warm January day and gather at the sunniest windows. Mice that found a warm, food-rich nest breed year-round indoors, so a few in November become a full infestation by February if the entry points aren't sealed. Winter along the Embarrass is rodent-cleanup and exclusion season, the quiet stretch to seal the gaps before the river rises and the next fall wave arrives.
+By winter the invasion is done and you're living with whatever established during fall. The boxelder bugs and cluster flies packed into the wall voids stir on a warm January day and gather at the sunniest windows. Mice that found a warm, food-rich nest breed year-round indoors, so a few in November become a full infestation by February if the entry points aren't sealed. Winter along the Embarrass is rodent-cleanup and exclusion season, the slow stretch to seal the gaps before the river rises and the next fall wave arrives.
 
 ## Housing and building stock in the river bottom
 

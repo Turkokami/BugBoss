@@ -14,7 +14,7 @@ faqs:
   - q: "How do I keep clover mites out of the house?"
     a: "The single most effective step is a plant-free strip about 18 to 24 inches wide between the lawn and the foundation — gravel, bare soil, or stone. Clover mites are very reluctant to cross a barren band, and this one change eliminates the majority of the problem on most houses. Pair it with sealing gaps around windows, doors, and siding, avoid heavy nitrogen fertilizer on turf immediately adjacent to the house, and add an exterior perimeter treatment timed to the spring peak where pressure is high."
   - q: "When are clover mites active?"
-    a: "Spring and autumn, with a distinct gap in between. The main peak here runs from roughly March into May, starting as soon as warm sunshine hits south and west walls and often while there is still snow on the shaded side. There is a second, usually smaller peak in September and October. Clover mites are cool-season animals — they become inactive in hot midsummer weather, aestivating as eggs in sheltered spots, and they overwinter as eggs too. So the very hot part of summer and the deep part of winter are both quiet."
+    a: "Spring and autumn, with a distinct gap in between. The main peak here runs from roughly March into May, starting as soon as warm sunshine hits south and west walls and often while there is still snow on the shaded side. There is a second, usually smaller peak in September and October. Clover mites are cool-season animals — they become inactive in hot midsummer weather, aestivating as eggs in sheltered spots, and they overwinter as eggs too. So the very hot part of summer and the deep part of winter are both uneventful."
   - q: "Are clover mites the same as spider mites or chiggers?"
     a: "No, though all three are mites and the confusion is understandable. Clover mites are relatively large as mites go — just visible as a moving red speck — feed on lawn grasses, and never bite. Spider mites are smaller, live on ornamental and garden plants, and produce fine webbing on foliage. Chiggers are larval mites that genuinely do attach to skin and cause intensely itchy welts, and they are picked up in tall grass and brush rather than found crawling on windowsills. If something is biting, it is not a clover mite."
   - q: "Why are they only on one side of my house?"
@@ -65,7 +65,7 @@ They overwinter as eggs, tucked into cracks in bark, soil, siding gaps, and foun
 
 **March through May** is the main event, and it starts earlier than people expect — often while snow is still lying on the shaded side of the house. All it takes is enough sun on a south or west wall to warm it. This spring peak accounts for the great majority of calls.
 
-**Summer** is quiet. Hot weather sends them into egg dormancy and the mites disappear as abruptly as they came.
+**Summer** is uneventful. Hot weather sends them into egg dormancy and the mites disappear as abruptly as they came.
 
 **September and October** brings a second, usually smaller peak as temperatures return to the cool range they prefer.
 

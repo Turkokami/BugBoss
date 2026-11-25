@@ -28,13 +28,13 @@ faqs:
 
 ## A building practically designed for mice
 
-If you set out to design the perfect mouse hotel, you'd end up with something close to a pole barn. A long metal wall meeting a concrete slab, with a gap running the whole way around. Big doors that don't quite seal at the corners. A dry, quiet interior. And — the clincher — bags of feed, seed, and birdseed, a pile of clutter to nest in, and equipment full of cozy voids. Sitting out in the middle of open farm country, it's the first warm shelter a displaced field mouse hits when the ground goes cold.
+If you set out to design the perfect mouse hotel, you'd end up with something close to a pole barn. A long metal wall meeting a concrete slab, with a gap running the whole way around. Big doors that don't quite seal at the corners. A dry, undisturbed interior. And — the clincher — bags of feed, seed, and birdseed, a pile of clutter to nest in, and equipment full of cozy voids. Sitting out in the middle of open farm country, it's the first warm shelter a displaced field mouse hits when the ground goes cold.
 
 So it's no mystery why the pole barn is usually the worst rodent building on a rural property. What matters is understanding *how* the mice get in and what actually stops them, because the hardware-store answer — a few snap traps and a bag of bait — never solves it. This is the outbuilding-specific playbook. For the whole picture on rural rodent work, our [farmhouse rodent exclusion guide](/guides/farmhouse-rodent-exclusion/) is the deep reference, and the [mice pest page](/pest-library/mice/) covers the biology in detail.
 
 ## Why November is the reckoning
 
-The mouse problem has a hard seasonal rhythm, and late fall is when it comes due. Through spring and summer, mice live and breed outdoors in the fields, fencerows, ditches, and grassy edges, and populations build quietly over the warm months. Then, from roughly **September through November**, two things happen at once: the nights turn cold, and harvest strips the fields of both cover and food. The mice have to move, and they move toward warmth and stored food.
+The mouse problem has a hard seasonal rhythm, and late fall is when it comes due. Through spring and summer, mice live and breed outdoors in the fields, fencerows, ditches, and grassy edges, and populations build unnoticed over the warm months. Then, from roughly **September through November**, two things happen at once: the nights turn cold, and harvest strips the fields of both cover and food. The mice have to move, and they move toward warmth and stored food.
 
 A pole barn is the nearest and best target for a lot of them. By November you're seeing the results — droppings along the walls, chewed feed bags, nests in the equipment, the scurrying when you flip the lights on. This isn't a reflection on how clean the building is. It's a migration off the landscape, and your outbuilding is standing in its path. The only question is whether the building is sealed well enough to turn it away.
 
@@ -82,7 +82,7 @@ Sealing a pole barn against mice is methodical work, but the logic is simple. He
 
 **Cut the clutter.** Reduce nesting material and cover, keep stored goods off the floor and away from walls, and clear debris and tall grass from against the building's exterior base, which mice use as a staging area.
 
-**Then monitor.** Set monitoring so you know the sealing is holding and the building's actually clear, not just quiet for a week.
+**Then monitor.** Set monitoring so you know the sealing is holding and the building's actually clear, not just free of activity for a week.
 
 This is the same discipline we bring to the [farmhouses](/guides/farmhouse-rodent-exclusion/) and the [seasonal cabins](/guides/cabin-seasonal-pest-control/) that get hit on the same fall schedule, all of it under our [residential pest control](/residential-pest-control/) work. On a working farm the field pressure never truly stops, so the realistic goal is a well-sealed building plus ongoing awareness — the landscape belongs to the mice, but your barn doesn't have to.
 

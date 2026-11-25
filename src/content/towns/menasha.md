@@ -60,7 +60,7 @@ Our [Wisconsin landlord and tenant pest control](/compliance/landlord-tenant-pes
 The practical advice does not depend on how the responsibility question resolves:
 
 - **Report it in writing immediately**, and keep a copy. Verbal reports vanish.
-- **Do not treat it quietly yourself.** A retail spray scatters the population into the neighboring units and makes the eventual professional job harder and more expensive.
+- **Do not treat it yourself without reporting it.** A retail spray scatters the population into the neighboring units and makes the eventual professional job harder and more expensive.
 - **Do not move furniture or a mattress into another unit, a hallway, or a storage room.** This is the single most reliable way to spread it.
 - **Do not throw out the mattress** before getting advice. An encasement traps what is inside and it dies there, which is cheaper and works better than replacement — and dragging an infested mattress down a shared stairwell seeds the whole building.
 
@@ -91,7 +91,7 @@ The moisture that comes with living near water also drives the basement nuisance
 
 None of the above means we only work on apartment buildings. The postwar single-family neighborhoods away from the water get the ordinary Fox Valley mix — [ants](/residential-pest-control/ant-control/) in spring, [wasps](/residential-pest-control/stinging-insects/) building on eaves and playsets through summer, [mice](/residential-pest-control/rodent-control/) moving in every fall, and [fall invaders](/residential-pest-control/fall-invaders/) on the sunny walls in late September.
 
-The fall invader work in particular is worth timing rather than reacting to: an exterior treatment in **late August or early September**, before the insects mass on the siding, is the difference between a quiet winter and finding ladybugs at the upstairs window in February. Our post on [why bugs turn up indoors in January](/blog/bugs-indoors-in-january/) explains what is actually happening in the wall.
+The fall invader work in particular is worth timing rather than reacting to: an exterior treatment in **late August or early September**, before the insects mass on the siding, is the difference between a pest-free winter and finding ladybugs at the upstairs window in February. Our post on [why bugs turn up indoors in January](/blog/bugs-indoors-in-january/) explains what is actually happening in the wall.
 
 We also do [wildlife removal and exclusion](/wildlife-removal/), which most of the pest companies working the Fox Valley do not — bats, squirrels, and raccoons in a structure, plus the sealing and cleanup that finish the job.
 

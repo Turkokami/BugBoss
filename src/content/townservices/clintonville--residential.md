@@ -42,7 +42,7 @@ The work here runs on a calendar you could set a watch by.
 
 **October and November** is rodents. [Mice](/pest-library/mice/) move in off the fields and the ditches as the nights drop, and they need about a quarter inch. The frost that opened your foundation joints last winter is still open.
 
-**Winter** is mostly quiet, except for the fall invaders waking up on warm days and appearing at the sunny windows. There is nothing to treat at that point — they have been in the wall since September. [Here is what is actually happening](/blog/bugs-indoors-in-january/).
+**Winter** is mostly slow, except for the fall invaders waking up on warm days and appearing at the sunny windows. There is nothing to treat at that point — they have been in the wall since September. [Here is what is actually happening](/blog/bugs-indoors-in-january/).
 
 **Spring** is [carpenter ants](/pest-library/carpenter-ants/), particularly along the Pigeon River and anywhere with mature trees, and the first ant foraging. Large black ants active *indoors* in February or March usually mean a nest inside the structure, because the outdoor colonies are still dormant — which makes it worth investigating rather than waiting out.
 

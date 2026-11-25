@@ -61,7 +61,7 @@ Cluster flies are textbook here: their larvae parasitize earthworms in field and
 
 ### Winter (November–February): what's already inside
 
-By winter the outdoor invasion is over and you're living with whatever got in during fall. Mice that found a warm, feed-rich nest breed year-round indoors, so a handful in November becomes a full infestation by February if the entry points aren't sealed. A warm January day is all it takes to rouse the cluster flies and boxelder bugs holed up in the farmhouse walls; they turn up at the sunniest windows while the barn's mice keep breeding out of sight. Winter is rodent-cleanup and exclusion season, and — being just down the road — the quiet stretch when we can get the sealing done that keeps next fall's wave out.
+By winter the outdoor invasion is over and you're living with whatever got in during fall. Mice that found a warm, feed-rich nest breed year-round indoors, so a handful in November becomes a full infestation by February if the entry points aren't sealed. A warm January day is all it takes to rouse the cluster flies and boxelder bugs holed up in the farmhouse walls; they turn up at the sunniest windows while the barn's mice keep breeding out of sight. Winter is rodent-cleanup and exclusion season, and — being just down the road — the slow stretch when we can get the sealing done that keeps next fall's wave out.
 
 ## The rodent problem is a whole-farmstead problem
 
@@ -107,7 +107,7 @@ Sealing an old farmhouse against rodents and fall invaders is methodical work, a
 
 ## The health stakes around livestock and feed
 
-Rodents on a working farm aren't only a nuisance and an expense; they're a health issue. **Norway rats** around manure, feed, and water can spread leptospirosis and shed salmonella into feed that livestock — and people — then contact. **Deer mice** carry hantavirus, which is why a droppings-laden feed room or granary should never be dry-swept: that aerosolizes the hazard. Rodent contamination of stored feed is also a straight economic loss, spoiling far more than the animals actually eat. And accumulated **bat guano** in a long-used barn can harbor the fungus behind histoplasmosis. We handle removal, exclusion, and contaminated-material cleanup with those risks in view, so a rodent job doesn't quietly become a health exposure.
+Rodents on a working farm aren't only a nuisance and an expense; they're a health issue. **Norway rats** around manure, feed, and water can spread leptospirosis and shed salmonella into feed that livestock — and people — then contact. **Deer mice** carry hantavirus, which is why a droppings-laden feed room or granary should never be dry-swept: that aerosolizes the hazard. Rodent contamination of stored feed is also a straight economic loss, spoiling far more than the animals actually eat. And accumulated **bat guano** in a long-used barn can harbor the fungus behind histoplasmosis. We handle removal, exclusion, and contaminated-material cleanup with those risks in view, so a rodent job doesn't become a health exposure.
 
 ## Why DIY usually falls short on a farm
 

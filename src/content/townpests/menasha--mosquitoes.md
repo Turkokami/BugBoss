@@ -12,7 +12,7 @@ faqs:
   - q: "So where are the mosquitoes coming from?"
     a: "Land, and usually close by. They need standing water that sits undisturbed for several days — which rules out the open lake and the moving channel and rules in your gutters, the tarp on the woodpile, the plant saucers, the wheelbarrow, the tire behind the garage, and the low spot in the yard. Add the sheltered weedy margins where water sits out of the wind. On a typical Menasha lot the controllable share is larger than people assume."
   - q: "Does the channel and the lock system produce them?"
-    a: "The moving water does not. Larvae cannot complete development in current. What matters along the channel is the still edge — quiet vegetated pockets out of the flow, and low ground that holds after the water level changes. Those contribute, most of them are not yours, and that is why treatment on a near-channel lot leans on harborage rather than on source reduction."
+    a: "The moving water does not. Larvae cannot complete development in current. What matters along the channel is the still edge — sheltered vegetated pockets out of the flow, and low ground that holds after the water level changes. Those contribute, most of them are not yours, and that is why treatment on a near-channel lot leans on harborage rather than on source reduction."
   - q: "I'm in a rental or a multi-unit building. Can anything be done?"
     a: "Yes, and the useful part is usually shared ground rather than your unit. Mosquito production on a multi-unit property is in the common areas — the gutters on the whole building, the dumpster surround, the planters, the low corner of the parking area, and whatever is stored behind the building. That makes it a conversation with the owner or manager rather than something a tenant can fix alone. Our landlord and tenant page covers how responsibility works in Wisconsin."
   - q: "Where does the treatment actually go?"
@@ -50,7 +50,7 @@ And the **sheltered weedy margins** nearby where water sits out of the wind. Som
 
 ## The channel and the locks
 
-The moving water produces nothing. The still edges beside it do — quiet vegetated pockets out of the flow, low ground that holds after a level change.
+The moving water produces nothing. The still edges beside it do — sheltered vegetated pockets out of the flow, low ground that holds after a level change.
 
 Most of that is not your property, which is why work on a near-channel lot leans toward **harborage treatment** rather than source reduction.
 

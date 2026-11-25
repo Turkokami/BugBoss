@@ -35,7 +35,7 @@ faqs:
 
 ## What are muskrats, and what makes them a problem here?
 
-A muskrat problem on the water rarely announces itself the way a raccoon in the attic does. There's no noise overhead, no torn soffit, no animal you can point to. Instead the shoreline quietly starts to fail — a soft spot in the lawn near the seawall, a dock post that's leaning a little more each year, a section of bank that caves when you step on it — and by the time it's obvious, a **muskrat** (*Ondatra zibethicus*) has been tunneling into your bank for a season or more, entirely underwater and entirely out of sight. That hidden, structural nature is what makes muskrats a specialized waterfront problem rather than a nuisance you can shrug off.
+A muskrat problem on the water rarely announces itself the way a raccoon in the attic does. There's no noise overhead, no torn soffit, no animal you can point to. Instead the shoreline starts to fail — a soft spot in the lawn near the seawall, a dock post that's leaning a little more each year, a section of bank that caves when you step on it — and by the time it's obvious, a **muskrat** (*Ondatra zibethicus*) has been tunneling into your bank for a season or more, entirely underwater and entirely out of sight. That hidden, structural nature is what makes muskrats a specialized waterfront problem rather than a nuisance you can shrug off.
 
 The muskrat is a semiaquatic rodent, roughly rat-sized at two to five pounds and sixteen to twenty-five inches long counting the tail, with dense, nearly waterproof dark-brown fur, small eyes and ears, short clawed front feet built for digging, and partially webbed hind feet built for swimming. The giveaway, if you get a look at one, is the **tail**: thin, scaly, and flattened side-to-side, so it sculls behind the animal like a rudder rather than trailing flat. That's the fastest way to tell a muskrat from a [beaver](/pest-library/beavers/), which is many times larger and carries a broad, flat, horizontal paddle. The two animals share the same lakes and rivers around here and get confused constantly, but they cause completely different kinds of damage and call for different work.
 
@@ -65,7 +65,7 @@ Muskrats are active **year-round**, including all winter under the ice, which is
 
 **Fall** brings the most obvious surface activity. Muskrats feed heavily and reinforce or extend their dens ahead of winter, so you'll see more swimming, more cut vegetation floating near shore, and more fresh digging. Fall is the ideal window to act, because you can find the active runs while the animals are working them, and get ahead of a winter's worth of under-ice tunneling.
 
-**Winter** looks quiet from the surface, but it isn't. Muskrats stay active beneath the ice all season, and the burrow keeps growing. The risk here is twofold: the damage compounds while you can't see it, and on a dam or steep bank a person or plow can break through a hidden void near the edge.
+**Winter** looks pest-free from the surface, but it isn't. Muskrats stay active beneath the ice all season, and the burrow keeps growing. The risk here is twofold: the damage compounds while you can't see it, and on a dam or steep bank a person or plow can break through a hidden void near the edge.
 
 Around the Chain O' Lakes and the Wolf River corridor specifically, the seasonal-cabin pattern makes this worse. A shoreline that's watched daily in July sits unwatched from October to May, which is exactly the stretch when muskrats do their quietest, most persistent damage. Owners who close up in fall and reopen in spring are the ones most likely to be surprised by a failed bank — see our [cabin and seasonal pest-control guide](/guides/cabin-seasonal-pest-control/) for how the off-season shapes waterfront problems generally.
 
@@ -155,7 +155,7 @@ A shoreline built and maintained this way tends to close out other bank problems
 
 ## When should you call BugBoss about muskrats?
 
-Call as soon as you see the signs — soft or sunken spots in the lawn near the water, a leaning dock post, cut vegetation and slides along the bank, or a cave-in near a seawall or boathouse. Call **before** the next winter if you can, because a muskrat family will spend the ice season quietly enlarging its burrow while nobody's watching, and the difference between a fall call and a spring one can be the difference between removal-and-riprap and a rebuilt shoreline.
+Call as soon as you see the signs — soft or sunken spots in the lawn near the water, a leaning dock post, cut vegetation and slides along the bank, or a cave-in near a seawall or boathouse. Call **before** the next winter if you can, because a muskrat family will spend the ice season enlarging its burrow while nobody's watching, and the difference between a fall call and a spring one can be the difference between removal-and-riprap and a rebuilt shoreline.
 
 Treat any **earthen dam or pond berm** as urgent. A muskrat burrow in an embankment is a seepage path through the structure holding your water back, and it only gets worse. If you see slumping on the upstream face or seepage below the dam, that's a call to make now, and we'll coordinate the warden contact the DNR advises before any bank work begins.
 

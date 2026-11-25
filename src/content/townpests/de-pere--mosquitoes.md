@@ -33,7 +33,7 @@ The Fox channel produces nothing. Larvae cannot develop in current.
 
 What produces is the still water the river creates around itself:
 
-- **The pool above the dam**, where flow slows and the margins go quiet
+- **The pool above the dam**, where flow slows and the margins go still
 - Vegetated edges sheltered from both wind and current
 - Backwater pockets off the main channel
 - Low ground that holds after the river rises and drops
@@ -46,7 +46,7 @@ The river does one other thing: it raises humidity and supplies shade. Neither b
 
 People ask which is worse and the honest answer is that the city boundary is not the variable.
 
-The **East River corridor** adds slow water and a long run of shaded vegetation, so lots near it start higher. Parts of the west side sit further from any slow margin and start lower. But within either half, what actually predicts a bad property is the same three things: distance to a slow-water margin, how much shaded vegetation is on the lot, and how many containers are quietly holding water in the yard.
+The **East River corridor** adds slow water and a long run of shaded vegetation, so lots near it start higher. Parts of the west side sit further from any slow margin and start lower. But within either half, what actually predicts a bad property is the same three things: distance to a slow-water margin, how much shaded vegetation is on the lot, and how many containers are holding water in the yard.
 
 ## Your own lot
 

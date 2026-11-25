@@ -124,7 +124,7 @@ The **structural risk is slow**, and it compounds in three ways.
 
 First, **accumulation**. Each gallery removes a modest amount of wood. Ten years of reuse and extension in the same fascia board removes a lot. Branching galleries running a foot or two through a rafter genuinely reduce its strength.
 
-Second, **water**. An open half-inch hole in horizontal wood admits moisture, and moisture starts rot. The rot then softens the wood, which makes it more attractive to the next generation and to other insects. This is how a carpenter bee problem quietly becomes a wood decay problem.
+Second, **water**. An open half-inch hole in horizontal wood admits moisture, and moisture starts rot. The rot then softens the wood, which makes it more attractive to the next generation and to other insects. This is how a carpenter bee problem becomes a wood decay problem.
 
 Third — and this is the one that actually costs money — **woodpeckers**. Downy and hairy woodpeckers hear the larvae inside and chisel the wood open to get at them. A tidy round hole becomes a ragged trench several inches long, or a series of them down the length of a fascia board. On most jobs I attend, the woodpecker excavation is the expensive part of the repair.
 

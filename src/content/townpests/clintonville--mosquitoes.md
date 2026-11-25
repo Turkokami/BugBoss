@@ -67,6 +67,6 @@ The season runs from sustained spring warmth to the first hard frosts, with the 
 
 ## What we will tell you honestly
 
-That there is a ceiling. A property backing onto a wet field margin or a marshy low area will never be as quiet as a house in the middle of the village, no matter what is applied. We would rather set that expectation in June than have you feel misled in August.
+That there is a ceiling. A property backing onto a wet field margin or a marshy low area will never have as few mosquitoes as a house in the middle of the village, no matter what is applied. We would rather set that expectation in June than have you feel misled in August.
 
 And that if the lot is wooded, **[ticks](/pest-library/ticks/)** are frequently the more consequential problem of the two. They overlap with mosquito work — same yard edge, same treated band — so combining them is efficient. See the [tick and Lyme yard program](/guides/tick-lyme-yard-program/), the [mosquitoes profile](/pest-library/mosquitoes/), and the full [Clintonville service page](/service-area/clintonville/).

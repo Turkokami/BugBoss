@@ -45,7 +45,7 @@ The house mouse is the classic town-and-house mouse. The deer mouse is the **fie
 
 ## How exposure actually happens
 
-The virus lives in the deer mouse's **urine, droppings, and saliva**. People don't get it from a bite or from touching a mouse in passing. They get it by **breathing in aerosolized dust** when dried contamination is disturbed and thrown into the air. Dried droppings crumble into fine particles readily; a nest torn open sends up a cloud; a broom or a vacuum turns a quiet corner of contamination into an airborne hazard in seconds.
+The virus lives in the deer mouse's **urine, droppings, and saliva**. People don't get it from a bite or from touching a mouse in passing. They get it by **breathing in aerosolized dust** when dried contamination is disturbed and thrown into the air. Dried droppings crumble into fine particles readily; a nest torn open sends up a cloud; a broom or a vacuum turns a undisturbed corner of contamination into an airborne hazard in seconds.
 
 That mechanism is the whole key to safety, and it points straight at the rule that governs everything else: **keep it out of the air.** Do that and the risk drops to almost nothing. Fail to do it and you've created the one condition the virus needs.
 
@@ -67,7 +67,7 @@ For a stray dropping or two on an open surface in a ventilated, occupied house, 
 
 ## The rural properties where it actually comes up
 
-Hantavirus risk isn't spread evenly. It concentrates in exactly the buildings and moments that define rural life around here, which is why it's worth flagging for people in Waupaca and Shawano counties specifically. The deer mouse is a woodland and field animal that thrives in the region's woodlots, fencerows, and lake country, and it favors structures that sit quiet — the seasonal cabin, the machine shed, the granary, the pole barn's back corners, the crawlspace under an old farmhouse. Those are the deer mouse's buildings, and they're the ones people clean out seasonally.
+Hantavirus risk isn't spread evenly. It concentrates in exactly the buildings and moments that define rural life around here, which is why it's worth flagging for people in Waupaca and Shawano counties specifically. The deer mouse is a woodland and field animal that thrives in the region's woodlots, fencerows, and lake country, and it favors structures that sit empty — the seasonal cabin, the machine shed, the granary, the pole barn's back corners, the crawlspace under an old farmhouse. Those are the deer mouse's buildings, and they're the ones people clean out seasonally.
 
 The high-risk moments are just as predictable: opening a cabin in spring after it sat closed all winter with mice in it; cleaning out a shed or feed room in the first warm days; pulling apart a nest that turned up in a stored boat, tractor cab, or woodpile; sweeping out a granary before harvest. In each case, months of accumulated, dried contamination meets a broom and poor ventilation. Knowing that the risk clusters in these specific spots and tasks is more than half the battle — it tells you exactly when to slow down and do the cleanup properly instead of on autopilot.
 

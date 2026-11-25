@@ -76,7 +76,7 @@ Cluster flies, mice, and wildlife lead the list, but the east side carries a bro
 
 **Ticks** matter along the river greenway and the wooded edges of the newer east-side subdivisions, where lawns meet cover. Deer ticks carry Lyme disease and wait in the tall grass along those margins, so families with kids and dogs backing onto green space are the ones at risk. A perimeter treatment targets that transition zone.
 
-Downtown De Pere near the dam is a genuine draw — a walkable business district, riverfront events, restaurants and taverns — and warm-weather crowds and food concentrate stinging insects and rodents around venues and the buildings near them. And winter on the east side is mostly about what already got in during fall: **mice** breeding in a warm wall void, and overwintering flies and beetles waking at the windows on a mild day. Sealing in September and October is what keeps the winter quiet, which is why we push fall exclusion instead of chasing individual insects through the cold months.
+Downtown De Pere near the dam is a genuine draw — a walkable business district, riverfront events, restaurants and taverns — and warm-weather crowds and food concentrate stinging insects and rodents around venues and the buildings near them. And winter on the east side is mostly about what already got in during fall: **mice** breeding in a warm wall void, and overwintering flies and beetles waking at the windows on a mild day. Sealing in September and October is what keeps the winter pest-free, which is why we push fall exclusion instead of chasing individual insects through the cold months.
 
 ## Honest positioning and how we work
 

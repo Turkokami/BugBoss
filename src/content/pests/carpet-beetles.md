@@ -1,7 +1,7 @@
 ---
 pest: carpet-beetles
 title: "Carpet Beetles in Northeast Wisconsin: Identification, Biology & Control"
-answer: "Carpet beetles are tiny beetles whose bristly larvae quietly eat wool, fur, feathers, leather, and stored goods. Often mistaken for bed bugs, they thrive in rural homes and cabins on the dead cluster flies, lady beetles, and stink bugs that pile up in attics and wall voids. BugBoss finds the food source, treats it, and clears the harborage."
+answer: "Carpet beetles are tiny beetles whose bristly larvae eat wool, fur, feathers, leather, and stored goods. Often mistaken for bed bugs, they thrive in rural homes and cabins on the dead cluster flies, lady beetles, and stink bugs that pile up in attics and wall voids. BugBoss finds the food source, treats it, and clears the harborage."
 faqs:
   - q: "How do I tell carpet beetles from bed bugs?"
     a: "They are very different once you know what to look for. Bed bugs are flat, reddish-brown, wingless, live near where you sleep, and bite. Carpet beetle adults are tiny rounded beetles often found at windows, and their larvae are small, fuzzy, bristly and carrot- or worm-shaped, found in closets, along carpet edges, and in undisturbed corners. Carpet beetles do not bite, though their larval hairs can irritate skin and get mistaken for bites."
@@ -10,7 +10,7 @@ faqs:
   - q: "Why do I have carpet beetles if my house is clean?"
     a: "Cleanliness is not the issue — a food source is. Carpet beetle larvae thrive on things clean homes still have: a wool rug, a stored winter coat, a down comforter, a taxidermy mount, pet hair under a heat register, or, very commonly in rural Wisconsin, the dead insects that accumulate in attics and wall voids. Adults also fly in from outside to lay eggs. Location and hidden food matter far more than housekeeping."
   - q: "What is the connection between carpet beetles and cluster flies or lady beetles?"
-    a: "It is a big one in our area. Homes and cabins that host fall invaders — cluster flies, Asian lady beetles, boxelder bugs, stink bugs — accumulate large numbers of dead insects in attics and wall voids over the years. Those carcasses are an ideal food supply for carpet beetle larvae. A long-running fall-invader problem quietly breeds a carpet beetle problem, which is why we often find the two together."
+    a: "It is a big one in our area. Homes and cabins that host fall invaders — cluster flies, Asian lady beetles, boxelder bugs, stink bugs — accumulate large numbers of dead insects in attics and wall voids over the years. Those carcasses are an ideal food supply for carpet beetle larvae. A long-running fall-invader problem breeds a carpet beetle problem, which is why we often find the two together."
   - q: "Are carpet beetles dangerous to my health?"
     a: "They do not bite, sting, or transmit disease. The one health issue is that the tiny hairs on the larvae, and shed larval skins, can cause an itchy skin rash or irritation in sensitive people — sometimes mistaken for bed bug bites — and can aggravate allergies or asthma when they build up in dust. The damage they do is to belongings, not to people."
   - q: "How do I know if the damage is carpet beetles and not clothes moths?"
@@ -89,7 +89,7 @@ The most common DIY failure is treating the symptom instead of the source. Someo
 
 The second failure is underestimating the scope. It is tempting to assume the problem is one infested item, deal with that item, and move on. But in older homes and cabins the food is frequently spread across attics, wall voids, ductwork, closets, and nests, and treating one closet while a reservoir of dead insects feeds the population from the attic gets nowhere. Finding the full extent takes knowing where these beetles hide and being willing to get into the attic and the voids, not just the living space.
 
-The third is misidentification, and it cuts both ways: people spend heavily treating for bed bugs when they have carpet beetles, or they dismiss carpet beetles as harmless window beetles while their belongings quietly get eaten. Getting the identification and the source right, up front, is what separates a job that actually ends the problem from months of frustration.
+The third is misidentification, and it cuts both ways: people spend heavily treating for bed bugs when they have carpet beetles, or they dismiss carpet beetles as harmless window beetles while their belongings get eaten. Getting the identification and the source right, up front, is what separates a job that actually ends the problem from months of frustration.
 
 ## How does BugBoss handle carpet beetles?
 

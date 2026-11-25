@@ -2,11 +2,11 @@
 town: kaukauna
 pest: mosquitoes
 title: "Mosquito Control in Kaukauna, WI — the Locks"
-answer: "Kaukauna has the Fox dropping through a run of locks and a stretch of wooded river island inside the city, which gives it more sheltered, shaded, slow-water edge than most Fox Valley towns. The moving river is not breeding mosquitoes. The quiet pools, the island margins and the containers in your own yard are, and two of those three are treatable."
+answer: "Kaukauna has the Fox dropping through a run of locks and a stretch of wooded river island inside the city, which gives it more sheltered, shaded, slow-water edge than most Fox Valley towns. The moving river is not breeding mosquitoes. The sheltered pools, the island margins and the containers in your own yard are, and two of those three are treatable."
 metaDescription: "Mosquito control in Kaukauna, WI — locks turn a fast river into slow pools, and the wooded island corridor supplies the daytime shade. Both are treatable."
 faqs:
   - q: "Do the locks make it worse?"
-    a: "In an indirect way, yes. The locks and the drops break a fast river into a series of slower pools, and slow water with a vegetated edge out of the wind is far better larval habitat than a fast channel. The lock structures themselves are not the issue. It is the quiet, weedy margin they create, and the fact that Kaukauna has more of that per mile of river than a town where the Fox simply runs through."
+    a: "In an indirect way, yes. The locks and the drops break a fast river into a series of slower pools, and slow water with a vegetated edge out of the wind is far better larval habitat than a fast channel. The lock structures themselves are not the issue. It is the sheltered, weedy margin they create, and the fact that Kaukauna has more of that per mile of river than a town where the Fox simply runs through."
   - q: "What about the wooded islands in the river?"
     a: "They are the other half of it. A wooded island corridor supplies dense shade and humid, undisturbed vegetation — which is where adult mosquitoes spend the daylight hours — plus low ground that holds water after the river level moves. Properties backing onto or facing that corridor sit next to a standing reservoir of harborage, and they run noticeably worse than lots a few blocks up the hill. It is also pleasant to live near, which is the trade."
   - q: "Is the river itself producing them?"
@@ -31,7 +31,7 @@ The Fox drops through Kaukauna across a run of **locks**, and that changes the w
 
 A fast channel is poor mosquito habitat — larvae cannot develop in current. But locks and drops break a fast river into a series of **slower pools**, and a slow pool with a weedy margin sheltered from wind is a genuinely good nursery.
 
-The structures are not the problem. The quiet margin they create is, and Kaukauna has more of it per mile of river than a town where the Fox simply runs past.
+The structures are not the problem. The sheltered margin they create is, and Kaukauna has more of it per mile of river than a town where the Fox simply runs past.
 
 ## The island corridor
 

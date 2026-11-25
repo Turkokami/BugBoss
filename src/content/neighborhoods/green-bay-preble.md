@@ -76,7 +76,7 @@ Cluster flies and mice lead the Preble list, but a mixed-era east side carries a
 
 **Ticks** matter on the eastern edges where the newer subdivisions push against woodlots, the East River green space, and old field margins. Deer ticks carry Lyme disease and wait in the tall grass along those edges, so families with kids and dogs backing onto green space are the ones who see them. A perimeter treatment targets the brushy transition where lawn meets cover.
 
-And winter on the east side is mostly about what already got in during fall — **mice** breeding in a warm wall void, and the overwintering flies and beetles waking at the windows on a mild day. Sealing in September is what keeps January quiet, which is why we push exclusion in fall rather than chasing individual bugs all winter.
+And winter on the east side is mostly about what already got in during fall — **mice** breeding in a warm wall void, and the overwintering flies and beetles waking at the windows on a mild day. Sealing in September is what keeps January pest-free, which is why we push exclusion in fall rather than chasing individual bugs all winter.
 
 ## Honest positioning and how we work
 

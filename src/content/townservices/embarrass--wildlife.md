@@ -33,7 +33,7 @@ Here is why. **The most valuable part of a wildlife job is the inspection**, and
 
 The village sits on the **Embarrass River**, ringed by farmsteads and rural property, which gives a fairly predictable cast.
 
-**[Bats](/pest-library/bats/)** — older farmhouses along the river have the deep attics and open soffit runs bats want, and a colony grows quietly for seasons before the numbers become obvious. Squeaking and a dry rustle at dusk from a wall or the peak, staining at an exterior gap, droppings collecting below it.
+**[Bats](/pest-library/bats/)** — older farmhouses along the river have the deep attics and open soffit runs bats want, and a colony grows unnoticed for seasons before the numbers become obvious. Squeaking and a dry rustle at dusk from a wall or the peak, staining at an exterior gap, droppings collecting below it.
 
 **[Raccoons](/pest-library/raccoons/)** — attics, chimneys, outbuildings, and under decks and sheds. Heavy, deliberate movement after dark. Strong, destructive, and between March and June likely to have a litter somewhere behind them.
 

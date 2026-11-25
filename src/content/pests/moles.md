@@ -14,7 +14,7 @@ faqs:
   - q: "What do mole tunnels and mounds look like?"
     a: "Two signatures. Surface feeding tunnels show as raised, spongy ridges snaking across the lawn — you can feel them push up underfoot. Mounds are separate: volcano-shaped or cone-shaped piles of soil pushed up from deeper tunnels, with no visible hole in the center. That volcano mound is the mole tell. Voles, by contrast, leave flat surface trails in the grass, not raised ridges or cone mounds."
   - q: "Are moles active in winter here?"
-    a: "Yes. Moles don't hibernate. When the ground surface freezes they simply move down into deeper permanent tunnels, following the earthworms that also retreat below the frost line, and keep feeding all winter. That's why a lawn can look quiet under snow and then show a fresh network of ridges and mounds the moment it thaws in spring — the moles were there the whole time, just working deeper."
+    a: "Yes. Moles don't hibernate. When the ground surface freezes they simply move down into deeper permanent tunnels, following the earthworms that also retreat below the frost line, and keep feeding all winter. That's why a lawn can look untouched under snow and then show a fresh network of ridges and mounds the moment it thaws in spring — the moles were there the whole time, just working deeper."
   - q: "How many moles are causing all this damage?"
     a: "Usually far fewer than people assume — often just one to a few. Moles are solitary and territorial, and a single animal is a prodigious digger, capable of tunneling a hundred feet or more in a day and maintaining an extensive network alone. So a lawn that looks overrun with tunnels is frequently the work of one or two moles. That's good news: removing a small number of animals genuinely solves it."
   - q: "Do moles bite, spread disease, or hurt my house?"
@@ -59,7 +59,7 @@ It's worth appreciating just how much a single mole can accomplish, because it e
 
 **Spring** is when mole damage becomes glaringly visible. As the ground thaws and softens and earthworms return to the upper soil, moles push their feeding tunnels back up to the surface, and a lawn can seem to erupt with ridges and mounds almost overnight. Spring is also when the year's young disperse into new territory, so fresh activity can appear on lawns that were clear the previous fall. This is the prime window to trap, while the runs are active and near the surface.
 
-**Summer** activity tracks soil moisture. In a wet summer, or on an irrigated lawn, the worms stay near the surface and mole tunneling stays heavy and shallow. In a hot, dry stretch, the worms retreat deeper and the mole follows, so surface ridges may go quiet while the animal keeps working below — the mole is still there, just not visible. Gardens and watered beds stay attractive right through summer.
+**Summer** activity tracks soil moisture. In a wet summer, or on an irrigated lawn, the worms stay near the surface and mole tunneling stays heavy and shallow. In a hot, dry stretch, the worms retreat deeper and the mole follows, so surface ridges may go still while the animal keeps working below — the mole is still there, just not visible. Gardens and watered beds stay attractive right through summer.
 
 **Fall** brings a second surge of surface activity as cooling temperatures and fall rain bring worms back up and the mole feeds hard before winter. Fall is a good time to clear a lawn before the animal settles into the deep tunnels for the season.
 

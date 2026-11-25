@@ -17,7 +17,7 @@ faqs:
   - q: "How do I find the gap?"
     a: "Get inside the coop after dark with the lights off and look for anywhere light shows through. That twenty minutes is the most useful thing you can do, and it produces your entire repair list. Do it from inside rather than outside — gaps read very differently from the dark side. Then check the obvious weak points specifically: under and above doors, where panels meet, around pipe and cable penetrations, knotholes, vents, windows, and anywhere mesh is fastened with staples that may have worked loose."
   - q: "Did my rodent problem have something to do with it?"
-    a: "Very possibly, and it is a pattern worth recognizing. A weasel that moves into a barn or outbuilding hunts the resident mice and voles first, and it is extremely effective at it — people often notice the rodent activity dropping off and are quietly pleased. Once that food source thins, or once the weasel finds the coop, the poultry become the next target. An unexplained end to a mouse problem followed a few weeks later by bird losses is a sequence I have seen many times."
+    a: "Very possibly, and it is a pattern worth recognizing. A weasel that moves into a barn or outbuilding hunts the resident mice and voles first, and it is extremely effective at it — people often notice the rodent activity dropping off and are pleased. Once that food source thins, or once the weasel finds the coop, the poultry become the next target. An unexplained end to a mouse problem followed a few weeks later by bird losses is a sequence I have seen many times."
   - q: "Are weasels dangerous to me or my dog?"
     a: "Not realistically. Weasels and mink are small, wary animals that avoid people and will retreat given any chance. A cornered one will defend itself with determination, which is a good reason never to reach into a space where one is trapped, but they do not seek confrontation. Cats and dogs are generally safe, being much larger than typical prey, though a confrontation can go badly for both animals. The risk here is entirely to poultry and small livestock."
   - q: "Should I just kill it?"
@@ -48,7 +48,7 @@ Winter is the peak. Natural prey is harder to find, weasels range further, they 
 
 4. **Check the outbuildings.** The animal is probably denning in one — hay stacks, stacked lumber, rock piles, and the voids in barns and machine sheds are all favored.
 
-5. **Think about the rodents.** If your mouse problem quietly stopped a few weeks ago, that was probably the same animal, and the rodents are why it is on your property.
+5. **Think about the rodents.** If your mouse problem stopped a few weeks ago, that was probably the same animal, and the rodents are why it is on your property.
 
 6. **Do not reach into any space where a cornered animal might be.**
 

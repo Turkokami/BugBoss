@@ -2,11 +2,11 @@
 town: iola
 pest: bats
 title: "Bat Removal in Iola, WI — Cabins & Cottages"
-answer: "Iola sits in the middle of Chain O' Lakes cabin country, and seasonal cottages are close to ideal bat roosts — quiet, undisturbed, and empty for the months a maternity colony needs. Wisconsin bat exclusion is legally timed around the pup season, so the window matters more here than the method. BugBoss inspects, times the work lawfully, and seals the roofline."
-metaDescription: "Bats in Iola, WI — Chain O’ Lakes cabins are close to ideal roosts: quiet, unoccupied and warm. Wisconsin’s exclusion calendar and what it means for you."
+answer: "Iola sits in the middle of Chain O' Lakes cabin country, and seasonal cottages are close to ideal bat roosts — undisturbed, and empty for the months a maternity colony needs. Wisconsin bat exclusion is legally timed around the pup season, so the window matters more here than the method. BugBoss inspects, times the work lawfully, and seals the roofline."
+metaDescription: "Bats in Iola, WI — Chain O’ Lakes cabins are close to ideal roosts: unoccupied and warm. Wisconsin’s exclusion calendar and what it means for you."
 faqs:
   - q: "Why do cabins around Iola get bats so often?"
-    a: "Because a seasonal property offers exactly what a maternity colony wants: quiet, undisturbed, warm under the roof, and nobody there for months at a stretch. A cabin closed from October and reopened at Memorial Day is unoccupied through the entire period a colony forms and raises pups. Add the wooded lots and water of the Chain O' Lakes region, which support the insects bats feed on, and you have as good a set of conditions as exists in this part of Wisconsin."
+    a: "Because a seasonal property offers exactly what a maternity colony wants: undisturbed, warm under the roof, and nobody there for months at a stretch. A cabin closed from October and reopened at Memorial Day is unoccupied through the entire period a colony forms and raises pups. Add the wooded lots and water of the Chain O' Lakes region, which support the insects bats feed on, and you have as good a set of conditions as exists in this part of Wisconsin."
   - q: "When can bats legally be excluded in Wisconsin?"
     a: "Not during the maternity season, which is the single most important thing to know. Wisconsin bats are protected and exclusion is timed around the period when flightless pups are in the roost — sealing then traps young inside to die in the structure, which is both inhumane and creates a serious odor and insect problem in your cabin. The lawful and practical windows sit either side of that season. Source: Wisconsin Department of Natural Resources bat regulations. Reviewed by Brian Zahringer, WI Commercial Applicator #103689 — August 2026. Check current dates before scheduling."
   - q: "I only opened the cabin in May and found droppings. What now?"
@@ -29,7 +29,7 @@ Iola is a Waupaca County village surrounded by the Chain O' Lakes region and hea
 
 ## Why seasonal property is different
 
-A maternity colony wants somewhere quiet, warm under the roof, undisturbed, and — critically — unoccupied. A cabin closed in October and reopened in late May is empty for the entire period a colony forms, gives birth, and raises pups to flight.
+A maternity colony wants somewhere undisturbed, warm under the roof, undisturbed, and — critically — unoccupied. A cabin closed in October and reopened in late May is empty for the entire period a colony forms, gives birth, and raises pups to flight.
 
 Nobody is there to hear the scratching in June. Nobody notices the staining at the soffit. By the time the owner arrives for the season, the colony has had months of undisturbed use and the attic shows it.
 

@@ -16,7 +16,7 @@ faqs:
   - q: "Does BugBoss remove bats in Wautoma?"
     a: "Yes, legally and humanely. Wisconsin protects its bats, so we honor the DNR maternity-season rule that keeps exits open June 1 through July 31. In Wautoma's older homes and lake cabins we locate the exits, install one-way doors, wait out the colony, then seal and clean up. We never seal bats inside a wall or attic."
   - q: "Are mice a big problem in Wautoma's seasonal homes?"
-    a: "Yes — they're the number-one call from cabin and second-home owners. A house that sits quiet for weeks gives mice time to move in undisturbed, and deer mice out here can carry hantavirus, so cleanup matters. We trap out what's inside, seal the dime-sized gaps they used, and set monitoring so you're not walking into a mess on your next trip."
+    a: "Yes — they're the number-one call from cabin and second-home owners. A house that sits empty for weeks gives mice time to move in undisturbed, and deer mice out here can carry hantavirus, so cleanup matters. We trap out what's inside, seal the dime-sized gaps they used, and set monitoring so you're not walking into a mess on your next trip."
   - q: "Do I need a contract for pest control in Wautoma?"
     a: "No. BugBoss never puts Wautoma customers on a long-term contract and never charges a cancellation fee. Choose a one-time treatment or a seasonal plan and stop whenever you want — which suits seasonal and retirement households especially well. You deal directly with the owner, Brian, not a call center."
   - q: "Does BugBoss handle carpenter ants in Wautoma?"
@@ -45,7 +45,7 @@ Wautoma's sandy soils, open water, and heavy seasonal-home population give the c
 
 ### Spring (April–May): thaw, opening up, and swarmers
 
-As the lakes shed their ice and the sandy ground warms, the seasonal owners start coming back — and a lot of them open the cabin to find what moved in over the winter. Overwintering **cluster flies** and **[boxelder bugs](/pest-library/boxelder-bugs/)** wake in the walls and drift to sunny windows, the survivors of last fall rather than a new wave. Mouse damage from a quiet winter shows up now too, which is why our spring calls out here skew heavily toward seasonal homes.
+As the lakes shed their ice and the sandy ground warms, the seasonal owners start coming back — and a lot of them open the cabin to find what moved in over the winter. Overwintering **cluster flies** and **[boxelder bugs](/pest-library/boxelder-bugs/)** wake in the walls and drift to sunny windows, the survivors of last fall rather than a new wave. Mouse damage from an empty winter shows up now too, which is why our spring calls out here skew heavily toward seasonal homes.
 
 Spring is also **carpenter ant** season, and the lake setting feeds them. Shoreline moisture, shaded decks, and older cabin sills all keep wood damp — exactly what carpenter ants nest in. Winged swarmers appear at windows in April and May; large black ants indoors while it's cold out mean a nest living inside the structure, not just foraging in from a tree. Details are on our [carpenter ants](/pest-library/carpenter-ants/) page. Late spring brings the first **wasp** queens scouting eaves and the first active **ticks** along wooded and stream edges.
 
@@ -69,7 +69,7 @@ Winter is when the seasonal-home problem is at its worst, precisely because no o
 
 Pests exploit specific weaknesses, and Wautoma's mix is unusually varied for a small town.
 
-The **lake cabins and seasonal homes** are the defining stock. Many are older, lightly built, and sit quiet for long stretches — a combination that gives mice, bats, and cluster flies uninterrupted time to establish. Log siding, open soffits, unscreened gable vents, and gaps around utility penetrations are the usual ways in, and the fact that no one is home to notice early is what turns a small problem into a big one. Sealing tight and setting up monitoring is the whole game on these properties.
+The **lake cabins and seasonal homes** are the defining stock. Many are older, lightly built, and sit empty for long stretches — a combination that gives mice, bats, and cluster flies uninterrupted time to establish. Log siding, open soffits, unscreened gable vents, and gaps around utility penetrations are the usual ways in, and the fact that no one is home to notice early is what turns a small problem into a big one. Sealing tight and setting up monitoring is the whole game on these properties.
 
 The **retirement and year-round homes** in and around Wautoma are often the same lake stock converted to full-time living, or modest village homes. They benefit from the same exclusion work, with the added priority that year-round occupancy makes early detection easier if the building is sealed properly.
 

@@ -31,7 +31,7 @@ faqs:
 
 ## Why the mess is half the problem
 
-Getting the bats out is only part of a bat job. The other part is sitting up in the attic: a bed of **guano**, sometimes years deep, soaked into the insulation under an old roost, giving off a sharp ammonia smell and staining the ceiling below. People sometimes assume that once the colony is excluded the problem is over. It isn't — a contaminated attic is a health and building problem in its own right, and left in place it keeps working against you: producing odor, corroding the structure, ruining insulation, drawing secondary pests, and quietly holding a respiratory hazard.
+Getting the bats out is only part of a bat job. The other part is sitting up in the attic: a bed of **guano**, sometimes years deep, soaked into the insulation under an old roost, giving off a sharp ammonia smell and staining the ceiling below. People sometimes assume that once the colony is excluded the problem is over. It isn't — a contaminated attic is a health and building problem in its own right, and left in place it keeps working against you: producing odor, corroding the structure, ruining insulation, drawing secondary pests, and holding a respiratory hazard.
 
 This page is about that second half — the **cleanup and decontamination** that properly closes out a bat problem. It comes *after* the bats are lawfully gone, never before, and it's as much a part of the work as the exclusion itself.
 
@@ -62,7 +62,7 @@ The finished state is the point: an attic that's **clean, dry, odor-free, and se
 
 ## Why our older buildings hold the worst of it
 
-The heaviest guano cleanups in this area come out of the buildings bats favor most: **old dairy barns, century farmhouses, and seasonal cabins**. Barns are classic maternity sites — big, warm under the roof, quiet, full of gaps — and a colony in a hay-mow or gable peak can build guano for years before anyone climbs up to look. Farmhouse attics collect it under long-used roosts at the soffit line and ridge. And cabins around Iola and the Chain O' Lakes sit empty through the very maternity months a colony is active, so owners discover a season's worth of accumulation on a spring visit. The common thread is **time** — rural roosts often run undisturbed for years, which is exactly what turns a bit of guano into a full decontamination.
+The heaviest guano cleanups in this area come out of the buildings bats favor most: **old dairy barns, century farmhouses, and seasonal cabins**. Barns are classic maternity sites — big, warm under the roof, undisturbed, full of gaps — and a colony in a hay-mow or gable peak can build guano for years before anyone climbs up to look. Farmhouse attics collect it under long-used roosts at the soffit line and ridge. And cabins around Iola and the Chain O' Lakes sit empty through the very maternity months a colony is active, so owners discover a season's worth of accumulation on a spring visit. The common thread is **time** — rural roosts often run undisturbed for years, which is exactly what turns a bit of guano into a full decontamination.
 
 ## Sealing and cleanup go together
 

@@ -60,7 +60,7 @@ Once everyone is out, the permanent step: **cap the chimney.**
 
 Removal solves this spring. The **chimney cap** solves every spring after. A cap is a sturdy metal cover with mesh sides that lets smoke and gases out while keeping raccoons, squirrels, birds, rain, and debris out. An uncapped flue is an open invitation, and raccoons return to good den sites — if not the same animal, then next year's female scouting the same great hollow tree. Cap it properly and the chimney stops being available. Skipping the cap is why people deal with this two and three springs running; installing one is why they deal with it once.
 
-A cap earns its keep beyond raccoons, too. The same cover keeps out squirrels, chimney swifts and other birds, and the debris and rain that shorten a flue's life and cause draft and moisture problems. So while the raccoon is what prompts the call, the cap is a permanent upgrade to the chimney regardless — one of those repairs that quietly pays for itself the first time it turns away an animal you never even knew came sniffing around the roof.
+A cap earns its keep beyond raccoons, too. The same cover keeps out squirrels, chimney swifts and other birds, and the debris and rain that shorten a flue's life and cause draft and moisture problems. So while the raccoon is what prompts the call, the cap is a permanent upgrade to the chimney regardless — one of those repairs that pays for itself the first time it turns away an animal you never even knew came sniffing around the roof.
 
 ## Cleanup matters too
 

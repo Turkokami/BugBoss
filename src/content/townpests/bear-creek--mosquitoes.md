@@ -10,7 +10,7 @@ faqs:
   - q: "So what is producing them if not the village?"
     a: "Agricultural drainage, mostly. Field ditches and tile outlets that hold water after rain, the low corner of a field that never dries, stock tanks and the pooled ground around them, tires weighting bunker covers, and equipment left out with cavities in it. None of that is in the village, all of it is within easy flying distance, and most of it is on ground nobody can treat. It is the main reason a place this size sees pressure a larger town might not."
   - q: "Does the creek breed them?"
-    a: "Moving water does not — larvae cannot develop in current. What matters is the still water beside it: the quiet pockets out of the flow, the low ground along the bank that holds after a rise, and anywhere vegetation shelters standing water from wind. Those produce. The creek channel itself does not, and treating it would be both pointless and wrong."
+    a: "Moving water does not — larvae cannot develop in current. What matters is the still water beside it: the sheltered pockets out of the flow, the low ground along the bank that holds after a rise, and anywhere vegetation shelters standing water from wind. Those produce. The creek channel itself does not, and treating it would be both pointless and wrong."
   - q: "What exactly should I check?"
     a: "Start with the gutters — the most common mosquito source in Wisconsin and the one nobody inspects. Then corrugated downspout extensions that hold water in the ribs, a tarp over the woodpile or boat, plant saucers, the wheelbarrow, buckets, bin lids, the birdbath, tires, and the patch of lawn that stays soft for a week after a storm. If the problem goes away after that, you are done."
   - q: "Why does the back of my lot feel so much worse?"
@@ -49,7 +49,7 @@ It is within easy flying distance of the village, it belongs to other people, an
 
 Worth stating because it is the first assumption everybody makes. **Flowing water produces nothing** — larvae cannot complete development in current.
 
-What produces is the still water beside it: quiet pockets out of the flow, low ground along the bank that holds after a rise, anywhere vegetation shelters standing water from the wind.
+What produces is the still water beside it: sheltered pockets out of the flow, low ground along the bank that holds after a rise, anywhere vegetation shelters standing water from the wind.
 
 ## Why the back of the lot is worse
 

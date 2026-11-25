@@ -8,7 +8,7 @@ faqs:
   - q: "Is the millpond the source?"
     a: "Partly, and specifically its edges rather than its middle. Open water with wind across it and fish in it is poor habitat for larvae. The weedy, sheltered margin is a different story — water standing undisturbed among vegetation, out of the wind and out of reach of fish, is close to ideal. So yes, the pond edge contributes, and no, there is nothing anyone should be doing to a public impoundment about it. What it means practically is that properties near the pond carry a raised baseline."
   - q: "What about the Waupaca River itself?"
-    a: "Flowing water produces nothing. Larvae cannot develop in current. What matters along the river is the still water beside it — backwater pockets, the quiet side of a bend, low ground that holds after the river comes up and goes back down. Those do produce, they are mostly not on your land, and that is why river-adjacent treatment here leans on harborage rather than on source reduction."
+    a: "Flowing water produces nothing. Larvae cannot develop in current. What matters along the river is the still water beside it — backwater pockets, the slack side of a bend, low ground that holds after the river comes up and goes back down. Those do produce, they are mostly not on your land, and that is why river-adjacent treatment here leans on harborage rather than on source reduction."
   - q: "Why is the valley worse than the higher ground?"
     a: "Three things stacking. Water collects in the low ground, which supplies breeding sites. Cold air and humidity settle there overnight, which helps adults survive. And the vegetation in a river valley is denser and more shaded, which is where adults spend daylight. A property on the higher ground north or south of the valley will generally be noticeably quieter than one down by the water, and that is topography rather than anything the owner is doing wrong."
   - q: "What should I check on my own property first?"
@@ -37,7 +37,7 @@ It is also public water, and nothing anybody should be treating. What it means f
 
 Flowing water breeds nothing. Larvae cannot complete development in current.
 
-What matters along the **Waupaca** is the still water beside it — backwater pockets, the quiet inside of a bend, and low ground that holds after the river rises and falls. Those produce, they are mostly not on your land, and that is why work on river-adjacent lots leans toward harborage treatment rather than source reduction.
+What matters along the **Waupaca** is the still water beside it — backwater pockets, the slack inside of a bend, and low ground that holds after the river rises and falls. Those produce, they are mostly not on your land, and that is why work on river-adjacent lots leans toward harborage treatment rather than source reduction.
 
 ## Why the valley is worse than the ridge
 

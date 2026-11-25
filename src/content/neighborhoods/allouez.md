@@ -78,7 +78,7 @@ Cluster flies, mice, and wildlife lead the list, but a settled village carries a
 
 **Ticks** matter along the village edges where lawns meet the wooded river greenways of the Fox and East rivers. Deer ticks carry Lyme disease and wait in the tall grass and brush along those margins, so families with kids and dogs backing onto the greenway are the ones at risk. A perimeter treatment targets that transition zone rather than the open lawn.
 
-And winter in Allouez is mostly about what already got in during fall — **mice** breeding in a warm wall void, and the overwintering flies and beetles waking at the windows on a mild day. Sealing in September and October is what keeps the winter quiet, which is why we lean on fall exclusion instead of chasing individual insects through the cold months.
+And winter in Allouez is mostly about what already got in during fall — **mice** breeding in a warm wall void, and the overwintering flies and beetles waking at the windows on a mild day. Sealing in September and October is what keeps the winter pest-free, which is why we lean on fall exclusion instead of chasing individual insects through the cold months.
 
 ## Honest positioning and how we work
 

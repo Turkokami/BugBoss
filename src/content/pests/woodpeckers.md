@@ -67,7 +67,7 @@ Woodpecker pressure on Northeast Wisconsin homes concentrates in two windows, wi
 
 **Spring (April–June)** is the loud season. Territorial **drumming** peaks as males stake out breeding territory — this is when the dawn hammering on the chimney cap and gutters drives people out of bed — and **nest excavation** happens as pairs dig cavities. Damage from spring is a mix of cosmetic scarring on resonant surfaces and cavity damage in soft wood.
 
-**Summer (July–August)** is relatively quiet on the structural front once nesting winds down, though feeding on borers can continue any time the birds detect larvae, and young birds dispersing may test new surfaces.
+**Summer (July–August)** is relatively uneventful on the structural front once nesting winds down, though feeding on borers can continue any time the birds detect larvae, and young birds dispersing may test new surfaces.
 
 **Fall (September–November)** is the second peak. Birds excavate **roost holes** for winter shelter, and feeding activity on wood-borers often intensifies as the birds work harder for food heading into cold weather. Fall damage is easy to overlook because it lacks the noisy drumming of spring, but the excavation does just as much damage.
 

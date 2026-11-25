@@ -25,7 +25,7 @@ faqs:
 
 ## Why there is so much of this work in Clintonville
 
-The village has exactly the housing stock wildlife wants. Century-old homes with deep attics, generous original soffit runs, and rooflines that a hundred Wisconsin winters have quietly opened up. Add mature trees along the Pigeon River giving squirrels a route onto the roof, and farm outbuildings on the edge of town giving everything a place to overwinter, and the result is steady wildlife work in a village of a few thousand people.
+The village has exactly the housing stock wildlife wants. Century-old homes with deep attics, generous original soffit runs, and rooflines that a hundred Wisconsin winters have opened up. Add mature trees along the Pigeon River giving squirrels a route onto the roof, and farm outbuildings on the edge of town giving everything a place to overwinter, and the result is steady wildlife work in a village of a few thousand people.
 
 The other reason is supply. Most pest control companies — including the metro franchises that occasionally route a truck through here — do not do wildlife at all. They will treat insects and rodents and refer an animal in a wall out to somebody else, or to nobody. Out here there frequently is nobody else, which is why BugBoss does both halves.
 

@@ -20,7 +20,7 @@ faqs:
   - q: "How long does it take BugBoss to reach Leopolis?"
     a: "It's a long drive from our Clintonville base, but a routine one for us and far quicker than waiting on a national truck out of Green Bay or the Fox Valley. Call 866-BUGBOSS to check the schedule and today's availability."
   - q: "I have a cabin or hunting property near Leopolis. What should I watch for?"
-    a: "Rodents, mostly. A building closed up between seasons is a quiet place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers it."
+    a: "Rodents, mostly. A building closed up between seasons is an undisturbed place for mice and deer mice to nest, and deer mouse droppings carry a hantavirus risk when disturbed dry. We seal entry points, set up rodent control that works while you're away, and handle the careful cleanup. Our cabin seasonal pest control guide covers it."
   - q: "Do carpenter ants get into Leopolis farmhouses?"
     a: "Often. Older homes with damp sills, small roof leaks, and mature yard trees give carpenter ants the moisture-softened wood they nest in. Seeing big black ants indoors in winter means a nest is living inside the heated structure — a job for locating and treating the nest, not just spraying trails."
   - q: "Does BugBoss do wildlife removal in Leopolis, not just bugs?"

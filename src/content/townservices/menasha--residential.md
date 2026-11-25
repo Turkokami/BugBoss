@@ -44,7 +44,7 @@ Same mechanism for [cockroaches](/pest-library/cockroaches/), and for [mice](/pe
 **What to do if you rent**, regardless of how the responsibility question resolves:
 
 - **Report it in writing immediately** and keep a copy. Verbal reports vanish.
-- **Do not treat it quietly yourself.** A retail spray scatters the population into neighboring units and makes the eventual professional job harder.
+- **Do not treat it yourself without reporting it.** A retail spray scatters the population into neighboring units and makes the eventual professional job harder.
 - **Do not move furniture or a mattress** into another unit, a hallway or a storage room. This is the most reliable way to spread it.
 - **Do not throw out the mattress** before getting advice — an encasement traps what is inside and it dies there, and dragging an infested mattress down a shared stairwell seeds the building.
 

@@ -51,7 +51,7 @@ Spring is prime time for the work on a farm, though: **rodent exclusion before t
 
 Summer on a Symco farm is stinging-insect season. Paper wasps hang nests under eaves and inside open machine sheds, and yellowjackets set up in the ground along field edges and old foundations. By August those colonies are big and defensive — exactly when someone reaches into a shed corner or mows over a ground nest and gets stung. Our [wasp and hornet](/pest-library/wasps-hornets/) calls peak here.
 
-Summer is also when **stored-product pests** get going in warm grain and feed — Indianmeal moths, grain and flour beetles, and weevils in bins, corn cribs, and feed rooms. Warm weather speeds their life cycle, so a problem that was quiet all winter can explode by July.
+Summer is also when **stored-product pests** get going in warm grain and feed — Indianmeal moths, grain and flour beetles, and weevils in bins, corn cribs, and feed rooms. Warm weather speeds their life cycle, so a problem that was dormant all winter can explode by July.
 
 And summer brings the **Union Thresheree**. Any property that draws a crowd and serves food in late July is worth getting ahead of: a pre-event knockdown of wasps and yellowjackets around food service and seating, a rodent check of any building that stores or serves food, and attention to standing water — old tires, troughs, low spots — that breeds [mosquitoes](/pest-library/mosquitoes/). Summer is also the one stretch when we legally **cannot** seal bats out; the DNR maternity window runs June 1 through July 31, and flightless pups are in the roost.
 

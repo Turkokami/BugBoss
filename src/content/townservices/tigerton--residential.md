@@ -29,7 +29,7 @@ Tigerton sits on the **Embarrass River** in Shawano County, ringed by **farmland
 
 The open farmland side delivers **rodents and fall invaders** — the animals and insects that live out in the fields and lawns all summer and come looking for shelter as soon as the nights drop. The woodlot side adds **ticks, carpenter ants and wildlife**. A village home with a field behind it and trees along the drive gets both.
 
-What almost nothing here is caused by: housekeeping. That is worth saying plainly, because it is the thing people quietly worry about, and the two dominant pests in this village have nothing whatever to do with the state of your kitchen.
+What almost nothing here is caused by: housekeeping. That is worth saying plainly, because it is the thing people privately worry about, and the two dominant pests in this village have nothing whatever to do with the state of your kitchen.
 
 ## The two events that define the year
 

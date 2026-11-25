@@ -87,7 +87,7 @@ Because the colony lives in the soil and only visits the structure, killing the 
 
 Indoors, a swarm is unmistakable and alarming: dozens or hundreds of dark winged insects appearing at a window or a light fixture, seemingly from nowhere, followed by a scatter of shed wings. Because it happens in the same weeks that carpenter ants swarm, and because both insects head for windows, the spring swarm is the peak season for misidentification.
 
-**Summer** is quiet feeding season. Nothing visible happens; the colony works.
+**Summer** is a hidden feeding season. Nothing visible happens; the colony works.
 
 **Autumn** brings no second swarm, but it is the best time for inspection, because the soil is workable, the vegetation has died back off the foundation, and anything found can be addressed before winter.
 

@@ -79,7 +79,7 @@ Cluster flies, mice, and wildlife lead the list, but a mixed-era west side carri
 
 **Ticks** matter along the wooded edges where the newer west-side subdivisions push against old field margins and the river greenway. Deer ticks carry Lyme disease and wait in the tall grass along those margins, so families with kids and dogs backing onto green space are the ones at risk. A perimeter treatment targets that transition zone.
 
-The Broadway business district, the restaurants near campus, and the buildings that serve St. Norbert draw the commercial pest pressure that comes with food service and student traffic. And winter on the west side is mostly about what already got in during fall: **mice** breeding in a warm wall void, and overwintering flies and beetles waking at the windows on a mild day. Sealing in September and October is what keeps the winter quiet, which is why we push fall exclusion instead of chasing individual insects through the cold months.
+The Broadway business district, the restaurants near campus, and the buildings that serve St. Norbert draw the commercial pest pressure that comes with food service and student traffic. And winter on the west side is mostly about what already got in during fall: **mice** breeding in a warm wall void, and overwintering flies and beetles waking at the windows on a mild day. Sealing in September and October is what keeps the winter pest-free, which is why we push fall exclusion instead of chasing individual insects through the cold months.
 
 ## Honest positioning and how we work
 

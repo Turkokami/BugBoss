@@ -22,7 +22,7 @@ faqs:
   - q: "Are they good for anything?"
     a: "Considerably, yes, and it is worth weighing. A weasel is one of the most effective rodent predators there is, capable of following mice and voles right into their burrows and tunnels in a way that nothing else on the farm can. A weasel hunting a hay field, a fence line, or a machine shed is doing genuinely valuable work suppressing a rodent population. The conflict is specific and narrow: poultry and small livestock. Where there are no birds to lose, a resident weasel is usually an asset rather than a problem."
   - q: "Why did the rodent problem stop right before I lost birds?"
-    a: "Because the same animal caused both. A weasel that moves into a barn or outbuilding hunts the resident mice and voles first, and it is extremely effective — people often notice the rodent activity dropping off and are quietly pleased about it. Once that food source thins out, or once the weasel discovers the coop, the poultry become the next target. That sequence, an unexplained end to a mouse problem followed a few weeks later by bird losses, is a pattern I have seen many times and it is worth recognizing early."
+    a: "Because the same animal caused both. A weasel that moves into a barn or outbuilding hunts the resident mice and voles first, and it is extremely effective — people often notice the rodent activity dropping off and are pleased about it. Once that food source thins out, or once the weasel discovers the coop, the poultry become the next target. That sequence, an unexplained end to a mouse problem followed a few weeks later by bird losses, is a pattern I have seen many times and it is worth recognizing early."
   - q: "How do I predator-proof a coop properly?"
     a: "Half-inch hardware cloth over every opening, including windows, vents, and any gap above or below a door, fastened with screws and washers rather than staples, which pull out. Skirt the hardware cloth outward about eighteen inches at ground level, or bury it, to defeat digging. Fit doors that latch positively — a simple hook is not enough for a raccoon and a sagging door leaves a gap for a weasel. Then get down with a torch at night and look for light coming through anywhere, because that is your gap list."
   - q: "Will a light or a radio keep them away?"
@@ -117,7 +117,7 @@ The rural corridor is excellent weasel country, and the properties that lose bir
 
 **Any property with a rodent problem**, since that is what attracts them in the first place.
 
-That last point deserves emphasis, because it produces a pattern I have seen many times: someone notices the mouse problem in the barn has quietly stopped, is pleased about it, and loses birds three weeks later. The same animal did both.
+That last point deserves emphasis, because it produces a pattern I have seen many times: someone notices the mouse problem in the barn has stopped, is pleased about it, and loses birds three weeks later. The same animal did both.
 
 ## How do you know you have weasels and mink?
 

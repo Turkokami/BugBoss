@@ -53,7 +53,7 @@ Two consequences follow directly from that, and they shape everything about how 
 
 **They arrive by air.** A flying squirrel does not need a branch touching your roof, a wall to climb, or a route along the ground. It launches from a tall tree within a hundred feet or so and lands on your roof. Trimming branches back — the standard and genuinely useful advice for gray squirrels — helps far less here. You cannot deny a flying squirrel access to your roof. You can only deny it access *through* your roof.
 
-**They are small.** An adult weighs a fraction of what a gray squirrel does and needs an opening around an inch and a half across — about a golf ball. That is why a house with no history of squirrel trouble can quietly host a colony for years. The defects flying squirrels use are the small ones: the corner where a soffit returns into a fascia, a gap behind a gutter, a lifted shingle at a valley, a gable vent with a corner of screen pulled loose, the seam where a dormer meets the main roof.
+**They are small.** An adult weighs a fraction of what a gray squirrel does and needs an opening around an inch and a half across — about a golf ball. That is why a house with no history of squirrel trouble can host a colony for years. The defects flying squirrels use are the small ones: the corner where a soffit returns into a fascia, a gap behind a gutter, a lifted shingle at a valley, a gable vent with a corner of screen pulled loose, the seam where a dormer meets the main roof.
 
 ## Why the colony matters so much
 
@@ -93,7 +93,7 @@ The properties that get them share one feature — **mature trees close to the s
 - Village-edge homes in Clintonville, Marion, Tigerton, and Embarrass where the woods run up close
 - Any building with a complicated roofline — dormers, valleys, multiple soffit returns — near woods
 
-Seasonal properties are especially vulnerable. A cabin sitting empty from October to May is a quiet, undisturbed, well-insulated cavity in the middle of good habitat, and nobody is there to hear the first winter's worth of scampering. Owners routinely arrive in spring to a colony well established and a great deal of soiled insulation.
+Seasonal properties are especially vulnerable. A cabin sitting empty from October to May is a undisturbed, well-insulated cavity in the middle of good habitat, and nobody is there to hear the first winter's worth of scampering. Owners routinely arrive in spring to a colony well established and a great deal of soiled insulation.
 
 ## Signs of a flying squirrel colony
 

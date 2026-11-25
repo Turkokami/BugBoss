@@ -6,7 +6,7 @@ category: "Seasonal"
 order: 4
 faqs:
   - q: "Why do empty cabins get more pests than lived-in homes?"
-    a: "Because nobody's there to notice and interrupt them. A year-round home gets doors opened, lights turned on, and problems caught early. A cabin sits dark and quiet for months, so mice nest undisturbed, cluster flies pack into the walls, bats settle into the attic, and wasps build under the eaves without anyone knowing until the owner walks in. Vacancy itself is the biggest risk factor."
+    a: "Because nobody's there to notice and interrupt them. A year-round home gets doors opened, lights turned on, and problems caught early. A cabin sits dark and empty for months, so mice nest undisturbed, cluster flies pack into the walls, bats settle into the attic, and wasps build under the eaves without anyone knowing until the owner walks in. Vacancy itself is the biggest risk factor."
   - q: "How do I mouse-proof a cabin left empty over winter?"
     a: "Seal the entry points first — mice get through quarter-inch gaps around utility lines, under doors, and through log and foundation gaps. Then remove the food: take out all pantry items, store any remaining food in sealed metal containers, and clean up crumbs. Set traps before you leave as a monitor, strip beds or store bedding in totes, and leave interior doors open so you can inspect easily in spring."
   - q: "What pests are worst in Chain O' Lakes cabins?"
@@ -18,13 +18,13 @@ faqs:
   - q: "Why do I find dead flies all over my cabin in spring?"
     a: "Those are cluster flies that entered the walls and attic the previous fall to overwinter. On warm days they wake, move toward light and windows, and many die on the sills and floors, especially in a closed-up cabin where they can't escape. Finding piles of them in spring means the building has entry points that need sealing and an exterior treatment the following fall to break the cycle."
   - q: "Are bats common in lake cabins, and can I remove them?"
-    a: "Very common — cabin attics are quiet, undisturbed roost sites, which is exactly what bats want. But Wisconsin protects all its cave bats, so removal has to be humane exclusion, and it's illegal to restrict their exits from June 1 through July 31, the heart of cabin season. If you find bats in summer, we inspect and plan the exclusion, then execute it before or after that window."
+    a: "Very common — cabin attics are undisturbed roost sites, which is exactly what bats want. But Wisconsin protects all its cave bats, so removal has to be humane exclusion, and it's illegal to restrict their exits from June 1 through July 31, the heart of cabin season. If you find bats in summer, we inspect and plan the exclusion, then execute it before or after that window."
   - q: "Do I need pest service if I'm only at the cabin a few weekends a year?"
     a: "That's exactly when you need it most. The less you're there, the longer any problem goes unnoticed and the worse it gets before you find it. A seasonal owner who's on-site rarely can't rely on catching things early, so the defense has to be built into the building through sealing and a fall closing treatment rather than reacting to what you happen to see."
   - q: "Will boxelder bugs and ladybugs damage my lake home?"
     a: "No structural damage, but they're a nuisance in lake homes because the sunny, water-facing walls are prime gathering spots. They mass on those walls in fall, work into the wall voids, and reappear on warm days, staining surfaces and collecting on sills. In a cabin used mainly in summer you may not see the fall gathering, but you'll find the mess when you open up. Exterior treatment and sealing are the fix."
   - q: "How do wasps get into a cabin nobody's using?"
-    a: "Queens looking for nest sites don't care whether anyone's home. In spring they scout the quiet eaves, soffits, and wall voids of an empty cabin and start colonies that grow all summer undisturbed. By the time the owner arrives, a paper wasp or yellowjacket nest can be well established under a deck, in a soffit, or inside a wall. Empty buildings are ideal because there's no disturbance."
+    a: "Queens looking for nest sites don't care whether anyone's home. In spring they scout the unused eaves, soffits, and wall voids of an empty cabin and start colonies that grow all summer undisturbed. By the time the owner arrives, a paper wasp or yellowjacket nest can be well established under a deck, in a soffit, or inside a wall. Empty buildings are ideal because there's no disturbance."
   - q: "What should I take out of the cabin when I close it for winter?"
     a: "All food, including pantry staples, canned goods a mouse could reach, pet food, and birdseed, or move it into sealed metal containers. Strip beds and store linens in sealed totes, empty and clean the pantry and cupboards, take out the garbage, and clear away anything organic. Removing food and nesting material makes the closed cabin far less attractive to mice even before you account for sealing."
   - q: "Can BugBoss service a cabin when I'm not there?"
@@ -32,7 +32,7 @@ faqs:
   - q: "Why is a local company better for a seasonal property?"
     a: "Because seasonal work depends on being nearby and responsive on the property's schedule, not a national route. A local company can time closing and opening service to your season, get out quickly when a neighbor reports a problem, and handle both pest and wildlife under one roof — bats, raccoons, and squirrels included. National brands dispatch from a distance, want contracts, and generally don't do the wildlife side that cabins need."
   - q: "How do animals like raccoons and squirrels get into cabins?"
-    a: "Through the roofline weaknesses that develop on a building nobody's maintaining daily: torn or gapped soffits, uncapped chimneys, rotted fascia, and gaps where the roof meets a dormer. Raccoons, especially females looking for a den in spring, and squirrels will enlarge a small gap into an entrance and settle into a quiet attic. A closed cabin gives them exactly the undisturbed space they want."
+    a: "Through the roofline weaknesses that develop on a building nobody's maintaining daily: torn or gapped soffits, uncapped chimneys, rotted fascia, and gaps where the roof meets a dormer. Raccoons, especially females looking for a den in spring, and squirrels will enlarge a small gap into an entrance and settle into an empty attic. A closed cabin gives them exactly the undisturbed space they want."
   - q: "Does a seasonal cabin program require a contract?"
     a: "No. BugBoss never uses long-term contracts. Seasonal owners can schedule closing service in fall and opening service in spring, add treatments as needed, and decide each year whether to continue. You deal directly with the owner, which matters when you're managing a property from a distance and need a straight answer from someone who knows your building."
 ---
@@ -49,7 +49,7 @@ BugBoss The X-Terminator works seasonal and cabin properties throughout the Chai
 
 It's worth being precise about why an empty building is such a magnet, because it reframes the whole strategy.
 
-Pests exploit **quiet, stable, undisturbed space**. A mouse wants a nest site nobody bothers. A bat wants a roost that's dark and still. A wasp queen wants eaves where nothing swats at her. Cluster flies want a wall void that stays undisturbed all winter. Every one of those is describing a closed-up cabin. Human presence — footsteps, opening and closing doors, lights, vibration, ordinary activity — is itself a deterrent, and a seasonal property loses that deterrent for most of the year.
+Pests exploit **stable, undisturbed space**. A mouse wants a nest site nobody bothers. A bat wants a roost that's dark and still. A wasp queen wants eaves where nothing swats at her. Cluster flies want a wall void that stays undisturbed all winter. Every one of those is describing a closed-up cabin. Human presence — footsteps, opening and closing doors, lights, vibration, ordinary activity — is itself a deterrent, and a seasonal property loses that deterrent for most of the year.
 
 The other half of the problem is **time**. In an occupied home, a pest problem gets perhaps days or weeks before someone notices and acts. In a cabin, it can get **six or eight months**. A couple of mice that got in around Labor Day become an entrenched, breeding population by the time you open up over Memorial Day weekend. A small wasp nest becomes a huge one. A little bat activity becomes an established maternity colony with a season's worth of guano in the attic. The pests aren't necessarily worse at a cabin — they just get an uninterrupted head start.
 
@@ -73,7 +73,7 @@ Cluster flies are practically a defining feature of lake cabins. The wooded, law
 
 ### Bats
 
-Cabin attics are prime bat real estate — quiet, undisturbed, undisturbed some more, exactly what a maternity colony wants. And here the seasonal calendar collides with the law. Wisconsin protects all its cave bats, and the DNR prohibits restricting bat exits **June 1 through July 31**, which is the very heart of cabin season. So the owner who discovers bats over the Fourth of July can't legally have them sealed out right then. The right move is to have the colony inspected and the exclusion planned, then executed in the legal window — spring before June 1 or, more commonly, from August into fall after the cabin closes. Our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) lays out the full process, and it's the same one we run on cabins.
+Cabin attics are prime bat real estate: dark, warm and left undisturbed for months, which is exactly what a maternity colony wants. And here the seasonal calendar collides with the law. Wisconsin protects all its cave bats, and the DNR prohibits restricting bat exits **June 1 through July 31**, which is the very heart of cabin season. So the owner who discovers bats over the Fourth of July can't legally have them sealed out right then. The right move is to have the colony inspected and the exclusion planned, then executed in the legal window — spring before June 1 or, more commonly, from August into fall after the cabin closes. Our [Wisconsin bat exclusion law guide](/guides/wisconsin-bat-exclusion-law/) lays out the full process, and it's the same one we run on cabins.
 
 ### Wasps and hornets
 
@@ -81,7 +81,7 @@ An empty cabin is ideal for [wasps and hornets](/pest-library/wasps-hornets/). Q
 
 ### Raccoons and squirrels
 
-The bigger animals get in through roofline weaknesses that develop on a building nobody's maintaining daily — torn or gapped soffits, an uncapped chimney, rotted fascia, gaps where a roof meets a dormer. [Raccoons](/pest-library/raccoons/), especially females denning in spring, and [squirrels](/pest-library/squirrels/) will settle into a quiet cabin attic and cause damage and contamination. Like bats, they're a wildlife-exclusion job: get the animal out, then seal the building so the next one can't move in.
+The bigger animals get in through roofline weaknesses that develop on a building nobody's maintaining daily — torn or gapped soffits, an uncapped chimney, rotted fascia, gaps where a roof meets a dormer. [Raccoons](/pest-library/raccoons/), especially females denning in spring, and [squirrels](/pest-library/squirrels/) will settle into an empty cabin attic and cause damage and contamination. Like bats, they're a wildlife-exclusion job: get the animal out, then seal the building so the next one can't move in.
 
 ### Ants, and the moisture that brings them
 
@@ -91,9 +91,9 @@ Cabins are prone to [carpenter ants](/pest-library/carpenter-ants/) for a specif
 
 Pest pressure at a cabin follows the year, and lining it up with the property's occupancy shows why the closing-and-opening rhythm works.
 
-**Spring (opening).** You arrive to the aftermath of winter: mouse droppings and possibly a nest, piles of dead cluster flies on the sills, and the first wasp queens starting to scout the eaves. This is the moment for careful, protected cleanup — not a dry broom — and a full inspection for anything that got established, including bats or squirrels that may have moved into the attic over the quiet months.
+**Spring (opening).** You arrive to the aftermath of winter: mouse droppings and possibly a nest, piles of dead cluster flies on the sills, and the first wasp queens starting to scout the eaves. This is the moment for careful, protected cleanup — not a dry broom — and a full inspection for anything that got established, including bats or squirrels that may have moved into the attic over the off-season.
 
-**Summer (in use).** The season you're actually there. Wasp and hornet colonies grow under decks and in soffits and become the main nuisance; mosquitoes and [ticks](/pest-library/ticks/) come off the water, the woods, and the tall grass at the lawn's edge, which matters for a property built around being outdoors; and this is the maternity window when bats can't be excluded even if you find them. It's also, quietly, the best time to plan the fall exterior treatment.
+**Summer (in use).** The season you're actually there. Wasp and hornet colonies grow under decks and in soffits and become the main nuisance; mosquitoes and [ticks](/pest-library/ticks/) come off the water, the woods, and the tall grass at the lawn's edge, which matters for a property built around being outdoors; and this is the maternity window when bats can't be excluded even if you find them. It's also the best time to plan the fall exterior treatment.
 
 **Fall (closing).** The critical window. Fall invaders mass on the sunny lake-facing walls, mice make their push indoors as the nights cool, and this is when the exterior treatment and the sealing have to happen — while the insects are still outside and before the cabin goes dark for the winter. What you seal and treat now defends the building through the whole off-season.
 

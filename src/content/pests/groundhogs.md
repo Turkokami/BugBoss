@@ -55,7 +55,7 @@ Woodchucks are **strict herbivores** and **diurnal** — active by day, especial
 
 ## When are groundhogs active in Northeast Wisconsin?
 
-**Early spring** is the wake-up. As woodchucks come out of hibernation in March and April, they're hungry and breeding, and this is when burrow activity and the first garden damage appear. A burrow that was quiet all winter under your deck suddenly has a fresh mound of dirt beside it.
+**Early spring** is the wake-up. As woodchucks come out of hibernation in March and April, they're hungry and breeding, and this is when burrow activity and the first garden damage appear. A burrow that was dormant all winter under your deck suddenly has a fresh mound of dirt beside it.
 
 **Late spring and early summer** hold the young. From the litter's birth into early summer, a burrow under a structure may house a mother and several kits, so removal in this window has to account for dependent young rather than sealing them in.
 
@@ -63,7 +63,7 @@ Woodchucks are **strict herbivores** and **diurnal** — active by day, especial
 
 **Fall** is the run-up to hibernation: a last push of feeding, then the animals go down around October. A woodchuck that has spent the summer under your slab will hibernate right there, and an undisturbed winter burrow is the seed of next spring's problem.
 
-**Winter** is quiet — the animal is hibernating deep in the burrow — but the tunnel system under your structure is still doing its slow damage to the soil, and it's still an open invitation to other ground-denning animals looking for winter shelter.
+**Winter** is uneventful — the animal is hibernating deep in the burrow — but the tunnel system under your structure is still doing its slow damage to the soil, and it's still an open invitation to other ground-denning animals looking for winter shelter.
 
 Around Clintonville and the surrounding towns, the vulnerability is the combination of gardens, field edges, and structures. Older village homes with decks and stoops, rural properties with sheds and pole barns on grade, and farms with slab floors, granaries, and machine sheds all offer the sheltered, solid-roofed burrow site a woodchuck prefers, and the region's gardens and crop edges supply the food.
 

@@ -25,7 +25,7 @@ faqs:
   - q: "Will sealing the kitchen mean tearing into my walls?"
     a: "Almost never. The entry points are on the building shell — the exterior and the basement or crawlspace — not inside finished walls, so sealing is done from those accessible areas. We're closing the gaps that let mice into the wall system in the first place, not opening up your kitchen. Cleanup inside is surface work."
   - q: "How long until the mice are actually gone?"
-    a: "Once we've knocked down the population with trapping and sealed the entry points, activity drops off quickly — usually within a couple of weeks you stop hearing and finding new signs. We follow up to confirm the traps have gone quiet. The sealing is what makes it stay gone; without it, they'd refill by the next fall."
+    a: "Once we've knocked down the population with trapping and sealed the entry points, activity drops off quickly — usually within a couple of weeks you stop hearing and finding new signs. We follow up to confirm the traps have stopped catching. The sealing is what makes it stay gone; without it, they'd refill by the next fall."
   - q: "Does BugBoss require a contract to handle mice in a home?"
     a: "No. No long-term contracts and no cancellation fees, and you deal with Brian, the owner, directly. We do the trapping and the exclusion, confirm it worked, and you decide whether you want any seasonal follow-up. You're never signed into a recurring plan to get the problem solved."
 ---
@@ -72,7 +72,7 @@ And skip the ultrasonic plug-ins. Mice habituate to the sound within days and ne
 
 We start by inspecting the whole shell, inside and out — foundation and sill plate, every pipe and wire penetration, exterior doors and the garage, vents, the basement or crawlspace — and we read the interior signs to trace the runways back toward where the mice are entering. Rub marks and dropping trails map the route; they lead somewhere, and that somewhere is the target.
 
-Then we knock down the active population with a proper trapping setup placed on the runways, and we **seal the entry points** — from the accessible exterior and basement side, not by tearing into your finished kitchen walls. The gaps that matter are on the building shell, so that's where the work happens. We handle the surface cleanup of contaminated areas, and we follow up to confirm the traps have gone quiet and nothing new is getting in. If the inspection turns up something bigger — squirrels in the attic, bats, a raccoon — we handle that under [wildlife removal](/wildlife-removal/), since we do both sides.
+Then we knock down the active population with a proper trapping setup placed on the runways, and we **seal the entry points** — from the accessible exterior and basement side, not by tearing into your finished kitchen walls. The gaps that matter are on the building shell, so that's where the work happens. We handle the surface cleanup of contaminated areas, and we follow up to confirm the traps have stopped catching and nothing new is getting in. If the inspection turns up something bigger — squirrels in the attic, bats, a raccoon — we handle that under [wildlife removal](/wildlife-removal/), since we do both sides.
 
 ## Keeping the kitchen clear
 

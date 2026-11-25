@@ -87,9 +87,9 @@ Populations build over several seasons in a favorable spot, which is why the pro
 
 **Spring** produces a smaller, quieter movement as animals come out of overwintering, occasionally noticeable during a wet melt.
 
-**Summer** is quiet at the building. The population is out there breeding and growing, which is what sets up the autumn.
+**Summer** is uneventful at the building. The population is out there breeding and growing, which is what sets up the autumn.
 
-**Winter** is quiet outdoors. Millipedes overwinter in soil and litter below the frost line. Indoor sightings in midwinter usually mean a damp crawlspace or basement sustaining them, which is a moisture finding worth acting on.
+**Winter** is uneventful outdoors. Millipedes overwinter in soil and litter below the frost line. Indoor sightings in midwinter usually mean a damp crawlspace or basement sustaining them, which is a moisture finding worth acting on.
 
 ## Where do millipedes come from around here?
 

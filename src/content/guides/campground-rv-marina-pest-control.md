@@ -16,7 +16,7 @@ faqs:
   - q: "We rent cabins — how do we keep bed bugs out?"
     a: "Bed bugs are the nightmare scenario for any lodging operation, and they arrive with guests, not with dirt. The defense is proactive: routine inspection of rental cabins between guests, knowing what early evidence looks like, and fast professional response at the first sign so an infestation doesn't spread cabin to cabin. Catching one early is a contained treatment; missing it becomes a property-wide problem and a reputation hit."
   - q: "What about rodents in cabins and buildings that sit empty all winter?"
-    a: "Seasonal structures are rodent magnets. An empty cabin or bathhouse over the Wisconsin winter is a warm, quiet, undisturbed shelter, and mice move in through gaps as small as a dime, nesting in mattresses, cabinets, and stored linens and leaving droppings and damage for spring opening. The fix is fall exclusion and baiting before you close up, plus a spring check, so you're not opening cabins to a mess in May."
+    a: "Seasonal structures are rodent magnets. An empty cabin or bathhouse over the Wisconsin winter is a warm, undisturbed shelter, and mice move in through gaps as small as a dime, nesting in mattresses, cabinets, and stored linens and leaving droppings and damage for spring opening. The fix is fall exclusion and baiting before you close up, plus a spring check, so you're not opening cabins to a mess in May."
   - q: "Do you protect stored boats, RVs, and equipment?"
     a: "Yes. Stored watercraft, campers, and equipment are prime overwintering harborage — mice nest in engine compartments and upholstery and chew wiring, and wasps and other insects move into stored gear. Sealing, exclusion, and rodent management around storage areas and the equipment itself prevent the expensive chewed-wiring and nest damage that shows up when you pull things out in spring."
   - q: "Are ticks a problem at campgrounds too?"
@@ -53,7 +53,7 @@ The approach has two halves. The first is **source reduction** — mosquitoes br
 
 The one non-negotiable in this setting is **water.** A marina or lakeside campground sits right on sensitive water, and product application near water carries specific label restrictions. This is a place where a local company that knows the rules and the terrain is genuinely safer than a national truck running a standard script. You can read more on the [mosquitoes](/pest-library/mosquitoes/) page.
 
-## Ticks: the quiet risk in the woods
+## Ticks: the hidden risk in the woods
 
 Right alongside mosquitoes, the wooded and brushy terrain that campgrounds occupy is prime **blacklegged (deer) tick** habitat, and Wisconsin is one of the highest-risk states in the country for Lyme disease. Ticks live in the edge habitat — where mowed areas meet woods, in tall grass and leaf litter, along trails — which on a campground is everywhere guests walk. Managing them means treating the edges of the used zones (sites, trails, gathering and play areas), keeping grass and brush cut back, and maintaining the dry, sunny buffer between used areas and the woods that ticks are reluctant to cross. It pairs naturally with the mosquito program, and it's covered in depth in our [tick and Lyme yard program guide](/guides/tick-lyme-yard-program/) and on the [ticks](/pest-library/ticks/) page.
 
@@ -77,7 +77,7 @@ BugBoss inspects, confirms, and treats thoroughly with follow-up, and can set up
 
 ## Rodents in seasonal structures: the empty-cabin problem
 
-Here's the pest challenge unique to seasonal operations, and the one owners most often underestimate. A cabin, bathhouse, camp store, or office that sits **empty through the Wisconsin winter** is exactly what a mouse is looking for — warm relative to outdoors, quiet, undisturbed, and stocked with soft nesting material in the form of mattresses, linens, upholstery, and stored supplies. [Mice](/pest-library/mice/) enter through gaps as small as a dime, and over four or five months of undisturbed winter they nest, breed, and foul the place with droppings and urine. Then you open in spring to chewed mattresses, contaminated cabinets, and a cleanup nobody wants.
+Here's the pest challenge unique to seasonal operations, and the one owners most often underestimate. A cabin, bathhouse, camp store, or office that sits **empty through the Wisconsin winter** is exactly what a mouse is looking for — warm relative to outdoors, undisturbed, and stocked with soft nesting material in the form of mattresses, linens, upholstery, and stored supplies. [Mice](/pest-library/mice/) enter through gaps as small as a dime, and over four or five months of undisturbed winter they nest, breed, and foul the place with droppings and urine. Then you open in spring to chewed mattresses, contaminated cabinets, and a cleanup nobody wants.
 
 The fix is timing. Before you close up in fall, **exclusion and baiting** — sealing the entry points, setting up interior and exterior rodent stations, and cutting off the harborage — keeps the buildings from becoming winter rodent hotels. A **spring check** confirms nothing got in and clears anything that did before guests arrive. Doing this on a schedule is far cheaper than the alternative of gutting and re-outfitting a cabin every May.
 

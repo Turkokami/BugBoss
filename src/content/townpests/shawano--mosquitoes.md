@@ -64,7 +64,7 @@ On a lake lot the shaded margin is often between the house and the water, which 
 
 ## The ceiling, stated up front
 
-A lot backing onto marsh will never be as quiet as one in the middle of the city, and no treatment changes that. Dawn and dusk will be worse there than elsewhere regardless of what anyone applies.
+A lot backing onto marsh will never have as few mosquitoes as one in the middle of the city, and no treatment changes that. Dawn and dusk will be worse there than elsewhere regardless of what anyone applies.
 
 We would rather say so in May than have you feel misled in August. What we can usually deliver on a Shawano lake property is a yard that is comfortable through the evening instead of one you abandon — and if that is not achievable on your specific lot, we will tell you before taking the job.
 

@@ -84,7 +84,7 @@ Pests do not treat a factory as one space, and neither should a program. Each fu
 
 **The production floor.** In a dry manufacturing process the floor itself is low-attraction, but the openings that serve it are not — trench and floor drains, pits, wire chases, and the expansion joints in a concrete slab all give insects and rodents harborage and travel routes. In wet or washdown processes, add standing water and organic film in drains, which breed small flies. Interior work here is monitoring and crack-and-crevice, coordinated around the line.
 
-**Maintenance shops and MRO storage.** Maintenance areas are quiet, cluttered, and full of cardboard, rags, and dead corners — ideal rodent harborage that most facilities overlook. The parts and MRO storeroom, with its stacked cartons and low traffic, is a classic mouse nesting spot. These zones get monitoring devices and a hard look at housekeeping.
+**Maintenance shops and MRO storage.** Maintenance areas are rarely disturbed, cluttered, and full of cardboard, rags, and dead corners — ideal rodent harborage that most facilities overlook. The parts and MRO storeroom, with its stacked cartons and low traffic, is a classic mouse nesting spot. These zones get monitoring devices and a hard look at housekeeping.
 
 **Boiler and mechanical rooms.** Warm, humid, and connected to the rest of the building by pipe chases, mechanical rooms are where overwintering pests and rodents concentrate in a Wisconsin winter, and where penetrations between rooms need sealing.
 

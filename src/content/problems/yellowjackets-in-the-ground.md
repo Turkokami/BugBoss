@@ -21,7 +21,7 @@ faqs:
   - q: "What attracts yellowjackets to nest in my yard?"
     a: "Two things mainly: available underground cavities and a food supply. Old rodent burrows, gaps under stumps, sheds, walkways, and retaining walls give a founding queen a ready-made nest site. Later in summer, garbage, fallen fruit, pet food, and sugary drinks draw scavenging workers and keep a colony well fed. Rural yards bordered by fields and woods offer plenty of both, which is why ground nests are common out here."
   - q: "Is it a yellowjacket nest or a solitary bee?"
-    a: "Worth checking before you treat. Ground-nesting solitary bees — like mining bees — make small individual holes in bare soil in spring, are gentle, rarely sting, and are valuable pollinators; each hole is one bee doing its own thing. A yellowjacket nest is one busy entrance with heavy shared traffic in and out all season, and the wasps are defensive. If it's a scatter of quiet little holes in spring, leave it; it's bees."
+    a: "Worth checking before you treat. Ground-nesting solitary bees — like mining bees — make small individual holes in bare soil in spring, are gentle, rarely sting, and are valuable pollinators; each hole is one bee doing its own thing. A yellowjacket nest is one busy entrance with heavy shared traffic in and out all season, and the wasps are defensive. If it's a scatter of little holes with no traffic in spring, leave it; it's bees."
   - q: "Can I just wait for frost to kill it?"
     a: "The colony does die at hard frost on its own, so a nest far out in a back corner where no one goes can sometimes be left alone until then. But a ground nest anywhere near the house, the lawn you mow, the garden, a walkway, or where kids and pets play is too much of a hazard to wait out through August and September. The risk of an accidental disturbance is the deciding factor, not the calendar."
   - q: "Does BugBoss treat ground nests on farms and large properties?"
@@ -50,7 +50,7 @@ Two things make that response serious. First, unlike a honeybee, a **yellowjacke
 
 Rural yards out here practically invite ground nests, for two reasons that feed each other. First, **cavities are everywhere**. Properties bordered by fields, fencerows, woodlots, and ditches are full of the old rodent burrows yellowjackets colonize, plus gaps under sheds, stumps, walkways, retaining walls, and outbuilding slabs. A founding queen shopping for a nest site in spring has endless options. Second, there's **food**. From midsummer on, yellowjackets scavenge sugars and protein — garbage, compost, fallen fruit from a yard tree, pet food left outside, spilled feed near a barn, sugary drinks at a cookout. A yard that offers both nest cavities and an easy food supply supports big colonies, and rural properties tend to offer plenty of both.
 
-The seasonal shape matters too. The colony builds quietly through June and July and reaches **peak size and peak aggression in August and September** — right when the late-summer calendar of graduation parties, weddings, and cookouts brings people out into the yard. That overlap is why late summer is peak call season for ground nests.
+The seasonal shape matters too. The colony builds unnoticed through June and July and reaches **peak size and peak aggression in August and September** — right when the late-summer calendar of graduation parties, weddings, and cookouts brings people out into the yard. That overlap is why late summer is peak call season for ground nests.
 
 ## Why the DIY home remedies are a bad idea
 

@@ -84,7 +84,7 @@ export const commercialAudit: Record<string, AuditRow[]> = {
   'property-management': [
     { area: 'Scope of the last treatment', checks: 'Whether the units beside, above and below a reported unit were inspected — or only the unit that complained. This is where most multi-unit jobs fail.' },
     { area: 'Shared walls, chases and hallways', checks: 'The routes bed bugs, cockroaches and rodents use to move between units, and whether any of them have been sealed.' },
-    { area: 'Common areas and mechanical rooms', checks: 'Boiler and laundry rooms, refuse rooms and storage — the reservoir that quietly reseeds the units.' },
+    { area: 'Common areas and mechanical rooms', checks: 'Boiler and laundry rooms, refuse rooms and storage — the reservoir that reseeds the units.' },
     { area: 'Access and unit preparation', checks: 'Whether units were prepared and access obtained. One un-entered unit is enough to keep a building job running for a year.' },
     { area: 'The record across units', checks: 'Findings unit by unit over time, which is what shows a recurring source unit or a spreading front rather than a run of unrelated complaints.' },
   ],
