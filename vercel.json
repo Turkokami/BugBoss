@@ -315,6 +315,21 @@
       "permanent": true
     },
     {
+      "source": "/feed",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/feed/atom",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/feed/rss2",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
       "source": "/fitness-facility",
       "destination": "/commercial-pest-control/offices/",
       "permanent": true
@@ -487,6 +502,11 @@
     {
       "source": "/holiday-pest-proofing-safe-family-friendly-tips",
       "destination": "/blog/bugs-indoors-in-january/",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
       "permanent": true
     },
     {
@@ -1277,6 +1297,11 @@
     {
       "source": "/woodpeckers",
       "destination": "/pest-library/woodpeckers/",
+      "permanent": true
+    },
+    {
+      "source": "/:path((?!_vercel/|\\.well-known/)(?:[^/]+/)*[^/.]+)",
+      "destination": "/:path/",
       "permanent": true
     }
   ],

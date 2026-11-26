@@ -298,6 +298,9 @@ for (const file of [...walk('src/content', '.md'), ...walk('src/pages', '.astro'
 try {
   const cfg = JSON.parse(readFileSync('vercel.json', 'utf8'));
   for (const r of cfg.redirects ?? []) {
+    // The last rule is a pattern ("/:path" -> "/:path/") that adds the trailing
+    // slash to any URL no legacy rule caught; it has no single target to check.
+    if (r.destination.includes(':')) continue;
     if (!existingPaths.has(r.destination)) {
       fail('vercel.json', 'redirect-target-missing', `${r.source} -> ${r.destination}`);
     }
